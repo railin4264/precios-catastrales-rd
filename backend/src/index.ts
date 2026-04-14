@@ -14,6 +14,9 @@ dotenv.config();
 
 const app = express();
 
+// Trust proxy is required for express-rate-limit to work correctly in Railway/cloud environments
+app.set('trust proxy', 1);
+
 const PORT = process.env.PORT || 4000;
 
 // CORS — allow configured frontend URL or fallback for local dev
