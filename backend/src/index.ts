@@ -19,7 +19,7 @@ app.set('trust proxy', 1);
 
 const PORT = process.env.PORT || 4000;
 
-// CORS — allow configured frontend URL or fallback for local dev
+// CORS — allow configured frontend URL, Railway subdomains, or fallback for local dev
 const allowedOrigins = [
   process.env.FRONTEND_URL || 'http://localhost:3000',
   'http://localhost:3000',
@@ -27,11 +27,21 @@ const allowedOrigins = [
   'http://127.0.0.1:3000',
   'http://127.0.0.1:3001',
 ];
+
 app.use(cors({
   origin: (origin, callback) => {
     // Allow requests with no origin (e.g. curl, Postman, server-to-server)
     if (!origin) return callback(null, true);
-    if (allowedOrigins.includes(origin)) return callback(null, true);
+    
+    // Check if origin is in the allowed list OR is a Railway subdomain
+    const isAllowed = allowedOrigins.includes(origin);
+    const isRailwaySubdomain = origin.endsWith('.up.railway.app');
+
+    if (isAllowed || isRailwaySubdomain) {
+      return callback(null, true);
+    }
+    
+    console.warn(`[CORS Blocked]: Origin ${origin} not in allowed list.`);
     return callback(new Error(`CORS: Origin ${origin} not allowed`));
   },
   credentials: true,
