@@ -14,7 +14,7 @@
     "framer-motion": "^11.2.6",
     "leaflet": "^1.9.4",
     "lucide-react": "^0.378.0",
-    "next": "^14.2.35",
+    "next": "14.2.35",
     "react": "^18",
     "react-dom": "^18",
     "react-leaflet": "^4.2.1",

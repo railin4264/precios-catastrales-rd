@@ -119,9 +119,9 @@ export default function Dashboard() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6 mb-10">
           {stats.map((stat, i) => (
             <motion.div 
-              initial={{ opacity: 0, y: 10 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ delay: i * 0.1 }}
+              initial={{ opacity: 0, scale: 0.95 }}
+              animate={{ opacity: 1, scale: 1 }}
+              transition={{ delay: i * 0.05 }}
               key={i} 
               className="bg-white p-6 rounded-[2rem] shadow-sm border border-slate-100"
             >
@@ -165,7 +165,7 @@ export default function Dashboard() {
                     </div>
                     <div className="truncate">
                       <p className="font-bold text-slate-800 text-sm truncate">{key.name}</p>
-                      <p className="text-xs text-slate-400 font-mono">{key.key.substring(0, 10)}****************</p>
+                      <p className="text-xs text-slate-400 font-mono">{key.key?.substring(0, 10) || 'N/A'}****************</p>
                     </div>
                   </div>
                   <button 
