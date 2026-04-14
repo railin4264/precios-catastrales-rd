@@ -77,6 +77,7 @@ export default function ResultCard({ item, idx }: { item: any; idx: number }) {
   const [valLoading, setValLoading] = useState(false);
   const [coords, setCoords] = useState(() => getInitialCoords(item));
   const [m2, setM2] = useState<number>(0);
+  const [calcOverride, setCalcOverride] = useState<{ price: number; name: string } | null>(null);
 
   // Handle location update from map
   const handleLocationChange = (lat: number, lng: number) => {
@@ -218,7 +219,7 @@ export default function ResultCard({ item, idx }: { item: any; idx: number }) {
         </div>
 
         {/* CALCULATOR SECTION */}
-        <div className="mb-8 p-8 bg-slate-900 rounded-[2.5rem] text-white relative overflow-hidden shadow-2xl shadow-blue-900/20">
+        <div id={`calc-${item.id}`} className="mb-8 p-8 bg-slate-900 rounded-[2.5rem] text-white relative overflow-hidden shadow-2xl shadow-blue-900/20">
           <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl -mr-32 -mt-32"></div>
           <div className="relative z-10 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
             <div>
@@ -277,13 +278,30 @@ export default function ResultCard({ item, idx }: { item: any; idx: number }) {
                   animate={{ scale: 1, color: '#ffffff' }}
                   className="text-5xl md:text-6xl font-black tracking-tighter"
                 >
-                  {((valuation?.projectedValue || item.valorPromedio || 0) * m2).toLocaleString(undefined, { maximumFractionDigits: 0 })}
+                <motion.span 
+                  key={`${m2}-${calcOverride?.price}`}
+                  initial={{ scale: 1.1, color: '#60a5fa' }}
+                  animate={{ scale: 1, color: '#ffffff' }}
+                  className="text-5xl md:text-6xl font-black tracking-tighter"
+                >
+                  {((calcOverride?.price || valuation?.projectedValue || item.valorPromedio || 0) * m2).toLocaleString(undefined, { maximumFractionDigits: 0 })}
                 </motion.span>
               </div>
-              <div className="px-4 py-1.5 bg-blue-500/10 border border-blue-500/20 rounded-full">
-                <p className="text-[10px] font-bold text-blue-300">
-                  Basado en: {valuation ? 'Valor Proyectado IA' : 'Valor Oficial'} (RD$ {(valuation?.projectedValue || item.valorPromedio || 0).toLocaleString()} / m²)
-                </p>
+              <div className="flex flex-col items-center gap-2">
+                <div className="px-4 py-1.5 bg-blue-500/10 border border-blue-500/20 rounded-full">
+                  <p className="text-[10px] font-bold text-blue-300">
+                    Basado en: {calcOverride ? `Sub-sector: ${calcOverride.name}` : (valuation ? 'Valor Proyectado IA' : 'Valor Oficial')} 
+                    (RD$ {(calcOverride?.price || valuation?.projectedValue || item.valorPromedio || 0).toLocaleString()} / m²)
+                  </p>
+                </div>
+                {calcOverride && (
+                  <button 
+                    onClick={() => setCalcOverride(null)}
+                    className="text-[9px] font-black text-blue-400/60 hover:text-blue-400 uppercase tracking-widest transition"
+                  >
+                    Restablecer a Valor General
+                  </button>
+                )}
               </div>
             </div>
           </div>
@@ -362,9 +380,26 @@ export default function ResultCard({ item, idx }: { item: any; idx: number }) {
                         (item.subsectores && item.subsectores.length > 0 ? item.subsectores : item.parajes).map((sub: any, i: number) => (
                           <div key={i} className="flex justify-between items-center p-3 hover:bg-white rounded-xl transition group">
                             <span className="text-slate-600 font-medium group-hover:text-slate-900 transition">{sub.nombre}</span>
-                            <div className="flex items-center gap-1 group-hover:scale-105 transition origin-right">
-                              <span className="text-[10px] font-bold text-slate-400">RD$</span>
-                              <span className="text-lg font-black text-primary">{sub.valor ? sub.valor.toLocaleString() : '---'}</span>
+                            <div className="flex items-center gap-4 group-hover:scale-105 transition origin-right">
+                              <div className="flex flex-col items-end">
+                                <div className="flex items-center gap-1">
+                                  <span className="text-[10px] font-bold text-slate-400">RD$</span>
+                                  <span className="text-lg font-black text-primary">{sub.valor ? sub.valor.toLocaleString() : '---'}</span>
+                                </div>
+                              </div>
+                              {sub.valor && (
+                                <button 
+                                  onClick={() => {
+                                    setCalcOverride({ price: sub.valor, name: sub.nombre });
+                                    setM2(m2 || 100); // Default to something if 0
+                                    // Scroll to calculator
+                                    document.getElementById(`calc-${item.id}`)?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                                  }}
+                                  className="px-3 py-1.5 bg-blue-50 text-blue-600 text-[10px] font-black uppercase tracking-widest rounded-lg border border-blue-100 hover:bg-blue-600 hover:text-white transition-all shadow-sm"
+                                >
+                                  Calcular
+                                </button>
+                              )}
                             </div>
                           </div>
                         ))
