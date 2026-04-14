@@ -1,0 +1,882 @@
+[
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "01",
+    "sector": "PARQUE MIRADOR DEL NORTE",
+    "valor_promedio": null,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida Mirador Norte",
+      "este": "Avenida Mirador Norte y avenida Hermanas Mirabal",
+      "sur": "Río Isabela",
+      "oeste": "Avenida Presidente Jacobo Majluta"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Mirador Norte (desde avenida Presidente Jacobo Majluta hasta entrada de Alto del parque)", "valor": null},
+      {"nombre": "Avenida Mirador Norte (desde entrada de Alto del Parque hasta Av. Hermanas Mirabal)", "valor": null},
+      {"nombre": "Av. Hermanas Mirabal (desde río Isabela hasta avenida Mirador Norte)", "valor": null},
+      {"nombre": "Avenida Presidente Jacobo Majluta (desde río Isabela hasta avenida Mirador Norte)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "02",
+    "sector": "MIRADOR NORTE",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Urb. Altos del Parque", "valor": null},
+      {"nombre": "Urb. Cerros del Norte", "valor": null},
+      {"nombre": "Urb. Colinas del Arroyo II", "valor": null},
+      {"nombre": "Urb. Las Palmeras", "valor": null},
+      {"nombre": "Urb. Vista de Arroyo Hondo", "valor": null},
+      {"nombre": "Colina del Arroyo", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida Presidente Jacobo Majluta y avenida Principal",
+      "este": "Avenida Principal y Arroyo Yaguasa",
+      "sur": "Avenida Mirador Norte",
+      "oeste": "Avenida Presidente Jacobo Majluta"
+    },
+    "vias_principales": [
+      {"nombre": "Ave. Mirador Norte (desde Av. Presidente Jacobo Majluta hasta Arroyo Yaguasa)", "valor": 4000},
+      {"nombre": "Av. Principal (desde Av. Presidente Jacobo Majluta hasta Av. Emma Balaguer)", "valor": 4000},
+      {"nombre": "Av. Presidente Jacobo Majluta (desde Av. Mirador Norte hasta Av. Presidente Guzmán)", "valor": null},
+      {"nombre": "Av. Presidente Jacobo Majluta (desde Av. Presidente Guzmán hasta Av. Emma Balaguer)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "03",
+    "sector": "CIUDAD MODELO MIRADOR NORTE",
+    "valor_promedio": 6500,
+    "subsectores": [
+      {"nombre": "Dorado III", "valor": null},
+      {"nombre": "Los Casabes", "valor": null},
+      {"nombre": "Res. Cohisa XIII", "valor": null},
+      {"nombre": "Res. El Jubileo", "valor": null},
+      {"nombre": "Res. Las veredas", "valor": null},
+      {"nombre": "Res. Miravalles", "valor": null},
+      {"nombre": "Res. Villas del Lago", "valor": null},
+      {"nombre": "Res. Villas del Parque", "valor": null},
+      {"nombre": "Res. Villas del Parque I, II y III", "valor": null},
+      {"nombre": "Res. Villa España", "valor": null},
+      {"nombre": "Res. Stephanie Marie II", "valor": null},
+      {"nombre": "Roalva", "valor": null},
+      {"nombre": "Urb. Eugenio María de Hostos", "valor": null},
+      {"nombre": "26 de Enero", "valor": null},
+      {"nombre": "Res. Ciudad Bonita", "valor": null}
+    ],
+    "limites": {
+      "norte": "Arroyo Yaguasa",
+      "este": "Arroyo Yaguasa",
+      "sur": "Av. Sánchez, Av. Principal y Av. Jacobo Majluta",
+      "oeste": "Carretera del Vertedero de Duquesa y Camino a Mata San Juan"
+    },
+    "vias_principales": [
+      {"nombre": "Av. Presidente Jacobo Majluta (desde Av. Emma Balaguer hasta Carretera del Vertedero de Duquesa)", "valor": 9000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "04",
+    "sector": "GUARICANO",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Bo. Los Prados", "valor": 1500},
+      {"nombre": "Bo. Norte", "valor": 1500},
+      {"nombre": "Nueva Isabela", "valor": 1500},
+      {"nombre": "Res. Las Rosas", "valor": 1500},
+      {"nombre": "Los Cuernos", "valor": 1000},
+      {"nombre": "Batey Estrella", "valor": 1300},
+      {"nombre": "Bo. Brisa del Norte", "valor": 1500},
+      {"nombre": "Bo. Centro", "valor": 2000},
+      {"nombre": "Bo. Hermanas Mirabal", "valor": 2000},
+      {"nombre": "Bo. La Mina", "valor": 1000},
+      {"nombre": "Bo. Mirador Norte", "valor": 1500},
+      {"nombre": "Bo. Nuevo", "valor": 1500},
+      {"nombre": "Bo. Peña Gomez", "valor": 1500},
+      {"nombre": "Bo. Ponce", "valor": 1500},
+      {"nombre": "Bo. Ponce Adentro", "valor": 1500},
+      {"nombre": "Colinas del Arroyo", "valor": 1000},
+      {"nombre": "Colinas del Arroyo", "valor": 4000}
+    ],
+    "limites": {
+      "norte": "Av. Sanchez",
+      "este": "Arroyo Yaguasa y Av. Emma Balaguer",
+      "sur": "Arroyo Yaguasa y Carretera Guaricamo",
+      "oeste": "Prolongacion y Juan de Pena Valdez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Principal (desde avenida Sanchez hasta arroyo Yaguasa)", "valor": 3000},
+      {"nombre": "Avenida Emma Balaguer (desde Av. Sanchez hasta Arroyo Yaguasa)", "valor": 3000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "05",
+    "sector": "COLONIA DE LOS DOCTORES",
+    "valor_promedio": 4000,
+    "subsectores": [
+      {"nombre": "Bo. El Tamarindo", "valor": 1500},
+      {"nombre": "Bo. Moscu", "valor": 1500},
+      {"nombre": "Bo. Nuevo", "valor": 1500},
+      {"nombre": "Casa Vieja", "valor": 1500},
+      {"nombre": "El Dorado II", "valor": 4000},
+      {"nombre": "El Fundo", "valor": 1500},
+      {"nombre": "Mirador Isabela", "valor": 4000},
+      {"nombre": "Res. La Rosa", "valor": 1200},
+      {"nombre": "Urb. Primaveral", "valor": 4000},
+      {"nombre": "Urb. Santa Rosa", "valor": 1500},
+      {"nombre": "Colina del Arroyo I", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Av. Jacobo Majluta",
+      "este": "Av. Hermanas Mirabal",
+      "sur": "Ave Hermanas Mirabal, Av Emma Balaguer y entrada a Guaricamo",
+      "oeste": "Arroyo Yaguasa"
+    },
+    "vias_principales": [
+      {"nombre": "Av. Hermanas Mirabal (desde Av. Jacobo Majluta hasta Av. Emma Balaguer)", "valor": null},
+      {"nombre": "Av. Jacobo Majluta (desde Av. Hermanas Mirabal hasta Arroyo Yaguasa)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "06",
+    "sector": "PASEO DEL PARQUE",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Cacique II", "valor": 1500},
+      {"nombre": "Los Conucos", "valor": 1500},
+      {"nombre": "Los Trinitarios II", "valor": 1000},
+      {"nombre": "Res. Villa Marina", "valor": 3000},
+      {"nombre": "Bo. Roberto Suriel", "valor": 2500},
+      {"nombre": "Urb. Santa Cruz", "valor": 2500},
+      {"nombre": "Vista del Parque", "valor": 5000},
+      {"nombre": "Paseo del Parque", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida Emma Balaguer",
+      "este": "Avenida Hermanas Mirabal",
+      "sur": "Avenida Mirador Norte",
+      "oeste": "Avenida Mirador Norte y arroyo Yaguasa"
+    },
+    "vias_principales": [
+      {"nombre": "Av. Emma Balaguer (desde Av. Hermanas Mirabal hasta arroyo Yaguasa)", "valor": 4000},
+      {"nombre": "Av. Hermanas Mirabal (desde Av. Emma Balaguer hasta Av. Mirador Norte)", "valor": 6000},
+      {"nombre": "Av. Mirador Norte (desde Av. Hermanas Mirabal hasta arroyo Yaguasa)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "07",
+    "sector": "SANTA CRUZ DE VILLA MELLA",
+    "valor_promedio": 5000,
+    "subsectores": [
+      {"nombre": "Bo. Las Malvinas", "valor": 1000},
+      {"nombre": "Campamento Militar (El Polvorín)", "valor": null},
+      {"nombre": "Cerros de Buena Vista I", "valor": 4000},
+      {"nombre": "El Torito (Cachiman)", "valor": 2000},
+      {"nombre": "Res. Cocalito", "valor": 5000},
+      {"nombre": "Res. Sol de Luz", "valor": 5000},
+      {"nombre": "Urb. Máximo Gómez", "valor": 5000},
+      {"nombre": "Zona Franca Industrial Villa Mella", "valor": 3000},
+      {"nombre": "Zona Franca Industrial La Isabela", "valor": 4000},
+      {"nombre": "Altos de Sol de Luz", "valor": 4000},
+      {"nombre": "Urb. Radiante", "valor": 4000}
+    ],
+    "limites": {
+      "norte": "Av. Hermanas Mirabal y Av Penetración",
+      "este": "Calle Penetración a Buena Vista I",
+      "sur": "Río Ozama y río Isabela",
+      "oeste": "Av. Hermanas Mirabal"
+    },
+    "vias_principales": [
+      {"nombre": "Av. Hermanas Mirabal (desde Av. Emma Balaguer hasta Calle Penetración (Cerros de Buena Vista I))", "valor": null},
+      {"nombre": "Av. Hermanas Mirabal (desde Av. Emma Balaguer hasta Av. Mirador Norte)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "08",
+    "sector": "BUENA VISTA",
+    "valor_promedio": 12000,
+    "subsectores": [
+      {"nombre": "Bo. Ceuta Centro", "valor": null},
+      {"nombre": "Ceuta al Medio", "valor": null},
+      {"nombre": "Ceuta Abajo", "valor": null},
+      {"nombre": "Cerros de Buena Vista I", "valor": null},
+      {"nombre": "Cerros de Buena Vista II", "valor": null},
+      {"nombre": "Colinas del Edén I", "valor": null},
+      {"nombre": "Colinas del Edén II", "valor": null},
+      {"nombre": "Colinas del Edén III", "valor": null},
+      {"nombre": "Cruz Grande", "valor": null},
+      {"nombre": "El Edén", "valor": null},
+      {"nombre": "El Edén II", "valor": null},
+      {"nombre": "El Morro", "valor": null},
+      {"nombre": "Jardines de Buena Vista", "valor": null},
+      {"nombre": "La Antena", "valor": null},
+      {"nombre": "Los Naranjos", "valor": null},
+      {"nombre": "Rep. Rudima", "valor": null},
+      {"nombre": "Res. El Paso", "valor": null},
+      {"nombre": "Res. Las Palmeras", "valor": null},
+      {"nombre": "Urb. Hermanas Mirabal", "valor": null},
+      {"nombre": "Urb. Radiante", "valor": null},
+      {"nombre": "Villa Hermosa", "valor": null},
+      {"nombre": "Villa Laura", "valor": null}
+    ],
+    "limites": {
+      "norte": "Av. Hermanas Mirabal y Av. Los Restauradores",
+      "este": "Carretera Río Ozama-La Javilla-Cruz Grande",
+      "sur": "Río Ozama y avenida Penetración",
+      "oeste": "Calle Penetración y Av. Hermanas Mirabal"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Hermanas Mirabal (desde Calle Penetración hasta Av. Los Restauradores)", "valor": 15500}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "09",
+    "sector": "SABANA PERDIDA",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Altagracia II", "valor": 2000},
+      {"nombre": "Sabana Centro", "valor": 3000},
+      {"nombre": "Altos de Sabana Perdida", "valor": 2500},
+      {"nombre": "Bo. Barceló", "valor": 1500},
+      {"nombre": "Bo. 2 de Enero ó Los Mosquitos", "valor": 1000},
+      {"nombre": "El Encantado", "valor": 1000},
+      {"nombre": "Bo. Nuevo Horizonte", "valor": 1000},
+      {"nombre": "Cerros de Sabana Perdida", "valor": 1500},
+      {"nombre": "Colinas del Ozama", "valor": 2000},
+      {"nombre": "Costa Linda", "valor": 1500},
+      {"nombre": "El Cachón", "valor": 1000},
+      {"nombre": "Ens. Cristal", "valor": 1000},
+      {"nombre": "Invi", "valor": 1500},
+      {"nombre": "La Nueva Barquita", "valor": 1500},
+      {"nombre": "La Javilla", "valor": 1500},
+      {"nombre": "Res. Elio Franco", "valor": 2000},
+      {"nombre": "Res. Monte Rey", "valor": 2000},
+      {"nombre": "Urb. Cerros del Paraíso", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Rio Yuca",
+      "este": "Río Ozama y Río Yuca",
+      "sur": "Río Ozama",
+      "oeste": "Carretera La Javilla-Cruz Grande"
+    },
+    "vias_principales": [
+      {"nombre": "Av. Los Restauradores (desde carretera de Cruz Grande hasta calle Héctor J. Díaz)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "10",
+    "sector": "SALOME UREÑA DE HENRIQUEZ",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Bello Amanecer", "valor": 1500},
+      {"nombre": "Enriquillo", "valor": 2000},
+      {"nombre": "Lotería", "valor": 1500},
+      {"nombre": "Los Coordinadores", "valor": 1000},
+      {"nombre": "Savica", "valor": 1000},
+      {"nombre": "Villa Blanca", "valor": 1500},
+      {"nombre": "Villa Blanca II", "valor": 1500},
+      {"nombre": "Sarah Gabriela I y II", "valor": 1500},
+      {"nombre": "Villa Progreso", "valor": 1500}
+    ],
+    "limites": {
+      "norte": "Avenida Charles de Gaulle",
+      "este": "Río Ozama",
+      "sur": "Río Ozama",
+      "oeste": "Calle Héctor J. Días y Av. Los Restauradores"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Los Restauradores (desde río Ozama hasta calle Héctor J. Díaz)", "valor": 4000},
+      {"nombre": "Avenida Charles de Gaulle (desde calle Héctor J. Díaz a La Victoria hasta río Ozama)", "valor": 4000},
+      {"nombre": "Calle Héctor J. Díaz (desde avenida Los Restauradores hasta Av. Charles de Gaulle)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "11",
+    "sector": "LOTES Y SERVICIOS",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Barrio Nuevo", "valor": null},
+      {"nombre": "Brisas del Este", "valor": null},
+      {"nombre": "El Majagual", "valor": null},
+      {"nombre": "El Milloncito I", "valor": null},
+      {"nombre": "El Milloncito II", "valor": null},
+      {"nombre": "Los Cerros del Yuca", "valor": null},
+      {"nombre": "Res. Elsa Patricia", "valor": null},
+      {"nombre": "Villa Esperanza I y II", "valor": null},
+      {"nombre": "Villa Pompa 600", "valor": null}
+    ],
+    "limites": {
+      "norte": "Arroyo Yuca",
+      "este": "Arroyo Yuca",
+      "sur": "Avenida Charles de Gaulle",
+      "oeste": "Carretera a La Victoria"
+    },
+    "vias_principales": [
+      {"nombre": "Av. Charles de Gaulle (desde río Ozama hasta carretera a La Victoria)", "valor": null},
+      {"nombre": "Carretera a La Victoria (desde Av. Charles de Gaulle hasta Arroyo Yuca)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "12",
+    "sector": "LA COLINA",
+    "valor_promedio": 1000,
+    "subsectores": [
+      {"nombre": "Altos de Chavón", "valor": 1000},
+      {"nombre": "Bo. El Pino", "valor": 1000},
+      {"nombre": "Brisas de los Palmares", "valor": 2000},
+      {"nombre": "Colgate Palmolive (Planta Marañón)", "valor": 1500},
+      {"nombre": "Colinas del Marañón", "valor": 800},
+      {"nombre": "La Mina", "valor": 2500},
+      {"nombre": "Paseo del Llano", "valor": 800},
+      {"nombre": "Progreso", "valor": 4000},
+      {"nombre": "Res. Libertad", "valor": 3000},
+      {"nombre": "Res. Noelia", "valor": 1500},
+      {"nombre": "Villa Esperanza I", "valor": 1000},
+      {"nombre": "Villa Germán", "valor": 1000},
+      {"nombre": "Villa Morada", "valor": 1000},
+      {"nombre": "Bo. Agrario", "valor": 1000}
+    ],
+    "limites": {
+      "norte": "Arroyo Yuca",
+      "este": "Carretera a La Victoria",
+      "sur": "Konrad Adenauer",
+      "oeste": "Cañada Marañón"
+    },
+    "vias_principales": [
+      {"nombre": "Av. Konrad Adenauer (desde Cañada Marañón hasta carretera a la Av. Charles de Gaulle)", "valor": 4000},
+      {"nombre": "Carretera a La Victoria (desde Av. Charles de Gaulle hasta Arroyo Yuca)", "valor": 3000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "13",
+    "sector": "LOS PALMARES",
+    "valor_promedio": 2500,
+    "subsectores": [
+      {"nombre": "Bo. La Esperanza", "valor": 2000},
+      {"nombre": "Campechito II", "valor": 2000},
+      {"nombre": "Los Palmares II", "valor": 2000},
+      {"nombre": "Palmar Adentro", "valor": 2000},
+      {"nombre": "Res. Claribel", "valor": 1500},
+      {"nombre": "Res. Pinar del Norte", "valor": null},
+      {"nombre": "Urb. Charles de Gaulle", "valor": null}
+    ],
+    "limites": {
+      "norte": "Av. Konrad Adenauer",
+      "este": "Calle Héctor J. Díaz",
+      "sur": "Avenida Los Restauradores",
+      "oeste": "Avenida Hermanas Mirabal"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Konrad Adenauer (desde Carretera La Victoria hasta avenida Hermanas Mirabal)", "valor": 4000},
+      {"nombre": "Carretera a La Victoria (desde Av. Konrad Adenauer hasta avenida Los Restauradores)", "valor": 4000},
+      {"nombre": "Avenida Los Restauradores (desde Calle Héctor J. Díaz hasta Av. Hermanas Mirabal)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "14",
+    "sector": "VILLA MELLA",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Bo. El Bonito", "valor": 1500},
+      {"nombre": "Bo. Quilombo", "valor": 1000},
+      {"nombre": "Campechito I", "valor": 3000},
+      {"nombre": "Maranion I", "valor": 3000},
+      {"nombre": "Rep. Villa Maria", "valor": 3000},
+      {"nombre": "Res. Don Fabio", "valor": 3000},
+      {"nombre": "Res. Maria 2000", "valor": 2100},
+      {"nombre": "Urb. Los Pinos", "valor": 2500},
+      {"nombre": "Villa Carmela", "valor": 1500},
+      {"nombre": "Villa Hermosa", "valor": 2500},
+      {"nombre": "Villa Marbon", "valor": 3000},
+      {"nombre": "Villa Nueva", "valor": 1500},
+      {"nombre": "Villa Verde", "valor": null}
+    ],
+    "limites": {
+      "norte": "Arroyo Yuca",
+      "este": "Cañada Marañón",
+      "sur": "Avenida Konrad Adenauer",
+      "oeste": "Avenida Hermanas Mirabal y calle Ramón Matías Mella"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Hermanas Mirabal (desde Av. Konrad Adenauer hasta carretera San Felipe)", "valor": 5000},
+      {"nombre": "Avenida Konrad Adenauer (desde Av. Hermanas Mirabal hasta Cañada Marañón)", "valor": 4000},
+      {"nombre": "Av. Ramón Matías Mella (desde Av. Hermanas Mirabal hasta Arroyo Yuca)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "15",
+    "sector": "CARLOS ALVAREZ",
+    "valor_promedio": 3500,
+    "subsectores": [
+      {"nombre": "Bo. Los Arkeanos", "valor": 1500},
+      {"nombre": "Bo. Paraiso", "valor": 1500},
+      {"nombre": "Ens. Paraiso", "valor": 1500},
+      {"nombre": "Maranón II", "valor": 3500},
+      {"nombre": "Mata Los Indios", "valor": 1500},
+      {"nombre": "Urb. El Dorado I", "valor": 4000},
+      {"nombre": "Urb. El Remanso", "valor": 2500},
+      {"nombre": "Res. Cayayo", "valor": 3500},
+      {"nombre": "Res. Villa Martina", "valor": null}
+    ],
+    "limites": {
+      "norte": "Calle 30",
+      "este": "Carretera a San Felipe y avenida Hermanas Mirabal",
+      "sur": "Avenida Jacobo Majluta",
+      "oeste": "Arroyos Yaguasa y Licey"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Hermanas Mirabal (desde Av. Jacobo Majluta hasta carretera a San Felipe)", "valor": 5000},
+      {"nombre": "Carretera a San Felipe (desde Av. Hermanas Mirabal hasta arroyo Licey)", "valor": 4000},
+      {"nombre": "Avenida Jacobo Majluta (desde Av. Hermanas Mirabal hasta Arroyo Yaguasa)", "valor": 9000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "16",
+    "sector": "PUNTA",
+    "valor_promedio": 1500,
+    "subsectores": [
+      {"nombre": "Bo. Canaán I y II", "valor": 1500},
+      {"nombre": "Bo. La Esperanza", "valor": 3000},
+      {"nombre": "Bo. Las Flores", "valor": 1500},
+      {"nombre": "Bo. Vietnam", "valor": 1000},
+      {"nombre": "Urb. Quintas de San Felipe", "valor": 1500},
+      {"nombre": "Urb. San Felipe", "valor": 1500},
+      {"nombre": "Urb. Sol", "valor": 1500},
+      {"nombre": "Villa Esperanza", "valor": 1500},
+      {"nombre": "Res. Don Diomedes", "valor": 1500},
+      {"nombre": "Bo. La Paz", "valor": 1500},
+      {"nombre": "Bo. Los Morenos", "valor": 1000},
+      {"nombre": "Cruce Km. 18", "valor": 1500}
+    ],
+    "limites": {
+      "norte": "Camino a Mata San Juan",
+      "este": "Carretera a San Felipe",
+      "sur": "Arroyo Licey",
+      "oeste": "Arroyos Yaguasa y Licey"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera San Felipe a Yamasá (desde Arroyo Licey hasta Camino a Mata San Juan)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": "17",
+    "sector": "SAN FELIPE",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Vista Bella I y II", "valor": 2000},
+      {"nombre": "Jardines de Genoveva", "valor": 2500},
+      {"nombre": "Res. Antonia María II", "valor": 2000},
+      {"nombre": "Res. La Javilla", "valor": 2000},
+      {"nombre": "Ciudad Satélite", "valor": 2000},
+      {"nombre": "Ens. Luz y Vida", "valor": 1500},
+      {"nombre": "Bo. María Auxiliadora", "valor": 2500},
+      {"nombre": "Villa Jerusalén", "valor": 1000},
+      {"nombre": "Res. Diego II", "valor": 1000},
+      {"nombre": "El Mamey", "valor": 1500},
+      {"nombre": "Harás Nacionales", "valor": 3000},
+      {"nombre": "Res. Palmares de Harás", "valor": 3000},
+      {"nombre": "Res. Majorie", "valor": 3000},
+      {"nombre": "Res. Jardines de Harás", "valor": 3000}
+    ],
+    "limites": {
+      "norte": "Arroyo Yuca",
+      "este": "Avenida Ramón Matías Mella",
+      "sur": "Avenida Ramón Matías Mella y Carretera San Felipe",
+      "oeste": "Carretera San Felipe a Yamasá"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera San Felipe a Yamasá (desde Av. Hermanas Mirabal hasta arroyo Licey)", "valor": 4000},
+      {"nombre": "Av. Ramón Matías Mella (desde Av. Hermanas Mirabal hasta Arroyo Yuca)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LICEY",
+    "parajes": [
+      {"nombre": "LICEY (PUEBLO)", "valor": 2000},
+      {"nombre": "LICEY (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "LICEY (PUEBLO) - Interior", "valor": 150},
+      {"nombre": "Mancebo - Con frente a la carretera", "valor": 200},
+      {"nombre": "Mancebo - Interior", "valor": 150},
+      {"nombre": "Mata Gorda", "valor": 1300},
+      {"nombre": "Mata Gorda - Con frente a la carretera", "valor": 200},
+      {"nombre": "Mata Gorda - Interior", "valor": 150},
+      {"nombre": "Mata San Juan (PUEBLO)", "valor": 1300},
+      {"nombre": "Mata San Juan (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "Mata San Juan (PUEBLO) - Interior", "valor": 150},
+      {"nombre": "Limonal - Con frente a la carretera", "valor": 200},
+      {"nombre": "Limonal - Interior", "valor": 150},
+      {"nombre": "Punta", "valor": 1000},
+      {"nombre": "Punta - Con frente a la carretera", "valor": 200},
+      {"nombre": "Punta - Interior", "valor": 150},
+      {"nombre": "Cercadillo - Con frente a la carretera", "valor": 200},
+      {"nombre": "Cercadillo - Interior", "valor": 150}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "SIERRA PRIETA",
+    "parajes": [
+      {"nombre": "SIERRA PRIETA", "valor": 1000},
+      {"nombre": "SIERRA PRIETA - Con frente a la carretera", "valor": 200},
+      {"nombre": "SIERRA PRIETA - Interior", "valor": 150},
+      {"nombre": "Los Vizcaíno - Con frente a la carretera", "valor": 200},
+      {"nombre": "Los Vizcaíno - Interior", "valor": 150},
+      {"nombre": "Buenos Aires (PUEBLO)", "valor": 1200},
+      {"nombre": "Buenos Aires (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "Buenos Aires (PUEBLO) - Interior", "valor": 150},
+      {"nombre": "Hoyos Oscuros - Con frente a la carretera", "valor": 200},
+      {"nombre": "Hoyos Oscuros - Interior", "valor": 150},
+      {"nombre": "Kilómetro 26", "valor": 1000},
+      {"nombre": "Kilómetro 26 - Con frente a la carretera", "valor": 200},
+      {"nombre": "Kilómetro 26 - Interior", "valor": 150},
+      {"nombre": "Jubileo - Con frente a la carretera", "valor": 100},
+      {"nombre": "Jubileo - Interior", "valor": 50},
+      {"nombre": "Juan Diega - Con frente a la carretera", "valor": 200},
+      {"nombre": "Juan Diega - Interior", "valor": 150}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "DUQUESA",
+    "parajes": [
+      {"nombre": "DUQUESA (PUEBLO)", "valor": 1500},
+      {"nombre": "DUQUESA (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "DUQUESA (PUEBLO) - Interior", "valor": 150},
+      {"nombre": "La Jacagua - Con frente a la carretera", "valor": 200},
+      {"nombre": "La Jacagua - Interior", "valor": 150},
+      {"nombre": "Los Cazabes (PUEBLO)", "valor": 1500},
+      {"nombre": "Los Cazabes (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "Los Cazabes (PUEBLO) - Interior", "valor": 150}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "HIGUERO",
+    "parajes": [
+      {"nombre": "HIGUERO (PUEBLO)", "valor": 1500},
+      {"nombre": "HIGUERO (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "HIGUERO (PUEBLO) - Interior", "valor": 150},
+      {"nombre": "Cajuilito (PUEBLO)", "valor": 1000},
+      {"nombre": "Cajuilito (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "Cajuilito (PUEBLO) - Interior", "valor": 150},
+      {"nombre": "La Sabana del Hato - Con frente a la carretera", "valor": 200},
+      {"nombre": "La Sabana del Hato - Interior", "valor": 150},
+      {"nombre": "La Gina (PUEBLO)", "valor": 1000},
+      {"nombre": "La Gina (PUEBLO) - Con frente a la carretera", "valor": 200},
+      {"nombre": "La Gina (PUEBLO) - Interior", "valor": 150},
+      {"nombre": "Los Llanos - Con frente a la carretera", "valor": 200},
+      {"nombre": "Los Llanos - Interior", "valor": 150},
+      {"nombre": "Rincón Yaco - Con frente a la carretera", "valor": 200},
+      {"nombre": "Rincón Yaco - Interior", "valor": 150}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA JAGUA",
+    "parajes": [
+      {"nombre": "LA JAGUA (PUEBLO)", "valor": 1200},
+      {"nombre": "LA JAGUA (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "LA JAGUA (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "Loma de Mateo - Con frente a la carretera", "valor": 150},
+      {"nombre": "Loma de Mateo - Interior", "valor": 100},
+      {"nombre": "La Joya o Los Goya - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Joya o Los Goya - Interior", "valor": 100},
+      {"nombre": "Los Callejones - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Callejones - Interior", "valor": 100},
+      {"nombre": "Los Mameyes - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Mameyes - Interior", "valor": 100},
+      {"nombre": "Amor a Dios - Con frente a la carretera", "valor": 150},
+      {"nombre": "Amor a Dios - Interior", "valor": 100},
+      {"nombre": "Los Cocos - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Cocos - Interior", "valor": 100},
+      {"nombre": "Los Peralejos - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Peralejos - Interior", "valor": 10},
+      {"nombre": "Rincón - Con frente a la carretera", "valor": 150},
+      {"nombre": "Rincón - Interior", "valor": 100}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL LA VICTORIA",
+    "subsectores": [
+      {"nombre": "La Victoria", "valor": 3000},
+      {"nombre": "Los Guandules", "valor": 1000},
+      {"nombre": "Gualey", "valor": 1000},
+      {"nombre": "Los Militares", "valor": 600},
+      {"nombre": "La Cacata o La Unión", "valor": 800},
+      {"nombre": "La Vuelta", "valor": 800},
+      {"nombre": "Las Cañitas", "valor": 800},
+      {"nombre": "Los Solanos", "valor": 800},
+      {"nombre": "Los Mañones", "valor": 800},
+      {"nombre": "Los Redimidos", "valor": 800},
+      {"nombre": "Bambú I", "valor": 1500},
+      {"nombre": "Bambú II", "valor": 1500},
+      {"nombre": "Bo. El Conde", "valor": 900},
+      {"nombre": "Bo. El Ocho", "valor": 800},
+      {"nombre": "Bo. El Tanque", "valor": 800},
+      {"nombre": "Bo. Ferregus", "valor": 800},
+      {"nombre": "Bo. Gualey", "valor": 800},
+      {"nombre": "Bo. La Antonia", "valor": 800},
+      {"nombre": "Bo. La Caña", "valor": 800},
+      {"nombre": "Bo. La Unión (La Cacata)", "valor": 800},
+      {"nombre": "Bo. Las Cañitas", "valor": 800},
+      {"nombre": "Bo. Los Guandules", "valor": 800},
+      {"nombre": "Bo. Los Mañón", "valor": 800},
+      {"nombre": "Bo. Militar", "valor": 800},
+      {"nombre": "Bo. San Antonio", "valor": 800},
+      {"nombre": "Bo. San Pablo", "valor": 800},
+      {"nombre": "Cruce de la Virgen", "valor": 800},
+      {"nombre": "Lomas de Villa Mella", "valor": 1500},
+      {"nombre": "Lotificación Res. Doña María", "valor": 1000},
+      {"nombre": "Lotificación Res. Las Naranjas", "valor": 1000},
+      {"nombre": "Lotificación Res.Paraíso del Norte", "valor": 1000},
+      {"nombre": "Lotificación Res. Paseo de Los Reyes", "valor": 1000},
+      {"nombre": "Proy. Invi-Las Mercedes", "valor": 1000},
+      {"nombre": "Res. Campo Verde", "valor": 1000},
+      {"nombre": "Res. Villa Germania", "valor": 1000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "MAL NOMBRE",
+    "parajes": [
+      {"nombre": "MAL NOMBRE (PUEBLO)", "valor": 1500},
+      {"nombre": "MAL NOMBRE (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "MAL NOMBRE (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "Punta Larga - Con frente a la carretera", "valor": 100},
+      {"nombre": "Punta Larga - Interior", "valor": 100},
+      {"nombre": "Maricao (PUEBLO)", "valor": 1000},
+      {"nombre": "Maricao (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "Maricao (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "El Dajao (PUEBLO)", "valor": 1000},
+      {"nombre": "El Dajao (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "El Dajao (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "La Caoba (PUEBLO)", "valor": 1000},
+      {"nombre": "La Caoba (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Caoba (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "Palmilla - Con frente a la carretera", "valor": 150},
+      {"nombre": "Palmilla - Interior", "valor": 100},
+      {"nombre": "Primavera - Con frente a la carretera", "valor": 150},
+      {"nombre": "Primavera - Interior", "valor": 100},
+      {"nombre": "El Corozo - Con frente a la carretera", "valor": 150},
+      {"nombre": "El Corozo - Interior", "valor": 100},
+      {"nombre": "Juan Tomas (PUEBLO)", "valor": 1000},
+      {"nombre": "Juan Tomas (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "Juan Tomas (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "El Jobo (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "El Jobo (PUEBLO) - Interior", "valor": 100}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA VIRGEN",
+    "parajes": [
+      {"nombre": "LA VIRGEN (PUEBLO)", "valor": 1500},
+      {"nombre": "LA VIRGEN (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "LA VIRGEN (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "San Joaquín - Con frente a la carretera", "valor": 150},
+      {"nombre": "San Joaquín - Interior", "valor": 100},
+      {"nombre": "Verdún - Con frente a la carretera", "valor": 150},
+      {"nombre": "Verdún - Interior", "valor": 100},
+      {"nombre": "Ferregús (PUEBLO)", "valor": 1500},
+      {"nombre": "Ferregús (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "Ferregús (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "La Culata - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Culata - Interior", "valor": 100}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "MATA MAMÓN",
+    "parajes": [
+      {"nombre": "MATA MAMÓN (PUEBLO)", "valor": 1500},
+      {"nombre": "MATA MAMÓN (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "MATA MAMÓN (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "San Mateo - Con frente a la carretera", "valor": 150},
+      {"nombre": "San Mateo - Interior", "valor": 100},
+      {"nombre": "La Guabina - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Guabina - Interior", "valor": 100},
+      {"nombre": "Los Tapia (El Ocho) (PUEBLO)", "valor": 1000},
+      {"nombre": "Los Tapia (El Ocho) (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Tapia (El Ocho) (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "Los Potrazos - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Potrazos - Interior", "valor": 100},
+      {"nombre": "Rincón Dorado - Con frente a la carretera", "valor": 150},
+      {"nombre": "Rincón Dorado - Interior", "valor": 100},
+      {"nombre": "Los Rosario - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Rosario - Interior", "valor": 100},
+      {"nombre": "Los Genaro - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Genaro - Interior", "valor": 100},
+      {"nombre": "El Siete - Con frente a la carretera", "valor": 150},
+      {"nombre": "El Siete - Interior", "valor": 100},
+      {"nombre": "Cabón - Con frente a la carretera", "valor": 150},
+      {"nombre": "Cabón - Interior", "valor": 100},
+      {"nombre": "Santana - Con frente a la carretera", "valor": 150},
+      {"nombre": "Santana - Interior", "valor": 100},
+      {"nombre": "Aguacate Adentro - Con frente a la carretera", "valor": 150},
+      {"nombre": "Aguacate Adentro - Interior", "valor": 100},
+      {"nombre": "El Higüero - Con frente a la carretera", "valor": 150},
+      {"nombre": "El Higüero - Interior", "valor": 100},
+      {"nombre": "El Ocho - Con frente a la carretera", "valor": 150},
+      {"nombre": "El Ocho - Interior", "valor": 100}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA BOMBA",
+    "parajes": [
+      {"nombre": "LA BOMBA (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "LA BOMBA (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "Guayabo - Con frente a la carretera", "valor": 150},
+      {"nombre": "Guayabo - Interior", "valor": 100}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "GUANUMA",
+    "parajes": [
+      {"nombre": "GUANUMA (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "GUANUMA (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "Batey Guanuma (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "Batey Guanuma (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "Mata Redonda - Con frente a la carretera", "valor": 150},
+      {"nombre": "Mata Redonda - Interior", "valor": 100},
+      {"nombre": "La Gina (La Tita) - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Gina (La Tita) - Interior", "valor": 100},
+      {"nombre": "El Hato de Sanguíneo (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "El Hato de Sanguíneo (PUEBLO) - Interior", "valor": 100}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "HACIENDA ESTRELLA",
+    "parajes": [
+      {"nombre": "HACIENDA ESTRELLA (PUEBLO)", "valor": 1500},
+      {"nombre": "HACIENDA ESTRELLA (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "HACIENDA ESTRELLA (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "El 11 de Hacienda Estrella (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "El 11 de Hacienda Estrella (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "San Mateo - Con frente a la carretera", "valor": 150},
+      {"nombre": "San Mateo - Interior", "valor": 100},
+      {"nombre": "El 10 de Hacienda Estrella (PUEBLO)", "valor": 1500},
+      {"nombre": "El 10 de Hacienda Estrella (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "El 10 de Hacienda Estrella (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "La Campaña - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Campaña - Interior", "valor": 100},
+      {"nombre": "Los Morenos - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Morenos - Interior", "valor": 100}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Norte",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA CEIBA",
+    "parajes": [
+      {"nombre": "LA CEIBA (PUEBLO)", "valor": 1500},
+      {"nombre": "LA CEIBA (PUEBLO) - Con frente a la carretera", "valor": 150},
+      {"nombre": "LA CEIBA (PUEBLO) - Interior", "valor": 100},
+      {"nombre": "La Piña - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Piña - Interior", "valor": 100},
+      {"nombre": "Los Castillos - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Castillos - Interior", "valor": 100},
+      {"nombre": "Los Mercedes - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Mercedes - Interior", "valor": 100},
+      {"nombre": "Los Mambruses - Con frente a la carretera", "valor": 150},
+      {"nombre": "Los Mambruses - Interior", "valor": 100},
+      {"nombre": "La Jaiba - Con frente a la carretera", "valor": 150},
+      {"nombre": "La Jaiba - Interior", "valor": 100},
+      {"nombre": "Rancho Arriba-Cabón - Con frente a la carretera", "valor": 150},
+      {"nombre": "Rancho Arriba-Cabón - Interior", "valor": 100},
+      {"nombre": "Cruce de Gina - Con frente a la carretera", "valor": 150},
+      {"nombre": "Cruce de Gina - Interior", "valor": 100}
+    ]
+  }
+]

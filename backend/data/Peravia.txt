@@ -1,0 +1,2004 @@
+[
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "EL MANI",
+    "valor_promedio": 1800,
+    "subsectores": [
+      { "nombre": "Bo. Saona", "valor": 3500 },
+      { "nombre": "Bo. German Báez", "valor": 1800 },
+      { "nombre": "El Sifoncito", "valor": 2000 },
+      { "nombre": "Bo. La Colina", "valor": 750 }
+    ],
+    "limites": {
+      "norte": "C/ Central",
+      "este": "Gastón F. Deligne",
+      "sur": "Canal Juan Caballero",
+      "oeste": "Canal Juan Caballero"
+    },
+    "vias_principales": [
+      { "nombre": "Calle Gastón F. Deligne (desde Canal Juan Caballero hasta Calle Central)", "valor": 4000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "EL FUNDO",
+    "valor_promedio": 3700,
+    "subsectores": [
+      { "nombre": "Barrio Mirador Norte", "valor": 3000 },
+      { "nombre": "Barrio El Padre Norte", "valor": 3000 },
+      { "nombre": "El Cementerio", "valor": 1000 }
+    ],
+    "limites": {
+      "norte": "El Cementerio municipal Norte",
+      "este": "Camino a la Monteria",
+      "sur": "C/ Luis Alvares",
+      "oeste": "C/ Gastón F. Deligne"
+    },
+    "vias_principales": [
+      { "nombre": "Calle Gastón F. Deligne (desde canal Juan Caballero hasta Calle Luis Alvarez)", "valor": 4800 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "BRISAS DEL GUAZUMA",
+    "valor_promedio": 6700,
+    "subsectores": [
+      { "nombre": "Barrio Máximo Gómez (Los Barrancones)", "valor": 3000 },
+      { "nombre": "Brisas del Sur", "valor": 3000 },
+      { "nombre": "Barrio Villa David", "valor": 2600 },
+      { "nombre": "Barrio los Cajuilitos", "valor": 3700 },
+      { "nombre": "Brisas del Norte", "valor": 3000 },
+      { "nombre": "Brisas de Guázuma I", "valor": 4000 },
+      { "nombre": "Brisas de Guázuma II", "valor": 4000 },
+      { "nombre": "Barrio las 20 Casitas", "valor": 3000 },
+      { "nombre": "Altos de Guázuma", "valor": 5000 }
+    ],
+    "limites": {
+      "norte": "Canal Juan Caballero",
+      "este": "Calle Gastón F. Deligne",
+      "sur": "Avenida Máximo Gómez (Carretera Sánchez)",
+      "oeste": "Arroyo Guázuma"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Máximo Gómez (Carretera Sánchez, desde arroyo Guazuma hasta Av. Gastón Fernando Deligne)", "valor": null },
+      { "nombre": "Calle Gastón F. Deligne (desde Av. Máximo Gómez hasta Calle Luis Álvarez)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "PUEBLO NUEVO",
+    "valor_promedio": 3700,
+    "subsectores": [
+      { "nombre": "Barrio Pueblo Nuevo Arriba", "valor": 3000 },
+      { "nombre": "Barrio Villa Carmen", "valor": 3700 },
+      { "nombre": "Barrio 24 de Abril", "valor": 3700 }
+    ],
+    "limites": {
+      "norte": "Arroyo Guerra",
+      "este": "Rio Baní",
+      "sur": "Calle Luis Álvarez",
+      "oeste": "Calle Enriquillo y Calle a la Montería"
+    },
+    "vias_principales": [
+      { "nombre": "Calle Duarte (desde Calle Luis Alvarez hasta Calle 4)", "valor": 5000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "005",
+    "sector": "SANTA CRUZ",
+    "valor_promedio": 6000,
+    "subsectores": [
+      { "nombre": "Bo. Villa Majega", "valor": 2000 },
+      { "nombre": "Bo. Las Arepas (Mercado Municipal)", "valor": 6500 },
+      { "nombre": "Bo. Los Tiburones", "valor": 5000 },
+      { "nombre": "Bo. El Invi", "valor": 5500 },
+      { "nombre": "Bo. La Paja", "valor": 1000 },
+      { "nombre": "Bo. El Meneo", "valor": 4500 }
+    ],
+    "limites": {
+      "norte": "Luis Álvarez",
+      "este": "Río Baní",
+      "sur": "Calle 27 de febrero",
+      "oeste": "Calle Gastón F. Deligne"
+    },
+    "vias_principales": [
+      { "nombre": "Calle Duarte (desde calle 27 de Febrero hasta calle Luis Alvarez)", "valor": 8000 },
+      { "nombre": "Calle Duverge (desde 27 de febrero hasta Calle Luis Álvarez)", "valor": 8000 },
+      { "nombre": "Calle Gastón F. Deligne (desde calle Libertad hasta calle Luis Alvarez)", "valor": 8000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "006",
+    "sector": "BARRIO 30 DE MAYO",
+    "valor_promedio": 4500,
+    "subsectores": [
+      { "nombre": "Urb. Don Serret", "valor": 6700 },
+      { "nombre": "Urb. María Carlita", "valor": 7000 },
+      { "nombre": "Bo. 19 de Marzo", "valor": 3700 },
+      { "nombre": "Proyecto Habitacional Los Agrónomos", "valor": 4500 }
+    ],
+    "limites": {
+      "norte": "Carretera Sánchez",
+      "este": "Calle Gastón F. Deligne",
+      "sur": "Calle Beller",
+      "oeste": "Arroyo Guázuma"
+    },
+    "vias_principales": [
+      { "nombre": "Carretera Sánchez (desde Calle Gastón F. Deligne hasta Arroyo Guázuma)", "valor": 18000 },
+      { "nombre": "Calle Gastón F. Deligne (desde Carretera Sánchez hasta Carretera Máximo Gomez)", "valor": 10000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "007",
+    "sector": "CENTRO",
+    "valor_promedio": 10000,
+    "subsectores": [
+      { "nombre": "Urb. Las Marías", "valor": 10000 },
+      { "nombre": "Urb. Máximo Gómez", "valor": 9000 },
+      { "nombre": "Urb. Anabel", "valor": 5000 },
+      { "nombre": "Urb. Altos de Los Melones", "valor": 6000 },
+      { "nombre": "Urb. Riveras del Sur", "valor": 5000 },
+      { "nombre": "Los Meloncitos", "valor": 5000 }
+    ],
+    "limites": {
+      "norte": "Calle 27 de Febrero",
+      "este": "Rio Bani",
+      "sur": "Canal Marcos A. Cabral y calle Beller",
+      "oeste": "Calle Duvergé y Camino Real"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Máximo Gómez (desde Carretera Sanchez hasta Calle Gastón F. Deligne)", "valor": null },
+      { "nombre": "Av. Presidente Billini (desde Calle Gastón F. Deligne hasta el Rio Bani)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "008",
+    "sector": "SANTA ELENA",
+    "valor_promedio": 8000,
+    "subsectores": [
+      { "nombre": "Residencial Don Serret", "valor": 9000 },
+      { "nombre": "Urbanización José del Carmen", "valor": 9000 },
+      { "nombre": "Residencial Dulce María", "valor": 9000 },
+      { "nombre": "Barrio Mejoramiento Social", "valor": 8500 },
+      { "nombre": "Residencial Claudia", "valor": 8500 },
+      { "nombre": "Bo. Los Pescadores", "valor": 8500 }
+    ],
+    "limites": {},
+    "vias_principales": [
+      { "nombre": "Calle Beller (desde Calle Duverge hasta Arroyo Guázuma)", "valor": 10000 },
+      { "nombre": "CARRETERA MAXIMO GOMEZ (desde calle Beller hasta Canal Marcos A. Cabral)", "valor": 10000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "009",
+    "sector": "EL LLANO (CENTRO)",
+    "valor_promedio": 5000,
+    "subsectores": [
+      { "nombre": "Urbanización Erneisa", "valor": 6000 },
+      { "nombre": "Residencial Framboyán", "valor": 6000 },
+      { "nombre": "Residencial Susana I", "valor": 6000 },
+      { "nombre": "Residencial Susana II", "valor": 6000 },
+      { "nombre": "Residencial Lola Pepén", "valor": 6000 },
+      { "nombre": "Residencial Virreina", "valor": 6500 },
+      { "nombre": "Urbanización Villa Real I", "valor": 6500 },
+      { "nombre": "Urbanización Villa Real II", "valor": 6500 },
+      { "nombre": "Residencial Caobaní", "valor": 6000 },
+      { "nombre": "Urbanización Habitacional los Maestros", "valor": 6500 },
+      { "nombre": "El Llano Abajo (Boqueron)", "valor": 6500 },
+      { "nombre": "El Llano Arriba", "valor": 2500 },
+      { "nombre": "Res. Rafa Pimentel", "valor": 6000 },
+      { "nombre": "Res. Susana", "valor": 4500 },
+      { "nombre": "Urb. Camino Real", "valor": 4500 },
+      { "nombre": "Res. Peravia V", "valor": 3700 }
+    ],
+    "limites": {},
+    "vias_principales": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "010",
+    "sector": "RESIDENCIAL MARÍA DEL CARMEN",
+    "valor_promedio": 9000,
+    "subsectores": [
+      { "nombre": "Residencial Palo Blanco", "valor": 6500 },
+      { "nombre": "Residencial Laura Marie", "valor": 6000 }
+    ],
+    "limites": {
+      "norte": "Canal Marcos A. Cabral",
+      "este": "Avenida Fabio Herrera Cabral",
+      "sur": "Calle Francisco A. Caamaño",
+      "oeste": "Arroyo Virreyna"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Fabio Herrera (desde Canal Marcos A. Cabral hasta Av. Francisco A. Camaño)", "valor": 10000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "011",
+    "sector": "RESIDENCIAL BRISAS DEL CANAL",
+    "valor_promedio": 6000,
+    "subsectores": [
+      { "nombre": "Res. Costa Sur", "valor": 6000 },
+      { "nombre": "Villa Country Club", "valor": 6000 },
+      { "nombre": "Residencial Margarita I", "valor": 7000 },
+      { "nombre": "Residencial Margarita II", "valor": 7000 },
+      { "nombre": "Residencial Costa del Sol", "valor": 9000 },
+      { "nombre": "Residencial Valera Guzmán (Orquídeas)", "valor": 8000 },
+      { "nombre": "Residencial B H D", "valor": 8000 },
+      { "nombre": "Residencial Hermanos Serrat", "valor": 8000 },
+      { "nombre": "Residencial Hermanos Medina", "valor": 8000 },
+      { "nombre": "Res. Jade III", "valor": 5000 }
+    ],
+    "limites": {
+      "norte": "Canal Marcos A. Cabral",
+      "este": "Calle Canela Mota y canal Marcos A. Cabral",
+      "sur": "Country Club",
+      "oeste": "Avenida Fabio Herrera"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Fabio Herrera (desde Canal Marcos A. Cabral hasta Av. Francisco A. Camaño)", "valor": 11000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "012",
+    "sector": "URBANIZACIÓN SANTA ROSA",
+    "valor_promedio": 3500,
+    "subsectores": [
+      { "nombre": "Santa Rosa Alante", "valor": 2000 },
+      { "nombre": "Santa Rosa Atrás", "valor": 1000 },
+      { "nombre": "Urb. Roblegal", "valor": 4000 }
+    ],
+    "limites": {
+      "norte": "Canal Marcos A. Cabral",
+      "este": "Rio Baní",
+      "sur": "Carretera a Mata Gorda",
+      "oeste": "Calle Canela Mota"
+    },
+    "vias_principales": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "013",
+    "sector": "BOCA CANASTA",
+    "valor_promedio": 5000,
+    "subsectores": [
+      { "nombre": "Boca Canasta (Centro)", "valor": 5000 },
+      { "nombre": "Boca Canasta Arriba", "valor": 5000 },
+      { "nombre": "Boca Canasta Abajo", "valor": 4000 },
+      { "nombre": "Urb. Villa Jesuana", "valor": 3500 },
+      { "nombre": "Res. Los Almendros", "valor": 6000 },
+      { "nombre": "Urb. Maitel", "valor": 6000 },
+      { "nombre": "Res. Doña Ana", "valor": 7000 },
+      { "nombre": "Res. Los Almendros (Con Playa)", "valor": 6000 },
+      { "nombre": "Urbanización Millenium", "valor": 3500 },
+      { "nombre": "Urbanización Baní 2000", "valor": 3500 },
+      { "nombre": "Res. Don Marcelo I, II", "valor": 5000 },
+      { "nombre": "Urb. Shalom", "valor": 5000 }
+    ],
+    "limites": {
+      "norte": "Avenida Francisco A. Camaño",
+      "este": "Avenida Fabio Herrera Cabral y Canal Marcos A. Cabral",
+      "sur": "La Circunvalación",
+      "oeste": "Arroyo Virreyna"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Fabio Herrera (desde Av. Francisco A. Camaño hasta el Mar Caribe)", "valor": 10000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "014",
+    "sector": "MATA GORDA",
+    "valor_promedio": 3000,
+    "subsectores": [
+      { "nombre": "El Sifón de Mata Gorda (Barrio)", "valor": 2000 },
+      { "nombre": "Residencial Laurel", "valor": 3500 },
+      { "nombre": "Urbanización Doña Dinora", "valor": 4000 }
+    ],
+    "limites": {
+      "norte": "Carretera Sánchez",
+      "este": "Canal Marcos A. Cabral",
+      "sur": "Calle Principal, Calle Duarte y Sin Limite",
+      "oeste": "Calle Duarte"
+    },
+    "vias_principales": [
+      { "nombre": "Carretera Sánchez (desde Canal Marcos A. Cabral hasta el Rio Bañí)", "valor": 6000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Urbana",
+    "codigo": "015",
+    "sector": "PERAVIA",
+    "valor_promedio": 3500,
+    "subsectores": [
+      { "nombre": "Fundación de Peravia Arriba", "valor": 2000 },
+      { "nombre": "Fundación de Peravia Abajo", "valor": 1800 },
+      { "nombre": "Urbanización Escondido (Cementerio)", "valor": 3000 },
+      { "nombre": "Sabanita (detrás del cementerio)", "valor": 1500 },
+      { "nombre": "Villa Canal", "valor": 3000 }
+    ],
+    "limites": {
+      "norte": "Río Bañí",
+      "este": "Canal Marcos A. Cabral y Sin Limite",
+      "sur": "Carretera Sánchez",
+      "oeste": "Río Bañí"
+    },
+    "vias_principales": [
+      { "nombre": "Carretera Sánchez (desde Canal Marcos A. Cabral hasta el Río Bani)", "valor": 6000 },
+      { "nombre": "Carretera Al Limonar (desde Carretera Sánchez hasta Fundación de Peravia)", "valor": 4000 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "BOCA CANASTA",
+    "parajes": [
+      { "nombre": "BOCA CANASTA (POBLADO)", "valor": 5000 },
+      { "nombre": "CORBANAL (POBLADO)", "valor": 3700 },
+      { "nombre": "CORBANAL - Con frente a la carretera", "valor": 200 },
+      { "nombre": "LOS ALMENDROS (POBLADO)", "valor": null },
+      { "nombre": "RESIDENCIAL LOS ALMENDROS", "valor": 2125 },
+      { "nombre": "RESIDENCIAL LOS ALMENDROS - Con playa", "valor": 2500 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "LAS CALDERAS",
+    "parajes": [
+      { "nombre": "LAS SALINAS (POBLADO)", "valor": 3000 },
+      { "nombre": "LAS SALINAS - Con playa", "valor": 9000 },
+      { "nombre": "LAS CALDERAS (POBLADO)", "valor": 4000 },
+      { "nombre": "LAS CALDERAS - Con frente a la carretera", "valor": 100 },
+      { "nombre": "LAS CALDERAS - Interior", "valor": 80 },
+      { "nombre": "BASE NAVAL (ZONA MILITAR)", "valor": 4000 },
+      { "nombre": "DUNAS DE BANI (AREA PROTEGIDA)", "valor": null },
+      { "nombre": "DUNAS DE BANI - Con playa", "valor": 7500 },
+      { "nombre": "PLAYA EL CORBANITO", "valor": 7500 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "EL CAÑAFISTOL",
+    "parajes": [
+      { "nombre": "CAÑAFISTOL (POBLADO)", "valor": 3700 },
+      { "nombre": "CAÑAFISTOL - Con frente a la carretera", "valor": 300 },
+      { "nombre": "CAÑAFISTOL - Interior", "valor": 250 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "LOS CATEYES",
+    "parajes": [
+      { "nombre": "MONTE BONITO (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "MONTE BONITO - Interior", "valor": 50 },
+      { "nombre": "LOS CATEYES (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LOS CATEYES - Interior", "valor": 50 },
+      { "nombre": "MONTEADA DE JAVIER (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "MONTEADA DE JAVIER - Interior", "valor": 50 },
+      { "nombre": "HOYO NUEVO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "HOYO NUEVO - Interior", "valor": 50 },
+      { "nombre": "LA MANACLAS (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA MANACLAS - Interior", "valor": 50 },
+      { "nombre": "LOS FONDOS DE JIGUEY (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LOS FONDOS DE JIGUEY - Interior", "valor": 50 },
+      { "nombre": "EL AGUACATE (POBLADO)", "valor": 60 },
+      { "nombre": "EL AGUACATE - Con frente a la carretera", "valor": 50 },
+      { "nombre": "EL AGUACATE - Interior", "valor": 60 },
+      { "nombre": "LOS JOBOS (POBLADO)", "valor": 60 },
+      { "nombre": "LOS JOBOS - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA MALANGA (POBLADO)", "valor": 60 },
+      { "nombre": "LA MALANGA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA MALANGA - Interior", "valor": 50 },
+      { "nombre": "LA CABIRMA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA CABIRMA - Interior", "valor": 50 },
+      { "nombre": "LAS PALMAS (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LAS PALMAS - Interior", "valor": 50 },
+      { "nombre": "LA TELANZA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA TELANZA - Interior", "valor": 50 },
+      { "nombre": "CALDERON (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CALDERON - Interior", "valor": 50 },
+      { "nombre": "LA GUAMA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA GUAMA - Interior", "valor": 50 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "FUNDACION DE PERAVIA",
+    "parajes": [
+      { "nombre": "FUNDACION DE PERAVIA (POBLADO)", "valor": null },
+      { "nombre": "PERAVIA (POBLADO) (AREA DE PROTECCION ESPECIAL DON RAFAEL HERRERA)", "valor": null },
+      { "nombre": "PERAVIA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "PERAVIA - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "HONDURAS",
+    "parajes": [
+      { "nombre": "HONDURAS (POBLADO)", "valor": 750 },
+      { "nombre": "HONDURAS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "HONDURAS - Interior", "valor": 100 },
+      { "nombre": "EL MATADERO (POBLADO)", "valor": 750 },
+      { "nombre": "EL MATADERO - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL MATADERO - Interior", "valor": 100 },
+      { "nombre": "EL MONTAZO (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL MONTAZO - Interior", "valor": 100 },
+      { "nombre": "FIRME EN MEDIO (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "FIRME EN MEDIO - Interior", "valor": 50 },
+      { "nombre": "LA MALA PASADA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA MALA PASADA - Interior", "valor": 50 },
+      { "nombre": "EL HOYO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL HOYO - Interior", "valor": 50 },
+      { "nombre": "LA CUABA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA CUABA - Interior", "valor": 50 },
+      { "nombre": "EL BAÑADERO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL BAÑADERO - Interior", "valor": 50 },
+      { "nombre": "LOS NARANJALES (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS NARANJALES - Interior", "valor": 100 },
+      { "nombre": "EL EMBALSADERO O SABANA ROBLE (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL EMBALSADERO O SABANA ROBLE - Interior", "valor": 100 },
+      { "nombre": "SABINA (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "SABINA - Interior", "valor": 100 },
+      { "nombre": "LOS CEDROS (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LOS CEDROS - Interior", "valor": 50 },
+      { "nombre": "LA BOTIJA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA BOTIJA - Interior", "valor": 50 },
+      { "nombre": "LOS RANCHOS (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS RANCHOS - Interior", "valor": 100 },
+      { "nombre": "LA TAYOTA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA TAYOTA - Interior", "valor": 50 },
+      { "nombre": "SEGUNDO RIO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "SEGUNDO RIO - Interior", "valor": 50 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "RIO ARRIBA",
+    "parajes": [
+      { "nombre": "RIO ARRIBA (AREA DE PROTECCION ESPECIAL DON RAFAEL HERRERA CABRAL)", "valor": 2000 },
+      { "nombre": "RIO ARRIBA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "RIO ARRIBA - Interior", "valor": 100 },
+      { "nombre": "LA VUELTA DE LA BARRANCA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA VUELTA DE LA BARRANCA - Interior", "valor": 100 },
+      { "nombre": "LOS GATAPANALES (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LOS GATAPANALES - Interior", "valor": 100 },
+      { "nombre": "LA LANA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA LANA - Interior", "valor": 100 },
+      { "nombre": "EL ALMIRANTE (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "EL ALMIRANTE - Interior", "valor": 100 },
+      { "nombre": "MONTERO (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "MONTERO - Interior", "valor": 100 },
+      { "nombre": "ARROYO SECO (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "ARROYO SECO - Interior", "valor": 100 },
+      { "nombre": "AGUA CLARA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "AGUA CLARA - Interior", "valor": 100 },
+      { "nombre": "ALTO DELOS PAPITA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "ALTO DELOS PAPITA - Interior", "valor": 100 },
+      { "nombre": "ALTO DE LOS GABRIELA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "ALTO DE LOS GABRIELA - Interior", "valor": 100 },
+      { "nombre": "LA ALTAGRACIA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA ALTAGRACIA - Interior", "valor": 100 },
+      { "nombre": "EL OJO DE AGUA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "EL OJO DE AGUA - Interior", "valor": 100 },
+      { "nombre": "PORTEZUELO (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "PORTEZUELO - Interior", "valor": 100 },
+      { "nombre": "EL GENARE (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "EL GENARE - Interior", "valor": 100 },
+      { "nombre": "LA GINA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA GINA - Interior", "valor": 100 },
+      { "nombre": "EL COPEY (ARROYO SALADO) (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "EL COPEY - Interior", "valor": 100 },
+      { "nombre": "LOS RAMONES (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LOS RAMONES - Interior", "valor": 100 },
+      { "nombre": "EL AGUA DEL LIMON - Con frente a la carretera", "valor": 130 },
+      { "nombre": "EL AGUA DEL LIMON - Interior", "valor": 100 },
+      { "nombre": "EL BEJUCAL (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "EL BEJUCAL - Interior", "valor": 100 },
+      { "nombre": "LOS NARAJOS (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LOS NARAJOS - Interior", "valor": 100 },
+      { "nombre": "BARRANCA COLORA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "BARRANCA COLORA - Interior", "valor": 100 },
+      { "nombre": "LA JOBITA O LA JUBITA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA JOBITA O LA JUBITA - Interior", "valor": 100 },
+      { "nombre": "LA MORA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA MORA - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "EL LLANO",
+    "parajes": [
+      { "nombre": "EL LLANO (POBLADO) - Con frente a la carretera", "valor": 350 },
+      { "nombre": "EL LLANO - Interior", "valor": 300 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "LA MONTERIA",
+    "parajes": [
+      { "nombre": "LA MONTERIA", "valor": 750 },
+      { "nombre": "LA MONTERIA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA MONTERIA - Interior", "valor": 100 },
+      { "nombre": "EL MANACLAR (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL MANACLAR - Interior", "valor": 50 },
+      { "nombre": "EL NARAJAL (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL NARAJAL - Interior", "valor": 100 },
+      { "nombre": "HOYO DE SANCHEZ (POBLADO) - Con frente a la carretera", "valor": 70 },
+      { "nombre": "HOYO DE SANCHEZ - Interior", "valor": 50 },
+      { "nombre": "SABANA INDIO (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "SABANA INDIO - Interior", "valor": 100 },
+      { "nombre": "LOS YAGUARIZOS (POBLADO)", "valor": 750 },
+      { "nombre": "LOS YAGUARIZOS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS YAGUARIZOS - Interior", "valor": 100 },
+      { "nombre": "LA MAJAGUA (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA MAJAGUA - Interior", "valor": 100 },
+      { "nombre": "LA AUYAMAS (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA AUYAMAS - Interior", "valor": 100 },
+      { "nombre": "CABEZA DE TORO (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "CABEZA DE TORO - Interior", "valor": 100 },
+      { "nombre": "LA PIEDRA (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA PIEDRA - Interior", "valor": 100 },
+      { "nombre": "LA TUNA (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA TUNA - Interior", "valor": 100 },
+      { "nombre": "LA CIENAGA (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA CIENAGA - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "MONTE LLANO",
+    "parajes": [
+      { "nombre": "LA LECHUZA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA LECHUZA - Interior", "valor": 50 },
+      { "nombre": "EL CAIMITO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL CAIMITO - Interior", "valor": 50 },
+      { "nombre": "RANCHO DE MATOS (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "RANCHO DE MATOS - Interior", "valor": 50 },
+      { "nombre": "EL TORO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL TORO - Interior", "valor": 50 },
+      { "nombre": "EL AGUACATE (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL AGUACATE - Interior", "valor": 50 },
+      { "nombre": "SONADOR (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "SONADOR - Interior", "valor": 50 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "EL RECODO",
+    "parajes": [
+      { "nombre": "EL RECODO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL RECODO - Interior", "valor": 50 },
+      { "nombre": "EL BARRO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL BARRO - Interior", "valor": 50 },
+      { "nombre": "MONTE DEL MANIEL (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "MONTE DEL MANIEL - Interior", "valor": 50 },
+      { "nombre": "CERRO PRIETO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CERRO PRIETO - Interior", "valor": 50 },
+      { "nombre": "LAS YAYAS (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LAS YAYAS - Interior", "valor": 50 },
+      { "nombre": "BARTOLO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "BARTOLO - Interior", "valor": 50 },
+      { "nombre": "EL SALTO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL SALTO - Interior", "valor": 50 },
+      { "nombre": "LA PERDIZ (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA PERDIZ - Interior", "valor": 50 },
+      { "nombre": "EL PICAO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL PICAO - Interior", "valor": 50 },
+      { "nombre": "LOMA LOS PINOS (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LOMA LOS PINOS - Interior", "valor": 50 },
+      { "nombre": "LA YAYITA (POBLADO) (PARQUE NACIONAL LUIS QUIN)", "valor": 500 },
+      { "nombre": "LA YAYITA - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA YAYITA - Interior", "valor": 50 },
+      { "nombre": "LA UVITA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA UVITA - Interior", "valor": 50 },
+      { "nombre": "RANCHO AGUSTIN (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "RANCHO AGUSTIN - Interior", "valor": 50 },
+      { "nombre": "CANADA HONDA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CANADA HONDA - Interior", "valor": 50 },
+      { "nombre": "EL RITO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL RITO - Interior", "valor": 50 },
+      { "nombre": "EL MAMEY (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL MAMEY - Interior", "valor": 50 },
+      { "nombre": "CANAVERAL (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CANAVERAL - Interior", "valor": 50 },
+      { "nombre": "EL RINCON (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL RINCON - Interior", "valor": 50 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "VALDESIA",
+    "parajes": [
+      { "nombre": "CAMINERO (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "CAMINERO - Interior", "valor": 100 },
+      { "nombre": "LA LAGUNA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA LAGUNA - Interior", "valor": 100 },
+      { "nombre": "EL MONTAZO (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "EL MONTAZO - Interior", "valor": 50 },
+      { "nombre": "VALDESIA (POBLADO) (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "VALDESIA - Interior", "valor": 50 },
+      { "nombre": "ARROYO BLANCO (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "ARROYO BLANCO - Interior", "valor": 50 },
+      { "nombre": "LOS RAMONES (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LOS RAMONES - Interior", "valor": 100 },
+      { "nombre": "LA BEJUQUERA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA BEJUQUERA - Interior", "valor": 100 },
+      { "nombre": "ERMITAÑO (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "ERMITAÑO - Interior", "valor": null },
+      { "nombre": "LOS RODRIGUEZ (POBLADO) (PARQUE NACIONAL LUIS QUIN) - Con frente a la carretera", "valor": null },
+      { "nombre": "LOS RODRIGUEZ - Interior", "valor": null },
+      { "nombre": "EL HUITO (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "EL HUITO - Interior", "valor": 100 },
+      { "nombre": "BUENA VISTA (POBLADO) (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "BUENA VISTA - Interior", "valor": 50 },
+      { "nombre": "LA CUABA O CUBANA (POBLADO) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "LA CUABA O CUBANA - Interior", "valor": 100 },
+      { "nombre": "PALO BONITO (POBLADO) (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "PALO BONITO - Interior", "valor": 50 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Baní",
+    "zona": "Rural",
+    "seccion": "VILLA GÜERA",
+    "parajes": [
+      { "nombre": "VILLA GÜERA (POBLADO)", "valor": 1800 },
+      { "nombre": "VILLA GÜERA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "VILLA GÜERA - Interior", "valor": 100 },
+      { "nombre": "EL FUNDO (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL FUNDO - Interior", "valor": 100 },
+      { "nombre": "BOCA DE GUERA (POBLADO)", "valor": 1500 },
+      { "nombre": "BOCA DE GUERA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "BOCA DE GUERA - Interior", "valor": 100 },
+      { "nombre": "LOS ESTAMOS (POBLADO) - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS ESTAMOS - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "LA ROTONDA",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "FRANCISCO DEL ROSARIO SANCHEZ (PROYECTO LA LAGUNA)",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "JUAN PABLO DUARTE",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "JOSE FRANCISCO PEÑA GOMEZ",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "CANADA LINDA",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "EL MILLON",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "VILLA ROSA",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "LA CUESTA",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Urbana",
+    "sector": "LA GRANJA",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Rural",
+    "seccion": "LAS CARRERAS",
+    "parajes": [
+      { "nombre": "LAS CARRERAS (POBLADO)", "valor": 1500 },
+      { "nombre": "LAS CARRERAS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LAS CARRERAS - Interior", "valor": 100 },
+      { "nombre": "EL ABEY (POBLADO)", "valor": 750 },
+      { "nombre": "EL ABEY - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL ABEY - Interior", "valor": 100 },
+      { "nombre": "LAS MALLITAS (LAS BOCAINAS) (POBLADO)", "valor": 750 },
+      { "nombre": "LAS MALLITAS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LAS MALLITAS - Interior", "valor": 100 },
+      { "nombre": "EL CRUCE DE OCOA (POBLADO)", "valor": 1500 },
+      { "nombre": "EL CRUCE DE OCOA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL CRUCE DE OCOA - Interior", "valor": 100 },
+      { "nombre": "EL RASTRILLO (POBLADO)", "valor": 100 },
+      { "nombre": "EL RASTRILLO - Con frente a la carretera", "valor": 100 },
+      { "nombre": "EL RASTRILLO - Interior", "valor": 80 },
+      { "nombre": "MONTE MAMON (POBLADO) - Con frente a la carretera", "valor": 300 },
+      { "nombre": "MONTE MAMON - Interior", "valor": 250 },
+      { "nombre": "CERRITO LIMON (POBLADO) - Con frente a la carretera", "valor": 300 },
+      { "nombre": "CERRITO LIMON - Interior", "valor": 250 },
+      { "nombre": "CANADA ARRIBA (POBLADO) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CANADA ARRIBA - Interior", "valor": 50 },
+      { "nombre": "ESCONDIDO (POBLADO) - Con frente a la carretera", "valor": 100 },
+      { "nombre": "ESCONDIDO - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Fundación",
+    "zona": "Rural",
+    "seccion": "LOS RANCHITOS",
+    "parajes": [
+      { "nombre": "LOS RANCHITOS (POBLADO)", "valor": 750 },
+      { "nombre": "LOS RANCHITOS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS RANCHITOS - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Sabana Buey",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Sabana Buey",
+    "zona": "Urbana",
+    "sector": "BARRIO NUEVO",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Sabana Buey",
+    "zona": "Urbana",
+    "sector": "LOS CORBANITOS",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Sabana Buey",
+    "zona": "Rural",
+    "seccion": "EL PALMARITO",
+    "parajes": [
+      { "nombre": "EL PALMARITO (POBLADO) - Con frente a la carretera a PUNTA ARENA", "valor": 1500 },
+      { "nombre": "EL PALMARITO - Interior", "valor": 250 },
+      { "nombre": "PLAYA PUNTA ARENA", "valor": 4000 },
+      { "nombre": "SABANA DE LA CRUZ (POBLADO) - Con frente a la carretera", "valor": 300 },
+      { "nombre": "SABANA DE LA CRUZ - Interior", "valor": 250 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Sabana Buey",
+    "zona": "Rural",
+    "seccion": "SABANA BUEY",
+    "parajes": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 4200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "PAYA ARRIBA",
+    "valor_promedio": 4300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "SAONA",
+    "valor_promedio": 4200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "JARRO SUCIO",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "EL RINCON",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "LAS MARGARITAS",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "URBANIZACION EL TANQUE",
+    "valor_promedio": 4200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "EL MANGUITO",
+    "valor_promedio": 2200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "LA BERMA",
+    "valor_promedio": 4200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "PAYA EN MEDIO",
+    "valor_promedio": 4300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "PAYA ABAJO",
+    "valor_promedio": 4200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "LAS CAÑITAS",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "LOS QUEMADOS",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "URBANIZACION TONO",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "RESIDENCIAL VILLA DEL CANAL",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "LA JAVILLA",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Urbana",
+    "sector": "RESIDENCIAL MEGURU",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Rural",
+    "seccion": "ESCONDIDO",
+    "parajes": [
+      { "nombre": "ESCONDIDO (POBLADO)", "valor": 4000 },
+      { "nombre": "ESCONDIDO - Con frente a la carretera SANCHEZ", "valor": 5000 },
+      { "nombre": "ESCONDIDO - Interior", "valor": 180 },
+      { "nombre": "LAS BAYONAS - Con frente a la carretera", "valor": 180 },
+      { "nombre": "LAS BAYONAS - Interior", "valor": 150 },
+      { "nombre": "LA JAVILLA - Con frente a la carretera SANCHEZ", "valor": 4000 },
+      { "nombre": "LA JAVILLA - Interior", "valor": 180 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Rural",
+    "seccion": "MATA GORDA",
+    "parajes": [
+      { "nombre": "MATA GORDA (POBLADO) - Con frente a la carretera SANCHEZ", "valor": 4000 },
+      { "nombre": "MATA GORDA - Interior", "valor": 180 },
+      { "nombre": "SABANA CHIQUITA (POBLADO)", "valor": 2000 },
+      { "nombre": "SABANA CHIQUITA - Con frente a la carretera SANCHEZ", "valor": 4000 },
+      { "nombre": "SABANA CHIQUITA - Interior", "valor": 180 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Paya",
+    "zona": "Rural",
+    "seccion": "PAYA RURAL",
+    "parajes": [
+      { "nombre": "PAYA ABAJO (POBLADO) - Con frente a la carretera", "valor": 300 },
+      { "nombre": "PAYA ABAJO - Interior", "valor": 180 },
+      { "nombre": "SABANA JOVERO (POBLADO) - Con frente a la carretera SANCHEZ", "valor": 300 },
+      { "nombre": "SABANA JOVERO - Interior", "valor": 180 },
+      { "nombre": "SABANA JOVERO - Playa", "valor": 3000 },
+      { "nombre": "OJO DE AGUA - Con frente a la carretera", "valor": 250 },
+      { "nombre": "OJO DE AGUA - Interior", "valor": 200 },
+      { "nombre": "LA VEREDA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA VEREDA - Interior", "valor": 100 },
+      { "nombre": "EL VOLADERO - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL VOLADERO - Interior", "valor": 100 },
+      { "nombre": "AGUA MALA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "AGUA MALA - Interior", "valor": 100 },
+      { "nombre": "EL RETIRO - Con frente a la carretera", "valor": 180 },
+      { "nombre": "EL RETIRO - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "BARRIO EL POZO",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "BARRIO OCOA",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "NACO",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "EL BRISAL",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "LA ALTAGRACIA (RAMONCITO)",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "URBANIZACIÓN KARINA",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "RESIDENCIAL KARINA",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "PAPATINO (VILLA LUZ)",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "URBANIZACIÓN SAONA",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "BARRIO LAS CASITAS",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "LOS CARTONES",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "URBANIZACIÓN PATRIA MINERVA",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "MARCIAL PEÑA",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "GUAYACANES",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "RINCON DE LOS ALBERTO",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "LOS ROBLES",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "LAS FLORES",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "PUEBLO NUEVO",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "GUATAPANA",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "DONA GINA",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "LAS AREPAS",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "RESIDENCIAL RENACER",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "RESIDENCIAL EMELY I",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Urbana",
+    "sector": "RESIDENCIAL IMPERIUM",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Villa Sombrero",
+    "zona": "Rural",
+    "seccion": "VILLA SOMBRERO",
+    "parajes": [
+      { "nombre": "EL JOBO (POBLADO) - Con frente a la carretera MAXIMO GOMEZ", "valor": 1000 },
+      { "nombre": "EL JOBO - Interior", "valor": 300 },
+      { "nombre": "LA RAQUETA (POBLADO)", "valor": 1500 },
+      { "nombre": "LA RAQUETA - Con frente a la carretera", "valor": 300 },
+      { "nombre": "LA RAQUETA - Interior", "valor": 250 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "CARRETON",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "EL AGUACATE",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "LOS ALMENDROS",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "LOS CABRERA",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "LOS MAMEYES",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "LOS PINOS",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "LA LOMA DEL CHIVO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "ARROYO MINGO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Urbana",
+    "sector": "LA CLINICA",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Carretón",
+    "zona": "Rural",
+    "seccion": "EL CARRETON",
+    "parajes": [
+      { "nombre": "EL CARRETON - Con frente a la carretera", "valor": 180 },
+      { "nombre": "EL CARRETON - Interior", "valor": 150 },
+      { "nombre": "SABANA LARGA - Con frente a la carretera", "valor": 180 },
+      { "nombre": "SABANA LARGA - Interior", "valor": 150 },
+      { "nombre": "EL GUANO - Con frente a la carretera", "valor": 180 },
+      { "nombre": "EL GUANO - Interior", "valor": 150 },
+      { "nombre": "LOS MAYALES - Con frente a la carretera", "valor": 180 },
+      { "nombre": "LOS MAYALES - Interior", "valor": 150 },
+      { "nombre": "LOS PINOS - Con frente a la carretera", "valor": 180 },
+      { "nombre": "LOS PINOS - Interior", "valor": 150 },
+      { "nombre": "LA LOMA DEL CHIVO - Con frente a la carretera", "valor": 180 },
+      { "nombre": "LA LOMA DEL CHIVO - Interior", "valor": 150 },
+      { "nombre": "ARROYO MINGO - Con frente a la carretera", "valor": 180 },
+      { "nombre": "ARROYO MINGO - Interior", "valor": 150 },
+      { "nombre": "LA CLINICA - Con frente a la carretera", "valor": 180 },
+      { "nombre": "LA CLINICA - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "RINCON O CATALINA",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "LOS POLANCO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "LOS JARDINES",
+    "valor_promedio": 2300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "ERIBERTO LUGO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "LOS CLAVELES",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "LOS CABLES O CARRETERA LINDA",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "LA DELICIA",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Urbana",
+    "sector": "LAS FLORES",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Catalina",
+    "zona": "Rural",
+    "seccion": "CATALINA",
+    "parajes": [
+      { "nombre": "BATEY LA NORIA - Con frente a la carretera SANCHEZ", "valor": 3000 },
+      { "nombre": "BATEY LA NORIA - Interior", "valor": 150 },
+      { "nombre": "SAN JOSE - Con frente a la carretera", "valor": 180 },
+      { "nombre": "SAN JOSE - Interior", "valor": 150 },
+      { "nombre": "CARRETALINA (POBLADO)", "valor": 2000 },
+      { "nombre": "CARRETALINA - Con frente a la carretera", "valor": 200 },
+      { "nombre": "CARRETALINA - Interior", "valor": 150 },
+      { "nombre": "LA DELICIA (POBLADO) - Con frente a la carretera SANCHEZ", "valor": 3000 },
+      { "nombre": "LA DELICIA - Interior", "valor": 150 },
+      { "nombre": "COLONIA CATALINA - Con frente a la carretera", "valor": 180 },
+      { "nombre": "COLONIA CATALINA - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "ALTO DEL LIMONAL",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "LOS CAMPECHES",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "LOS CAJULITOS",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "LAS FLORES",
+    "valor_promedio": 1700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "LA CACHIMBA",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "LOS ACOSTADOS",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Urbana",
+    "sector": "ARROYO SALADO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Rural",
+    "seccion": "LA IGUANA",
+    "parajes": [
+      { "nombre": "LA IGUANA (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA IGUANA - Interior", "valor": 50 },
+      { "nombre": "PALO BONITO (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "PALO BONITO - Interior", "valor": 50 },
+      { "nombre": "IGUANA ARRIBA (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "IGUANA ARRIBA - Interior", "valor": 50 },
+      { "nombre": "IGUANA ABAJO (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "IGUANA ABAJO - Interior", "valor": 50 },
+      { "nombre": "CORTE NUEVO - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CORTE NUEVO - Interior", "valor": 50 },
+      { "nombre": "LOS CORBANOS (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LOS CORBANOS - Interior", "valor": 50 },
+      { "nombre": "LAS LAGUNAS (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LAS LAGUNAS - Interior", "valor": 50 },
+      { "nombre": "LA RINCONADA (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA RINCONADA - Interior", "valor": 50 },
+      { "nombre": "RINCONCITO (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 50 },
+      { "nombre": "RINCONCITO - Interior", "valor": 50 },
+      { "nombre": "LA MANACITA (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LA MANACITA - Interior", "valor": 50 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Rural",
+    "seccion": "LA CABRIA",
+    "parajes": [
+      { "nombre": "LA CABRIA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA CABRIA - Interior", "valor": 100 },
+      { "nombre": "LA VEREDA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA VEREDA - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Rural",
+    "seccion": "ARROYO SALADO",
+    "parajes": [
+      { "nombre": "ARROYO SALADO - Con frente a la carretera", "valor": 150 },
+      { "nombre": "ARROYO SALADO - Interior", "valor": 100 },
+      { "nombre": "LAS YAGUAS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LAS YAGUAS - Interior", "valor": 100 },
+      { "nombre": "LA PALMA HERRADA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LA PALMA HERRADA - Interior", "valor": 100 },
+      { "nombre": "EL DESECHO - Con frente a la carretera", "valor": 150 },
+      { "nombre": "EL DESECHO - Interior", "valor": 100 },
+      { "nombre": "CAÑADA DE LOS PUERCOS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "CAÑADA DE LOS PUERCOS - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "El Limonal",
+    "zona": "Rural",
+    "seccion": "LOS JOVITOS",
+    "parajes": [
+      { "nombre": "LOS JOVITOS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS JOVITOS - Interior", "valor": 100 },
+      { "nombre": "LOS GUANABANOS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS GUANABANOS - Interior", "valor": 100 },
+      { "nombre": "BUENA VISTA - Con frente a la carretera", "valor": 100 },
+      { "nombre": "BUENA VISTA - Interior", "valor": 100 },
+      { "nombre": "CONTRAEMBALSE (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CONTRAEMBALSE - Interior", "valor": 50 },
+      { "nombre": "CRUZ DE MARCOS (PARQUE NACIONAL MAXIMO GOMEZ) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CRUZ DE MARCOS - Interior", "valor": 50 },
+      { "nombre": "ARROYO HONDO - Con frente a la carretera", "valor": 150 },
+      { "nombre": "ARROYO HONDO - Interior", "valor": 100 },
+      { "nombre": "ARROYO CANOA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "ARROYO CANOA - Interior", "valor": 100 },
+      { "nombre": "LOMA DEL GUAMO - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOMA DEL GUAMO - Interior", "valor": 100 },
+      { "nombre": "CANADA PRIETA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "CANADA PRIETA - Interior", "valor": 100 },
+      { "nombre": "ARROYO MINGO - Con frente a la carretera", "valor": 150 },
+      { "nombre": "ARROYO MINGO - Interior", "valor": 100 },
+      { "nombre": "LOS SITIOS DE JUAN DECENA - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LOS SITIOS DE JUAN DECENA - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "MEDIA BLANCA",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "ZAPOTAL",
+    "valor_promedio": 1200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "MACO VERDE",
+    "valor_promedio": 1200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "COBACASA",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "COBACASA CON FRENTE A LA PLAYA",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "CIUDAD NUEVA",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "LAS MERCEDES",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "LOS PAULAS",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "BRISA DEL MAR",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Urbana",
+    "sector": "BESO DEL SOL (AGUA BUENISIMA)",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Rural",
+    "seccion": "DON GREGORIO",
+    "parajes": [
+      { "nombre": "DON GREGORIO (POBLADO)", "valor": 2000 },
+      { "nombre": "DON GREGORIO - Con frente a la carretera", "valor": 200 },
+      { "nombre": "DON GREGORIO - Interior", "valor": 180 },
+      { "nombre": "LOS SALADOS (POBLADO) - Con frente a la carretera", "valor": 180 },
+      { "nombre": "LOS SALADOS - Interior", "valor": 150 },
+      { "nombre": "ALTO DE LA ESTANCIA (POBLADO) - Con frente a la carretera", "valor": 180 },
+      { "nombre": "ALTO DE LA ESTANCIA - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Rural",
+    "seccion": "GUALEY",
+    "parajes": [
+      { "nombre": "GUALEY (POBLADO)", "valor": 500 },
+      { "nombre": "GUALEY - Con frente a la carretera", "valor": 100 },
+      { "nombre": "GUALEY - Interior", "valor": 90 },
+      { "nombre": "LOS ROCHE (POBLADO)", "valor": 400 },
+      { "nombre": "LOS ROCHE - Con frente a la carretera", "valor": 100 },
+      { "nombre": "LOS ROCHE - Interior", "valor": 90 },
+      { "nombre": "COMPUERTA DE LICO (POBLADO)", "valor": 400 },
+      { "nombre": "COMPUERTA DE LICO - Con frente a la carretera", "valor": 100 },
+      { "nombre": "COMPUERTA DE LICO - Interior", "valor": 90 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Rural",
+    "seccion": "QUIJA QUIETA",
+    "parajes": [
+      { "nombre": "QUIJA QUIETA (POBLADO)", "valor": 1000 },
+      { "nombre": "QUIJA QUIETA - Con frente a la carretera MAXIMO GOMEZ", "valor": 1500 },
+      { "nombre": "QUIJA QUIETA - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Rural",
+    "seccion": "LASTABLAS",
+    "parajes": [
+      { "nombre": "LASTABLAS (POBLADO)", "valor": 1500 },
+      { "nombre": "LASTABLAS - Con frente a la carretera", "valor": 150 },
+      { "nombre": "LASTABLAS - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Rural",
+    "seccion": "GALEON",
+    "parajes": [
+      { "nombre": "GALEON (POBLADO)", "valor": 1500 },
+      { "nombre": "GALEON - Con frente a la carretera SANCHEZ", "valor": 1500 },
+      { "nombre": "GALEON - Interior", "valor": 100 },
+      { "nombre": "LAS CALABAZAS (POBLADO) - Con frente a la carretera", "valor": 100 },
+      { "nombre": "LAS CALABAZAS - Interior", "valor": 80 },
+      { "nombre": "ANGOSTURA (POBLADO)", "valor": 100 },
+      { "nombre": "ANGOSTURA - Con frente a la carretera SANCHEZ", "valor": 1500 },
+      { "nombre": "ANGOSTURA - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Rural",
+    "seccion": "SAN JOSE",
+    "parajes": [
+      { "nombre": "SAN JOSE (POBLADO)", "valor": 750 },
+      { "nombre": "SAN JOSE - Con frente a la carretera MAXIMO GOMEZ", "valor": 900 },
+      { "nombre": "SAN JOSE - Interior", "valor": 100 },
+      { "nombre": "LOS RIELES (POBLADO)", "valor": 750 },
+      { "nombre": "LOS RIELES - Con frente a la carretera MAXIMO GOMEZ", "valor": 900 },
+      { "nombre": "LOS RIELES - Interior", "valor": 80 },
+      { "nombre": "HATO FINO (POBLADO)", "valor": 750 },
+      { "nombre": "HATO FINO - Con frente a la carretera", "valor": 800 },
+      { "nombre": "HATO FINO - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Matanzas",
+    "zona": "Rural",
+    "seccion": "LOS TUMBAOS",
+    "parajes": [
+      { "nombre": "LOS TUMBAOS (POBLADO)", "valor": 1500 },
+      { "nombre": "LOS TUMBAOS - Con frente a la carretera MAXIMO GOMEZ", "valor": 1800 },
+      { "nombre": "LOS TUMBAOS - Interior", "valor": 200 },
+      { "nombre": "AGUSADERA (POBLADO) - Con frente a la carretera MAXIMO GOMEZ", "valor": 1800 },
+      { "nombre": "AGUSADERA - Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "SANTANA ARRIBA",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LOS PIANTINI",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LOS COCOS",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LAS BARIAS",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "BARRIO BUENAS NUEVAS",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LA CERCA",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "CENACI",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "BRISAS DEL RIO",
+    "valor_promedio": 1200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "EL QUILOMBO (PROPIEDAD DE LOS VICINI)",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "SANTANA ABAJO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "SAN ANTONIO",
+    "valor_promedio": 1200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LOS JARDINES",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LAS FLORES",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LOS LARA",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "CRUCE DE NIZAO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LUCAS DIAS",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LINDO NORTE",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "LINDO SUR",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Urbana",
+    "sector": "ALTOS DE LOS MELONES",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Rural",
+    "seccion": "LUCA DIAZ",
+    "parajes": [
+      { "nombre": "LUCA DIAZ - Con frente a la carretera SANCHEZ", "valor": 1300 },
+      { "nombre": "LUCA DIAZ - Interior", "valor": 150 },
+      { "nombre": "RAMON CHALAS - Con frente a la carretera", "valor": 180 },
+      { "nombre": "RAMON CHALAS - Interior", "valor": 150 },
+      { "nombre": "BOCA DEL ARROYO - Con frente a la carretera", "valor": 180 },
+      { "nombre": "BOCA DEL ARROYO - Interior", "valor": 150 },
+      { "nombre": "BARRIO LINDO - Con frente a la carretera", "valor": 180 },
+      { "nombre": "BARRIO LINDO - Interior", "valor": 150 },
+      { "nombre": "LA ESTANCIA - Con frente a la carretera", "valor": 180 },
+      { "nombre": "LA ESTANCIA - Interior", "valor": 150 },
+      { "nombre": "MARIA CONSUELO (POBLADO) - Con frente a la carretera", "valor": 200 },
+      { "nombre": "MARIA CONSUELO - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "Peravia",
+    "municipio": "Santana",
+    "zona": "Rural",
+    "seccion": "YIYO GOMEZ",
+    "parajes": [
+      { "nombre": "YIYO GOMEZ (POBLADO)", "valor": 700 },
+      { "nombre": "YIYO GOMEZ - Con frente a la carretera SANCHEZ", "valor": 3000 },
+      { "nombre": "YIYO GOMEZ - Interior", "valor": 150 },
+      { "nombre": "ALTO DE LOS MELONES (POBLADO)", "valor": 700 },
+      { "nombre": "ALTO DE LOS MELONES - Con frente a la carretera", "valor": 180 },
+      { "nombre": "ALTO DE LOS MELONES - Interior", "valor": 150 },
+      { "nombre": "LOS FRANCO (POBLADO)", "valor": 1000 },
+      { "nombre": "LOS FRANCO - Con frente a la carretera", "valor": 200 },
+      { "nombre": "LOS FRANCO - Interior", "valor": 180 }
+    ]
+  }
+]

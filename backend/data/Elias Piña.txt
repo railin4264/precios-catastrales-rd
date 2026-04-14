@@ -1,0 +1,1447 @@
+[
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "CENTRO DE LA CIUDAD",
+    "valor_promedio": 8000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Benjamín Ogando",
+      "este": "Calle Las Carreras",
+      "sur": "Calle Francisco del Rosario Sánchez",
+      "oeste": "Calle Luz Celeste Lara"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Santa Teresa (desde 27 de Febrero hasta Colon)", "valor": 8000 },
+      { "nombre": "Calle Juan Pablo Duarte (desde Paulino hasta Mercedes)", "valor": 8000 },
+      { "nombre": "Calle 27 de Febrero (desde Ramón Matías Mella hasta Santa Teresa)", "valor": 8000 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "VILLA HORTENCIA",
+    "subsectores": [
+      { "nombre": "BO. CRISTO SALVADOR", "valor": null },
+      { "nombre": "BO. LA GALLERA", "valor": null },
+      { "nombre": "BO. EL PLAY", "valor": null },
+      { "nombre": "BO. VILLA PROGRESO", "valor": null },
+      { "nombre": "BO. LAVADOR NORTE", "valor": null },
+      { "nombre": "BO. LOS CERROS DEL CHIVO", "valor": null },
+      { "nombre": "BO. LA CARCEL", "valor": null },
+      { "nombre": "BO. LOS PAULINOS", "valor": null }
+    ],
+    "limites": {
+      "norte": "Calle Colon y calle Luz Celeste Lara a la salida del pueblo",
+      "este": "Carretera a Sabana Larga",
+      "sur": "Carretera Sánchez",
+      "oeste": "Carretera Pinzón"
+    },
+    "vias_principales": [
+      { "nombre": "Carretera Sánchez (desde Sabana Larga hasta Pinzón)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "GALINDO",
+    "valor_promedio": 800,
+    "subsectores": [
+      { "nombre": "GALINDO (DETRÁS DEL CENTRO DEL PUEBLO)", "valor": null },
+      { "nombre": "RECIDENCIAL OGANDO (DETRÁS DE CESFRONT)", "valor": null },
+      { "nombre": "BO. LA VIRGEN", "valor": null },
+      { "nombre": "BO. LA ANTENA", "valor": null },
+      { "nombre": "BO. LA DELICIA", "valor": null },
+      { "nombre": "BO. MILITAR", "valor": null },
+      { "nombre": "BO. EL MANGO", "valor": null },
+      { "nombre": "BO. ANA PATRICIA MARTINEZ", "valor": null }
+    ],
+    "limites": {
+      "norte": "calle Francisco del Rosario Sánchez y carretera Sánchez",
+      "este": "Entrada a Guayabo",
+      "sur": "Carretera la Pastilla y carretera a Hondo Valle",
+      "oeste": "Calle Juan Pablo Duarte"
+    },
+    "vias_principales": [
+      { "nombre": "Carretera Sánchez (desde Juan Pablo Duarte hasta entrada DM Guayabo)", "valor": 5000 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "LOS RINCONCITOS",
+    "parajes": [
+      { "nombre": "LOS RINCONCITOS - Con frente a la carretera", "valor": null },
+      { "nombre": "LOS RINCONCITOS - Interior", "valor": null },
+      { "nombre": "SABANA CAMPO - Con frente a la carretera", "valor": null },
+      { "nombre": "SABANA CAMPO - Interior", "valor": null },
+      { "nombre": "SABANA YEGUA - Con frente a la carretera", "valor": null },
+      { "nombre": "SABANA YEGUA - Interior", "valor": null }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "PUELLO",
+    "parajes": [
+      { "nombre": "PUELLO - Con frente a la carretera", "valor": null },
+      { "nombre": "PUELLO - Interior", "valor": null },
+      { "nombre": "LAMBEDEROS - Con frente a la carretera", "valor": null },
+      { "nombre": "LAMBEDEROS - Interior", "valor": null },
+      { "nombre": "LA MARGARITA - Con frente a la carretera", "valor": null },
+      { "nombre": "LA MARGARITA - Interior", "valor": null },
+      { "nombre": "POZO HONDO - Con frente a la carretera", "valor": null },
+      { "nombre": "POZO HONDO - Interior", "valor": null }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "CORRAL DE MARCOS",
+    "parajes": [
+      { "nombre": "CORRAL DE MARCOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "CORRAL DE MARCOS - Interior", "valor": 15 },
+      { "nombre": "EL CARRIL - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL CARRIL - Interior", "valor": 15 },
+      { "nombre": "AFORTUNADA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "AFORTUNADA - Interior", "valor": 15 },
+      { "nombre": "HATO NUEVO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "HATO NUEVO - Interior", "valor": 15 },
+      { "nombre": "CRUCE DE MALENA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "CRUCE DE MALENA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "LA JAGUA",
+    "parajes": [
+      { "nombre": "LA JAGUA - Con frente a la carretera", "valor": 30 },
+      { "nombre": "LA JAGUA - Interior", "valor": 15 },
+      { "nombre": "CRUCE DE MUNDITO - Con frente a la carretera", "valor": 35 },
+      { "nombre": "CRUCE DE MUNDITO - Interior", "valor": 25 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "JUAN FELIPE",
+    "parajes": [
+      { "nombre": "CARRETERA A PINZÓN (DESDE ADUANA MÁS 200 METROS)", "valor": 6000 },
+      { "nombre": "CARRETERA A PINZÓN - Con frente a la carretera", "valor": 30 },
+      { "nombre": "CARRETERA A PINZÓN - Interior", "valor": 15 },
+      { "nombre": "CAOBAL - Centro del pueblo", "valor": 400 },
+      { "nombre": "CAOBAL - Con frente a la carretera", "valor": 60 },
+      { "nombre": "CAOBAL - Interior", "valor": 30 },
+      { "nombre": "LOS JENGIBRES ARRIBA - Con frente a la carretera", "valor": 60 },
+      { "nombre": "LOS JENGIBRES ARRIBA - Interior", "valor": 30 },
+      { "nombre": "LOS CALLEJONES - Con frente a la carretera", "valor": 40 },
+      { "nombre": "LOS CALLEJONES - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "MACASIÁ",
+    "parajes": [
+      { "nombre": "MACASIÁ - Centro del pueblo", "valor": 60 },
+      { "nombre": "MACASIÁ - Con frente a la carretera", "valor": 30 },
+      { "nombre": "MACASIÁ - Interior", "valor": 20 },
+      { "nombre": "LAS DOS BOCAS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LAS DOS BOCAS - Interior", "valor": 15 },
+      { "nombre": "EL HOYO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL HOYO - Interior", "valor": 15 },
+      { "nombre": "EL MORRO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL MORRO - Interior", "valor": 15 },
+      { "nombre": "CARRERA VERDE - Con frente a la carretera", "valor": 30 },
+      { "nombre": "CARRERA VERDE - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "LA PATILLA",
+    "parajes": [
+      { "nombre": "LA PATILLA - Centro del pueblo", "valor": 100 },
+      { "nombre": "LA PATILLA - Con frente a la carretera", "valor": 30 },
+      { "nombre": "LA PATILLA - Interior", "valor": 15 },
+      { "nombre": "EL CARRIZAL - Interior", "valor": 15 },
+      { "nombre": "CARRERA DE SIERRA - Con frente a la carretera", "valor": 30 },
+      { "nombre": "LA CEIBA - Con frente a la carretera", "valor": 30 },
+      { "nombre": "LA CABRA - EL CERRO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA CABRA - EL CERRO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "LOS COROCITOS",
+    "parajes": [
+      { "nombre": "LOS COROCITOS - Con frente a la carretera", "valor": 200 },
+      { "nombre": "LOS COROCITOS - Interior", "valor": 50 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "EL PINO",
+    "parajes": [
+      { "nombre": "EL PINO - Con frente a la carretera Sánchez", "valor": 1000 },
+      { "nombre": "EL PINO - Camino", "valor": 100 },
+      { "nombre": "EL PINO - Interior", "valor": 20 },
+      { "nombre": "BARRANCA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "BARRANCA - Interior", "valor": 15 },
+      { "nombre": "GUAZUMAL - Con frente a la carretera Sánchez", "valor": 1000 },
+      { "nombre": "GUAZUMAL - Interior", "valor": 20 },
+      { "nombre": "MATA BONITA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "MATA BONITA - Interior", "valor": 15 },
+      { "nombre": "LA CUNA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA CUNA - Interior", "valor": 15 },
+      { "nombre": "RANCHO DEL NEGRO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "RANCHO DEL NEGRO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Comendador",
+    "zona": "Rural",
+    "seccion": "PINZON",
+    "parajes": [
+      { "nombre": "PINZON - Poblado", "valor": 50 },
+      { "nombre": "PINZON - Con frente a la carretera", "valor": 25 },
+      { "nombre": "PINZON - Interior", "valor": 15 },
+      { "nombre": "LA LOMITA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA LOMITA - Interior", "valor": 15 },
+      { "nombre": "RONCADOR - Con frente a la carretera", "valor": 25 },
+      { "nombre": "RONCADOR - Interior", "valor": 15 },
+      { "nombre": "EL HUESO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL HUESO - Interior", "valor": 15 },
+      { "nombre": "EL DUAN - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL DUAN - Interior", "valor": 15 },
+      { "nombre": "LUCÁZADA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LUCÁZADA - Interior", "valor": 15 },
+      { "nombre": "PRUDENCIO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "PRUDENCIO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1000,
+    "subsectores": [],
+    "limites": null,
+    "vias_principales": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Urbana",
+    "sector": "LA ROSA",
+    "valor_promedio": 300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Urbana",
+    "sector": "LOS MARTINEZ",
+    "valor_promedio": 200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Urbana",
+    "sector": "ESCONDIDO",
+    "valor_promedio": 300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Rural",
+    "seccion": "ANGOSTURA",
+    "parajes": [
+      { "nombre": "ANGOSTURA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "ANGOSTURA - Interior", "valor": 40 },
+      { "nombre": "BATEY I - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY I - Interior", "valor": 40 },
+      { "nombre": "MONTE GRANDE - Con frente a la carretera", "valor": 25 },
+      { "nombre": "MONTE GRANDE - Interior", "valor": 15 },
+      { "nombre": "LOS JOBAZOS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LOS JOBAZOS - Interior", "valor": 15 },
+      { "nombre": "JUNQUITO - Con frente a la carretera", "valor": 30 },
+      { "nombre": "JUNQUITO - Interior", "valor": 15 },
+      { "nombre": "LOS COBARNOS - Con frente a la carretera", "valor": 30 },
+      { "nombre": "LOS COBARNOS - Interior", "valor": 15 },
+      { "nombre": "PIEDRA HINCADA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "PIEDRA HINCADA - Interior", "valor": 15 },
+      { "nombre": "LOS COCUYOS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LOS COCUYOS - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Rural",
+    "seccion": "HATO VIEJO",
+    "parajes": [
+      { "nombre": "HATO VIEJO - Con frente a la carretera", "valor": 200 },
+      { "nombre": "HATO VIEJO - Interior", "valor": 100 },
+      { "nombre": "EL CANDELON - Con frente a la carretera", "valor": 40 },
+      { "nombre": "EL CANDELON - Interior", "valor": 15 },
+      { "nombre": "CANADA GRANDE - Con frente a la carretera", "valor": 25 },
+      { "nombre": "CANADA GRANDE - Interior", "valor": 15 },
+      { "nombre": "EL BATAEY - Con frente a la carretera", "valor": 50 },
+      { "nombre": "EL BATAEY - Interior", "valor": 25 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Rural",
+    "seccion": "POTROSO",
+    "parajes": [
+      { "nombre": "POTROSO - Centro del pueblo", "valor": 100 },
+      { "nombre": "POTROSO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "POTROSO - Interior", "valor": 30 },
+      { "nombre": "OJO DE AGUA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "OJO DE AGUA - Interior", "valor": 15 },
+      { "nombre": "LA MINA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA MINA - Interior", "valor": 15 },
+      { "nombre": "TIERRA HONDA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "TIERRA HONDA - Interior", "valor": 15 },
+      { "nombre": "LA COTORRA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA COTORRA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Larga",
+    "zona": "Rural",
+    "seccion": "POTRO BLANCO",
+    "parajes": [
+      { "nombre": "POTRO BLANCO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "POTRO BLANCO - Interior", "valor": 20 },
+      { "nombre": "EL SALTO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL SALTO - Interior", "valor": 15 },
+      { "nombre": "SABANETA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "SABANETA - Interior", "valor": 15 },
+      { "nombre": "EL BARRERO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL BARRERO - Interior", "valor": 15 },
+      { "nombre": "LA ESTRELLETA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA ESTRELLETA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guayabo",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guayabo",
+    "zona": "Urbana",
+    "sector": "LAVADOR SUR",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guayabo",
+    "zona": "Urbana",
+    "sector": "LA MARIQUITA",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guayabo",
+    "zona": "Urbana",
+    "sector": "MILITAR",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guayabo",
+    "zona": "Rural",
+    "seccion": "GUAZUMAL",
+    "parajes": [
+      { "nombre": "PALERMO", "valor": 900 },
+      { "nombre": "PALERMO - Con frente a la carretera", "valor": 1500 },
+      { "nombre": "PALERMO - Interior", "valor": 50 },
+      { "nombre": "MESETA - Con frente a la carretera", "valor": 800 },
+      { "nombre": "MESETA - Interior", "valor": 50 },
+      { "nombre": "GUAZUMAL - Con frente a la carretera Sánchez", "valor": 1200 },
+      { "nombre": "GUAZUMAL - Interior", "valor": 50 },
+      { "nombre": "GUAZUMAL ABAJO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "GUAZUMAL ABAJO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guayabo",
+    "zona": "Rural",
+    "seccion": "ISIDRO MARTINEZ",
+    "parajes": [
+      { "nombre": "ISIDRO MARTINEZ - Con frente a la carretera", "valor": 150 },
+      { "nombre": "ISIDRO MARTINEZ - Interior", "valor": 25 },
+      { "nombre": "PALO GRANDE", "valor": 20 },
+      { "nombre": "SABACA ABAJO", "valor": 20 },
+      { "nombre": "SABACA ARRIBA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "SABACA ARRIBA - Interior", "valor": 15 },
+      { "nombre": "GUADIA VIEJA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "GUADIA VIEJA - Interior", "valor": 20 },
+      { "nombre": "LA LAJITA DE ANTONIO MORETA", "valor": 25 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guayabo",
+    "zona": "Rural",
+    "seccion": "LA MESETA",
+    "parajes": [
+      { "nombre": "EL CEDRO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL CEDRO - Interior", "valor": 15 },
+      { "nombre": "LA MESETA ABAJO", "valor": 1000 },
+      { "nombre": "LA MESETA ABAJO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA MESETA ABAJO - Interior", "valor": 20 },
+      { "nombre": "LA MESETA ARRIBA", "valor": 1000 },
+      { "nombre": "LA MESETA ARRIBA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA MESETA ARRIBA - Interior", "valor": 20 },
+      { "nombre": "LA TINAJA O TINAJITA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA TINAJA O TINAJITA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "zona": "Urbana",
+    "sector": "LA PLANTA O EL GAJO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "zona": "Urbana",
+    "sector": "LA RECTA",
+    "valor_promedio": 1200,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "zona": "Urbana",
+    "sector": "LOS MULTI",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "zona": "Urbana",
+    "sector": "CALLEJON DE MERAN",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "zona": "Rural",
+    "seccion": "LAS CANITAS",
+    "parajes": [
+      { "nombre": "LAS CANITAS - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LAS CANITAS - Interior", "valor": 20 },
+      { "nombre": "EL PAPAYO - Con frente a la carretera", "valor": 40 },
+      { "nombre": "EL PAPAYO - Interior", "valor": 20 },
+      { "nombre": "BLAS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "BLAS - Interior", "valor": 15 },
+      { "nombre": "EL MAMONCITO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL MAMONCITO - Interior", "valor": 15 },
+      { "nombre": "RINCON GRANDE - Con frente a la carretera", "valor": 25 },
+      { "nombre": "RINCON GRANDE - Interior", "valor": 15 },
+      { "nombre": "EL ESCARBADERO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL ESCARBADERO - Interior", "valor": 15 },
+      { "nombre": "MARIA ISABEL - Con frente a la carretera", "valor": 30 },
+      { "nombre": "MARIA ISABEL - Interior", "valor": 15 },
+      { "nombre": "LOS MEMISOS - Con frente a la carretera", "valor": 30 },
+      { "nombre": "LOS MEMISOS - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Bánica",
+    "zona": "Rural",
+    "seccion": "TABACAL",
+    "parajes": [
+      { "nombre": "TABACAL - Centro del pueblo", "valor": 50 },
+      { "nombre": "TABACAL - Con frente a la carretera", "valor": 25 },
+      { "nombre": "TABACAL - Interior", "valor": 15 },
+      { "nombre": "LA CRUZ - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA CRUZ - Interior", "valor": 15 },
+      { "nombre": "LOS PINOS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LOS PINOS - Interior", "valor": 15 },
+      { "nombre": "EL CAOBAL - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL CAOBAL - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Urbana",
+    "sector": "EL MILLON",
+    "valor_promedio": 600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Urbana",
+    "sector": "LA YAYITA",
+    "valor_promedio": 600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Rural",
+    "seccion": "SABANA CRUZ",
+    "parajes": [
+      { "nombre": "LOS JOBITOS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LOS JOBITOS - Interior", "valor": 15 },
+      { "nombre": "SAN ANDRES - Interior", "valor": 30 },
+      { "nombre": "SAN ANDRES - Con frente a la carretera", "valor": 40 },
+      { "nombre": "EL GUAYABO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL GUAYABO - Interior", "valor": 15 },
+      { "nombre": "EL MAMONCITO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL MAMONCITO - Interior", "valor": 15 },
+      { "nombre": "MARIA ISABAL - Con frente a la carretera", "valor": 20 },
+      { "nombre": "MARIA ISABAL - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Rural",
+    "seccion": "GUAYABAL",
+    "parajes": [
+      { "nombre": "GUAYABAL - Centro del pueblo", "valor": 50 },
+      { "nombre": "GUAYABAL - Con frente a carretera", "valor": 25 },
+      { "nombre": "GUAYABAL - Interior", "valor": 15 },
+      { "nombre": "EL PILON - Con frente a carretera", "valor": 25 },
+      { "nombre": "EL PILON - Interior", "valor": 15 },
+      { "nombre": "HATO VIEJO - Con frente a carretera", "valor": 25 },
+      { "nombre": "HATO VIEJO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Rural",
+    "seccion": "GUAROA",
+    "parajes": [
+      { "nombre": "GUAROA - Con frente a carretera", "valor": 25 },
+      { "nombre": "GUAROA - Interior", "valor": 15 },
+      { "nombre": "MANYAYA - Con frente a carretera", "valor": 25 },
+      { "nombre": "MANYAYA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Rural",
+    "seccion": "RASTRILLO",
+    "parajes": [
+      { "nombre": "RASTRILLO - Con frente a carretera", "valor": 25 },
+      { "nombre": "RASTRILLO - Interior", "valor": 15 },
+      { "nombre": "ESPINOSA - Con frente a carretera", "valor": 40 },
+      { "nombre": "ESPINOSA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Cruz",
+    "zona": "Rural",
+    "seccion": "EL FONDO",
+    "parajes": [
+      { "nombre": "EL FONDO - Centro del pueblo", "valor": 50 },
+      { "nombre": "EL FONDO - Con frente a carretera", "valor": 25 },
+      { "nombre": "EL FONDO - Interior", "valor": 15 },
+      { "nombre": "SABANA GRANDE - Con frente a la carretera", "valor": 25 },
+      { "nombre": "SABANA GRANDE - Interior", "valor": 15 },
+      { "nombre": "LOS CERCADILLOS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LOS CERCADILLOS - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Urbana",
+    "sector": "BO. LOS CHUPADEROS",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Urbana",
+    "sector": "BO. GUALEY",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Rural",
+    "seccion": "HIGUERO",
+    "parajes": [
+      { "nombre": "MATA BONITA - Con frente a carretera", "valor": 20 },
+      { "nombre": "MATA BONITA - Interior", "valor": 15 },
+      { "nombre": "LA MINA - Con frente a carretera", "valor": 20 },
+      { "nombre": "LA MINA - Interior", "valor": 15 },
+      { "nombre": "LOS CAMPECHITOS - Con frente a carretera", "valor": 25 },
+      { "nombre": "LOS CAMPECHITOS - Interior", "valor": 15 },
+      { "nombre": "LA CORCOVA - Con frente a carretera", "valor": 20 },
+      { "nombre": "LA CORCOVA - Interior", "valor": 15 },
+      { "nombre": "LA LAJITA - Con frente a carretera", "valor": 20 },
+      { "nombre": "LA LAJITA - Interior", "valor": 15 },
+      { "nombre": "ARROYO SALADO - Centro del pueblo", "valor": 50 },
+      { "nombre": "ARROYO SALADO - Con frente a carretera", "valor": 25 },
+      { "nombre": "ARROYO SALADO - Interior", "valor": 15 },
+      { "nombre": "LA CUPADERAS - Con frente a carretera", "valor": 20 },
+      { "nombre": "LA CUPADERAS - Interior", "valor": 15 },
+      { "nombre": "LOS PINALITOS - Con frente a carretera", "valor": 20 },
+      { "nombre": "LOS PINALITOS - Interior", "valor": 15 },
+      { "nombre": "LA HERRADURA - Con frente a carretera", "valor": 20 },
+      { "nombre": "LA HERRADURA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Rural",
+    "seccion": "LOS YAREYES",
+    "parajes": [
+      { "nombre": "LOS YAREYES - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LOS YAREYES - Interior", "valor": 15 },
+      { "nombre": "LOS PINTOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS PINTOS - Interior", "valor": 15 },
+      { "nombre": "EL PALISTAL - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL PALISTAL - Interior", "valor": 15 },
+      { "nombre": "LA PENA - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LA PENA - Interior", "valor": 15 },
+      { "nombre": "EL ANON - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL ANON - Interior", "valor": 15 },
+      { "nombre": "CLAVELLINAS - Con frente a la carretera", "valor": 25 },
+      { "nombre": "CLAVELLINAS - Interior", "valor": 15 },
+      { "nombre": "EL CAMPECHE - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL CAMPECHE - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Rural",
+    "seccion": "EL CANTON",
+    "parajes": [
+      { "nombre": "EL CANTON - Centro del pueblo", "valor": 50 },
+      { "nombre": "EL CANTON - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL CANTON - Interior", "valor": 15 },
+      { "nombre": "EL PON - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL PON - Interior", "valor": 15 },
+      { "nombre": "HATO VIEJO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "HATO VIEJO - Interior", "valor": 15 },
+      { "nombre": "LA VIAJACA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA VIAJACA - Interior", "valor": 15 },
+      { "nombre": "CHARCO COLORADO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "CHARCO COLORADO - Interior", "valor": 15 },
+      { "nombre": "EL VALLECITO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL VALLECITO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Rural",
+    "seccion": "LOS BOQUERONES",
+    "parajes": [
+      { "nombre": "LOS BOQUERONES - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS BOQUERONES - Interior", "valor": 15 },
+      { "nombre": "SABANA MULA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "SABANA MULA - Interior", "valor": 15 },
+      { "nombre": "EL CHARCO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL CHARCO - Interior", "valor": 15 },
+      { "nombre": "PALMA SOLA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PALMA SOLA - Interior", "valor": 15 },
+      { "nombre": "SABANA DEL PINO", "valor": 15 },
+      { "nombre": "SABANA EN MEDIO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "SABANA EN MEDIO - Interior", "valor": 15 },
+      { "nombre": "LA MAJUANA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA MAJUANA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Sabana Higuero",
+    "zona": "Rural",
+    "seccion": "CABAEZA DE LA SABANA",
+    "parajes": [
+      { "nombre": "EL NARANJO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL NARANJO - Interior", "valor": 15 },
+      { "nombre": "LA CAYA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA CAYA - Interior", "valor": 15 },
+      { "nombre": "LOS BRITO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LOS BRITO - Interior", "valor": 15 },
+      { "nombre": "ARROYO SECO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "ARROYO SECO - Interior", "valor": 15 },
+      { "nombre": "LA CANA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA CANA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "LA LECHOSA",
+    "valor_promedio": 900,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "PUEBLO NUEVO ARRIBA",
+    "valor_promedio": 600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "PUEBLO NUEVO ABAJO",
+    "valor_promedio": 900,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "BRISAS DEL ESTE",
+    "valor_promedio": 750,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "LA IGLESIA",
+    "valor_promedio": 750,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "BARRIO LA ESCUELA",
+    "valor_promedio": 1100,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "BARRIO LA VUELTA",
+    "valor_promedio": 750,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Urbana",
+    "sector": "LA YOYA",
+    "valor_promedio": 750,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "El Llano",
+    "zona": "Rural",
+    "seccion": "REBOSO",
+    "parajes": [
+      { "nombre": "REBOSO - Centro del pueblo", "valor": 1000 },
+      { "nombre": "MEDIA LUNA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "MEDIA LUNA - Interior", "valor": 30 },
+      { "nombre": "PALO SECO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PALO SECO - Interior", "valor": 15 },
+      { "nombre": "EL FUNDO - Con frente a la carretera", "valor": 30 },
+      { "nombre": "EL FUNDO - Interior", "valor": 20 },
+      { "nombre": "PALO GRANDE - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PALO GRANDE - Interior", "valor": 15 },
+      { "nombre": "GUAZUMAL-EL CHIVO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "GUAZUMAL-EL CHIVO - Interior", "valor": 15 },
+      { "nombre": "PIEDRA HINCADA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PIEDRA HINCADA - Interior", "valor": 15 },
+      { "nombre": "REBOSO PORTON DE EL LLANO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "REBOSO PORTON DE EL LLANO - Interior", "valor": 15 },
+      { "nombre": "PALMA CANA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PALMA CANA - Interior", "valor": 15 },
+      { "nombre": "EL MAMONCITO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL MAMONCITO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Urbana",
+    "sector": "LA LAJITA ARRIBA",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Urbana",
+    "sector": "LA LAJITA ABAJO",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Urbana",
+    "sector": "LAS TRES CRUCES",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Urbana",
+    "sector": "VENANCIO",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Urbana",
+    "sector": "JUAN CANO",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Urbana",
+    "sector": "LOS ARROYOS",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Rural",
+    "seccion": "LA LAGUNA",
+    "parajes": [
+      { "nombre": "ROSA DE LA PIEDRA - Con frente a la carretera", "valor": 35 },
+      { "nombre": "ROSA DE LA PIEDRA - Interior", "valor": 30 },
+      { "nombre": "LOS PINALITOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS PINALITOS - Interior", "valor": 10 },
+      { "nombre": "EL VALLE - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL VALLE - Interior", "valor": 20 },
+      { "nombre": "PLAN CAFE - Con frente a la carretera", "valor": 35 },
+      { "nombre": "PLAN CAFE - Interior", "valor": 30 },
+      { "nombre": "LAS LAGUNAS - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LAS LAGUNAS - Interior", "valor": 10 },
+      { "nombre": "EL AGUACATE - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL AGUACATE - Interior", "valor": 10 },
+      { "nombre": "EL HOYO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL HOYO - Interior", "valor": null }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Guanito",
+    "zona": "Rural",
+    "seccion": "BLANCO",
+    "parajes": [
+      { "nombre": "BLANCO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "BLANCO - Interior", "valor": 15 },
+      { "nombre": "BRUNO - Con frente a la carretera", "valor": 35 },
+      { "nombre": "BRUNO - Interior", "valor": 20 },
+      { "nombre": "COBO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "COBO - Interior", "valor": 15 },
+      { "nombre": "SABANETA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "SABANETA - Interior", "valor": 10 },
+      { "nombre": "MATADERO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "MATADERO - Interior", "valor": 10 },
+      { "nombre": "LA LISTA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA LISTA - Interior", "valor": 10 },
+      { "nombre": "EL YAYAL - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL YAYAL - Interior", "valor": 20 },
+      { "nombre": "LA NUNUTA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LA NUNUTA - Interior", "valor": 10 },
+      { "nombre": "CERRO MICO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "CERRO MICO - Interior", "valor": 10 },
+      { "nombre": "MEDIA LUNA - Con frente a la carretera", "valor": 40 },
+      { "nombre": "MEDIA LUNA - Interior", "valor": 20 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Urbana",
+    "sector": "LOS MOJAOS",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Urbana",
+    "sector": "LA COLONIA",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Urbana",
+    "sector": "LINCOLN",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Urbana",
+    "sector": "LOS MAESTROS",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Urbana",
+    "sector": "GUACHUPITA",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Urbana",
+    "sector": "EL CRUCE",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Rural",
+    "seccion": "ANICETO MARTINEZ",
+    "parajes": [
+      { "nombre": "CAÑADA DE MIGUEL - Con frente a la carretera", "valor": 15 },
+      { "nombre": "CAÑADA DE MIGUEL - Interior", "valor": 10 },
+      { "nombre": "EL HOYASO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL HOYASO - Interior", "valor": 10 },
+      { "nombre": "YERVA BUENA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "YERVA BUENA - Interior", "valor": 10 },
+      { "nombre": "LOS PALOS DE BURRO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LOS PALOS DE BURRO - Interior", "valor": 10 },
+      { "nombre": "EL BARRERO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL BARRERO - Interior", "valor": 10 },
+      { "nombre": "PIEDRA BLANCA O SOBACON - Con frente a la carretera", "valor": 15 },
+      { "nombre": "PIEDRA BLANCA O SOBACON - Interior", "valor": 10 },
+      { "nombre": "LAS 204 - Con frente a la carretera", "valor": 25 },
+      { "nombre": "LAS 204 - Interior", "valor": 25 },
+      { "nombre": "JUNQUITO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "JUNQUITO - Interior", "valor": 10 },
+      { "nombre": "PALO BLANCO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "PALO BLANCO - Interior", "valor": 25 },
+      { "nombre": "GUARDIA DE CAFÉ - Con frente a la carretera", "valor": 15 },
+      { "nombre": "GUARDIA DE CAFÉ - Interior", "valor": 10 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Rural",
+    "seccion": "RANCHO DE PEDRO",
+    "parajes": [
+      { "nombre": "LOS CALLEJONES - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LOS CALLEJONES - Interior", "valor": 10 },
+      { "nombre": "EL BEGUCAL - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL BEGUCAL - Interior", "valor": 10 },
+      { "nombre": "LAS CANITAS - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LAS CANITAS - Interior", "valor": 10 },
+      { "nombre": "LA ROSA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA ROSA - Interior", "valor": 10 },
+      { "nombre": "CALIMETE - Con frente a la carretera", "valor": 15 },
+      { "nombre": "CALIMETE - Interior", "valor": 10 },
+      { "nombre": "LA BESTIA - Con frente a la carretera", "valor": 35 },
+      { "nombre": "LA BESTIA - Interior", "valor": 30 },
+      { "nombre": "LOS PAJARITOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS PAJARITOS - Interior", "valor": 15 },
+      { "nombre": "BOCA DEL BOTADO - Con frente a la carretera", "valor": 30 },
+      { "nombre": "BOCA DEL BOTADO - Interior", "valor": 15 },
+      { "nombre": "LOS CHICHARRONES", "valor": 15 },
+      { "nombre": "LA FRUTA", "valor": 15 },
+      { "nombre": "EL CEDRO - Con frente a la carretera", "valor": 25 },
+      { "nombre": "EL CEDRO - Interior", "valor": 15 },
+      { "nombre": "LOS JAQUELLES (LOS JAGUELLES) - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LOS JAQUELLES (LOS JAGUELLES) - Interior", "valor": 10 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Hondo Valle",
+    "zona": "Rural",
+    "seccion": "LOS RINCONES",
+    "parajes": [
+      { "nombre": "LOS RINCONES - Con frente a la carretera", "valor": 35 },
+      { "nombre": "LOS RINCONES - Interior", "valor": 30 },
+      { "nombre": "LOS BOTADOS DE LA CAÑA - Con frente a la carretera", "valor": 35 },
+      { "nombre": "LOS BOTADOS DE LA CAÑA - Interior", "valor": 20 },
+      { "nombre": "LOS BOTADOS DE VICTORINO (VICTORIA) - Con frente a la carretera", "valor": 35 },
+      { "nombre": "LOS BOTADOS DE VICTORINO (VICTORIA) - Interior", "valor": 20 },
+      { "nombre": "LOS BOTADOS - Con frente a la carretera", "valor": 35 },
+      { "nombre": "LOS BOTADOS - Interior", "valor": 20 },
+      { "nombre": "LOS NARANJOS", "valor": 15 },
+      { "nombre": "LAGUNITA", "valor": 15 },
+      { "nombre": "ESCONDIDO", "valor": 15 },
+      { "nombre": "EL PINO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL PINO - Interior", "valor": 10 },
+      { "nombre": "LA SIEMBRA", "valor": 15 },
+      { "nombre": "LOS MAGUEYES - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS MAGUEYES - Interior", "valor": 15 },
+      { "nombre": "AGUA DEL HIGO", "valor": 15 },
+      { "nombre": "TASAJERA", "valor": 15 },
+      { "nombre": "LOS GUAYABOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS GUAYABOS - Interior", "valor": 15 },
+      { "nombre": "LOMA DE FABRILLET - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOMA DE FABRILLET - Interior", "valor": 15 },
+      { "nombre": "LA FUENTE - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA FUENTE - Interior", "valor": 15 },
+      { "nombre": "LOS BOTADOS DE LA RESERVA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS BOTADOS DE LA RESERVA - Interior", "valor": 15 },
+      { "nombre": "LA VUELTA DE LOS CHIVOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA VUELTA DE LOS CHIVOS - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Rancho La Guardia",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Rancho La Guardia",
+    "zona": "Urbana",
+    "sector": "BO. PEDREGAL",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Rancho La Guardia",
+    "zona": "Urbana",
+    "sector": "BO. LA CONFLUENCIA",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Rancho La Guardia",
+    "zona": "Urbana",
+    "sector": "PROYECTO SUR FUTURO",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Rancho La Guardia",
+    "zona": "Rural",
+    "seccion": "LOS GUINEOS",
+    "parajes": [
+      { "nombre": "LOS RANCHITOS - Con frente a carretera", "valor": 25 },
+      { "nombre": "LOS RANCHITOS - Interior", "valor": 15 },
+      { "nombre": "PLAN CAFÉ O EL CALICHE - Con frente a carretera", "valor": 25 },
+      { "nombre": "PLAN CAFÉ O EL CALICHE - Interior", "valor": 15 },
+      { "nombre": "PRIMER RANCHO ARRIBA - Con frente a carretera", "valor": 30 },
+      { "nombre": "PRIMER RANCHO ARRIBA - Interior", "valor": 25 },
+      { "nombre": "LAS LAGUNAS - Con frente a carretera", "valor": 25 },
+      { "nombre": "LAS LAGUNAS - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Rancho La Guardia",
+    "zona": "Rural",
+    "seccion": "LA SAHONADA",
+    "parajes": [
+      { "nombre": "EL PUERTON - Con frente a carretera", "valor": 25 },
+      { "nombre": "EL PUERTON - Interior", "valor": 15 },
+      { "nombre": "LOS MARRANTOS - Con frente a carretera", "valor": 25 },
+      { "nombre": "LOS MARRANTOS - Interior", "valor": 15 },
+      { "nombre": "LA SAHONADA ARRIBA - Con frente a carretera", "valor": 25 },
+      { "nombre": "LA SAHONADA ARRIBA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Rancho La Guardia",
+    "zona": "Rural",
+    "seccion": "RANCHO DE LA GUARDIA",
+    "parajes": [
+      { "nombre": "GUAYABAL - Con frente a carretera", "valor": 15 },
+      { "nombre": "GUAYABAL - Interior", "valor": 10 },
+      { "nombre": "EL PEDREGAL - Con frente a carretera", "valor": 25 },
+      { "nombre": "EL PEDREGAL - Interior", "valor": 15 },
+      { "nombre": "LA FUENTE ARRIBA - Con frente a carretera", "valor": 25 },
+      { "nombre": "LA FUENTE ARRIBA - Interior", "valor": 15 },
+      { "nombre": "PINAL REDONDO - Con frente a carretera", "valor": 25 },
+      { "nombre": "PINAL REDONDO - Interior", "valor": 15 },
+      { "nombre": "MANACLAR - Con frente a carretera", "valor": 25 },
+      { "nombre": "MANACLAR - Interior", "valor": 15 },
+      { "nombre": "LOS NARANJOS - Con frente a carretera", "valor": 25 },
+      { "nombre": "LOS NARANJOS - Interior", "valor": 15 },
+      { "nombre": "EL POZO - Con frente a carretera", "valor": 25 },
+      { "nombre": "EL POZO - Interior", "valor": 15 },
+      { "nombre": "GAJO DEL GACHO - Con frente a carretera", "valor": 25 },
+      { "nombre": "GAJO DEL GACHO - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "MILITAR",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "BO. AZUL",
+    "valor_promedio": 500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "BO. NUEVA ESPERANZA",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "BO. NUEVO",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "BO. LA ESCUELA",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "BO. LOS PATIOS",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "BO. ALTOS DE LA PALOMA",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Urbana",
+    "sector": "JOSE FRANCISCO PEÑA GOMEZ",
+    "valor_promedio": 600,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Rural",
+    "seccion": "LA PALMA",
+    "parajes": [
+      { "nombre": "LA PALMA - Centro del pueblo", "valor": null },
+      { "nombre": "LA PALMA - Con frente a la carretera", "valor": 30 },
+      { "nombre": "LA PALMA - Interior", "valor": 15 },
+      { "nombre": "LA DESCUBIERTA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LA DESCUBIERTA - Interior", "valor": 10 },
+      { "nombre": "LOS CAJULITOS - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LOS CAJULITOS - Interior", "valor": 10 },
+      { "nombre": "LOS CERCADILLOS - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LOS CERCADILLOS - Interior", "valor": 10 },
+      { "nombre": "DAMAJAGUA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "DAMAJAGUA - Interior", "valor": 10 },
+      { "nombre": "LOS CHICHARRONES - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LOS CHICHARRONES - Interior", "valor": 10 },
+      { "nombre": "EL CORBANO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL CORBANO - Interior", "valor": 10 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Rural",
+    "seccion": "EL HOYO",
+    "parajes": [
+      { "nombre": "EL HOYO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL HOYO - Interior", "valor": 10 },
+      { "nombre": "LOS GRITOS - Con frente a carretera", "valor": 15 },
+      { "nombre": "LOS GRITOS - Interior", "valor": 10 },
+      { "nombre": "LA YAMAYAS - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LA YAMAYAS - Interior", "valor": 10 },
+      { "nombre": "GUAYUGAL - Con frente a la carretera", "valor": 15 },
+      { "nombre": "GUAYUGAL - Interior", "valor": 10 },
+      { "nombre": "VALENTIN LAS YAYAS - Con frente a la carretera", "valor": 15 },
+      { "nombre": "VALENTIN LAS YAYAS - Interior", "valor": 10 },
+      { "nombre": "BARTOLO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "BARTOLO - Interior", "valor": 10 },
+      { "nombre": "EL BARRERO - Interior", "valor": 10 },
+      { "nombre": "PESQUERO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "PESQUERO - Interior", "valor": 10 },
+      { "nombre": "LA RACIMERA - Interior", "valor": 10 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Rural",
+    "seccion": "GUAYAJAYUCO",
+    "parajes": [
+      { "nombre": "GUAYAJAYUCO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "GUAYAJAYUCO - Interior", "valor": 20 },
+      { "nombre": "ROSSO - Interior", "valor": 15 },
+      { "nombre": "CARATA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "CARATA - Interior", "valor": 10 },
+      { "nombre": "LA ZURZA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LA ZURZA - Interior", "valor": 10 },
+      { "nombre": "LOS AMACEYES - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LOS AMACEYES - Interior", "valor": 10 },
+      { "nombre": "RANCHO HIGUERO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "RANCHO HIGUERO - Interior", "valor": 10 },
+      { "nombre": "SOMBRERO - Interior", "valor": 10 },
+      { "nombre": "HOYO PRIETO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "HOYO PRIETO - Interior", "valor": 10 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Pedro Santana",
+    "zona": "Rural",
+    "seccion": "NICOLAS (JOCA)",
+    "parajes": [
+      { "nombre": "NICOLAS (JOCA) - Con frente a la carretera", "valor": 15 },
+      { "nombre": "NICOLAS (JOCA) - Interior", "valor": 10 },
+      { "nombre": "LOS TOCONES - Interior", "valor": 15 },
+      { "nombre": "ARROYO GRANDE - Con frente a la carretera", "valor": 15 },
+      { "nombre": "ARROYO GRANDE - Interior", "valor": 10 },
+      { "nombre": "EL MORRO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL MORRO - Interior", "valor": 10 },
+      { "nombre": "LA CUEVA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LA CUEVA - Interior", "valor": 10 },
+      { "nombre": "EL TOCINO DE JOCA - Con frente a la carretera", "valor": 15 },
+      { "nombre": "EL TOCINO DE JOCA - Interior", "valor": 10 },
+      { "nombre": "EL POMITO - Interior", "valor": 10 },
+      { "nombre": "LAS CANAS O EL ESTRECHO - Con frente a la carretera", "valor": 15 },
+      { "nombre": "LAS CANAS O EL ESTRECHO - Interior", "valor": 10 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Río Limpio",
+    "zona": "Urbana",
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Río Limpio",
+    "zona": "Rural",
+    "seccion": "RIO LIMPIO",
+    "parajes": [
+      { "nombre": "RIO BONITO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "RIO BONITO - Interior", "valor": 15 },
+      { "nombre": "PIEDRA BLANCA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PIEDRA BLANCA - Interior", "valor": 15 },
+      { "nombre": "LA GUAZARA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA GUAZARA - Interior", "valor": 15 },
+      { "nombre": "LOS PINTOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS PINTOS - Interior", "valor": 15 },
+      { "nombre": "RAVINZAL - Con frente a la carretera", "valor": 20 },
+      { "nombre": "RAVINZAL - Interior", "valor": 15 },
+      { "nombre": "LOS GUANDULES - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS GUANDULES - Interior", "valor": 15 },
+      { "nombre": "LA PALMA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA PALMA - Interior", "valor": 15 },
+      { "nombre": "LA TAYOTA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA TAYOTA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Río Limpio",
+    "zona": "Rural",
+    "seccion": "LA SIERRECITA",
+    "parajes": [
+      { "nombre": "LA SIERRECITA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA SIERRECITA - Interior", "valor": 15 },
+      { "nombre": "RANCHO TOMAS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "RANCHO TOMAS - Interior", "valor": 15 },
+      { "nombre": "RANCHO VALDEZ - Con frente a la carretera", "valor": 20 },
+      { "nombre": "RANCHO VALDEZ - Interior", "valor": 15 },
+      { "nombre": "LA LLANADITA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA LLANADITA - Interior", "valor": 15 },
+      { "nombre": "PATRICIO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PATRICIO - Interior", "valor": 15 },
+      { "nombre": "LA GUAMA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA GUAMA - Interior", "valor": 15 },
+      { "nombre": "FRANCISCO JOSE - Con frente a la carretera", "valor": 20 },
+      { "nombre": "FRANCISCO JOSE - Interior", "valor": 15 },
+      { "nombre": "LA NASA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA NASA - Interior", "valor": 15 },
+      { "nombre": "EL CAYUCO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL CAYUCO - Interior", "valor": 15 },
+      { "nombre": "LA CIDRA- LA GINITA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA CIDRA- LA GINITA - Interior", "valor": 15 },
+      { "nombre": "CAÑADA DE PIEDRA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "CAÑADA DE PIEDRA - Interior", "valor": 15 },
+      { "nombre": "CAÑADA NEGRA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "CAÑADA NEGRA - Interior", "valor": 15 }
+    ]
+  },
+  {
+    "provincia": "Elías Piña",
+    "municipio": "Río Limpio",
+    "zona": "Rural",
+    "seccion": "BILLIGUIN",
+    "parajes": [
+      { "nombre": "BILLIGUIN - Con frente a la carretera", "valor": 20 },
+      { "nombre": "BILLIGUIN - Interior", "valor": 15 },
+      { "nombre": "PACHUTICO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "PACHUTICO - Interior", "valor": 15 },
+      { "nombre": "LA HORQUETA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA HORQUETA - Interior", "valor": 15 },
+      { "nombre": "RICON - Con frente a la carretera", "valor": 20 },
+      { "nombre": "RICON - Interior", "valor": 15 },
+      { "nombre": "LA SIEMBRITA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA SIEMBRITA - Interior", "valor": 15 },
+      { "nombre": "LOS COROCITOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LOS COROCITOS - Interior", "valor": 15 },
+      { "nombre": "LA PEÑA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA PEÑA - Interior", "valor": 15 },
+      { "nombre": "CARAMANA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "CARAMANA - Interior", "valor": 15 },
+      { "nombre": "MAJAGUALITO - Con frente a la carretera", "valor": 20 },
+      { "nombre": "MAJAGUALITO - Interior", "valor": 15 },
+      { "nombre": "BOTONCILLOS - Con frente a la carretera", "valor": 20 },
+      { "nombre": "BOTONCILLOS - Interior", "valor": 15 },
+      { "nombre": "EL JENGIBRE - Con frente a la carretera", "valor": 20 },
+      { "nombre": "EL JENGIBRE - Interior", "valor": 15 },
+      { "nombre": "LA ATRAVESADA - Con frente a la carretera", "valor": 20 },
+      { "nombre": "LA ATRAVESADA - Interior", "valor": 15 }
+    ]
+  }
+]

@@ -1,0 +1,3577 @@
+[
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "CENTRO CIUDAD",
+    "valor_promedio": 15000,
+    "subsectores": [
+      { "nombre": "Barrio X", "valor": null },
+      { "nombre": "El Campito", "valor": 4800 },
+      { "nombre": "Villa Carolina", "valor": null },
+      { "nombre": "Villa Fresca", "valor": null },
+      { "nombre": "Zafarraya", "valor": null },
+      { "nombre": "Bo. La Planta", "valor": 4000 },
+      { "nombre": "La Plazoleta", "valor": null },
+      { "nombre": "Centro Histórico", "valor": 12000 }
+    ],
+    "limites": {
+      "norte": "Calle Núñez de Cáceres, Av. Riva y Av. Pedro A. Rivera",
+      "este": "Calle Balilo Gómez",
+      "sur": "Avenida Imbert",
+      "oeste": "El Riíto"
+    },
+    "vias_principales": [
+      { "nombre": "Calle Padre Billini (desde Av. Imbert hasta Calle Núñez de Cáceres)", "valor": 10000 },
+      { "nombre": "Calle Núñez de Cáceres (desde Calle Padre Billini hasta Av. Riva)", "valor": 10000 },
+      { "nombre": "Avenida Rivas (desde Calle Núñez de Cáceres hasta Av. Pedro A. Rivera)", "valor": 12000 },
+      { "nombre": "Calle Balilo Gómez (desde Av. Pedro A. Rivera hasta Av. Imbert)", "valor": 6000 },
+      { "nombre": "Avenida Profesor Juan Bosch (desde Calle Padre Billini hasta Calle Balilo Gómez)", "valor": 10000 },
+      { "nombre": "Avenida José M. Rodríguez (desde Calle Duverge hasta Calle Balilo Gómez)", "valor": 10000 },
+      { "nombre": "Avenida García Godoy (desde Calle Carlos María Sánchez hasta Calle Balilo Gómez)", "valor": 10000 },
+      { "nombre": "Avenida Imbert (desde Riíto hasta Calle Balilo Gómez)", "valor": 8000 },
+      { "nombre": "Avenida Pedro A. Rivera (desde Av. Rivas hasta Calle Balilo Gómez)", "valor": 12000 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "Residencial Ciudad Universitaria",
+    "valor_promedio": 6700,
+    "subsectores": [
+      { "nombre": "Omelia I", "valor": 4500 },
+      { "nombre": "Omelia II", "valor": 3500 },
+      { "nombre": "Residencial Jardines Universitario", "valor": 6700 },
+      { "nombre": "Bo. Nuevo", "valor": 3000 },
+      { "nombre": "Ciudad Deportiva (Centro Olímpico)", "valor": null },
+      { "nombre": "Ciudad Olímpica", "valor": 3750 },
+      { "nombre": "Villa Paraíso", "valor": 2800 },
+      { "nombre": "Jeremías", "valor": 1800 },
+      { "nombre": "Don Damián I y II", "valor": 1800 },
+      { "nombre": "Residencial Don Antonio", "valor": 1800 },
+      { "nombre": "Camagüey", "valor": 1300 },
+      { "nombre": "Res. Nicol", "valor": 1900 },
+      { "nombre": "Res. Prado del Este", "valor": 2200 },
+      { "nombre": "Res. Don Zoilo", "valor": 2200 },
+      { "nombre": "Don Manolo", "valor": 2200 },
+      { "nombre": "San Andrés", "valor": 2200 },
+      { "nombre": "Doña Elsa", "valor": 2200 },
+      { "nombre": "Res. La Pradera", "valor": 2200 },
+      { "nombre": "Don Nieto Cordero", "valor": 1800 },
+      { "nombre": "Res. Pablo Báez", "valor": 1800 },
+      { "nombre": "Ciudad Consuelo", "valor": 2000 },
+      { "nombre": "Las Maras", "valor": 2600 },
+      { "nombre": "Villa Olguín", "valor": 1800 },
+      { "nombre": "El Higüero", "valor": 1800 },
+      { "nombre": "Galindo", "valor": 1800 }
+    ],
+    "limites": {
+      "norte": "Autopista Duarte",
+      "este": "Autopista Duarte",
+      "sur": "Avenida Gregorio Rivas y Avenida Pedro A. Riveras",
+      "oeste": "Calle 1 y Calle Pijin Taveras"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Pedro A. Rivera (desde río Camú hasta Av. Riva)", "valor": 5000 },
+      { "nombre": "Calle Núñez de Cáceres (desde Riíto hasta Av. Rivas)", "valor": 5000 },
+      { "nombre": "Avenida Rivas (desde Av. Pedro A. Rivera hasta Padre Fantino)", "valor": 12000 },
+      { "nombre": "Antonio Guzmán", "valor": 4000 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "La Esmeralda",
+    "valor_promedio": 2000,
+    "subsectores": [
+      { "nombre": "Lizardo", "valor": 1500 },
+      { "nombre": "El Pinito Km. 1 ½", "valor": 1000 },
+      { "nombre": "Pontón", "valor": 2000 },
+      { "nombre": "El Portal", "valor": 7500 },
+      { "nombre": "Residencial El Coral", "valor": 2000 },
+      { "nombre": "Residencial Los Fiallos", "valor": 3500 },
+      { "nombre": "Residencial Vega Real", "valor": 1950 },
+      { "nombre": "Residencial El Valle", "valor": 2600 },
+      { "nombre": "Residencial Amada I", "valor": 2300 },
+      { "nombre": "Residencial Amada II", "valor": 1900 },
+      { "nombre": "Los Pomos (Santa Rosa)", "valor": 2000 },
+      { "nombre": "Residencial García", "valor": 1500 },
+      { "nombre": "Residencial Villa Flores", "valor": 1900 },
+      { "nombre": "Residencial Jeremías II", "valor": 1900 },
+      { "nombre": "Residencial Las Marías", "valor": 3000 },
+      { "nombre": "Palmarito", "valor": 2200 },
+      { "nombre": "Residencial P. García", "valor": 1900 },
+      { "nombre": "San Jerónimo", "valor": 1300 },
+      { "nombre": "Residencial Doña Joaquina", "valor": 2600 },
+      { "nombre": "Residencial Santa María", "valor": 3200 },
+      { "nombre": "Villa Lora", "valor": 3200 },
+      { "nombre": "Enriquillo", "valor": null }
+    ],
+    "limites": {
+      "norte": "Avenida Gregorio Rivas",
+      "este": "Autopista Duarte",
+      "sur": "Avenida Pedro A. Rivera",
+      "oeste": "Avenida Pedro A. Rivera"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Pedro A. Rivera (desde río Camú hasta entrada Cementerio)", "valor": 3000 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "Villa Carolina",
+    "subsectores": [
+      { "nombre": "Carolina Norte", "valor": 4500 },
+      { "nombre": "Las Carolinas", "valor": 5200 },
+      { "nombre": "Carolina Sur", "valor": 4500 },
+      { "nombre": "Galindo", "valor": 2600 },
+      { "nombre": "El Ensueño", "valor": 2900 },
+      { "nombre": "Gloria I", "valor": 5100 },
+      { "nombre": "Gloria II", "valor": 4700 },
+      { "nombre": "Gloria III IV", "valor": 3400 },
+      { "nombre": "La Estancia", "valor": 750 },
+      { "nombre": "Residencial Don Pedro", "valor": 2300 },
+      { "nombre": "Diosiris", "valor": 1800 },
+      { "nombre": "Sabana Pontón", "valor": 1500 },
+      { "nombre": "El Portal II III", "valor": 3400 },
+      { "nombre": "Pontón III- IV", "valor": 2000 },
+      { "nombre": "Quisqueya", "valor": 1300 },
+      { "nombre": "Pontón el 4", "valor": 2000 },
+      { "nombre": "Las Praderas", "valor": 1200 },
+      { "nombre": "Coronados", "valor": 900 },
+      { "nombre": "La Quinta/ Don Chimbi", "valor": 4700 },
+      { "nombre": "Palmarejo", "valor": 3700 },
+      { "nombre": "Pontón", "valor": 2000 },
+      { "nombre": "Residencial Hernández I", "valor": 9000 },
+      { "nombre": "Residencial Hernández II", "valor": 9000 },
+      { "nombre": "Ensanche Libertad", "valor": 1800 }
+    ],
+    "limites": {
+      "norte": "Avenida Pedro A. Rivera",
+      "este": "Avenida Pedro A. Rivera",
+      "sur": "Avenida Pedro A. Rivera en la estación Sunix",
+      "oeste": "Avenida Gloria"
+    },
+    "vias_principales": [
+      { "nombre": "Autopista Duarte (desde río Camú hasta Carretera a Jarabacoa)", "valor": null },
+      { "nombre": "Pedro A. Rivera (desde Carretera Profesor Juan Bosch hasta Carretera a Moca)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "005",
+    "sector": "Los Robles",
+    "subsectores": [
+      { "nombre": "Los Robles II III", "valor": null },
+      { "nombre": "Arboleda I II III IV V VI VII", "valor": null },
+      { "nombre": "Don Bosco", "valor": null },
+      { "nombre": "Santo Domingo Savio I", "valor": null },
+      { "nombre": "Don Bartolo", "valor": null },
+      { "nombre": "El Vedado", "valor": null },
+      { "nombre": "La Enramada", "valor": null },
+      { "nombre": "Villa Margarita", "valor": null },
+      { "nombre": "Residencial Gamundy", "valor": null }
+    ],
+    "limites": {
+      "norte": "Avenida Imbert",
+      "este": "Avenida Gloria",
+      "sur": "Avenida Rivas y Avenida Pedro A. Rivera",
+      "oeste": "Monseñor Panal"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Pedro A. Rivera (desde Rio Camú hasta Av. Riva)", "valor": null },
+      { "nombre": "Autopista Duarte (desde Av. Rivas hasta Río Camú)", "valor": null },
+      { "nombre": "Avenida Rivas (desde Autopista Duarte hasta Av. Pedro A. Rivera)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "006",
+    "sector": "Villa Rosa",
+    "valor_promedio": 3700,
+    "subsectores": [
+      { "nombre": "Villa Turey", "valor": 2900 },
+      { "nombre": "Bo. Puerto Rico", "valor": 1300 },
+      { "nombre": "La Cigua", "valor": 1300 },
+      { "nombre": "Santo Domingo Savio II", "valor": 1300 },
+      { "nombre": "Guarionex", "valor": 2600 },
+      { "nombre": "Los Gorbenaos", "valor": 4000 },
+      { "nombre": "Brache Batista", "valor": 1500 },
+      { "nombre": "Ensanche Duarte", "valor": null },
+      { "nombre": "Residencial Armida", "valor": null },
+      { "nombre": "El Coco", "valor": null },
+      { "nombre": "Boca del Lobo", "valor": null },
+      { "nombre": "Paraíso I-II", "valor": null },
+      { "nombre": "El Eden", "valor": null },
+      { "nombre": "Villa Olga", "valor": null },
+      { "nombre": "Los Profesionales", "valor": null },
+      { "nombre": "Arboleda", "valor": null },
+      { "nombre": "Terrero", "valor": null },
+      { "nombre": "Don Persio", "valor": null },
+      { "nombre": "Brisas del Parque", "valor": null }
+    ],
+    "limites": {
+      "norte": "AV. María Trinidad Sánchez/ Av. Libertad",
+      "este": "Av. Monseñor Panal",
+      "sur": "Calle 10/ Av. Joaquín Balaguer",
+      "oeste": "Calle Carlos María Sánchez"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Rivas (Carretera a Villa Tapia, desde Autopista Duarte hasta Av. río Camú)", "valor": null },
+      { "nombre": "Autopista Duarte (desde Río Camú hasta Antigua Carretera a Rincón)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "007",
+    "sector": "Las Carmelitas",
+    "subsectores": [
+      { "nombre": "Juan Pablo Duarte", "valor": null },
+      { "nombre": "Nibaje", "valor": null },
+      { "nombre": "El Tanque", "valor": null },
+      { "nombre": "Conani", "valor": null },
+      { "nombre": "Villa David (Los Barrancones)", "valor": null },
+      { "nombre": "Alto de Chavón", "valor": null },
+      { "nombre": "María Auxiliadora", "valor": null }
+    ],
+    "limites": {
+      "norte": "Rio Camú/ Calle del Carmen",
+      "este": "Calle Libertad",
+      "sur": "Calle Libertad",
+      "oeste": "Calle B"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Rivas (desde Av. Pedro A. Rivera hasta Autopista Duarte)", "valor": null },
+      { "nombre": "Autopista Duarte (desde Av. Rivas hasta Antigua Carretera a Rincón)", "valor": null },
+      { "nombre": "Avenida Pedro A. Rivera (desde Av. Rivas hasta entrada Sur de Amada I)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "008",
+    "sector": "La Lotería",
+    "subsectores": [
+      { "nombre": "Los Multi Nuevo", "valor": 1800 },
+      { "nombre": "Los Multi Viejos", "valor": 1800 },
+      { "nombre": "Villa Esperanza", "valor": 700 },
+      { "nombre": "Alto de Hatico", "valor": 2000 },
+      { "nombre": "El Hatico", "valor": 2000 },
+      { "nombre": "Doña Merin", "valor": 2500 },
+      { "nombre": "Lotificación Don Joaquín", "valor": 2000 },
+      { "nombre": "El Hatico II", "valor": 2000 },
+      { "nombre": "Don Fausto", "valor": 1800 },
+      { "nombre": "Bella Vista", "valor": 1500 },
+      { "nombre": "La Baja de los Perdomos", "valor": 1500 },
+      { "nombre": "Monte Bonito Arriba", "valor": 1000 },
+      { "nombre": "Fundación Panal", "valor": 1900 },
+      { "nombre": "Ana Magalis", "valor": 2500 }
+    ],
+    "limites": {
+      "norte": "Calle José Martí",
+      "este": "Avenida Alfredo Peralta Michell",
+      "sur": "Calle 7",
+      "oeste": "Calle Máximo Gómez"
+    },
+    "vias_principales": [
+      { "nombre": "Calle Balilo Gómez (desde Av. Imbert hasta Av. Pedro A. Rivera)", "valor": null },
+      { "nombre": "Avenida Pedro A. Rivera (desde Calle Balilo Gómez hasta Rotonda)", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "009",
+    "sector": "Quinto Patio",
+    "valor_promedio": 15000,
+    "subsectores": [
+      { "nombre": "San Antonio", "valor": 4500 },
+      { "nombre": "Villa Real", "valor": 4000 },
+      { "nombre": "Villa Mera", "valor": 2000 },
+      { "nombre": "La Riviera", "valor": 2500 },
+      { "nombre": "Napole", "valor": 1500 },
+      { "nombre": "Parque Hostos", "valor": 3500 },
+      { "nombre": "La Plazoleta", "valor": 3500 },
+      { "nombre": "San Martín", "valor": 2500 },
+      { "nombre": "Villa Tilapia", "valor": 1500 },
+      { "nombre": "Urbanizacion Don Luis Despradel", "valor": 2500 },
+      { "nombre": "San Miguel", "valor": 1500 },
+      { "nombre": "Los Multis San Miguel", "valor": 1500 },
+      { "nombre": "Dona Tulian", "valor": 1500 },
+      { "nombre": "Villa Francisca I II", "valor": 2500 }
+    ],
+    "limites": {
+      "norte": "Rio Camú",
+      "este": "Calle Don Luis Despradel Ambos Lados",
+      "sur": "Calle Núñez de Caceres",
+      "oeste": "Calle Sanchez"
+    },
+    "vias_principales": [
+      { "nombre": "Avenida Imbert (desde Calle Balilo Gómez a Calle Monseñor Panal)", "valor": 6000 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Urbana",
+    "codigo": "010",
+    "sector": "Arenoso",
+    "valor_promedio": 3000,
+    "subsectores": [
+      { "nombre": "Los Flamboyanes", "valor": 1500 },
+      { "nombre": "Zona Franca", "valor": 3000 },
+      { "nombre": "La Laguna", "valor": 1800 },
+      { "nombre": "Urbanización La Laguna", "valor": 1800 },
+      { "nombre": "Residencial Fabio Fiallo Cáceres", "valor": 2200 },
+      { "nombre": "Fermín", "valor": 2000 },
+      { "nombre": "Umalsa", "valor": 1500 },
+      { "nombre": "Lamarche", "valor": 1800 },
+      { "nombre": "Placencia", "valor": 1900 },
+      { "nombre": "Soto", "valor": 2500 },
+      { "nombre": "La Esperanza", "valor": 4400 },
+      { "nombre": "Res. Doña Isabela", "valor": 2400 },
+      { "nombre": "Las Mercedes (Residencial)", "valor": 1500 },
+      { "nombre": "Las Pocilgas", "valor": 1500 },
+      { "nombre": "Los Hornos", "valor": 1500 }
+    ],
+    "limites": {
+      "norte": "Autopista Duarte",
+      "este": "Calle 1/ Calle Central/ Calle Principal/ Calle Pijin",
+      "sur": "Rio Camú",
+      "oeste": "Carretera Federico Basilis"
+    },
+    "vias_principales": [
+      { "nombre": "Carretera Prof. Juan Bosch Calle Pijin Tavárez", "valor": 4500 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "BACUI ARRIBA",
+    "parajes": [
+      { "nombre": "Bacui Arriba - poblado", "valor": 1100 },
+      { "nombre": "Bacui Arriba - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Bacui Arriba - Interior", "valor": 120 },
+      { "nombre": "Maguey - poblado", "valor": 750 },
+      { "nombre": "Maguey - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Maguey - Interior", "valor": 120 },
+      { "nombre": "Bacui al Medio - poblado", "valor": 750 },
+      { "nombre": "Bacui al Medio - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Bacui al Medio - Interior", "valor": 160 },
+      { "nombre": "Las Uvas - poblado", "valor": 1300 },
+      { "nombre": "Las Uvas - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Las Uvas - Interior", "valor": 120 },
+      { "nombre": "Las Cinco Esquinas - poblado", "valor": 560 },
+      { "nombre": "Las Cinco Esquinas - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Las Cinco Esquinas - Interior", "valor": 100 },
+      { "nombre": "El Rodeo - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Rodeo - Interior", "valor": 100 },
+      { "nombre": "La Palmita - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Palmita - Interior", "valor": 100 },
+      { "nombre": "El Mamoncito - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Mamoncito - Interior", "valor": 100 },
+      { "nombre": "Sabana de Los Jiménez - poblado", "valor": 700 },
+      { "nombre": "Sabana de Los Jiménez - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Sabana de Los Jiménez - Interior", "valor": 120 },
+      { "nombre": "El Capacito - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Capacito - Interior", "valor": 100 },
+      { "nombre": "Bacui Adentro", "valor": 900 },
+      { "nombre": "Bacui Adentro - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Bacui Adentro - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "BAYACANES",
+    "parajes": [
+      { "nombre": "Bayacanes", "valor": 1100 },
+      { "nombre": "Bayacanes - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Bayacanes - Interior", "valor": 210 },
+      { "nombre": "Monte Grande - Con frente a la carretera", "valor": 280 },
+      { "nombre": "Monte Grande - Interior", "valor": 240 },
+      { "nombre": "Las Cruces - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Las Cruces - Interior", "valor": 210 },
+      { "nombre": "Las Guaranitas - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Las Guaranitas - Interior", "valor": 210 },
+      { "nombre": "El Higuero - Con frente a la carretera", "valor": 230 },
+      { "nombre": "El Higuero - Interior", "valor": 210 },
+      { "nombre": "Joa - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Joa - Interior", "valor": 210 },
+      { "nombre": "Cercado Alto - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Cercado Alto - Interior", "valor": 210 },
+      { "nombre": "Yami - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Yami - Interior", "valor": 210 },
+      { "nombre": "El Higo - Con frente a la carretera", "valor": 230 },
+      { "nombre": "El Higo - Interior", "valor": 210 },
+      { "nombre": "Monte Llano - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Monte Llano - Interior", "valor": 210 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "BURENDE",
+    "parajes": [
+      { "nombre": "Burende - Autopista Duarte", "valor": 2000 },
+      { "nombre": "Burende - Con frente a la carretera", "valor": 400 },
+      { "nombre": "Burende - Interior", "valor": 200 },
+      { "nombre": "Los Callejones - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Los Callejones - Interior", "valor": 100 },
+      { "nombre": "Los Motas - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Los Motas - Interior", "valor": 100 },
+      { "nombre": "Guaco La Piñita", "valor": 500 },
+      { "nombre": "Guaco La Piñita - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Guaco La Piñita - Interior", "valor": 200 },
+      { "nombre": "Guaco (La Pista) - Autopista Duarte", "valor": 2000 },
+      { "nombre": "Guaco (La Pista) - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Guaco (La Pista) - Interior", "valor": 200 },
+      { "nombre": "La Lomita de Guaco - Autopista Duarte", "valor": 2000 },
+      { "nombre": "La Lomita de Guaco - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Lomita de Guaco - Interior", "valor": 200 },
+      { "nombre": "Guaco Los Frías - Autopista Duarte", "valor": 2000 },
+      { "nombre": "Guaco Los Frías - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Guaco Los Frías - Interior", "valor": 200 },
+      { "nombre": "Burende (La Carretera Vieja)", "valor": 500 },
+      { "nombre": "Burende (La Carretera Vieja) - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Burende (La Carretera Vieja) - Interior", "valor": 200 },
+      { "nombre": "Los Valerios - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Los Valerios - Interior", "valor": 200 },
+      { "nombre": "Los Corozos - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Los Corozos - Interior", "valor": 200 },
+      { "nombre": "Los Suárez - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Los Suárez - Interior", "valor": 200 },
+      { "nombre": "La Martínez", "valor": 800 },
+      { "nombre": "La Martínez - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Martínez - Interior", "valor": 200 },
+      { "nombre": "Loma de los Ángeles", "valor": 1000 },
+      { "nombre": "Loma de los Ángeles - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Loma de los Ángeles - Interior", "valor": 200 },
+      { "nombre": "Rio Seco - poblado", "valor": 1000 },
+      { "nombre": "Rio Seco - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Rio Seco - Interior", "valor": 200 },
+      { "nombre": "Carrera de Palmas", "valor": 1000 },
+      { "nombre": "Carrera de Palmas - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Carrera de Palmas - Interior", "valor": 200 },
+      { "nombre": "Santo Cerros", "valor": 1800 },
+      { "nombre": "Santo Cerros - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Santo Cerros - Interior", "valor": 200 },
+      { "nombre": "San Francisco", "valor": 1000 },
+      { "nombre": "San Francisco - Con frente a la carretera", "valor": 300 },
+      { "nombre": "San Francisco - Interior", "valor": 200 },
+      { "nombre": "Pozo del Bejuco", "valor": 700 },
+      { "nombre": "Pozo del Bejuco - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Pozo del Bejuco - Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "GUAREY",
+    "parajes": [
+      { "nombre": "Guarey - poblado", "valor": 600 },
+      { "nombre": "Guarey - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Guarey - Interior", "valor": 190 },
+      { "nombre": "Guarey Arriba - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Guarey Arriba - Interior", "valor": 190 },
+      { "nombre": "El Faro - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Faro - Interior", "valor": 50 },
+      { "nombre": "Arroyo Ancho - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Arroyo Ancho - Interior", "valor": 50 },
+      { "nombre": "Los Guanábanos - poblado", "valor": 400 },
+      { "nombre": "Los Guanábanos - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Los Guanábanos - Interior", "valor": 50 },
+      { "nombre": "Arrollo Amarillo - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Arrollo Amarillo - Interior", "valor": 50 },
+      { "nombre": "Guaiqui Cabanas", "valor": 1100 },
+      { "nombre": "Guaiqui Cabanas - Con frente a la carretera", "valor": 800 },
+      { "nombre": "Guaiqui Cabanas - Interior", "valor": 300 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "JAMO",
+    "parajes": [
+      { "nombre": "Jamo", "valor": 650 },
+      { "nombre": "Jamo - Con frente a la carretera", "valor": 85 },
+      { "nombre": "Jamo - Interior", "valor": 60 },
+      { "nombre": "Los Rieles", "valor": 550 },
+      { "nombre": "Los Rieles - Con frente a la carretera", "valor": 75 },
+      { "nombre": "Los Rieles - Interior", "valor": 50 },
+      { "nombre": "Las Yayas Adentro", "valor": 1000 },
+      { "nombre": "Las Yayas Adentro - Con frente a la carretera", "valor": 180 },
+      { "nombre": "Las Yayas Adentro - Interior", "valor": 140 },
+      { "nombre": "Jamo Arriba o Jamo Afuera", "valor": 1000 },
+      { "nombre": "Jamo Arriba o Jamo Afuera - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Jamo Arriba o Jamo Afuera - Interior", "valor": 85 },
+      { "nombre": "Jamo La Barranquita", "valor": 500 },
+      { "nombre": "Jamo La Barranquita - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Jamo La Barranquita - Interior", "valor": 85 },
+      { "nombre": "Jamo Jardeta", "valor": 700 },
+      { "nombre": "Jamo Jardeta - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Jamo Jardeta - Interior", "valor": 85 },
+      { "nombre": "Las Yayas Afuera", "valor": 1000 },
+      { "nombre": "Las Yayas Afuera - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Las Yayas Afuera - Interior", "valor": 90 },
+      { "nombre": "Las Hoyitas - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Las Hoyitas - Interior", "valor": 120 },
+      { "nombre": "La Carmona", "valor": 700 },
+      { "nombre": "La Carmona - Con frente a la carretera", "valor": 110 },
+      { "nombre": "La Carmona - Interior", "valor": 85 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "LA PENDA",
+    "parajes": [
+      { "nombre": "La Penda - poblado", "valor": 400 },
+      { "nombre": "La Penda - Autopista Duarte", "valor": 2000 },
+      { "nombre": "La Penda - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Penda - Interior", "valor": 240 },
+      { "nombre": "El Quemado - poblado", "valor": 1200 },
+      { "nombre": "El Quemado - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Quemado - Interior", "valor": 240 },
+      { "nombre": "Rancho Viejo - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Rancho Viejo - Interior", "valor": 240 },
+      { "nombre": "La Torre - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Torre - Interior", "valor": 240 },
+      { "nombre": "El Caimito Afuera - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Caimito Afuera - Interior", "valor": 240 },
+      { "nombre": "El Caimito Adentro - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Caimito Adentro - Interior", "valor": 240 },
+      { "nombre": "El Caimito Abajo - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Caimito Abajo - Interior", "valor": 240 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "LAS CABUYAS",
+    "parajes": [
+      { "nombre": "Las Cabuyas", "valor": 1500 },
+      { "nombre": "Las Cabuyas - Con frente a la carretera", "valor": 85 },
+      { "nombre": "Las Cabuyas - Interior", "valor": 60 },
+      { "nombre": "La Sidra", "valor": 750 },
+      { "nombre": "La Sidra - Con frente a la carretera", "valor": 60 },
+      { "nombre": "La Sidra - Interior", "valor": 40 },
+      { "nombre": "Los Guallos", "valor": 400 },
+      { "nombre": "Los Guallos - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Los Guallos - Interior", "valor": 40 },
+      { "nombre": "La Catalina - Con frente a la carretera", "valor": 85 },
+      { "nombre": "La Catalina - Interior", "valor": 60 },
+      { "nombre": "La Cuarenta - Con frente a la carretera", "valor": 70 },
+      { "nombre": "La Cuarenta - Interior", "valor": 50 },
+      { "nombre": "Sabana Rey Abajo (parte de Las Cabuyas) - Con frente a la carretera", "valor": 85 },
+      { "nombre": "Sabana Rey Abajo - Interior", "valor": 70 },
+      { "nombre": "La Reforma - Con frente a la carretera", "valor": 85 },
+      { "nombre": "La Reforma - Interior", "valor": 70 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "PONTÓN",
+    "parajes": [
+      { "nombre": "Pontón - poblado", "valor": 1500 },
+      { "nombre": "Pontón - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Pontón - Interior", "valor": 200 },
+      { "nombre": "Hoya Grande o Las Tablitas - poblado", "valor": 1000 },
+      { "nombre": "Hoya Grande o Las Tablitas - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Hoya Grande o Las Tablitas - Interior", "valor": 200 },
+      { "nombre": "La Rafaela - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Rafaela - Interior", "valor": 200 },
+      { "nombre": "Las Totumas o Los Tocones - poblado", "valor": 1000 },
+      { "nombre": "Las Totumas o Los Tocones - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Las Totumas o Los Tocones - Interior", "valor": 200 },
+      { "nombre": "Rancho Abajo - poblado", "valor": 500 },
+      { "nombre": "Rancho Abajo - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Rancho Abajo - Interior", "valor": 200 },
+      { "nombre": "Colón - poblado", "valor": 500 },
+      { "nombre": "Colón - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Colón - Interior", "valor": 200 },
+      { "nombre": "Monte Adentro - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Monte Adentro - Interior", "valor": 200 },
+      { "nombre": "Pontón (sección) - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Pontón (sección) - Interior", "valor": 150 },
+      { "nombre": "Hoya Cautiva - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Hoya Cautiva - Interior", "valor": 45 },
+      { "nombre": "Terrero", "valor": 750 },
+      { "nombre": "Terrero - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Terrero - Interior", "valor": 45 },
+      { "nombre": "Aguas Altas - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Aguas Altas - Interior", "valor": 45 },
+      { "nombre": "Km. 7 (Las 7 \"S\")", "valor": 500 },
+      { "nombre": "Sabana de Pontón", "valor": 2000 },
+      { "nombre": "Ramada - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Ramada - Interior", "valor": 40 },
+      { "nombre": "Guanábano - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Guanábano - Interior", "valor": 40 },
+      { "nombre": "Miranda - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Miranda - Interior", "valor": 40 },
+      { "nombre": "Las Manaclitas", "valor": 1500 },
+      { "nombre": "Las Manaclitas - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Las Manaclitas - Interior", "valor": 45 },
+      { "nombre": "El Algarrobo - poblado", "valor": 500 },
+      { "nombre": "El Algarrobo - Autopista Duarte", "valor": 1400 },
+      { "nombre": "El Pino - poblado", "valor": 1000 },
+      { "nombre": "El Pino - Autopista Duarte", "valor": 1400 },
+      { "nombre": "El Pino - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Pino - Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "SABANETA",
+    "parajes": [
+      { "nombre": "Sabaneta - poblado", "valor": 1500 },
+      { "nombre": "Sabaneta - Con frente a la carretera", "valor": 0 },
+      { "nombre": "Sabaneta - Interior", "valor": 0 },
+      { "nombre": "Sabaneta o El Puerto", "valor": 1000 },
+      { "nombre": "Sabaneta o El Puerto - Con frente a la carretera", "valor": 0 },
+      { "nombre": "Sabaneta o El Puerto - Interior", "valor": 0 },
+      { "nombre": "El Pinito de los Jiménez - Con frente a la carretera", "valor": 110 },
+      { "nombre": "El Pinito de los Jiménez - Interior", "valor": 90 },
+      { "nombre": "Matanzas - poblado", "valor": 750 },
+      { "nombre": "Matanzas - Con frente a la carretera", "valor": 95 },
+      { "nombre": "Matanzas - Interior", "valor": 70 },
+      { "nombre": "Rancho Viejo - poblado", "valor": 1000 },
+      { "nombre": "El Caserío - poblado", "valor": 900 },
+      { "nombre": "El Caserío - Con frente a la carretera", "valor": 100 },
+      { "nombre": "El Caserío - Interior", "valor": 70 },
+      { "nombre": "Palmarejo - poblado", "valor": 900 },
+      { "nombre": "Palmarejo - Con frente a la carretera", "valor": 95 },
+      { "nombre": "Palmarejo - Interior", "valor": 70 },
+      { "nombre": "Maguey - poblado", "valor": 700 },
+      { "nombre": "Maguey - Con frente a la carretera", "valor": 95 },
+      { "nombre": "Maguey - Interior", "valor": 70 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Vega",
+    "zona": "Rural",
+    "seccion": "LAS CANAS",
+    "parajes": [
+      { "nombre": "Las Canas - poblado", "valor": 1500 },
+      { "nombre": "Las Canas - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Las Canas - Interior", "valor": 100 },
+      { "nombre": "La Estancia - poblado", "valor": 700 },
+      { "nombre": "La Estancia - Con frente a la carretera", "valor": 150 },
+      { "nombre": "La Estancia - Interior", "valor": 100 },
+      { "nombre": "Las Canas Arriba", "valor": 1500 },
+      { "nombre": "Las Canas Arriba - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Las Canas Arriba - Interior", "valor": 100 },
+      { "nombre": "La Brusca - Con frente a la carretera", "valor": 150 },
+      { "nombre": "La Brusca - Interior", "valor": 100 },
+      { "nombre": "La Loma - Con frente a la carretera", "valor": 150 },
+      { "nombre": "La Loma - Interior", "valor": 100 },
+      { "nombre": "El Higo - Con frente a la carretera", "valor": 150 },
+      { "nombre": "El Higo - Interior", "valor": 100 },
+      { "nombre": "La Mina", "valor": 1500 },
+      { "nombre": "La Mina - Con frente a la carretera", "valor": 150 },
+      { "nombre": "La Mina - Interior", "valor": 100 },
+      { "nombre": "Las Cenas Abajo", "valor": 1500 },
+      { "nombre": "Las Cenas Abajo - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Las Cenas Abajo - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Taveras",
+    "zona": "Urbana",
+    "sector": "Jima Hueca (zona urbana)",
+    "valor_promedio": 1800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Taveras",
+    "zona": "Rural",
+    "seccion": "JIMA HUECA",
+    "parajes": [
+      { "nombre": "Jima Hueca - Con frente a la carretera", "valor": 650 },
+      { "nombre": "Jima Hueca - Interior", "valor": 600 },
+      { "nombre": "La Presa (S.D) - Con frente a la carretera", "valor": 450 },
+      { "nombre": "La Presa (S.D) - Interior", "valor": 400 },
+      { "nombre": "Loma del Coco", "valor": 1000 },
+      { "nombre": "Loma del Coco - Con frente a la carretera", "valor": 460 },
+      { "nombre": "Loma del Coco - Interior", "valor": 400 },
+      { "nombre": "El Jobo - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Jobo - Interior", "valor": 100 },
+      { "nombre": "Conuco Viejo - Con frente a la carretera", "valor": 95 },
+      { "nombre": "Conuco Viejo - Interior", "valor": 80 },
+      { "nombre": "El Morro - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Morro - Interior", "valor": 60 },
+      { "nombre": "La Jaguita - Con frente a la carretera", "valor": 80 },
+      { "nombre": "La Jaguita - Interior", "valor": 70 },
+      { "nombre": "La Cabra - Con frente a la carretera", "valor": 135 },
+      { "nombre": "La Cabra - Interior", "valor": 100 },
+      { "nombre": "El Aguacate - Con frente a la carretera", "valor": 135 },
+      { "nombre": "El Aguacate - Interior", "valor": 100 },
+      { "nombre": "Los Ranchos de Taveras (presa) - Con frente a la carretera", "valor": 470 },
+      { "nombre": "Los Ranchos de Taveras (presa) - Interior", "valor": 430 },
+      { "nombre": "Poblado de Taveras - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Poblado de Taveras - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Taveras",
+    "zona": "Rural",
+    "seccion": "LA LLANADA",
+    "parajes": [
+      { "nombre": "La Llanada - poblado", "valor": 1000 },
+      { "nombre": "La Llanada - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Llanada - Interior", "valor": 80 },
+      { "nombre": "La Cigua - Con frente a la carretera", "valor": 60 },
+      { "nombre": "La Cigua - Interior", "valor": 45 },
+      { "nombre": "Llanada al Medio (El Pino) - poblado", "valor": null },
+      { "nombre": "Llanada al Medio (El Pino) - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Llanada al Medio (El Pino) - Interior", "valor": 50 },
+      { "nombre": "Llanada de los Jengibres - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Llanada de los Jengibres - Interior", "valor": 45 },
+      { "nombre": "La Tayota - Con frente a la carretera", "valor": 60 },
+      { "nombre": "La Tayota - Interior", "valor": 45 },
+      { "nombre": "La Sabana - Con frente a la carretera", "valor": 135 },
+      { "nombre": "La Sabana - Interior", "valor": 100 },
+      { "nombre": "La Tala - Con frente a la carretera", "valor": 70 },
+      { "nombre": "La Tala - Interior", "valor": 65 },
+      { "nombre": "Llanada Parroquial (SD) El Fundo - Con frente a la carretera", "valor": 135 },
+      { "nombre": "Llanada Parroquial (SD) El Fundo - Interior", "valor": 100 },
+      { "nombre": "El Jobo - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Jobo - Interior", "valor": 65 },
+      { "nombre": "El Pino - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Pino - Interior", "valor": 65 },
+      { "nombre": "La Cuaba - Con frente a la carretera", "valor": 60 },
+      { "nombre": "La Cuaba - Interior", "valor": 45 },
+      { "nombre": "Los Jengibres - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Los Jengibres - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Taveras",
+    "zona": "Rural",
+    "seccion": "JAGUA GORDA",
+    "parajes": [
+      { "nombre": "Jagua Gorda - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Jagua Gorda - Interior", "valor": 65 },
+      { "nombre": "La Piñita (SD) - Con frente a la carretera", "valor": 80 },
+      { "nombre": "La Piñita (SD) - Interior", "valor": 65 },
+      { "nombre": "El Café - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Café - Interior", "valor": 65 },
+      { "nombre": "El Colorado - Con frente a la carretera", "valor": 60 },
+      { "nombre": "El Colorado - Interior", "valor": 45 },
+      { "nombre": "El Capá - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Capá - Interior", "valor": 65 },
+      { "nombre": "Lomita Larga - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Lomita Larga - Interior", "valor": 65 },
+      { "nombre": "Loma Firme - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Loma Firme - Interior", "valor": 65 },
+      { "nombre": "Rancho La Vaca - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Rancho La Vaca - Interior", "valor": 40 },
+      { "nombre": "La Monja - Con frente a la carretera", "valor": 60 },
+      { "nombre": "La Monja - Interior", "valor": 45 },
+      { "nombre": "Velazquito - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Velazquito - Interior", "valor": 40 },
+      { "nombre": "El Limón - Con frente a la carretera", "valor": 25 },
+      { "nombre": "El Limón - Interior", "valor": 20 },
+      { "nombre": "Loma Sucia - Con frente a la carretera", "valor": 25 },
+      { "nombre": "Loma Sucia - Interior", "valor": 20 },
+      { "nombre": "El Anil - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Anil - Interior", "valor": 65 },
+      { "nombre": "Las Cruces - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Las Cruces - Interior", "valor": 60 },
+      { "nombre": "Los camarones - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Los camarones - Interior", "valor": 60 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Taveras",
+    "zona": "Rural",
+    "seccion": "EL MAMEY",
+    "parajes": [
+      { "nombre": "El Mamey - Con frente a la carretera", "valor": 100 },
+      { "nombre": "El Mamey - Interior", "valor": 85 },
+      { "nombre": "Los Guineos - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Los Guineos - Interior", "valor": 60 },
+      { "nombre": "La Guardarraya - Con frente a la carretera", "valor": 50 },
+      { "nombre": "La Guardarraya - Interior", "valor": 40 },
+      { "nombre": "Mocán Campana - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Mocán Campana - Interior", "valor": 95 },
+      { "nombre": "Mocán Adentro - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Mocán Adentro - Interior", "valor": 80 },
+      { "nombre": "Jaguey - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Jaguey - Interior", "valor": 50 },
+      { "nombre": "Los Peladeros - Con frente a la carretera", "valor": 70 },
+      { "nombre": "Los Peladeros - Interior", "valor": 60 },
+      { "nombre": "Yabanal - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Yabanal - Interior", "valor": 110 },
+      { "nombre": "El Laurel - Con frente a la carretera", "valor": 70 },
+      { "nombre": "El Laurel - Interior", "valor": 65 },
+      { "nombre": "El Mameyito - Con frente a la carretera", "valor": 60 },
+      { "nombre": "El Mameyito - Interior", "valor": 45 },
+      { "nombre": "El Desecho - Con frente a la carretera", "valor": 70 },
+      { "nombre": "El Desecho - Interior", "valor": 65 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Urbana",
+    "sector": "Cruce de Barranca",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Urbana",
+    "sector": "Los Pomos",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Urbana",
+    "sector": "Los Tocones",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Urbana",
+    "sector": "Don Lolo",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Rural",
+    "seccion": "BARRANCA",
+    "parajes": [
+      { "nombre": "Barranca", "valor": 1500 },
+      { "nombre": "Barranca - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Barranca - Interior", "valor": 80 },
+      { "nombre": "Caño Afuera - Con frente a la carretera", "valor": 95 },
+      { "nombre": "Caño Afuera - Interior", "valor": 70 },
+      { "nombre": "Caño Adentro - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Caño Adentro - Interior", "valor": 80 },
+      { "nombre": "Monte Plata - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Monte Plata - Interior", "valor": 80 },
+      { "nombre": "Toro Cenizo (Parte) - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Toro Cenizo (Parte) - Interior", "valor": 80 },
+      { "nombre": "El Muelle - Con frente a la carretera", "valor": 85 },
+      { "nombre": "El Muelle - Interior", "valor": 60 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Rural",
+    "seccion": "LAS YERBAS",
+    "parajes": [
+      { "nombre": "Las Yerbas", "valor": 1200 },
+      { "nombre": "Las Yerbas - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Las Yerbas - Interior", "valor": 90 },
+      { "nombre": "Jagua Dulce - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Jagua Dulce - Interior", "valor": 90 },
+      { "nombre": "Guachupita - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Guachupita - Interior", "valor": 90 },
+      { "nombre": "Los García - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Los García - Interior", "valor": 90 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Rural",
+    "seccion": "BACUI",
+    "parajes": [
+      { "nombre": "Bacui", "valor": 1000 },
+      { "nombre": "Bacui - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Bacui - Interior", "valor": 80 },
+      { "nombre": "Bacui Abajo", "valor": 1400 },
+      { "nombre": "Bacui Abajo - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Bacui Abajo - Interior", "valor": 80 },
+      { "nombre": "Los Tanas - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Los Tanas - Interior", "valor": 80 },
+      { "nombre": "Palma Sola - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Palma Sola - Interior", "valor": 80 },
+      { "nombre": "El Polvaso - Con frente a la carretera", "valor": 110 },
+      { "nombre": "El Polvaso - Interior", "valor": 80 },
+      { "nombre": "Barrio Nuevo - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Barrio Nuevo - Interior", "valor": 80 },
+      { "nombre": "Los Cruces - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Los Cruces - Interior", "valor": 80 },
+      { "nombre": "El Canal - Con frente a la carretera", "valor": 95 },
+      { "nombre": "El Canal - Interior", "valor": 70 },
+      { "nombre": "Los Jiménez - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Los Jiménez - Interior", "valor": 110 },
+      { "nombre": "Los Almanza - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Los Almanza - Interior", "valor": 110 },
+      { "nombre": "Los Genaos - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Los Genaos - Interior", "valor": 110 },
+      { "nombre": "Los Corcino - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Los Corcino - Interior", "valor": 110 },
+      { "nombre": "Los Gil - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Los Gil - Interior", "valor": 110 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Rural",
+    "seccion": "LOS HOYOS",
+    "parajes": [
+      { "nombre": "Los Hoyos - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Los Hoyos - Interior", "valor": 90 },
+      { "nombre": "Los Caceres - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Los Caceres - Interior", "valor": 90 },
+      { "nombre": "El Fundo - Con frente a la carretera", "valor": 110 },
+      { "nombre": "El Fundo - Interior", "valor": 90 },
+      { "nombre": "Los Peña - Con frente a la carretera", "valor": 110 },
+      { "nombre": "Los Peña - Interior", "valor": 90 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Don Juan Rodríguez (Barranca)",
+    "zona": "Rural",
+    "seccion": "BERRUGUETE",
+    "parajes": [
+      { "nombre": "Berruguete - Con frente a la carretera", "valor": 95 },
+      { "nombre": "Berruguete - Interior", "valor": 70 },
+      { "nombre": "Los Díaz - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Los Díaz - Interior", "valor": 110 },
+      { "nombre": "Los García (Parte) - Con frente a la carretera", "valor": 130 },
+      { "nombre": "Los García (Parte) - Interior", "valor": 110 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "Cutupu",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "Vista Bella",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "Urb. Juan Taverás",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "Sabana Larga",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "Villa Tilin",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "Los Mangos",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "El 11",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Urbana",
+    "sector": "Bo. Los Profesores",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Rural",
+    "seccion": "ARROYO HONDO ARRIBA",
+    "parajes": [
+      { "nombre": "Arroyo Hondo Arriba - Con frente a la carretera", "valor": 240 },
+      { "nombre": "Arroyo Hondo Arriba - Interior", "valor": 200 },
+      { "nombre": "Arroyo Hondo Abajo - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Arroyo Hondo Abajo - Interior", "valor": 120 },
+      { "nombre": "Los Quezada - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Los Quezada - Interior", "valor": 120 },
+      { "nombre": "La Javilla - Con frente a la carretera", "valor": 150 },
+      { "nombre": "La Javilla - Interior", "valor": 120 },
+      { "nombre": "Los Sirices - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Los Sirices - Interior", "valor": 120 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Rural",
+    "seccion": "BONAGUA",
+    "parajes": [
+      { "nombre": "Bonagua - Con frente a la carretera", "valor": 240 },
+      { "nombre": "Bonagua - Interior", "valor": 200 },
+      { "nombre": "El Llano - Con frente a la carretera", "valor": 150 },
+      { "nombre": "El Llano - Interior", "valor": 120 },
+      { "nombre": "El Caimito - Con frente a la carretera", "valor": 150 },
+      { "nombre": "El Caimito - Interior", "valor": 120 },
+      { "nombre": "El Romero - Con frente a la carretera", "valor": 100 },
+      { "nombre": "El Romero - Interior", "valor": 80 },
+      { "nombre": "La Palmita - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Palmita - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Rural",
+    "seccion": "MIRADOR",
+    "parajes": [
+      { "nombre": "Mirador - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Mirador - Interior", "valor": 80 },
+      { "nombre": "Monte Adentro - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Monte Adentro - Interior", "valor": 80 },
+      { "nombre": "Azucey - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Azucey - Interior", "valor": 80 },
+      { "nombre": "Los Hoyos - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Los Hoyos - Interior", "valor": 80 },
+      { "nombre": "Jababa de la Vega - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Jababa de la Vega - Interior", "valor": 80 },
+      { "nombre": "Sabaneta - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Sabaneta - Interior", "valor": 80 },
+      { "nombre": "La Rosa de La Vega - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Rosa de La Vega - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Rural",
+    "seccion": "EL NARANJAL",
+    "parajes": [
+      { "nombre": "El Naranjal - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Naranjal - Interior", "valor": 100 },
+      { "nombre": "Las Arenas - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Las Arenas - Interior", "valor": 100 },
+      { "nombre": "La Cruz del Naranjal - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Cruz del Naranjal - Interior", "valor": 100 },
+      { "nombre": "El Tranche - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Tranche - Interior", "valor": 100 },
+      { "nombre": "El Naranjal Adentro - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Naranjal Adentro - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Rural",
+    "seccion": "PUEBLO VIEJO",
+    "parajes": [
+      { "nombre": "Pueblo Viejo", "valor": 1000 },
+      { "nombre": "Pueblo Viejo - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Pueblo Viejo - Interior", "valor": 100 },
+      { "nombre": "El Aljibe - poblado", "valor": 500 },
+      { "nombre": "El Aljibe - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Aljibe - Interior", "valor": 100 },
+      { "nombre": "Colorado - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Colorado - Interior", "valor": 100 },
+      { "nombre": "Los Suarez - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Los Suarez - Interior", "valor": 100 },
+      { "nombre": "La Verada - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Verada - Interior", "valor": 100 },
+      { "nombre": "El Ranchito - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Ranchito - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Rural",
+    "seccion": "RIO VERDE ABAJO",
+    "parajes": [
+      { "nombre": "Rio Verde Abajo - poblado", "valor": 300 },
+      { "nombre": "Rio Verde Abajo - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Rio Verde Abajo - Interior", "valor": 100 },
+      { "nombre": "La Lima - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Lima - Interior", "valor": 100 },
+      { "nombre": "Las Cañas - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Las Cañas - Interior", "valor": 100 },
+      { "nombre": "Las Escobas - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Las Escobas - Interior", "valor": 100 },
+      { "nombre": "Los Placeres - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Los Placeres - Interior", "valor": 100 },
+      { "nombre": "Los Muñoz - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Los Muñoz - Interior", "valor": 100 },
+      { "nombre": "El Zumbio - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Zumbio - Interior", "valor": 100 },
+      { "nombre": "Cazabito - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Cazabito - Interior", "valor": 100 },
+      { "nombre": "El Alto del Gallo - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Alto del Gallo - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Río Verde Arriba (Cutupú)",
+    "zona": "Rural",
+    "seccion": "RIO VERDE ARRIBA",
+    "parajes": [
+      { "nombre": "Rio Verde Arriba - poblado", "valor": 500 },
+      { "nombre": "Rio Verde Arriba - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Rio Verde Arriba - Interior", "valor": 100 },
+      { "nombre": "Caguey - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Caguey - Interior", "valor": 100 },
+      { "nombre": "Manga Larga Arriba - poblado", "valor": 500 },
+      { "nombre": "Manga Larga Arriba - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Manga Larga Arriba - Interior", "valor": 120 },
+      { "nombre": "Manga Larga Abajo - poblado", "valor": 500 },
+      { "nombre": "Manga Larga Abajo - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Manga Larga Abajo - Interior", "valor": 120 },
+      { "nombre": "La Destiladera - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Destiladera - Interior", "valor": 100 },
+      { "nombre": "El Caliche - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Caliche - Interior", "valor": 100 },
+      { "nombre": "La Sabana de Rio Verde - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Sabana de Rio Verde - Interior", "valor": 100 },
+      { "nombre": "Los Basores - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Los Basores - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Urbana",
+    "sector": "Centro del Pueblo",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Urbana",
+    "sector": "María Trinidad Sánchez",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Urbana",
+    "sector": "El Semillero",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Urbana",
+    "sector": "Bo. Rafael Coronado (Los Solares)",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Urbana",
+    "sector": "Zafarraya",
+    "valor_promedio": 800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Urbana",
+    "sector": "Urb. Doña Miledys",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Urbana",
+    "vias_principales": [
+      { "nombre": "Desde el puente del Río Camú hasta la entrada de la Urb. Doña Miledys", "valor": 3000 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Rural",
+    "seccion": "SABANA REY",
+    "parajes": [
+      { "nombre": "Sabana Rey", "valor": 1000 },
+      { "nombre": "Sabana Rey - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Sabana Rey - Interior", "valor": 90 },
+      { "nombre": "La Esquina - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Esquina - Interior", "valor": 80 },
+      { "nombre": "Hato Viejo - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Hato Viejo - Interior", "valor": 80 },
+      { "nombre": "La Tina - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Tina - Interior", "valor": 80 },
+      { "nombre": "Sabana Rey Arriba - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Sabana Rey Arriba - Interior", "valor": 80 },
+      { "nombre": "La Romera - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Romera - Interior", "valor": 80 },
+      { "nombre": "El Reco - Con frente a la carretera", "valor": 90 },
+      { "nombre": "El Reco - Interior", "valor": 80 },
+      { "nombre": "Los Ranchos - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Los Ranchos - Interior", "valor": 80 },
+      { "nombre": "Paso Astacio - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Paso Astacio - Interior", "valor": 80 },
+      { "nombre": "La Otra Vera O Los Cruces - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Otra Vera O Los Cruces - Interior", "valor": 80 },
+      { "nombre": "La Meseta - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Meseta - Interior", "valor": 80 },
+      { "nombre": "Los Gallardos - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Los Gallardos - Interior", "valor": 80 },
+      { "nombre": "Los Rincones - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Los Rincones - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Rural",
+    "seccion": "EL BADÉN",
+    "parajes": [
+      { "nombre": "El Badén", "valor": 900 },
+      { "nombre": "El Badén - Con frente a la carretera", "valor": 90 },
+      { "nombre": "El Badén - Interior", "valor": 80 },
+      { "nombre": "Ranchito Abajo - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Ranchito Abajo - Interior", "valor": 80 },
+      { "nombre": "La Reforma - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Reforma - Interior", "valor": 80 },
+      { "nombre": "Los Solares u Orlando Martínez - poblado", "valor": 700 },
+      { "nombre": "Los Solares u Orlando Martínez - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Los Solares u Orlando Martínez - Interior", "valor": 80 },
+      { "nombre": "La Jaguita - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Jaguita - Interior", "valor": 80 },
+      { "nombre": "El Tamarindo - Con frente a la carretera", "valor": 90 },
+      { "nombre": "El Tamarindo - Interior", "valor": 80 },
+      { "nombre": "La Bruja - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Bruja - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "El Ranchito",
+    "zona": "Rural",
+    "seccion": "LA ROSA",
+    "parajes": [
+      { "nombre": "La Rosa - poblado", "valor": 600 },
+      { "nombre": "La Rosa - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Rosa - Interior", "valor": 80 },
+      { "nombre": "Los Samánes - Con frente a la carretera", "valor": 90 },
+      { "nombre": "Los Samánes - Interior", "valor": 80 },
+      { "nombre": "La Privada - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Privada - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Centro del Pueblo",
+    "valor_promedio": 7000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Respaldo 27 de febrero",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. La Boca del Pato",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Residencial Los Sauces",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Buenos Aires",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Residencial Primavera",
+    "valor_promedio": 6000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Mejoramiento Social",
+    "valor_promedio": 7500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Colegios",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Profesores",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Laureles",
+    "valor_promedio": 5200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El Progreso",
+    "valor_promedio": 2200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Hollywood",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Residencial Los Pinos",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Boca de Pato",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Popular",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El Semillero",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El tornado",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Los Profesores",
+    "valor_promedio": 3750,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Pinos",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. El Millón",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Colina",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Pomos",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Ensanche Libertad (El Cercado)",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Los Angelitos",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Joya",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. El Parquecito",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Nuevo Amanecer",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. La Esperanza",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio El Callejón de Jando",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. La Mina",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Juan Pedro",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. El Arenazo (Luperón)",
+    "valor_promedio": 2250,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. La Piscina (El Chorro)",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Los Gajitos",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El Canal",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El Arenaso",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El Cercado Abajo",
+    "valor_promedio": 4700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Nueva Esperanza",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "San Francisco",
+    "valor_promedio": 400,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Luisa",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Pinos de Juan Taveras",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Las Pradera del Río",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Arroyo Arriba",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. El Aserrín",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Las Flores",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Envasadores",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Prinkis afuera",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Prinkis adentro",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Tayota",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. San Isidro",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Chavón",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Zanja",
+    "valor_promedio": 2200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Central",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio Lindo",
+    "valor_promedio": 6000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. El Edén",
+    "valor_promedio": 2200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Paraíso",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El Gajo o Mirador Duarte",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Ladera",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Altagracia (la Gallera)",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Los Peinado",
+    "valor_promedio": 1200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Santiago Apóstol",
+    "valor_promedio": 2200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio El Padre",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "San Pedro",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Sanja",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "El Chavón",
+    "valor_promedio": 2200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Santa Lucía (Callejon de los Chivos)",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. La Rotonda",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio Villa Pinales (El Refugio)",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio Puerto Rico",
+    "valor_promedio": 1100,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Colonia Española",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. La Planta",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio Maximino Reyes",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio El 9",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "La Cienaguita",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Bo. Gajo El Maiz",
+    "valor_promedio": 400,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Colonia Japonesa",
+    "valor_promedio": 1900,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Residencial San Luis",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Residencial Los Doctores",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Villa Caribean",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio Los Profesionales",
+    "valor_promedio": 3700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Ojo de Agua",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Las Auyamas",
+    "valor_promedio": 2600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "sector": "Barrio La Grua",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Urbana",
+    "vias_principales": [
+      { "nombre": "Calle Luperón (desde Gaston F. Deligne hasta Calle Libertad Calle Gratereaux)", "valor": null },
+      { "nombre": "Calle Gratereaux (desde parque Central Anacaona hasta Mercado Municipal)", "valor": 11000 },
+      { "nombre": "Calle Matilde Viña de Robioux (desde Gaston F. Deligne hasta Calle Rufino Espinosa)", "valor": 11000 },
+      { "nombre": "Calle Rufino Espinosa (desde Calle Enrriquillo hasta Calle Vega Real)", "valor": 11000 },
+      { "nombre": "Calle Salome Ureña (desde Calle La Antonio María García hasta Moseñor Nouel)", "valor": 11000 },
+      { "nombre": "Calle Miguel Andrés Abreu (desde Calle Luperón hasta Calle José A. Cabral)", "valor": 11000 },
+      { "nombre": "Calle Respaldo 27 de Febrero (desde Calle Luperón hasta Calle José A. Cabral)", "valor": 7500 },
+      { "nombre": "Calle Respaldo 27 de Febrero (desde Gaston F. Deligne hasta Calle Rufino Espinosa)", "valor": 11000 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Rural",
+    "seccion": "MALDONADO",
+    "parajes": [
+      { "nombre": "Maldonado - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Maldonado - Interior", "valor": 100 },
+      { "nombre": "La Cienaguita - Con frente a la carretera", "valor": 150 },
+      { "nombre": "La Cienaguita - Interior", "valor": 100 },
+      { "nombre": "El Puente - Con frente a la carretera", "valor": 150 },
+      { "nombre": "El Puente - Interior", "valor": 100 },
+      { "nombre": "La Culata", "valor": 1000 },
+      { "nombre": "La Culata - Con frente a la carretera", "valor": 240 },
+      { "nombre": "La Culata - Interior", "valor": 190 },
+      { "nombre": "Don Miguel - Con frente a la carretera", "valor": 30 },
+      { "nombre": "Don Miguel - Interior", "valor": 20 },
+      { "nombre": "Arroyo Hondo - Con frente a la carretera", "valor": 30 },
+      { "nombre": "Arroyo Hondo - Interior", "valor": 20 },
+      { "nombre": "La Sabina del Sur - Con frente a la carretera", "valor": 10 },
+      { "nombre": "La Sabina del Sur - Interior", "valor": 7 },
+      { "nombre": "Los Almendrales - Con frente a la carretera", "valor": 10 },
+      { "nombre": "Los Almendrales - Interior", "valor": 7 },
+      { "nombre": "Los Cayetanos - Con frente a la carretera", "valor": 10 },
+      { "nombre": "Los Cayetanos - Interior", "valor": 7 },
+      { "nombre": "El Pino de las Siete Hojas - Con frente a la carretera", "valor": 10 },
+      { "nombre": "El Pino de las Siete Hojas - Interior", "valor": 7 },
+      { "nombre": "Arroyo Naranjo - Con frente a la carretera", "valor": 15 },
+      { "nombre": "Arroyo Naranjo - Interior", "valor": 10 },
+      { "nombre": "Los Corralitos - Con frente a la carretera", "valor": 20 },
+      { "nombre": "Los Corralitos - Interior", "valor": 15 },
+      { "nombre": "Fondo Viejo - Con frente a la carretera", "valor": 20 },
+      { "nombre": "Fondo Viejo - Interior", "valor": 15 },
+      { "nombre": "La Cienaga - Con frente a la carretera", "valor": 20 },
+      { "nombre": "La Cienaga - Interior", "valor": 15 },
+      { "nombre": "El Limón - Con frente a la carretera", "valor": 20 },
+      { "nombre": "El Limón - Interior", "valor": 15 },
+      { "nombre": "Los Caños - Con frente a la carretera", "valor": 15 },
+      { "nombre": "Los Caños - Interior", "valor": 10 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Rural",
+    "seccion": "LA ALTAGRACIA",
+    "parajes": [
+      { "nombre": "La Altagracia - poblado", "valor": 1500 },
+      { "nombre": "La Altagracia - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Altagracia - Interior", "valor": 100 },
+      { "nombre": "El Paraguay", "valor": 350 },
+      { "nombre": "El Paraguay - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Paraguay - Interior", "valor": 100 },
+      { "nombre": "Monte Llano - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Monte Llano - Interior", "valor": 100 },
+      { "nombre": "Cruz de Cuaba - Con frente a la carretera", "valor": 120 },
+      { "nombre": "Cruz de Cuaba - Interior", "valor": 100 },
+      { "nombre": "Suriel", "valor": 700 },
+      { "nombre": "Suriel - Con frente a la carretera", "valor": 180 },
+      { "nombre": "Suriel - Interior", "valor": 150 },
+      { "nombre": "El Chicharón", "valor": 700 },
+      { "nombre": "El Chicharón - Con frente a la carretera", "valor": 180 },
+      { "nombre": "El Chicharón - Interior", "valor": 150 },
+      { "nombre": "La Escuchadera", "valor": 300 },
+      { "nombre": "La Escuchadera - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Escuchadera - Interior", "valor": 100 },
+      { "nombre": "La Canelilla - Con frente a la carretera", "valor": 120 },
+      { "nombre": "La Canelilla - Interior", "valor": 100 },
+      { "nombre": "El Café - Con frente a la carretera", "valor": 120 },
+      { "nombre": "El Café - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Rural",
+    "seccion": "ARROYO FRÍO",
+    "parajes": [
+      { "nombre": "Arroyo Frío - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Arroyo Frío - Interior", "valor": 100 },
+      { "nombre": "La Ciénaga - poblado", "valor": 700 },
+      { "nombre": "La Ciénaga - Con frente a la carretera", "valor": 140 },
+      { "nombre": "La Ciénaga - Interior", "valor": 100 },
+      { "nombre": "La Joya - poblado", "valor": 700 },
+      { "nombre": "La Joya - Con frente a la carretera", "valor": 140 },
+      { "nombre": "La Joya - Interior", "valor": 100 },
+      { "nombre": "Los Patitos - poblado", "valor": 400 },
+      { "nombre": "Los Patitos - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Los Patitos - Interior", "valor": 35 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Rural",
+    "seccion": "LA DESCUBIERTA",
+    "parajes": [
+      { "nombre": "La Descubierta - poblado", "valor": 600 },
+      { "nombre": "La Descubierta - Con frente a la carretera", "valor": 140 },
+      { "nombre": "La Descubierta - Interior", "valor": 100 },
+      { "nombre": "Arroyo Bonito - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Arroyo Bonito - Interior", "valor": 100 },
+      { "nombre": "La Yegua - Con frente a la carretera", "valor": 140 },
+      { "nombre": "La Yegua - Interior", "valor": 100 },
+      { "nombre": "Los Nueces - poblado", "valor": 600 },
+      { "nombre": "Los Nueces - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Los Nueces - Interior", "valor": 100 },
+      { "nombre": "La Jinita (Parque Nacional Parte) - poblado", "valor": 135 },
+      { "nombre": "La Jinita - Con frente a la carretera", "valor": 90 },
+      { "nombre": "La Jinita - Interior", "valor": 50 },
+      { "nombre": "La Castilla - Con frente a la carretera", "valor": 140 },
+      { "nombre": "La Castilla - Interior", "valor": 100 },
+      { "nombre": "Arenoso - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Arenoso - Interior", "valor": 40 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Rural",
+    "seccion": "LAS PALMAS O LAS PALOMAS",
+    "parajes": [
+      { "nombre": "Las Palmas o Las Palomas", "valor": 700 },
+      { "nombre": "Las Palmas o Las Palomas - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Las Palmas o Las Palomas - Interior", "valor": 100 },
+      { "nombre": "Villa Cafetalera - poblado", "valor": 750 },
+      { "nombre": "Villa Cafetalera - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Villa Cafetalera - Interior", "valor": 100 },
+      { "nombre": "El Arroyazo (Arroyo del Toro) - poblado", "valor": 600 },
+      { "nombre": "El Arroyazo - Con frente a la carretera", "valor": 140 },
+      { "nombre": "El Arroyazo - Interior", "valor": 70 },
+      { "nombre": "Arroyo Prieto - Con frente a la carretera", "valor": 140 },
+      { "nombre": "Arroyo Prieto - Interior", "valor": 100 },
+      { "nombre": "La Angostura - Con frente a la carretera", "valor": 140 },
+      { "nombre": "La Angostura - Interior", "valor": 100 },
+      { "nombre": "La Novilla o Villa Esperanza - Con frente a la carretera", "valor": 140 },
+      { "nombre": "La Novilla o Villa Esperanza - Interior", "valor": 100 },
+      { "nombre": "Las Palmas Arriba - poblado", "valor": 700 },
+      { "nombre": "Las Palmas Arriba - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Las Palmas Arriba - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Rural",
+    "seccion": "EL RIO",
+    "parajes": [
+      { "nombre": "El Rio - poblado", "valor": 1500 },
+      { "nombre": "El Rio - Con frente a la carretera", "valor": 50 },
+      { "nombre": "El Rio - Interior", "valor": 40 },
+      { "nombre": "El Majagual - Con frente a la carretera", "valor": 50 },
+      { "nombre": "El Majagual - Interior", "valor": 40 },
+      { "nombre": "La Cotorra - poblado", "valor": 700 },
+      { "nombre": "La Cotorra - Con frente a la carretera", "valor": 50 },
+      { "nombre": "La Cotorra - Interior", "valor": 40 },
+      { "nombre": "Los Sánchez - poblado", "valor": 400 },
+      { "nombre": "Los Sánchez - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Los Sánchez - Interior", "valor": 40 },
+      { "nombre": "La Cumbre - poblado", "valor": 400 },
+      { "nombre": "La Cumbre - Con frente a la carretera", "valor": 50 },
+      { "nombre": "La Cumbre - Interior", "valor": 40 },
+      { "nombre": "La Pelada - Con frente a la carretera", "valor": 50 },
+      { "nombre": "La Pelada - Interior", "valor": 40 },
+      { "nombre": "Arroyo Frio - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Arroyo Frio - Interior", "valor": 40 },
+      { "nombre": "Las Auyamas - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Las Auyamas - Interior", "valor": 200 },
+      { "nombre": "El Pomito - Con frente a la carretera", "valor": 50 },
+      { "nombre": "El Pomito - Interior", "valor": 40 },
+      { "nombre": "El Cercado - Con frente a la carretera", "valor": 50 },
+      { "nombre": "El Cercado - Interior", "valor": 40 },
+      { "nombre": "El Aserradero - Con frente a la carretera", "valor": 50 },
+      { "nombre": "El Aserradero - Interior", "valor": 40 },
+      { "nombre": "Villa Chica - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Villa Chica - Interior", "valor": 40 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Constanza",
+    "zona": "Rural",
+    "seccion": "TIREO",
+    "parajes": [
+      { "nombre": "Tireo", "valor": 700 },
+      { "nombre": "Tireo - Con frente a la carretera", "valor": 240 },
+      { "nombre": "Tireo - Interior", "valor": 190 },
+      { "nombre": "La Guamita - Con frente a la carretera", "valor": 50 },
+      { "nombre": "La Guamita - Interior", "valor": 30 },
+      { "nombre": "Paletito - Con frente a la carretera", "valor": 50 },
+      { "nombre": "Paletito - Interior", "valor": 30 },
+      { "nombre": "Los Frios - Con frente a la carretera", "valor": 35 },
+      { "nombre": "Los Frios - Interior", "valor": 30 },
+      { "nombre": "La Novilla - Con frente a la carretera", "valor": 35 },
+      { "nombre": "La Novilla - Interior", "valor": 30 },
+      { "nombre": "Pinalito - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Pinalito - Interior", "valor": 50 },
+      { "nombre": "El Naranjo - Con frente a la carretera", "valor": 35 },
+      { "nombre": "El Naranjo - Interior", "valor": 30 },
+      { "nombre": "Los Amaceyes - Con frente a la carretera", "valor": 35 },
+      { "nombre": "Los Amaceyes - Interior", "valor": 30 },
+      { "nombre": "La Playa - Con frente a la carretera", "valor": 35 },
+      { "nombre": "La Playa - Interior", "valor": 30 },
+      { "nombre": "El Botao - Con frente a la carretera", "valor": 35 },
+      { "nombre": "El Botao - Interior", "valor": 30 },
+      { "nombre": "Montellano (Parque Nacional) - Con frente a la carretera", "valor": 35 },
+      { "nombre": "Montellano - Interior", "valor": 30 },
+      { "nombre": "Arroyo Yaya - Con frente a la carretera", "valor": 35 },
+      { "nombre": "Arroyo Yaya - Interior", "valor": 30 },
+      { "nombre": "Portezuelo - poblado", "valor": 1000 },
+      { "nombre": "Portezuelo - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Portezuelo - Interior", "valor": 120 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Urbana",
+    "sector": "Sabina Centro",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Urbana",
+    "sector": "La Colonia Húngara o El distrito",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Urbana",
+    "sector": "Bo. Santana",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Urbana",
+    "sector": "Bo. Duarte",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Urbana",
+    "sector": "Bo. Central",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Urbana",
+    "sector": "Bo. Guaricano",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Rural",
+    "seccion": "LOS CERROS",
+    "parajes": [
+      { "nombre": "Los Cerros", "valor": 1800 },
+      { "nombre": "Los Cerros - Con frente a la carretera", "valor": 290 },
+      { "nombre": "Los Cerros - Interior", "valor": 400 },
+      { "nombre": "Cachaza", "valor": 230 },
+      { "nombre": "Cachaza - Con frente a la carretera", "valor": 195 },
+      { "nombre": "El Tapión", "valor": 400 },
+      { "nombre": "El Tapión - Con frente a la carretera", "valor": 230 },
+      { "nombre": "El Tapión - Interior", "valor": 190 },
+      { "nombre": "Los Guineos - Con frente a la carretera", "valor": 360 },
+      { "nombre": "Los Guineos - Interior", "valor": 290 },
+      { "nombre": "El Gramaso - Con frente a la carretera", "valor": 175 },
+      { "nombre": "El Gramaso - Interior", "valor": 100 },
+      { "nombre": "El Cajón - Con frente a la carretera", "valor": 175 },
+      { "nombre": "El Cajón - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Rural",
+    "seccion": "PALERO (POBLADO)",
+    "parajes": [
+      { "nombre": "Palero (Poblado)", "valor": 1800 },
+      { "nombre": "Palero - Con frente a la carretera", "valor": 360 },
+      { "nombre": "Palero - Interior", "valor": 290 },
+      { "nombre": "Cerro del Monte", "valor": 1800 },
+      { "nombre": "Cerro del Monte - Con frente a la carretera", "valor": 360 },
+      { "nombre": "Cerro del Monte - Interior", "valor": 290 },
+      { "nombre": "Palero Almonte - Con frente a la carretera", "valor": 175 },
+      { "nombre": "Palero Almonte - Interior", "valor": 100 },
+      { "nombre": "Los Higos", "valor": 1800 },
+      { "nombre": "Los Higos - Con frente a la carretera", "valor": 360 },
+      { "nombre": "Los Higos - Interior", "valor": 290 },
+      { "nombre": "Cerros de Palero Turístico", "valor": 1500 },
+      { "nombre": "El Minero", "valor": 1800 },
+      { "nombre": "El Minero - Con frente a la carretera", "valor": 360 },
+      { "nombre": "El Minero - Interior", "valor": 290 },
+      { "nombre": "El Valle", "valor": 1800 },
+      { "nombre": "El Valle - Con frente a la carretera", "valor": 360 },
+      { "nombre": "El Valle - Interior", "valor": 290 },
+      { "nombre": "Cañada Seca (Poblado)", "valor": 3000 },
+      { "nombre": "Cañada Seca - Con frente a la carretera", "valor": 360 },
+      { "nombre": "Cañada Seca - Interior", "valor": 290 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Rural",
+    "seccion": "VILLA SABINA",
+    "parajes": [
+      { "nombre": "Villa Sabina", "valor": 1000 },
+      { "nombre": "Villa Sabina - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Villa Sabina - Interior", "valor": 230 },
+      { "nombre": "Gajo del Mulo o Villa de la Montaña - Con frente a la carretera", "valor": 75 },
+      { "nombre": "Gajo del Mulo o Villa de la Montaña - Interior", "valor": 50 },
+      { "nombre": "Bo. Santa Ana", "valor": 500 },
+      { "nombre": "Bo. Santa Ana - Con frente a la carretera", "valor": 75 },
+      { "nombre": "Bo. Santa Ana - Interior", "valor": 50 },
+      { "nombre": "Bo. Duarte", "valor": 500 },
+      { "nombre": "Bo. Duarte - Con frente a la carretera", "valor": 75 },
+      { "nombre": "Bo. Duarte - Interior", "valor": 50 },
+      { "nombre": "Guaricano O Jarro Sucio", "valor": 500 },
+      { "nombre": "Guaricano O Jarro Sucio - Con frente a la carretera", "valor": 75 },
+      { "nombre": "Guaricano O Jarro Sucio - Interior", "valor": 50 },
+      { "nombre": "Rancho Guaraguao", "valor": 1500 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "La Sabina",
+    "zona": "Rural",
+    "seccion": "EL COVENTO (Parque Nacional)",
+    "parajes": [
+      { "nombre": "El Covento - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Covento - Interior", "valor": 60 },
+      { "nombre": "Río Grande - Con frente a la carretera", "valor": 180 },
+      { "nombre": "Río Grande - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Centro del Pueblo",
+    "valor_promedio": 10000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Yerba Buena",
+    "valor_promedio": 8000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Bo. Lindo",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Javilla",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Cristo Rey o La Cachaza",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Cerro Alto",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Los Candelarios",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Rincón",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Colina de Los Pomos ó Toñito Batista",
+    "valor_promedio": 8000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Joya I",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Joya II",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Joya III",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Pinar Dorado",
+    "valor_promedio": 5600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Quebrada",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Trinchera",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Domingo Sabio",
+    "valor_promedio": 4800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Colonia Agraria",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "María Auxiliadora",
+    "valor_promedio": 4800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Tavito",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Don Bosco",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Pueblo Nuevo",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Bo. Doctor Elías Santana",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Bo. Blanco o Belarminio Ramírez",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Bo. Negro",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Venecia",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Jerez",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb.Tony Ydaka",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Ercilia Pepín",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Villa Aura",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Brisas del Mogote",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "La Plaza",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Altos del Yaque",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Rosa Mística",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Rincón",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Los Coralitos",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "El Km. 2",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Mirador de Jimenoa",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Los Pomos",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Villa El Dorado",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "El Florón",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Bo. Balaguer",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Villa Balaguer (Proyecto Yerba Buena)",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Proyecto Diloné",
+    "valor_promedio": 4500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Rescate 94",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Medina",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Medina I",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Urb. Medina II",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Res. Don Luis",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "El Resbalón",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "sector": "Av. La Confluencia",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Urbana",
+    "vias_principales": [
+      { "nombre": "Federico Basilis (desde calle Colon hasta Calle Dombori Connecticut)", "valor": 18000 },
+      { "nombre": "Calle Del Carmen (desde calle Nelson Galán hasta Rio Yaque)", "valor": 11000 },
+      { "nombre": "Calle Obdulio Jiménez", "valor": 18000 },
+      { "nombre": "Calle 16 de Agosto (desde calle Mario Nelson Galán hasta calle Obdulio Jiménez)", "valor": 15000 },
+      { "nombre": "Calle Mario Nelson Galán (desde calle 16 de Agosto hasta calle Federico Basilis)", "valor": 15000 },
+      { "nombre": "Av. Hermanas Mirabal (desde calle Duarte hasta calle Mella)", "valor": 15000 },
+      { "nombre": "Av. La Confluencia", "valor": 4000 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Rural",
+    "seccion": "PINAR QUEMADO",
+    "parajes": [
+      { "nombre": "Pinal Quemado - Con frente a la carretera", "valor": 3000 },
+      { "nombre": "Pinal Quemado - Interior", "valor": 1500 },
+      { "nombre": "La Travesía del Mulo - Con frente a la carretera", "valor": 1500 },
+      { "nombre": "La Travesía del Mulo - Interior", "valor": 1000 },
+      { "nombre": "La Yautia - Con frente a la carretera", "valor": 2000 },
+      { "nombre": "La Yautia - Interior", "valor": 1000 },
+      { "nombre": "La Lomita - Con frente a la carretera", "valor": 2000 },
+      { "nombre": "La Lomita - Interior", "valor": 1000 },
+      { "nombre": "Palo Blanco - Con frente a la carretera", "valor": 3000 },
+      { "nombre": "Palo Blanco - Interior", "valor": 1000 },
+      { "nombre": "La Guázara - poblado", "valor": 1500 },
+      { "nombre": "La Guázara - Con frente a la carretera", "valor": 350 },
+      { "nombre": "La Guázara - Interior", "valor": 300 },
+      { "nombre": "La Pelada", "valor": 1000 },
+      { "nombre": "La Pelada - Con frente a la carretera", "valor": 350 },
+      { "nombre": "La Pelada - Interior", "valor": 300 },
+      { "nombre": "Pino El Rayo - Con frente a la carretera", "valor": 400 },
+      { "nombre": "Pino El Rayo - Interior", "valor": 350 },
+      { "nombre": "Arroyo Cercado - poblado", "valor": 1500 },
+      { "nombre": "Arroyo Cercado - Con frente a la carretera", "valor": 350 },
+      { "nombre": "Arroyo Cercado - Interior", "valor": 300 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Rural",
+    "seccion": "EL COROCITO",
+    "parajes": [
+      { "nombre": "El Corocito", "valor": 1500 },
+      { "nombre": "El Corocito - Con frente a la Carretera", "valor": 800 },
+      { "nombre": "El Corocito - Interior", "valor": 600 },
+      { "nombre": "Los Cafeses - Con frente a la carretera", "valor": 500 },
+      { "nombre": "Los Cafeses - Interior", "valor": 300 },
+      { "nombre": "Angosto - Con frente a la carretera", "valor": 500 },
+      { "nombre": "Angosto - Interior", "valor": 300 },
+      { "nombre": "La Cana", "valor": 800 },
+      { "nombre": "La Cana - Con frente a la carretera", "valor": 500 },
+      { "nombre": "La Cana - Interior", "valor": 300 },
+      { "nombre": "Mata de Cadillo - Con frente a la carretera", "valor": 250 },
+      { "nombre": "Mata de Cadillo - Interior", "valor": 150 },
+      { "nombre": "Cañada Prieta - Con frente a la carretera", "valor": 500 },
+      { "nombre": "Cañada Prieta - Interior", "valor": 300 },
+      { "nombre": "Los Aquelles - Con frente a la carretera", "valor": 700 },
+      { "nombre": "Los Aquelles - Interior", "valor": 500 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Rural",
+    "seccion": "ESTANCITA",
+    "parajes": [
+      { "nombre": "Boma", "valor": 300 },
+      { "nombre": "Arroyo Verraco", "valor": 600 },
+      { "nombre": "La Peña", "valor": 600 },
+      { "nombre": "Juana Álvarez", "valor": 600 },
+      { "nombre": "Balcón de Estancita", "valor": 1200 },
+      { "nombre": "Los Pomos", "valor": 1000 },
+      { "nombre": "Estancita", "valor": 1000 },
+      { "nombre": "Los Hoyitos", "valor": 900 },
+      { "nombre": "Las Táranas", "valor": 900 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Rural",
+    "seccion": "PEDREGAL",
+    "parajes": [
+      { "nombre": "El Salto De Jimenoa (Parque Nacional)", "valor": null },
+      { "nombre": "Ojo De Agua", "valor": 1000 },
+      { "nombre": "Los Arroyos", "valor": 1000 },
+      { "nombre": "Pedregal", "valor": 2500 },
+      { "nombre": "Salto de Bahiguate", "valor": null },
+      { "nombre": "El Cedro", "valor": 1500 },
+      { "nombre": "Alta Misa", "valor": 1500 },
+      { "nombre": "Los Haitises ( San Antonio ) - Con frente a la carretera", "valor": null },
+      { "nombre": "Los Haitises - Interior", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Rural",
+    "seccion": "JUMUNUCO",
+    "parajes": [
+      { "nombre": "Jumunuco - Con frente a la carretera", "valor": 30 },
+      { "nombre": "Jumunuco - Interior", "valor": 20 },
+      { "nombre": "Arroyo Bonito - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Arroyo Bonito - Interior", "valor": 50 },
+      { "nombre": "Loma Negra - Con frente a la carretera", "valor": 350 },
+      { "nombre": "Loma Negra - Interior", "valor": 300 },
+      { "nombre": "Arenoso - Con frente a la carretera", "valor": 350 },
+      { "nombre": "Arenoso - Interior", "valor": 300 },
+      { "nombre": "Yabacao - Con frente a la carretera", "valor": 350 },
+      { "nombre": "Yabacao - Interior", "valor": 300 },
+      { "nombre": "Guanajuma - Con frente a la carretera", "valor": 230 },
+      { "nombre": "Guanajuma - Interior", "valor": 190 },
+      { "nombre": "Montazos de Arroyo Bonito - Con frente a la carretera", "valor": null },
+      { "nombre": "Montazos de Arroyo Bonito - Interior", "valor": null },
+      { "nombre": "Amaceyal - Con frente a la carretera", "valor": 400 },
+      { "nombre": "Amaceyal - Interior", "valor": 350 },
+      { "nombre": "Los Pasos - Con frente a la carretera", "valor": 530 },
+      { "nombre": "Los Pasos - Interior", "valor": 480 },
+      { "nombre": "Las Aminas - Con frente a la carretera", "valor": 530 },
+      { "nombre": "Las Aminas - Interior", "valor": 480 },
+      { "nombre": "Los Josaderos - Con frente a la carretera", "valor": 600 },
+      { "nombre": "Los Josaderos - Interior", "valor": 550 },
+      { "nombre": "Las Cabirmas - Con frente a la carretera", "valor": 700 },
+      { "nombre": "Las Cabirmas - Interior", "valor": 600 },
+      { "nombre": "Rancho del rio Guanajuma - Con frente a la carretera", "valor": 700 },
+      { "nombre": "Rancho del rio Guanajuma - Interior", "valor": 600 },
+      { "nombre": "Llano del Higo (ganadería) - Con frente a la carretera", "valor": 270 },
+      { "nombre": "Llano del Higo - Interior", "valor": 200 },
+      { "nombre": "Llano del Jumunuco - Con frente a la carretera", "valor": 700 },
+      { "nombre": "Llano del Jumunuco - Interior", "valor": 600 },
+      { "nombre": "Los Montazos - Con frente a la carretera", "valor": null },
+      { "nombre": "Los Montazos - Interior", "valor": null },
+      { "nombre": "Compadre Pascual - Con frente a la carretera", "valor": 700 },
+      { "nombre": "Compadre Pascual - Interior", "valor": 600 },
+      { "nombre": "Arroyo Claro - Con frente a la carretera", "valor": null },
+      { "nombre": "Arroyo Claro - Interior", "valor": null },
+      { "nombre": "Las Calabazas - Con frente a la carretera", "valor": 600 },
+      { "nombre": "Las Calabazas - Interior", "valor": 550 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Rural",
+    "seccion": "LOS COROZOS",
+    "parajes": [
+      { "nombre": "Los Corozos - poblado", "valor": 1000 },
+      { "nombre": "Los Corozos - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Los Corozos - Interior", "valor": 150 },
+      { "nombre": "El Paso de La Majaguita", "valor": 1000 },
+      { "nombre": "El Paso de La Majaguita - Con frente a la carretera", "valor": 200 },
+      { "nombre": "El Paso de La Majaguita - Interior", "valor": 150 },
+      { "nombre": "Potro Rabón (Loma) - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Potro Rabón - Interior", "valor": 150 },
+      { "nombre": "El Ranchitos", "valor": 1000 },
+      { "nombre": "El Ranchitos - Con frente a la carretera", "valor": 200 },
+      { "nombre": "El Ranchitos - Interior", "valor": 150 },
+      { "nombre": "La Cienaguita", "valor": 400 },
+      { "nombre": "La Cienaguita - Con frente a la carretera", "valor": 200 },
+      { "nombre": "La Cienaguita - Interior", "valor": 150 },
+      { "nombre": "Piña del Yaque (La Piña)", "valor": 1500 },
+      { "nombre": "Piña del Yaque - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Piña del Yaque - Interior", "valor": 150 },
+      { "nombre": "Vera del Yaqué", "valor": 1000 },
+      { "nombre": "Vera del Yaqué - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Vera del Yaqué - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jarabacoa",
+    "zona": "Rural",
+    "seccion": "PASO BAJITO",
+    "parajes": [
+      { "nombre": "Paso Bajito - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Paso Bajito - Interior", "valor": 70 },
+      { "nombre": "La Pista - Con frente a la carretera", "valor": 80 },
+      { "nombre": "La Pista - Interior", "valor": 70 },
+      { "nombre": "Redondo - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Redondo - Interior", "valor": 70 },
+      { "nombre": "Masipedro - Con frente a la carretera", "valor": 60 },
+      { "nombre": "Masipedro - Interior", "valor": 40 },
+      { "nombre": "La Manacla - Con frente a la carretera", "valor": 80 },
+      { "nombre": "La Manacla - Interior", "valor": 70 },
+      { "nombre": "Los Saltaderos - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Los Saltaderos - Interior", "valor": 70 },
+      { "nombre": "El Guayabo - Con frente a la carretera", "valor": 80 },
+      { "nombre": "El Guayabo - Interior", "valor": 70 },
+      { "nombre": "La Golondrina - Con frente a la carretera", "valor": 60 },
+      { "nombre": "La Golondrina - Interior", "valor": 40 },
+      { "nombre": "La Sal - Con frente a la carretera", "valor": 60 },
+      { "nombre": "La Sal - Interior", "valor": 40 },
+      { "nombre": "La Peña, la Jagua (La Frizia) - poblado", "valor": 1000 },
+      { "nombre": "La Peña, la Jagua - Con frente a la carretera", "valor": 80 },
+      { "nombre": "La Peña, la Jagua - Interior", "valor": 70 },
+      { "nombre": "Paso Bajito - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Paso Bajito - Interior", "valor": 70 },
+      { "nombre": "La Pocilga - Con frente a la carretera", "valor": 80 },
+      { "nombre": "La Pocilga - Interior", "valor": 70 },
+      { "nombre": "Arroyo La Vaca - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Arroyo La Vaca - Interior", "valor": 70 },
+      { "nombre": "Arroyo La Pista - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Arroyo La Pista - Interior", "valor": 70 },
+      { "nombre": "Palma Sola - Con frente a la carretera", "valor": 80 },
+      { "nombre": "Palma Sola - Interior", "valor": 70 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Buena Vista",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Puente de Yami",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Buena Vista Arriba",
+    "valor_promedio": 5000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Campo de Aviación",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Los Jiménez",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Racquet Club",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Limonal",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Mata Gorda",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "El Salto",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Los Capacitos",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "El Anon",
+    "subsectores": [],
+    "valor_promedio": null,
+    "vias_principales": [
+      { "nombre": "Con frente a la carretera", "valor": 200 },
+      { "nombre": "Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "El Puerto área protegida",
+    "valor_promedio": 2100,
+    "subsectores": [],
+    "vias_principales": [
+      { "nombre": "Con frente a la carretera", "valor": 300 },
+      { "nombre": "Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "La Atolladera",
+    "valor_promedio": 2000,
+    "subsectores": [],
+    "vias_principales": [
+      { "nombre": "Con frente a la carretera", "valor": 90 },
+      { "nombre": "Interior", "valor": 70 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "Mata de Platano (Cabanas)",
+    "valor_promedio": 1200,
+    "subsectores": [],
+    "vias_principales": [
+      { "nombre": "Con frente a la carretera", "valor": 300 },
+      { "nombre": "Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Urbana",
+    "sector": "El Cacao",
+    "valor_promedio": 1200,
+    "subsectores": [],
+    "vias_principales": [
+      { "nombre": "Con frente a la carretera", "valor": 300 },
+      { "nombre": "Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Rural",
+    "seccion": "HATO VIEJO",
+    "parajes": [
+      { "nombre": "Hato Viejo", "valor": 2500 },
+      { "nombre": "Hato Viejo - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Hato Viejo - Interior", "valor": 200 },
+      { "nombre": "Honduras (Poblado)", "valor": 2000 },
+      { "nombre": "Honduras - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Honduras - Interior", "valor": 200 },
+      { "nombre": "La Tarana", "valor": 2000 },
+      { "nombre": "La Tarana - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Tarana - Interior", "valor": 200 },
+      { "nombre": "Hato Viejo Arriba", "valor": 2000 },
+      { "nombre": "Hato Viejo Arriba - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Hato Viejo Arriba - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Rural",
+    "seccion": "HATILLO (POBLADO)",
+    "parajes": [
+      { "nombre": "Hatillo (Poblado)", "valor": 1500 },
+      { "nombre": "La Ceniza", "valor": 1500 },
+      { "nombre": "La Ceniza - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Ceniza - Interior", "valor": 200 },
+      { "nombre": "La Sabana", "valor": 1800 },
+      { "nombre": "La Sabana - Con frente a la carretera", "valor": 200 },
+      { "nombre": "La Sabana - Interior", "valor": 150 },
+      { "nombre": "Las Caoba", "valor": 700 },
+      { "nombre": "Las Caoba - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Las Caoba - Interior", "valor": 150 },
+      { "nombre": "Las Cruces de Colorado Parte - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Las Cruces de Colorado Parte - Interior", "valor": 150 },
+      { "nombre": "Crucero", "valor": 700 },
+      { "nombre": "Crucero - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Crucero - Interior", "valor": 150 },
+      { "nombre": "La Guama Arriba", "valor": 700 },
+      { "nombre": "La Guama Arriba - Con frente a la carretera", "valor": 200 },
+      { "nombre": "La Guama Arriba - Interior", "valor": 150 },
+      { "nombre": "La Guama Abajo", "valor": 700 },
+      { "nombre": "La Guama Abajo - Con frente a la carretera", "valor": 200 },
+      { "nombre": "La Guama Abajo - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Rural",
+    "seccion": "PIEDRA BLANCA DEL SALTO",
+    "parajes": [
+      { "nombre": "Piedra Blanca del Salto", "valor": 1500 },
+      { "nombre": "Piedra Blanca del Salto - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Piedra Blanca del Salto - Interior", "valor": 200 },
+      { "nombre": "El Higo", "valor": 1500 },
+      { "nombre": "El Higo - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Higo - Interior", "valor": 200 },
+      { "nombre": "Ovendo", "valor": 1000 },
+      { "nombre": "Ovendo - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Ovendo - Interior", "valor": 250 },
+      { "nombre": "Las Auyamas", "valor": 1000 },
+      { "nombre": "Las Auyamas - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Las Auyamas - Interior", "valor": 250 },
+      { "nombre": "Boca de Los Ríos", "valor": 1000 },
+      { "nombre": "Boca de Los Ríos - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Boca de Los Ríos - Interior", "valor": 200 },
+      { "nombre": "La Guamita Presa de Yegua", "valor": 1000 },
+      { "nombre": "La Guamita Presa de Yegua - Con frente a la carretera", "valor": 200 },
+      { "nombre": "La Guamita Presa de Yegua - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Buena Vista",
+    "zona": "Rural",
+    "seccion": "PIEDRA BLANCA",
+    "parajes": [
+      { "nombre": "Piedra Blanca", "valor": 2500 },
+      { "nombre": "Piedra Blanca - Con frente a la carretera", "valor": 400 },
+      { "nombre": "Piedra Blanca - Interior", "valor": 350 },
+      { "nombre": "Los Catelles o Los Catorce", "valor": 1500 },
+      { "nombre": "Los Catelles o Los Catorce - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Los Catelles o Los Catorce - Interior", "valor": 100 },
+      { "nombre": "Sabaneta", "valor": 1500 },
+      { "nombre": "Sabaneta - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Sabaneta - Interior", "valor": 100 },
+      { "nombre": "Los Manaclas", "valor": 1500 },
+      { "nombre": "Los Manaclas - Con frente a la carretera", "valor": 150 },
+      { "nombre": "Los Manaclas - Interior", "valor": 100 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Manabao",
+    "zona": "Urbana",
+    "sector": "Manabao",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Manabao",
+    "zona": "Urbana",
+    "sector": "El Fogón",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Manabao",
+    "zona": "Rural",
+    "seccion": "DAJAOS",
+    "parajes": [
+      { "nombre": "Dajaos - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Dajaos - Interior", "valor": 200 },
+      { "nombre": "Rancho del Rio - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Rancho del Rio - Interior", "valor": 200 },
+      { "nombre": "Los Calabazos - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Los Calabazos - Interior", "valor": 200 },
+      { "nombre": "El Dulce o Arroyo Dulce - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Dulce o Arroyo Dulce - Interior", "valor": 200 },
+      { "nombre": "El Bobo o La Pelúa - Con frente a la carretera", "valor": 200 },
+      { "nombre": "El Bobo o La Pelúa - Interior", "valor": 150 },
+      { "nombre": "Josafá - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Josafá - Interior", "valor": 150 },
+      { "nombre": "El Manguito o Zumbador - Con frente a la carretera", "valor": 200 },
+      { "nombre": "El Manguito o Zumbador - Interior", "valor": 150 },
+      { "nombre": "Tiesto del Palo La Cotorra - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Tiesto del Palo La Cotorra - Interior", "valor": 200 },
+      { "nombre": "Las Palomas - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Las Palomas - Interior", "valor": 200 },
+      { "nombre": "Los Dajaos - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Los Dajaos - Interior", "valor": 200 },
+      { "nombre": "L Cañada Amarga Los Marranitos - Con frente a la carretera", "valor": 300 },
+      { "nombre": "L Cañada Amarga Los Marranitos - Interior", "valor": 200 },
+      { "nombre": "Paso de la Majaguita o La Margarita - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Paso de la Majaguita o La Margarita - Interior", "valor": 200 },
+      { "nombre": "La Majaguita - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Majaguita - Interior", "valor": 200 },
+      { "nombre": "Los Marranitos - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Los Marranitos - Interior", "valor": 150 },
+      { "nombre": "Piedra Llana - Con frente a la carretera", "valor": 200 },
+      { "nombre": "Piedra Llana - Interior", "valor": 150 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Manabao",
+    "zona": "Rural",
+    "seccion": "LA CIÉNAGA",
+    "parajes": [
+      { "nombre": "La Ciénaga - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Ciénaga - Interior", "valor": 200 },
+      { "nombre": "Mata de Limón - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Mata de Limón - Interior", "valor": 200 },
+      { "nombre": "Paso de la Perra - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Paso de la Perra - Interior", "valor": 200 },
+      { "nombre": "La Peñita - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Peñita - Interior", "valor": 200 },
+      { "nombre": "Joya de Ramón - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Joya de Ramón - Interior", "valor": 200 },
+      { "nombre": "El Tetero - Con frente a la carretera", "valor": 300 },
+      { "nombre": "El Tetero - Interior", "valor": 200 },
+      { "nombre": "El Higo - Con frente a la carretera", "valor": 200 },
+      { "nombre": "El Higo - Interior", "valor": 150 },
+      { "nombre": "Arroyo Frio - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Arroyo Frio - Interior", "valor": 200 },
+      { "nombre": "El Arraijan (Parque Nacional Parte 60.00) - Con frente a la carretera", "valor": 250 },
+      { "nombre": "El Arraijan - Interior", "valor": 200 },
+      { "nombre": "Los Tablones (Parque Nacional J. Armando Bermúdez) - Con frente a la carretera", "valor": null },
+      { "nombre": "Los Tablones - Interior", "valor": null },
+      { "nombre": "Boca de los Ríos - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Boca de los Ríos - Interior", "valor": 200 },
+      { "nombre": "Arroyo de los Muertos - Con frente a la carretera", "valor": 250 },
+      { "nombre": "Arroyo de los Muertos - Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Manabao",
+    "zona": "Rural",
+    "seccion": "MANABAO",
+    "parajes": [
+      { "nombre": "Pino del Rayo", "valor": 300 },
+      { "nombre": "Pino del Rayo - Con frente a la carretera", "valor": 270 },
+      { "nombre": "Arroyo del Rancho", "valor": 300 },
+      { "nombre": "Arroyo del Rancho - Con frente a la carretera", "valor": 270 },
+      { "nombre": "La Joya o La Joya del Tetero - Con frente a la carretera", "valor": 300 },
+      { "nombre": "La Joya o La Joya del Tetero - Interior", "valor": 270 },
+      { "nombre": "Tierrita Colorada (Tierra Colorado y el Abanico) - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Tierrita Colorada - Interior", "valor": 270 },
+      { "nombre": "La Angostura - Con frente a la carretera", "valor": 250 },
+      { "nombre": "La Angostura - Interior", "valor": 200 },
+      { "nombre": "Pajarito - Con frente a la carretera", "valor": 300 },
+      { "nombre": "Pajarito - Interior", "valor": 270 },
+      { "nombre": "Mata Café - Con frente a la carretera", "valor": 250 },
+      { "nombre": "Mata Café - Interior", "valor": 200 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Centro del Pueblo",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Bo. La Amistad",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Ensanche Las Palmas",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Ensanche Caonabo",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Villa Consuelo",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Pueblo Nuevo",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "El Mechón",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Rafael Cruceta (María Auxiliadora)",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Villa Margarita",
+    "valor_promedio": 1300,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "La Colonia",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Urbana",
+    "sector": "Av. Duarte desde C/ Caonabo hasta la bomba Shell",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Rural",
+    "seccion": "FRONTERA",
+    "parajes": [
+      { "nombre": "Frontera - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Frontera - Interior", "valor": 80 },
+      { "nombre": "Los Cerros - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Los Cerros - Interior", "valor": 80 },
+      { "nombre": "Pico Alto - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Pico Alto - Interior", "valor": 80 },
+      { "nombre": "Los Quemaítos - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Los Quemaítos - Interior", "valor": 80 },
+      { "nombre": "Los Samánes - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Los Samánes - Interior", "valor": 80 },
+      { "nombre": "El Canal de la Misericordia - Con frente a la carretera", "valor": 100 },
+      { "nombre": "El Canal de la Misericordia - Interior", "valor": 80 },
+      { "nombre": "La Factoría - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Factoría - Interior", "valor": 80 },
+      { "nombre": "La Romana - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Romana - Interior", "valor": 80 },
+      { "nombre": "Presa de Rincón - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Presa de Rincón - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Rural",
+    "seccion": "JIMA ARRIBA (Poblado)",
+    "parajes": [
+      { "nombre": "Jima Arriba (Poblado)", "valor": 1500 },
+      { "nombre": "Jima Arriba - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Jima Arriba - Interior", "valor": 80 },
+      { "nombre": "El Higo - Con frente a la carretera", "valor": 100 },
+      { "nombre": "El Higo - Interior", "valor": 80 },
+      { "nombre": "Las Escobas - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Las Escobas - Interior", "valor": 80 },
+      { "nombre": "La Lometa - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Lometa - Interior", "valor": 80 },
+      { "nombre": "Los Corozos - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Los Corozos - Interior", "valor": 80 },
+      { "nombre": "Río Chiquito - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Río Chiquito - Interior", "valor": 80 },
+      { "nombre": "Botón Caliente - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Botón Caliente - Interior", "valor": 80 },
+      { "nombre": "La Cuarenta - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Cuarenta - Interior", "valor": 80 },
+      { "nombre": "Los Patos - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Los Patos - Interior", "valor": 80 },
+      { "nombre": "La Guanabana - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Guanabana - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Jima Abajo",
+    "zona": "Rural",
+    "seccion": "SAN BARTOLO",
+    "parajes": [
+      { "nombre": "San Bartolo - Con frente a la carretera", "valor": 100 },
+      { "nombre": "San Bartolo - Interior", "valor": 80 },
+      { "nombre": "Batey Badía - Con frente a la carretera", "valor": 100 },
+      { "nombre": "Batey Badía - Interior", "valor": 80 },
+      { "nombre": "La Joya - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Joya - Interior", "valor": 80 },
+      { "nombre": "El Alto del Polvo - Con frente a la carretera", "valor": 100 },
+      { "nombre": "El Alto del Polvo - Interior", "valor": 80 },
+      { "nombre": "La Boca de Jima - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Boca de Jima - Interior", "valor": 80 },
+      { "nombre": "La Factoría - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Factoría - Interior", "valor": 80 },
+      { "nombre": "San Bartolo (Bartolomé) - Con frente a la carretera", "valor": 100 },
+      { "nombre": "San Bartolo (Bartolomé) - Interior", "valor": 80 }
+    ]
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Rincón Centro",
+    "valor_promedio": 1600,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Barrio Duarte",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Soledad",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Simón Bolívar",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "El Hoyo",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Villa Caridad",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Padre Fantino",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "El Caserío Santa Clara",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Villa Canal",
+    "valor_promedio": 700,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "El Cruce",
+    "valor_promedio": 1000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Urbana",
+    "sector": "Puerto Arturo",
+    "valor_promedio": 400,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Vega",
+    "municipio": "Rincón",
+    "zona": "Rural",
+    "seccion": "LA CEIBITA",
+    "parajes": [
+      { "nombre": "La Ceibita - poblado", "valor": 700 },
+      { "nombre": "La Ceibita - Con frente a la carretera", "valor": 100 },
+      { "nombre": "La Ceibita - Interior", "valor": 80 }
+    ]
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-001",
+    "sector": "CENTRO DE LA CIUDAD",
+    "valor_promedio": 8000,
+    "subsectores": [
+      {"nombre": "Miramar", "valor": 3000},
+      {"nombre": "La Roca", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Calle María Trinidad Sánchez",
+      "sur": "Avenida Gastón Fernando Deligne",
+      "oeste": "Río Higuamo"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde calle Fernando Domínguez hasta calle María Trinidad Sánchez)", "valor": 10000},
+      {"nombre": "Avenida Gastón Fernando Deligne (desde el Muelle hasta calle María Trinidad Sánchez)", "valor": null},
+      {"nombre": "Ave. 27 de Febrero (desde avenida Independencia hasta calle María Trinidad Sánchez)", "valor": null},
+      {"nombre": "Calle Sánchez (desde avenida Independencia hasta avenida Gastón Fernando Deligne)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-002",
+    "sector": "PLACER BONITO",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "La Esperanza", "valor": 900},
+      {"nombre": "El Silencio", "valor": 1500},
+      {"nombre": "Barrio La Barca", "valor": 1300}
+    ],
+    "limites": {
+      "norte": "Avenida Francisco Alberto Caamaño",
+      "este": "Ave. General Cabral (Maximiliano Gómez)",
+      "sur": "Avenida Independencia",
+      "oeste": "Río Higuamo"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Francisco Alberto Caamaño (desde Río Higuamo hasta calle General Cabral)", "valor": 4000},
+      {"nombre": "Avenida Independencia (desde Río Higuamo hasta calle General Cabral)", "valor": 10000},
+      {"nombre": "Avenida Cabral (Maximiliano Gómez) (desde Avenida Cabral hasta Avenida Independencia)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-003",
+    "sector": "BLANCO",
+    "valor_promedio": 600,
+    "subsectores": [
+      {"nombre": "Barrio Punta de Garza", "valor": 800},
+      {"nombre": "Santa Clara", "valor": 800}
+    ],
+    "limites": {
+      "norte": "Autovía del Este",
+      "este": "Calle Maximiliano Gómez",
+      "sur": "Avenida Francisco Caamaño",
+      "oeste": "Río Higuamo"
+    },
+    "vias_principales": [
+      {"nombre": "Calle Maximiliano Gómez (desde avenida Francisco A. Caamaño hasta calle José María Mejía)", "valor": 5000},
+      {"nombre": "Avenida Francisco Alberto Caamaño (desde Río Higuamo hasta calle General Cabral)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-004",
+    "sector": "EVANGELINA RODRIGUEZ",
+    "valor_promedio": 5000,
+    "subsectores": [
+      {"nombre": "Villa Brisal", "valor": 1000},
+      {"nombre": "Urb. Villa Coral", "valor": 1000},
+      {"nombre": "Barrio Villa Coral", "valor": 800},
+      {"nombre": "Urb. Villa España", "valor": 1200},
+      {"nombre": "Villa Visán", "valor": 1500},
+      {"nombre": "Villa Orilla", "valor": 750},
+      {"nombre": "El Brisal", "valor": 800},
+      {"nombre": "Barrio México", "valor": 2100}
+    ],
+    "limites": {
+      "norte": "Autovía del Este",
+      "este": "Carretera Mella",
+      "sur": "Avenida Francisco Caamaño",
+      "oeste": "Avenida Maximiliano Gómez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Francisco A. Caamaño (desde Calle Maximiliano Gómez hasta Carretera Mella)", "valor": null},
+      {"nombre": "Carretera Mella (desde avenida Francisco A. Caamaño hasta calle El Molino)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-005",
+    "sector": "RESIDENCIAL NAIME",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Villa Magdalena", "valor": 2000},
+      {"nombre": "Villa Progreso II", "valor": 1750},
+      {"nombre": "Barrio Titán", "valor": 1500}
+    ],
+    "limites": {
+      "norte": "Autovía del Este",
+      "este": "Autovía del Este",
+      "sur": "Carretera Santa Fe y Calle El Molino",
+      "oeste": "Carretera al Ingenio Consuelo (Carretera Mella)"
+    },
+    "vias_principales": [
+      {"nombre": "Autovía del Este (desde Carretera al Ingenio Consuelo hasta el Cruce de Ramón Santana)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-006",
+    "sector": "VILLA PROGRESO",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Barrio Cervecería", "valor": 1500},
+      {"nombre": "Barrio Restauración", "valor": 1800},
+      {"nombre": "Barrio Los Felius", "valor": 1400},
+      {"nombre": "Barrio Lindo", "valor": 1200}
+    ],
+    "limites": {
+      "norte": "Calle El Molino",
+      "este": "Calle El Molino",
+      "sur": "Calle Orlando Martínez",
+      "oeste": "Carretera Mella"
+    },
+    "vias_principales": [
+      {"nombre": "Calle El Molino (desde Carretera Mella hasta calle Mauricio Báez)", "valor": 2000}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-007",
+    "sector": "PORVENIR",
+    "valor_promedio": 1500,
+    "subsectores": [
+      {"nombre": "Villa Magdalena I", "valor": 1900},
+      {"nombre": "Ensanche Vega", "valor": 1000},
+      {"nombre": "Barrio Los Guachimanes", "valor": 750},
+      {"nombre": "Barrio Loma Del Cochero", "valor": 1900},
+      {"nombre": "Barrio Porvenir II", "valor": 1500},
+      {"nombre": "Los Multifamiliares", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Calle Mauricio Báez (Carretera a Santa Fe)",
+      "este": "Los Rieles",
+      "sur": "Carretera a La Romana (Luís Amiama Tió)",
+      "oeste": "Ave. Circunvalación"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera a la Romana (Calle Luis Amiama Tió) (desde avenida Circunvalación hasta los Rieles)", "valor": 2750}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-008",
+    "sector": "BUENOS AIRES",
+    "valor_promedio": 1500,
+    "subsectores": [
+      {"nombre": "Villa Olímpica", "valor": 1500},
+      {"nombre": "Invi CEA", "valor": 1500},
+      {"nombre": "Barrio 24 de Abril", "valor": 800},
+      {"nombre": "Barrio Azul", "valor": 1000},
+      {"nombre": "Barrio La Puerta", "valor": 650},
+      {"nombre": "Residencial Panal de Azúcar", "valor": 750},
+      {"nombre": "Barrio Colina I, II y III", "valor": 1500},
+      {"nombre": "Barrio Los Gandules", "valor": 800}
+    ],
+    "limites": {
+      "norte": "Carretera a Santa Fe",
+      "este": "Sector Ingenio Santa Fe",
+      "sur": "Carretera a Romana",
+      "oeste": "Los Rieles"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera a Santa Fe (desde Los Rieles hasta Autopista Profesor Juan Bosch (Autovía del Este))", "valor": null},
+      {"nombre": "Avenida Luís Amiama Tió (Carretera a la Romana) (desde Los Rieles hasta Autopista Profesor Juan Bosch)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-009",
+    "sector": "INGENIO SANTA FE",
+    "valor_promedio": 900,
+    "subsectores": [
+      {"nombre": "Villa Centro", "valor": 700},
+      {"nombre": "Cáscara Jíbara", "valor": 700},
+      {"nombre": "Canta Rana", "valor": 650},
+      {"nombre": "El Club", "valor": 500},
+      {"nombre": "El Patio", "valor": 600},
+      {"nombre": "Proyecto José Gracia Blanche (Batey 8)", "valor": 500},
+      {"nombre": "Residencial San Pedro", "valor": 500}
+    ],
+    "limites": {
+      "norte": "Carretera a Santa Fe",
+      "este": "Autopista Profesor Juan Bosch (Autovía del Este)",
+      "sur": "Carretera a Romana",
+      "oeste": "Sector Buenos Aires"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera a Santa Fe (desde Los Rieles hasta Autopista Profesor Juan Bosch)", "valor": null},
+      {"nombre": "Autopista Profesor Juan Bosch (Autovía del Este)", "valor": null},
+      {"nombre": "Avenida Luís Amiama Tió (Carretera a la Romana) (desde Los Rieles hasta Autopista Profesor Juan Bosch)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-010",
+    "sector": "ZONA FRANCA",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Pradera de San Pedro Km.- 2 ½", "valor": 2000},
+      {"nombre": "Residencial Petrópolis II", "valor": 2000},
+      {"nombre": "Residencial Petrópolis I", "valor": 2000},
+      {"nombre": "Villa Esperanza", "valor": 750},
+      {"nombre": "Batey Esperanza", "valor": 300}
+    ],
+    "limites": {
+      "norte": "Avenida Luís Amiama Tió (Carretera a La Romana)",
+      "este": "Entrada al Batey Esperanza",
+      "sur": "Laguna",
+      "oeste": "Prolongación Circunvalación"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Luís Amiama Tió (Carretera a la Romana) (desde la Circunvalación hasta los Rieles)", "valor": 2500}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-011",
+    "sector": "ZONA UNIVERSITARIA",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Barrio Las Flores", "valor": 800},
+      {"nombre": "Barrio Pueblo Nuevo", "valor": 1500},
+      {"nombre": "Villa Municipal", "valor": 1500},
+      {"nombre": "Barrio El Toconal", "valor": 3000},
+      {"nombre": "Urbanización Hazim", "valor": 5000},
+      {"nombre": "Residencial Flor de Caña", "valor": 2000},
+      {"nombre": "Barrio Pedro Justo Carrión", "valor": 1500},
+      {"nombre": "Barrio La Filipina", "valor": 800},
+      {"nombre": "Barrio Playa de Muerto", "valor": 300},
+      {"nombre": "Barrio La Piedra", "valor": 500}
+    ],
+    "limites": {
+      "norte": "Ave. 27 de Febrero y ave. Luís Amiama Tió",
+      "este": "Prolongación Circunvalación (entrada a Zona Franca)",
+      "sur": "Mar Caribe",
+      "oeste": "Calle María Trinidad Sánchez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde calle María Trinidad Sánchez hasta calle Fernando Arredondo)", "valor": null},
+      {"nombre": "Ave. Luís Amiama Tió (desde calle Fernando Arredondo hasta la Circunvalación)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-012",
+    "sector": "SARMIENTO",
+    "valor_promedio": 2500,
+    "subsectores": [
+      {"nombre": "Urbanización Enriquillo", "valor": 2500},
+      {"nombre": "Urbanización Jonh F. Kennedy", "valor": 2500},
+      {"nombre": "Barrio Los Maestros", "valor": 3000}
+    ],
+    "limites": {
+      "norte": "Ave. Independencia",
+      "este": "Avenida Circunvalación",
+      "sur": "Avenida 27 de Febrero y Ave. Luís Amiama Tió",
+      "oeste": "Calle María Trinidad Sánchez"
+    },
+    "vias_principales": [
+      {"nombre": "Ave. 27 de Febrero (desde Ave. María Trinidad Sánchez hasta calle Fernando Arredondo)", "valor": null},
+      {"nombre": "Ave. Luís Amiama Tió (desde calle Fernando Arredondo hasta la Circunvalación)", "valor": null},
+      {"nombre": "Ave. Independencia (desde calle María Trinidad Sánchez hasta la Circunvalación)", "valor": null},
+      {"nombre": "Ave. Circunvalación (desde Ave. Independencia hasta la Ave. Luís Amiama Tió)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San Pedro de Macorís",
+    "zona": "Urbana",
+    "codigo": "023-013",
+    "sector": "VILLA VELAZQUEZ",
+    "valor_promedio": 5000,
+    "subsectores": [
+      {"nombre": "Los Cuatro Caminos", "valor": 3000},
+      {"nombre": "Urbanización Independencia", "valor": 5500},
+      {"nombre": "Villa Providencia", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Avenida Francisco A. Caamaño",
+      "este": "Avenida Circunvalación",
+      "sur": "Avenida Independencia",
+      "oeste": "Avenida Maximiliano Gómez (General Cabral)"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Francisco Alberto Caamaño (desde Avenida Maximiliano Gómez hasta la Ave. Circunvalación)", "valor": 5000},
+      {"nombre": "Ave. Circunvalación (desde Avenida Francisco A. Caamaño hasta la Ave. Independencia)", "valor": 4000},
+      {"nombre": "Avenida Independencia (desde Ave. Maximiliano Gómez hasta la Ave. Circunvalación)", "valor": 7000},
+      {"nombre": "Ave. Maximiliano Gómez (General Cabral) (desde la Ave. Francisco Caamaño hasta la Ave. Independencia)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Quisqueya",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "MUNICIPIO DE QUISQUEYA",
+    "subsectores": [
+      {"nombre": "Centro de la Ciudad", "valor": 1000},
+      {"nombre": "Barrio Guachupita", "valor": 700},
+      {"nombre": "Barrio Punta Brava", "valor": 500},
+      {"nombre": "Barrio Ugamba", "valor": 300},
+      {"nombre": "Barrio La Loma", "valor": 600},
+      {"nombre": "Barrio África", "valor": 500},
+      {"nombre": "Barrio Los Chifles", "valor": 300},
+      {"nombre": "Barrio La Cueva", "valor": 400},
+      {"nombre": "Barrio Higuereta", "valor": 600},
+      {"nombre": "Barrio Las Flores", "valor": 300},
+      {"nombre": "Barrio El Silencio", "valor": 500},
+      {"nombre": "Barrio Villa Verde", "valor": 700},
+      {"nombre": "Invi I", "valor": 800},
+      {"nombre": "Invi II", "valor": 700},
+      {"nombre": "Barrio Villa Blanca", "valor": 400},
+      {"nombre": "Barrio Pueblo Nuevo (Haití Chiquito)", "valor": 400},
+      {"nombre": "Barrio Virgen de la Caridad del Cobre", "valor": 500},
+      {"nombre": "Barrio La Yuca", "valor": 300},
+      {"nombre": "Barrio Quilombo", "valor": 600},
+      {"nombre": "Barrio Pajarito (Batey Pajarito)", "valor": 200},
+      {"nombre": "Barrio San Carlos", "valor": 400},
+      {"nombre": "Villas Vargavillas", "valor": 500},
+      {"nombre": "Barrio Villa Costine", "valor": 500},
+      {"nombre": "Barrio La Plaza", "valor": 600}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Consuelo",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "MUNICIPIO DE CONSUELO",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 1000},
+      {"nombre": "Bo. Santa Ana", "valor": 600},
+      {"nombre": "Bo. La Habana", "valor": 600},
+      {"nombre": "Bo Guamita", "valor": 500},
+      {"nombre": "Bo. Buenos Aires", "valor": 400},
+      {"nombre": "Bo. La Mina 1 y 2", "valor": 400},
+      {"nombre": "Bo. La Loma", "valor": 500},
+      {"nombre": "BO. Villa Paraíso (El Quilombo)", "valor": 400},
+      {"nombre": "Bo. Guachupita", "valor": 400},
+      {"nombre": "Bo. Villa Verde", "valor": 400},
+      {"nombre": "Bo. Hato Mayor", "valor": 600},
+      {"nombre": "Bo. Libertad", "valor": 600},
+      {"nombre": "Urbanización Sueño Real (Los Maestros)", "valor": 700},
+      {"nombre": "Bo. Los Jardines", "valor": 500},
+      {"nombre": "Bo. Los Sindicalistas", "valor": 400},
+      {"nombre": "Bo. Villa Enriquillo", "valor": 400},
+      {"nombre": "Bo. Los Vecinos", "valor": 400},
+      {"nombre": "Bo. La Carretera", "valor": 500},
+      {"nombre": "Bo. Los Feliu", "valor": 500},
+      {"nombre": "Bo. Puerto Príncipe", "valor": 400},
+      {"nombre": "Bo. Guandules", "valor": 500},
+      {"nombre": "Bo. Invi-Cea", "valor": 600},
+      {"nombre": "Bo. George", "valor": 500},
+      {"nombre": "Bo. Los Químicos Azucareros", "valor": 500},
+      {"nombre": "Bo. La Aviación", "valor": 500},
+      {"nombre": "Bo. Puerto Rico 1 y 2", "valor": 500},
+      {"nombre": "Bo. Villa Progreso", "valor": 700},
+      {"nombre": "Bo. La 41", "valor": 400},
+      {"nombre": "Urb. Canaán", "valor": 300}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Guayacanes",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "MUNICIPIO DE GUAYACANES",
+    "subsectores": [
+      {"nombre": "Guayacanes (Poblado)", "valor": 2000},
+      {"nombre": "Guayacanes (Playa)", "valor": 4000},
+      {"nombre": "Juan Dolio (Poblado)", "valor": 4000},
+      {"nombre": "Juan Dolio (Playa)", "valor": 8000},
+      {"nombre": "Villas del Mar", "valor": 6000},
+      {"nombre": "Villas del Mar Carretera Nueva y Playa", "valor": 8000},
+      {"nombre": "Barrio Los Conucos", "valor": 1000},
+      {"nombre": "Guababerry", "valor": 3000},
+      {"nombre": "Sol del Mar", "valor": 6000},
+      {"nombre": "Los Bancos de Arena (Urbano)", "valor": 1000},
+      {"nombre": "Metro Country Club", "valor": 5000},
+      {"nombre": "La Canita", "valor": 1000},
+      {"nombre": "Ciudad Caribe", "valor": 1000},
+      {"nombre": "Los Higüeros", "valor": 500}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Ramón Santana",
+    "zona": "Urbana",
+    "codigo": "030",
+    "sector": "MUNICIPIO DE RAMÓN SANTANA",
+    "subsectores": [
+      {"nombre": "Ramón Santana (Centro)", "valor": null},
+      {"nombre": "Playa Nueva Romana", "valor": null},
+      {"nombre": "Boca de Cuma yasa (Poblado)", "valor": null},
+      {"nombre": "Boca de Cuma yasa Rivera del Rio", "valor": null},
+      {"nombre": "Boca de Cuma yasa Costa", "valor": null}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San José de los Llanos",
+    "zona": "Urbana",
+    "codigo": "024",
+    "sector": "MUNICIPIO DE SAN JOSÉ DE LOS LLANOS",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 1000},
+      {"nombre": "Bo. Los Cocos", "valor": 800},
+      {"nombre": "Los Multis", "valor": 800},
+      {"nombre": "Villa Maco", "valor": 500},
+      {"nombre": "Bo. La Palma", "valor": 700},
+      {"nombre": "La Guazara", "valor": 800},
+      {"nombre": "Rumbamba", "valor": 600},
+      {"nombre": "Bo. El Liceo", "valor": 500},
+      {"nombre": "Bo. Las 5 Bocas", "valor": 400},
+      {"nombre": "Villa Progreso", "valor": 500}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San José de los Llanos",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL EL PUERTO",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 700},
+      {"nombre": "Matica Seca", "valor": 300},
+      {"nombre": "Bo. Proyecto", "valor": 700},
+      {"nombre": "Bo. Santa Fe", "valor": 500},
+      {"nombre": "Bo. El Semillero", "valor": 200},
+      {"nombre": "Bo. La Cancha", "valor": 200},
+      {"nombre": "Bo. La Gallera", "valor": 300},
+      {"nombre": "Bo. Las Quinientas", "valor": 200},
+      {"nombre": "Bo. Nuevo", "valor": 300},
+      {"nombre": "Bo. La Cuavita", "valor": 500},
+      {"nombre": "Jarro Sucio", "valor": 500},
+      {"nombre": "Los Pachecos", "valor": 100},
+      {"nombre": "Canta la Rana", "valor": 200}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "San José de los Llanos",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "EL PUERTO (RURAL)",
+    "parajes": [
+      {"nombre": "Con frente a la carretera", "valor": 50},
+      {"nombre": "Interior", "valor": 35}
+    ]
+  },
+  {
+    "provincia": "San Pedro de Macorís",
+    "municipio": "Gautier",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL GAUTIER",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 700},
+      {"nombre": "Los Altos", "valor": 300},
+      {"nombre": "Bo. Los Platanitos", "valor": 600},
+      {"nombre": "Quilombo", "valor": 400},
+      {"nombre": "Mina Vieja", "valor": 200},
+      {"nombre": "Bo. La Loma", "valor": 200},
+      {"nombre": "Bo. Nuevo II", "valor": 300},
+      {"nombre": "Villa Progreso", "valor": 700},
+      {"nombre": "Zona Franca", "valor": 1000},
+      {"nombre": "Cruce de Cayacoa", "valor": 700},
+      {"nombre": "Carretera Mella", "valor": 1000}
+    ]
+  }
+]

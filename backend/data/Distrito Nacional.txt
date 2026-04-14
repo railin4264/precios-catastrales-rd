@@ -1,0 +1,1395 @@
+[
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "La Isabela",
+    "valor_promedio": 4000,
+    "subsectores": [
+      {"nombre": "La Hondonada", "valor": 3000},
+      {"nombre": "Residencial Aida Rosa", "valor": 5000},
+      {"nombre": "San Diego (Zona Rural)", "valor": 150}
+    ],
+    "limites": {
+      "norte": "Río Isabela y Carretera La Isabela",
+      "este": "Sector Arroyo Manzano",
+      "sur": "Sector Palma Real",
+      "oeste": "Limite municipal Los Alcarrizos, D. N."
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "Arroyo Manzano",
+    "valor_promedio": 6000,
+    "subsectores": [
+      {"nombre": "Urbanización Arroyo Manzano", "valor": 8000},
+      {"nombre": "Buena Vista", "valor": 8000},
+      {"nombre": "Puerta de Hierro", "valor": 5000},
+      {"nombre": "Colina Bella", "valor": 5000},
+      {"nombre": "Cuesta Brava", "valor": 8000},
+      {"nombre": "Residencial San Sebastián VIII", "valor": 8000}
+    ],
+    "limites": {
+      "norte": "Río Isabela",
+      "este": "Avenida Prolongación Jacobo Majluta Azar",
+      "sur": "Carretera La Isabela",
+      "oeste": "Arroyo Manzano"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Prolongación Jacobo Majluta Azar (desde río Isabela hasta Calle Alfonso Moreno Martínez)", "valor": 8000},
+      {"nombre": "Carretera La Isabela (desde Calle Alfonso Moreno Martínez hasta Calle Florencia)", "valor": 5000},
+      {"nombre": "Carretera La Isabela (desde Calle Florencia hasta Entrada de Puerta de Hierro)", "valor": 6000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "Cerros de Arroyo Hondo",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Residencial San Sebastián XII", "valor": 8000},
+      {"nombre": "Cuesta Hermosa II", "valor": 7000},
+      {"nombre": "Cuesta Hermosa III", "valor": 7000},
+      {"nombre": "El Totumo (Cerros de Doña Luisa)", "valor": 5000},
+      {"nombre": "Isabel Villas Golf and Country Club", "valor": 7000},
+      {"nombre": "Lomas de Arroyo Hondo", "valor": 8000},
+      {"nombre": "Los Arroyos", "valor": 10000},
+      {"nombre": "Quita de Cuesta Hermosa", "valor": 12000}
+    ],
+    "limites": {
+      "norte": "Río Isabela",
+      "este": "Parque Zoológico Nacional y El Arroyo Hondo",
+      "sur": "Carretera La Isabela y Camino Ribera del Arroyo Hondo",
+      "oeste": "Avenida Presidente Jacobo Majluta Azar"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Presidente Jacobo Majluta (desde Av. República de Colombia hasta el Río Isabela)", "valor": 8000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "Parque Zoológico Nacional",
+    "valor_promedio": null,
+    "subsectores": [],
+    "limites": {
+      "norte": "El Arroyo Hondo y Rio Isabela",
+      "este": "Sector Puerto Isabela",
+      "sur": "Av. Paseo de los Reyes Católicos",
+      "oeste": "Sector Nuevo Arroyo Hondo"
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "005",
+    "sector": "Ensanche La Fe (según página 3, pero parece ser otro sector)",
+    "valor_promedio": 2000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Rio Isabela",
+      "este": "Av. Máximo Gómez",
+      "sur": "Av. Paseo de Los Reyes Católicos",
+      "oeste": "Zoológico Nacional"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Máximo Gómez (desde Río Isabela hasta Av. Paseo de los Reyes Católicos)", "valor": 2000},
+      {"nombre": "Avenida Paseo de Los Reyes Católicos (desde Av. Máximo Gómez hasta Av. Ortega y Gasset)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "006",
+    "sector": "LA ZURZA",
+    "valor_promedio": 1000,
+    "subsectores": [
+      {"nombre": "Residencial Brisas de La Isabela", "valor": null},
+      {"nombre": "Barrio Juan Pablo Duarte", "valor": 800},
+      {"nombre": "Barrio Los Coquitos", "valor": 800}
+    ],
+    "limites": {
+      "norte": "Río Isabela",
+      "este": "Respaldo José Martí, Calle 42",
+      "sur": "Avenida de los Mártires y Avenida Juan Pablo Duarte",
+      "oeste": "Avenida Máximo Gómez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida de Los Mártires (desde Avenida Máximo Gómez hasta el Mercado Nuevo)", "valor": 3000},
+      {"nombre": "Avenida Máximo Gómez (desde Avenida de los Mártires hasta el Puente Presidente Peynado)", "valor": 4000},
+      {"nombre": "Avenida Juan Pablo Duarte (desde Calle 42 hasta la Rotonda del Mercado Nuevo)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "007",
+    "sector": "Ensanche Capotillo",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "La Cuaba", "valor": 500},
+      {"nombre": "El Caliche", "valor": 500},
+      {"nombre": "El Manguito", "valor": 500}
+    ],
+    "limites": {
+      "norte": "Avenida rio Isabela",
+      "este": "Calle Núñez de Cáceres y Av. Albert Thomas",
+      "sur": "Avenida Nicolás de Ovando",
+      "oeste": "Avenida Juan Pablo Duarte, Respaldo José Martí, Calle 42"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Nicolás de Ovando (desde Calle Núñez de Cáceres hasta Av. Duarte)", "valor": 500},
+      {"nombre": "Avenida Juan Pablo Duarte (desde Calle 42 hasta Avenida Nicolas de Ovando)", "valor": 500}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "008",
+    "sector": "Simón Bolívar",
+    "valor_promedio": 500,
+    "subsectores": [
+      {"nombre": "Aljibe", "valor": null},
+      {"nombre": "Las Cañitas", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida río Isabela y río Ozama",
+      "este": "Río Ozama",
+      "sur": "Avenida Nicolás de Ovando y Calle Magnolia",
+      "oeste": "Av. Albert Thomas y Calle Simón Bolívar"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Nicolás de Ovando (desde Calle Albert Thomas hasta la calle 10)", "valor": 12000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "009",
+    "sector": "24 de Abril",
+    "valor_promedio": 1500,
+    "subsectores": [
+      {"nombre": "Santa Ana", "valor": 1000}
+    ],
+    "limites": {
+      "norte": "Avenida Nicolás de Ovando",
+      "este": "Calle Braudilio Albarez y Calle 14",
+      "sur": "Calle Barney Morgan",
+      "oeste": "Calle Albert Thomas"
+    },
+    "vias_principales": [
+      {"nombre": "Calle Barney Morgan (desde Calle Albert Thomas hasta Calle Antonio Guzman)", "valor": 5000},
+      {"nombre": "Avenida Nicolás de Ovando (desde Calle Albert Thomas hasta la calle 10)", "valor": 2500},
+      {"nombre": "Calle Albert Thomas (desde Calle Barney Morgan hasta Avenida Nicolás de Ovando)", "valor": 6000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "010",
+    "sector": "Gualey",
+    "valor_promedio": 700,
+    "subsectores": [],
+    "limites": {
+      "norte": "Calle Barney Morgan y Calle Las Magnolias",
+      "este": "Río Ozama",
+      "sur": "Puente Francisco del Rosario Sánchez",
+      "oeste": "Calle Braudilio Albarez, Calle 14 y Av. Francisco del Rosario Sánchez"
+    },
+    "vias_principales": [
+      {"nombre": "Ave. Francisco del Rosario Sánchez (desde Ave. Padre Castellanos hasta Calle Barney Morgan)", "valor": 3000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "011",
+    "sector": "Ensanche Espaillat",
+    "valor_promedio": 4000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Calle Barney Morgan",
+      "este": "Av. Francisco del Rosario Sánchez",
+      "sur": "Avenida Padre Castellanos",
+      "oeste": "Avenida Albert Thomas"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Albert Thomas (desde Av. Padre Castellanos hasta Calle Barney Morgan)", "valor": 6000},
+      {"nombre": "Avenida Padre Castellanos (desde Calle Oscar Santana hasta Av. Albert Thomas)", "valor": 6000},
+      {"nombre": "Avenida Barney Morgan (Central) (desde Av. Albert Thomas hasta Ave. Francisco del Rosario Sánchez)", "valor": 5000},
+      {"nombre": "Avenida Francisco del Rosario Sánchez (desde Padre Castellano hasta Ave. Barney Morgan)", "valor": 3000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "012",
+    "sector": "Ensanche Luperón",
+    "valor_promedio": 8000,
+    "subsectores": [
+      {"nombre": "Ensanche Libertad", "valor": 6000},
+      {"nombre": "Villa Colores", "valor": 3000}
+    ],
+    "limites": {
+      "norte": "Avenida Nicolás de Ovando",
+      "este": "Avenida Albert Thomas",
+      "sur": "Avenida Padre Castellanos y Calle Pedro Livio Cedeño",
+      "oeste": "Avenida Juan Pablo Duarte"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Nicolás de Ovando (desde Av. Juan Pablo Duarte hasta Av. Albert Thomas)", "valor": 10000},
+      {"nombre": "Avenida Albert Thomas (desde Av. Nicolás de Ovando hasta Av. Padre Castellanos)", "valor": 6000},
+      {"nombre": "Avenida Padre Castellanos (desde Av. Albert Thomas hasta Av. Juan Pablo Duarte)", "valor": 10000},
+      {"nombre": "Avenida Juan Pablo Duarte (desde Av. Padre Castellanos hasta Av. Nicolás de Ovando)", "valor": 12000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "013",
+    "sector": "Villas Agrícolas",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Zona Industrial", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida de los Mártires y Avenida Juan Pablo Duarte",
+      "este": "Avenida Juan Pablo Duarte",
+      "sur": "Avenida Pedro Livio Cedeño",
+      "oeste": "Avenida Máximo Gómez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Duarte (desde Av. Pedro Livio Cedeño hasta la calle 42)", "valor": 12000},
+      {"nombre": "Avenida Pedro Livio Cedeño (desde Av. Juan Pablo Duarte hasta Av. Máximo Gómez)", "valor": 10000},
+      {"nombre": "Avenida Máximo Gómez (desde Av. Pedro Livio Cedeño hasta Ave. Nicolas de Ovando)", "valor": 15000},
+      {"nombre": "Avenida Nicolas de Ovando (desde Av. Duarte hasta Avenida Máximo Gómez)", "valor": 10000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "014",
+    "sector": "Cristo Rey",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Pueblo Nuevo", "valor": 2000},
+      {"nombre": "El Caliche", "valor": 1000},
+      {"nombre": "Cementerio Obrero", "valor": null},
+      {"nombre": "La Cuarenta", "valor": 2000},
+      {"nombre": "Las Flores", "valor": 4000},
+      {"nombre": "Yaquito", "valor": 2000},
+      {"nombre": "Lanha Gautier (la Agustina)", "valor": 3000}
+    ],
+    "limites": {
+      "norte": "Avenida Paseo de Los Reyes Católicos",
+      "este": "Avenida Máximo Gómez",
+      "sur": "Avenida Pedro Livio Cedeño y Av. Tiradentes",
+      "oeste": "Avenida Zoológico, Calle 39 y Calle Arzobispo Romero (La 41)"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Paseo de Los Reyes Católicos (desde Av. Del Zoológico hasta Av. Máximo Gómez)", "valor": 4000},
+      {"nombre": "Avenida Máximo Gómez (desde Av. Paseo de Los Reyes Católicos hasta Av. Nicolás de Ovando)", "valor": 4000},
+      {"nombre": "Avenida Máximo Gómez (desde Av. Nicolás de Ovando hasta Av. Pedro Livio Cedeño)", "valor": 15000},
+      {"nombre": "Avenida Pedro Livio Cedeño (desde Av. Máximo Gómez hasta la calle 39)", "valor": 8000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "015",
+    "sector": "Nuevo Arroyo Hondo",
+    "valor_promedio": 8000,
+    "subsectores": [
+      {"nombre": "Cuesta Hermosa I", "valor": 8000},
+      {"nombre": "Paseo de Las Colinas", "valor": 8000},
+      {"nombre": "Laderas de Arroyo Hondo", "valor": 8000},
+      {"nombre": "Colinas de Arroyo Hondo I y II", "valor": 8000},
+      {"nombre": "La Puya", "valor": 1500},
+      {"nombre": "Altos de Arroyo Hondo II", "valor": 8000},
+      {"nombre": "Altos de Arroyo Hondo III", "valor": 8000}
+    ],
+    "limites": {
+      "norte": "Carretera La Isabela, Ave. Alfonso Moreno Martínez Camino Ribera del arroyo Hondo",
+      "este": "Parque Zoológico",
+      "sur": "Av. Paseo de Los Reyes Católicos, Av. República de Argentina, Calle Ernesto Vitienes Lavandero y Calle Los Conquistadores",
+      "oeste": "Avenida República de Colombia y calle Isabel de Torres"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Presidente Jacobo Majluta Azar (desde Avenida República de Colombia hasta Carretera La Isabela/Ave Alfonso Moreno Martínez)", "valor": null},
+      {"nombre": "Avenida Carlos Pérez Ricart (desde Ave. República de Colombia hasta Calle Luis Amiama Tió)", "valor": null},
+      {"nombre": "Avenida República de Colombia (desde Av. Carlos Pérez Ricart hasta Av. presidente Jacobo Majluta)", "valor": null},
+      {"nombre": "Carretera La Isabela (desde Ave. Presidente Jacobo Majluta hasta el arroyo Manzano)", "valor": null},
+      {"nombre": "Av. Paseo de Los Reyes Católicos (desde La Avenida el Zoológico hasta la Plaza Republica del Ecuador)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "016",
+    "sector": "Palma Real",
+    "valor_promedio": 4000,
+    "subsectores": [
+      {"nombre": "Los Girasoles I", "valor": 3000},
+      {"nombre": "Los Girasoles II", "valor": 2500},
+      {"nombre": "Los Girasoles III", "valor": 2000},
+      {"nombre": "Urbanización Don Panchito", "valor": 5000},
+      {"nombre": "Cementerio Cristo Redentor", "valor": null},
+      {"nombre": "Urbanización Colinas del Manzano", "valor": 5000},
+      {"nombre": "Fundación", "valor": 1500}
+    ],
+    "limites": {
+      "norte": "Arroyo Arenoso",
+      "este": "Arroyo Manzano y arroyo Arenoso",
+      "sur": "Arroyo Manzano",
+      "oeste": "Avenida Monumental y su prolongación"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Monumental (desde Arroyo Manzano hasta el Cementerio Cristo Redentor)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "017",
+    "sector": "Los Peralejos",
+    "valor_promedio": 1500,
+    "subsectores": [
+      {"nombre": "Bo. Los Ángeles", "valor": 1500},
+      {"nombre": "Residencial Brisas del Norte", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida República de Colombia y Calle 2da",
+      "este": "Avenida Monumental",
+      "sur": "Autopista Duarte",
+      "oeste": "Avenida República de Colombia"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida República de Colombia (desde Av. Monumental hasta la Autopista Duarte)", "valor": 6000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "019",
+    "sector": "Los Ríos",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Colinas del Seminario II y III", "valor": 10000},
+      {"nombre": "Pradera Hermosa", "valor": 8000},
+      {"nombre": "Villa Marina Esperanza", "valor": 6000},
+      {"nombre": "Las Colinas de Los Ríos", "valor": 2000},
+      {"nombre": "Las Tres Avenidas", "valor": 8000},
+      {"nombre": "Barrio Azul", "valor": 6000},
+      {"nombre": "Bo. Cuba", "valor": 2000},
+      {"nombre": "Bo. Guayubin", "valor": 3000},
+      {"nombre": "Bo. La Yuca (Los Ríos)", "valor": 3000}
+    ],
+    "limites": {
+      "norte": "Av. coronel Juan María Lora Fernández (antigua Sol Poniente)",
+      "este": "Avenida República de Colombia y Avenida de Los Próceres",
+      "sur": "Autopista Duarte y Avenida de Los Próceres",
+      "oeste": "Avenida Santo Cerro"
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "021",
+    "sector": "Viejo Arroyo Hondo",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Altos de Arroyo Hondo I", "valor": null},
+      {"nombre": "Los Caminos", "valor": null},
+      {"nombre": "Residencial la Aurora", "valor": null},
+      {"nombre": "Residencial Universitario", "valor": null},
+      {"nombre": "La Aldaba", "valor": null},
+      {"nombre": "Los Pinos", "valor": null},
+      {"nombre": "Residencial Coplan", "valor": null},
+      {"nombre": "La Agustina", "valor": null},
+      {"nombre": "La Agustinita", "valor": null}
+    ],
+    "limites": {
+      "norte": "Paseo Padre de Los Reyes Católicos",
+      "este": "Calle López de Vegas, Calle Luis Amiama Tió, Avenida Zoológico, Calle 39 y Calle Arzobispo Romero (La 41)",
+      "sur": "Avenida John F. Kennedy y Avenida Los Próceres",
+      "oeste": "Avenida República de Argentina"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Lope de Vega (desde Av. John F. Kennedy hasta calle Hector Romero)", "valor": 15000},
+      {"nombre": "Avenida John F. Kennedy (desde Av. Lope de Vega hasta Av. Abraham Lincoln)", "valor": 40000},
+      {"nombre": "Avenida de Los Próceres (desde Av. Abraham Lincoln hasta Av. República de Argentina)", "valor": 25000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "022",
+    "sector": "Ensanche La Fe",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Ensanche Kennedy", "valor": 5000},
+      {"nombre": "Plaza de La Salud", "valor": null},
+      {"nombre": "Parque Quisqueya Juan Marichal", "valor": null},
+      {"nombre": "Coliseo Teo Cruz", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida Pedro Livio Cedeño y Calle Luis Amiama Tió",
+      "este": "Avenida Máximo Gómez",
+      "sur": "Avenida John F. Kennedy",
+      "oeste": "Calle Lope de Vega"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Pedro Livio Cedeño (desde Av. Máximo Gómez hasta Av. Lope de Vega)", "valor": null},
+      {"nombre": "Avenida Máximo Gómez (desde Av. Pedro Livio Cedeño hasta Av. John F. Kennedy)", "valor": null},
+      {"nombre": "Avenida John F. Kennedy (desde Av. Máximo Gómez hasta Av. José Ortega y Gasset)", "valor": null},
+      {"nombre": "Avenida John F. Kennedy (desde Av. José Ortega y Gasset hasta Av. Lope de Vega)", "valor": null},
+      {"nombre": "Avenida Lope de Vega (desde Av. John F. Kennedy hasta calle Hector Romero)", "valor": null},
+      {"nombre": "Avenida San Martin (desde Máximo Gómez hasta Ave. Lope de Vega)", "valor": null},
+      {"nombre": "Ave. Tiradente (desde Ave. John F. Kennedy hasta Ave. Pedro Livio Cedeño)", "valor": null},
+      {"nombre": "Avenida Ortega y Gasset (desde Av. John F. Kennedy hasta Ave. Pedro Livio Cedeño)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "023",
+    "sector": "Villa Juana",
+    "valor_promedio": 8000,
+    "subsectores": [
+      {"nombre": "Cementerio Nacional Máximo Gómez", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida Pedro Livio Cedeño",
+      "este": "Avenida Juan Pablo Duarte y Avenida V Centenario",
+      "sur": "Avenida San Martín",
+      "oeste": "Avenida Máximo Gómez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Pedro Livio Cedeño (desde Av. Máximo Gómez hasta Av. Duarte)", "valor": 10000},
+      {"nombre": "Avenida Máximo Gómez (desde Av. San Martin hasta Av. Pedro Livio Cedeño)", "valor": 15000},
+      {"nombre": "Avenida San Martín (desde Calle Manuel Ubaldo Gómez hasta Av. Máximo Gómez)", "valor": 15000},
+      {"nombre": "Avenida V Centenario (desde Av. San Martin hasta Av. Juan Pablo Duarte)", "valor": 8000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "024",
+    "sector": "Villa Consuelo",
+    "valor_promedio": 12000,
+    "subsectores": [
+      {"nombre": "Villa María", "valor": 6000}
+    ],
+    "limites": {
+      "norte": "Avenida Expreso V Centenario",
+      "este": "Avenida Juan Pablo Duarte",
+      "sur": "Avenida 27 de Febrero y Av. Expreso 27 de Febrero",
+      "oeste": "Avenida San Martín"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Expreso V Centenario (desde Av. San Martín hasta Av. Duarte)", "valor": null},
+      {"nombre": "Avenida Duarte (desde Av. V Centenario hasta Av. 27 de Febrero)", "valor": null},
+      {"nombre": "Avenida 27 de Febrero (desde Av. San Martín hasta Av. Duarte)", "valor": null},
+      {"nombre": "Avenida San Martín (desde Av. 27 de Febrero hasta calle Manuel Ubaldo Gómez)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "025",
+    "sector": "Mejoramiento Social",
+    "valor_promedio": 7000,
+    "subsectores": [
+      {"nombre": "Villa Fontana", "valor": 6000},
+      {"nombre": "El Caliche", "valor": 1000}
+    ],
+    "limites": {
+      "norte": "Avenida Padre Castellanos",
+      "este": "Avenida Albert Thomas, Avenida Teniente Amado García Guerrero y Av. Francisco del Rosario Sánchez",
+      "sur": "Avenida 27 de Febrero",
+      "oeste": "Avenida Juan Pablo Duarte"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Padre Castellanos (desde Av. Duarte hasta Av. Albert Thomas)", "valor": 10000},
+      {"nombre": "Avenida Albert Thomas (desde Av. Padre Castellanos hasta Calle Samaná)", "valor": 8000},
+      {"nombre": "Avenida Albert Thomas (desde Calle Samaná hasta Ave. Tte. Amado García)", "valor": 4000},
+      {"nombre": "Avenida Duarte (desde Av. 27 de febrero hasta Av. Padre Castellanos)", "valor": 20000},
+      {"nombre": "Avenida 27 de Febrero (desde Av. Josefa Brea hasta Av. Duarte)", "valor": 12000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "026",
+    "sector": "María Auxiliadora",
+    "valor_promedio": 5000,
+    "subsectores": [
+      {"nombre": "Agua Dulce", "valor": 1000},
+      {"nombre": "San Martín de Porres", "valor": 1500},
+      {"nombre": "Barrio 27 de Febrero", "valor": 4000},
+      {"nombre": "La Fuente", "valor": 3000}
+    ],
+    "limites": {
+      "norte": "Avenida Padre Castellanos",
+      "este": "Avenida Francisco del Rosario Sánchez",
+      "sur": "Avenida Teniente Amado García Guerrero",
+      "oeste": "Avenida Albert Thomas"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Padre Castellanos (desde Calle Albert Thomas hasta Ave. Francisco del Rosario Sánchez)", "valor": null},
+      {"nombre": "Avenida Francisco del Rosario Sánchez (desde Av. Padre Castellanos hasta Av. Teniente Amado García Guerrero)", "valor": null},
+      {"nombre": "Avenida Albert Thomas (desde Av. Padre Castellanos hasta calle Samaná)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "027",
+    "sector": "Domingo Savio",
+    "valor_promedio": 800,
+    "subsectores": [
+      {"nombre": "Los Guandules", "valor": 500},
+      {"nombre": "San Rafael", "valor": 500},
+      {"nombre": "La Cienaga", "valor": 500},
+      {"nombre": "Guachupita", "valor": 500},
+      {"nombre": "El Arrozal", "valor": null}
+    ],
+    "limites": {
+      "norte": "(Puente Francisco del Rosario Sánchez) Avenida Padre Castellanos",
+      "este": "Río Ozama",
+      "sur": "Río Ozama",
+      "oeste": "Avenida Francisco del Rosario Sánchez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Francisco del Rosario Sánchez (desde Calle Teniente Amado García Guerrero hasta Av. Padre Castellanos)", "valor": 2000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "028",
+    "sector": "Villa Francisca",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Borojol", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Avenida 27 de Febrero",
+      "este": "Río Ozama",
+      "sur": "Avenida Mella",
+      "oeste": "Calle Altagracia y Calle Juan Bautista Vicini"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Av. Duarte hasta Calle Vicente Noble)", "valor": 12000},
+      {"nombre": "Avenida Duarte (desde Av. 27 de Febrero hasta Av. Mella)", "valor": 20000},
+      {"nombre": "Avenida Mella (desde Av. José Martí hasta Calle Altagracia)", "valor": 15000},
+      {"nombre": "Avenida José Martí (desde Calle Ravelo hasta Av. 27 de Febrero)", "valor": 15000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "029",
+    "sector": "San Carlos",
+    "valor_promedio": 10000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida 27 de Febrero y Calle Barahona",
+      "este": "Calle Altagracia y Calle Juan Bautista Vicini",
+      "sur": "Avenida Mella y Avenida Bolívar",
+      "oeste": "Calle 30 de Marzo"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Calle 30 de Marzo hasta Calle Juan Bautista Vicini)", "valor": 12000},
+      {"nombre": "Avenida Mella (desde Calle Altagracia hasta Calle Palo Hincado)", "valor": 12000},
+      {"nombre": "Calle 30 de Marzo (desde Av. Simón Bolívar hasta Av. 27 de Febrero)", "valor": 12000},
+      {"nombre": "Avenida México (desde Av. 30 de Marzo hasta Calle Altagracia)", "valor": 12000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "030",
+    "sector": "San Juan Bosco (Don Bosco)",
+    "valor_promedio": 15000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida San Martín",
+      "este": "Avenida 30 de Marzo",
+      "sur": "Avenida Francia",
+      "oeste": "Avenida Leopoldo Navarro"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida San Martín (desde Av. Leopoldo Navarro hasta Av. 27 de Febrero)", "valor": 15000},
+      {"nombre": "Avenida Leopoldo Navarro (desde Av. Francia hasta Av. San Martin)", "valor": 20000},
+      {"nombre": "Avenida 27 de Febrero (desde Av. 30 de Marzo hasta Av. Leopoldo Navarro)", "valor": 15000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "031",
+    "sector": "Ensanche Miraflores",
+    "valor_promedio": 20000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida San Martin",
+      "este": "Avenida Leopoldo Navarro",
+      "sur": "Avenida Francia",
+      "oeste": "Avenida Máximo Gómez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Av. Máximo Gómez hasta Av. Leopoldo Navarro)", "valor": 25000},
+      {"nombre": "Avenida John F. Kennedy (desde Av. Máximo Gómez hasta Av. San Martin)", "valor": 20000},
+      {"nombre": "Avenida San Martín (desde Av. Máximo Gómez hasta Av. Leopoldo Navarro)", "valor": 15000},
+      {"nombre": "Avenida Máximo Gómez (desde Av. Francia hasta Av. San Martín)", "valor": 25000},
+      {"nombre": "Avenida Leopoldo Navarro (desde Av. Francia hasta Av. San Martín)", "valor": 15000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "032",
+    "sector": "Centro Olímpico Juan Pablo Duarte",
+    "valor_promedio": null,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida John F. Kennedy",
+      "este": "Avenida Máximo Gómez",
+      "sur": "Avenida 27 de Febrero",
+      "oeste": "Avenida Ortega y Gasset"
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "033",
+    "sector": "Ensanche Naco",
+    "valor_promedio": 40000,
+    "subsectores": [
+      {"nombre": "La Yuca", "valor": 5000},
+      {"nombre": "La Arboleda", "valor": 40000}
+    ],
+    "limites": {
+      "norte": "Avenida John F. Kennedy",
+      "este": "Avenida José Ortega y Gasset",
+      "sur": "Avenida 27 de Febrero y Av. Roberto Pastoriza",
+      "oeste": "Avenida Abraham Lincoln y Avenida Lope de Vega"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida John F. Kennedy (desde Av. Lope de Vega hasta Av. José Ortega y Gasset)", "valor": 40000},
+      {"nombre": "Avenida José Ortega y Gasset (desde Av. John F. Kennedy hasta Av. Roberto Pastoriza)", "valor": 40000},
+      {"nombre": "Avenida 27 de Febrero (desde Av. José Ortega y Gasset hasta Av. Tiradentes)", "valor": 40000},
+      {"nombre": "Avenida Abraham Lincoln (desde Av. 27 de Febrero hasta Av. Lope de Vega)", "valor": 45000},
+      {"nombre": "Avenida Lope de Vega (desde Av. Abraham Lincoln hasta Av. John F. Kennedy)", "valor": 50000},
+      {"nombre": "Avenida Tiradentes (desde Av. John F. Kennedy hasta Av. 27 de Febrero)", "valor": 50000},
+      {"nombre": "Avenida Gustavo Mejía Ricart (desde Lope de Vega a Av. Ortega y Gasset)", "valor": 40000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "034",
+    "sector": "Piantini (según contexto, código 034)",
+    "valor_promedio": 50000,
+    "subsectores": [
+      {"nombre": "Paraíso", "valor": 40000},
+      {"nombre": "Ensanche Serrallés", "valor": 50000},
+      {"nombre": "Residencial Lope de Vega", "valor": 40000},
+      {"nombre": "Yolanda Morales", "valor": 50000},
+      {"nombre": "Geraldino", "valor": 40000},
+      {"nombre": "El Cayao", "valor": 40000},
+      {"nombre": "Ferrua", "valor": 40000}
+    ],
+    "limites": {
+      "norte": "Avenida John F. Kennedy",
+      "este": "Avenida Lope de Vega y Avenida Abraham Lincoln",
+      "sur": "Avenida Boulevard 27 de Febrero",
+      "oeste": "Avenida Winston Churchill y Avenida Abraham Lincoln"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida John F. Kennedy", "valor": null},
+      {"nombre": "Avenida Lope de Vega (desde Av. John F. Kennedy hasta Av. Abraham Lincoln)", "valor": null},
+      {"nombre": "Avenida Abraham Lincoln (desde Av. John F. Kennedy hasta Av. 27 de Febrero)", "valor": null},
+      {"nombre": "Avenida 27 de Febrero (desde Av. Abraham Lincoln hasta Av. Winston Churchill)", "valor": null},
+      {"nombre": "Avenida Winston Churchill (desde Av. 27 de Febrero hasta Av. John F. Kennedy)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "035",
+    "sector": "Jardines del Norte",
+    "valor_promedio": 15000,
+    "subsectores": [
+      {"nombre": "Constelación", "valor": 15000},
+      {"nombre": "Los Próceres", "valor": 15000},
+      {"nombre": "Galá", "valor": 25000},
+      {"nombre": "Las Villas", "valor": 15000},
+      {"nombre": "Campo I (UNPHU)", "valor": 15000},
+      {"nombre": "Claret", "valor": 8000},
+      {"nombre": "La Yaguita", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida de Los Próceres",
+      "este": "Avenida de Los Próceres",
+      "sur": "Avenida John F. Kennedy",
+      "oeste": "Avenida de Los Próceres"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida de Los Próceres (desde Av. Republica de Colombia hasta Av. John F. Kennedy)", "valor": 15000},
+      {"nombre": "Avenida de Los Próceres (desde Av. Abraham Lincoln hasta Av. República de Argentina)", "valor": 25000},
+      {"nombre": "Avenida John F. Kennedy (desde Av. de Los Próceres hasta Av. de Los Próceres (Av. Luperón))", "valor": 30000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "036",
+    "sector": "San Gerónimo",
+    "valor_promedio": 25000,
+    "subsectores": [
+      {"nombre": "Urbanización Estancia Nueva", "valor": 25000},
+      {"nombre": "Urbanización Encarnación", "valor": 25000},
+      {"nombre": "Urbanización Altos de Las Praderas", "valor": 25000},
+      {"nombre": "Ciudad Moderna", "valor": 25000},
+      {"nombre": "Urbanización Las Praderas", "valor": 25000}
+    ],
+    "limites": {
+      "norte": "Avenida John F. Kennedy",
+      "este": "Avenida Núñez de Cáceres",
+      "sur": "Avenida Gustavo Mejía Ricart",
+      "oeste": "Avenida Luperón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida John F. Kennedy (desde Av. Luperón hasta Av. Núñez de Cáceres)", "valor": 30000},
+      {"nombre": "Avenida Núñez de Cáceres (desde Av. John F. Kennedy hasta Av. Gustavo Mejía)", "valor": 40000},
+      {"nombre": "Avenida Luperón (desde Av. Gustavo Mejía Ricart hasta Av. John F. Kennedy)", "valor": 40000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "037",
+    "sector": "Los Prados",
+    "valor_promedio": 25000,
+    "subsectores": [
+      {"nombre": "La Castellana", "valor": 25000},
+      {"nombre": "Los Praditos", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida John F. Kennedy",
+      "este": "Calle Doctor Fernando A. Defilló",
+      "sur": "Avenida Gustavo Mejía Ricart",
+      "oeste": "Avenida Núñez de Cáceres"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida John F. Kennedy (desde Av. Núñez de Cáceres hasta Calle Fernando A. Defilló)", "valor": 30000},
+      {"nombre": "Avenida Gustavo Mejía Ricart (desde Calle Doctor Fernando A. Defilló hasta Av. Núñez de Cáceres)", "valor": 35000},
+      {"nombre": "Avenida Núñez de Cáceres (desde Av. Gustavo Mejía Ricart hasta Av. John F. Kennedy)", "valor": 40000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "038",
+    "sector": "Julieta Morales",
+    "valor_promedio": 35000,
+    "subsectores": [
+      {"nombre": "Carmelita", "valor": 30000},
+      {"nombre": "Urbanización Fernández", "valor": 30000},
+      {"nombre": "Los Praditos", "valor": 5000},
+      {"nombre": "Urbanización Charles Summer", "valor": 30000}
+    ],
+    "limites": {
+      "norte": "Avenida John F. Kennedy",
+      "este": "Avenida Winston Churchill",
+      "sur": "Avenida Gustavo Mejía Ricart",
+      "oeste": "Calle Doctor Fernando A. Defilló"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida John F. Kennedy (desde Calle Doctor Fernando A. Defilló hasta Av. Winston Churchil)", "valor": 30000},
+      {"nombre": "Avenida Winston Churchill (desde Av. John F. Kennedy hasta Av. Gustavo Mejía Ricart)", "valor": 60000},
+      {"nombre": "Avenida Gustavo Mejía Ricart (desde Av. Winston Churchill hasta Calle Doctor Fernando A. Defilló)", "valor": 35000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "039",
+    "sector": "Los Restauradores",
+    "valor_promedio": 25000,
+    "subsectores": [
+      {"nombre": "El Milloncito", "valor": 25000},
+      {"nombre": "Manganagua", "valor": 15000},
+      {"nombre": "Residencial Rosmil", "valor": 25000}
+    ],
+    "limites": {
+      "norte": "Avenida Gustavo Mejía Ricart",
+      "este": "Calle Teodoro Chasseriau",
+      "sur": "Avenida 27 de Febrero",
+      "oeste": "Avenida Luperón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Calle Teodoro Chasseriau hasta Av. Luperón)", "valor": 30000},
+      {"nombre": "Avenida Luperón (desde Av. 27 de Febrero hasta Av. Gustavo Mejía Ricart)", "valor": 30000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "040",
+    "sector": "Los Millones",
+    "valor_promedio": 30000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida Gustavo Mejía Ricart",
+      "este": "Calle Winston Arnaud",
+      "sur": "Avenida 27 de Febrero",
+      "oeste": "Calle Teodoro Chasseriau"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Gustavo Mejía Ricart (desde Calle Teodoro Chasseriau hasta Calle Wellington Arnaud)", "valor": 30000},
+      {"nombre": "Avenida 27 de Febrero (desde Calle Wellington Arnaud hasta Av. Núñez de Cáceres)", "valor": 35000},
+      {"nombre": "Avenida Núñez de Cáceres (desde Av. 27 de Febrero hasta Av. Gustavo Mejía Ricart)", "valor": 40000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "041",
+    "sector": "Ensanche Quisqueya",
+    "valor_promedio": 25000,
+    "subsectores": [
+      {"nombre": "Evaristo Morales", "valor": 25000},
+      {"nombre": "El Bolsillo", "valor": 2000},
+      {"nombre": "Ens. Guarocuya", "valor": 5000},
+      {"nombre": "Jarro Sucio", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida Gustavo Mejía Ricart",
+      "este": "Avenida Winston Churchill",
+      "sur": "Avenida 27 de Febrero",
+      "oeste": "Calle Winston Arnaud"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Gustavo Mejía Ricart (desde calle Doctor Fernando A. Defilló hasta Av. Winston Churchill)", "valor": 35000},
+      {"nombre": "Avenida Winston Churchill (desde Av. Gustavo Mejía Ricart hasta Av. 27 de Febrero)", "valor": 60000},
+      {"nombre": "Avenida 27 de Febrero (desde Av. Winston Churchill hasta Calle Doctor Fernando A. Defilló)", "valor": 35000},
+      {"nombre": "Calle Doctor Fernando A. Defilló (desde Av. 27 de Febrero hasta Av. Gustavo Mejía Ricart)", "valor": 25000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "042",
+    "sector": "La Julia",
+    "valor_promedio": 40000,
+    "subsectores": [
+      {"nombre": "El Manguito", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida 27 de Febrero y Avenida Simón Bolívar",
+      "este": "Avenida Alma Mater y Avenida Abrahán Lincoln",
+      "sur": "Avenida José Contreras",
+      "oeste": "Avenida Jiménez Moya y Av. Winston Churchill"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Av. Winston Churchill hasta Av. Alma Mater)", "valor": null},
+      {"nombre": "Avenida Alma Mater (desde Av. Bolívar hasta Av. José Contreras)", "valor": null},
+      {"nombre": "Avenida José Contreras (desde Av. Alma Mater hasta Av. Winston Churchill)", "valor": null},
+      {"nombre": "Avenida Winston Churchill (desde Av. José Contreras hasta Av. 27 de Febrero)", "valor": null},
+      {"nombre": "Avenida Abram Lincoln (desde Av. José Contreras hasta Av. 27 de Febrero)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "043",
+    "sector": "La Esperilla",
+    "valor_promedio": 40000,
+    "subsectores": [
+      {"nombre": "El Vergel", "valor": 40000},
+      {"nombre": "Los Robles", "valor": 40000}
+    ],
+    "limites": {
+      "norte": "Avenida 27 de Febrero y Av. Roberto Pastoriza",
+      "este": "Avenida Máximo Gómez",
+      "sur": "Avenida Simón Bolívar",
+      "oeste": "Avenida Abrahán Lincoln"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Av. Alma Mater hasta Av. Máximo Gómez)", "valor": null},
+      {"nombre": "Avenida Máximo Gómez (desde Av. 27 de Febrero hasta Av. José Contreras)", "valor": null},
+      {"nombre": "Avenida Simón Bolívar (desde Av. Abrahán Lincoln hasta Av. Máximo Gómez)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "044",
+    "sector": "Gascue",
+    "valor_promedio": 30000,
+    "subsectores": [
+      {"nombre": "Plaza de la Cultura", "valor": null},
+      {"nombre": "Reparto Añuedita", "valor": 30000},
+      {"nombre": "Ensanche Independencia", "valor": 30000},
+      {"nombre": "La primavera", "valor": 30000},
+      {"nombre": "Ensanche Lugo", "valor": 30000}
+    ],
+    "limites": {
+      "norte": "Avenida Francia",
+      "este": "Calle 30 de Marzo, Calle Mariano Cesteros y Av. Pte. Vicini Burgos",
+      "sur": "Avenida George Washington y Avenida Independencia",
+      "oeste": "Avenida Máximo Gómez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Bolívar (desde Calle 30 de Marzo hasta Av. Máximo Gómez)", "valor": 35000},
+      {"nombre": "Avenida George Washington (desde Av. Pte. Vicini Burgos hasta Av. Máximo Gómez)", "valor": 50000},
+      {"nombre": "Avenida Máximo Gómez (desde Av. George Washington hasta Av. México)", "valor": 40000},
+      {"nombre": "Avenida Independencia (desde Av. Máximo Gómez hasta calle Mariano Cestero)", "valor": 35000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "045",
+    "sector": "Ciudad Colonial",
+    "valor_promedio": 30000,
+    "subsectores": [
+      {"nombre": "San Miguel", "valor": 20000},
+      {"nombre": "Santa Bárbara", "valor": 20000},
+      {"nombre": "San Lázaro", "valor": 20000},
+      {"nombre": "La Atarazana", "valor": 35000},
+      {"nombre": "San Antón", "valor": 20000}
+    ],
+    "limites": {
+      "norte": "Avenida Mella",
+      "este": "Avenida Francisco Alberto Caamaño Deño",
+      "sur": "Paseo Presidente Billini",
+      "oeste": "Calle Palo Hincado"
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "049",
+    "sector": "Nuestra Señora de La Paz",
+    "valor_promedio": 15000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida Mirador Sur",
+      "este": "Avenida Jiménez Moya",
+      "sur": "Avenida Independencia",
+      "oeste": "Calle 1era (Ramon Bienvenido Díaz)"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Jiménez Moya (desde Av. Mirador del Sur hasta Av. Independencia)", "valor": 30000},
+      {"nombre": "Avenida Independencia (desde Av. Jiménez Moya hasta Calle 1era)", "valor": 30000},
+      {"nombre": "Calle Bernardo Correa y Cidrón (desde Av. Jiménez Moya hasta Calle 1era)", "valor": 20000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "050",
+    "sector": "Bella Vista",
+    "valor_promedio": 40000,
+    "subsectores": [
+      {"nombre": "El Semillero", "valor": 5000},
+      {"nombre": "Jardines del Embajador", "valor": 40000},
+      {"nombre": "Helios", "valor": 40000},
+      {"nombre": "Sarasota", "valor": 40000}
+    ],
+    "limites": {
+      "norte": "Avenida 27 de Febrero y Avenida Rómulo Betancourt",
+      "este": "Avenida Jiménez Moya",
+      "sur": "Avenida Mirador Sur y Avenida Anacaona",
+      "oeste": "Calle Doctor Fernando Arturo Defilló y Avenida Núñez de Cáceres"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Calle Dr. Fernando Arturo Defilló hasta Av. Winston Churchill)", "valor": 35000},
+      {"nombre": "Avenida Winston Churchill (desde Av. 27 de Febrero hasta Av. Mirador Sur)", "valor": 40000},
+      {"nombre": "Avenida Anacaona (desde Calle Pedro A. Bobea hasta Av. Núñez de Cáceres)", "valor": 60000},
+      {"nombre": "Avenida Rómulo Betancourt (desde Av. Núñez de Cáceres hasta Av. Winston Churchill)", "valor": 50000},
+      {"nombre": "Avenida Sarasota (desde Av. Núñez de Cáceres hasta Av. Winston Churchill)", "valor": 50000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "051",
+    "sector": "Mirador Norte",
+    "valor_promedio": 40000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida 27 de Febrero",
+      "este": "Avenida Doctor Fernando Arturo Defilló",
+      "sur": "Avenida Rómulo Betancourt",
+      "oeste": "Avenida Presidente Antonio Guzmán (Privada)"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Av. Núñez de Cáceres hasta Calle Dr. Fernando Arturo Defilló)", "valor": 35000},
+      {"nombre": "Avenida Rómulo Betancourt (desde Av. Winston Churchill hasta Av. Núñez de Cáceres)", "valor": null},
+      {"nombre": "Avenida Núñez de Cáceres (desde Av. Rómulo Betancourt hasta Av. 27 de Febrero)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "052",
+    "sector": "Renacimiento",
+    "valor_promedio": 40000,
+    "subsectores": [
+      {"nombre": "Urbanización Real", "valor": 40000}
+    ],
+    "limites": {
+      "norte": "Avenida 27 de Febrero",
+      "este": "Avenida Presidente Antonio Guzmán (Privada)",
+      "sur": "Avenida Enriquillo",
+      "oeste": "Avenida Luperón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde Av. Luperón hasta Av. Antonio Guzmán)", "valor": null},
+      {"nombre": "Avenida Presidente Antonio Guzmán (desde Av. 27 de Febrero hasta Av. Enriquillo)", "valor": null},
+      {"nombre": "Avenida Enriquillo (desde Av. Pte. Antonio Guzmán hasta Av. Luperón)", "valor": null},
+      {"nombre": "Avenida Luperón (desde Av. Enriquillo hasta Av. 27 de Febrero)", "valor": null},
+      {"nombre": "Avenida Rómulo Betancourt (desde Av. Pte. Antonio Guzmán hasta Av. Luperón)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "053",
+    "sector": "Los Cacicazgos",
+    "valor_promedio": 40000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida Enriquillo",
+      "este": "Avenida Presidente Antonio Guzmán (Privada)",
+      "sur": "Avenida Anacaona",
+      "oeste": "Avenida Luperón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Enriquillo (desde Av. Luperón hasta Av. Pte. Antonio Guzmán)", "valor": null},
+      {"nombre": "Avenida Presidente Antonio Guzmán (desde Av. Enriquillo hasta Av. Anacaona)", "valor": 40000},
+      {"nombre": "Avenida Anacaona (desde Av. Presidente Antonio Guzmán hasta Av. Luperón)", "valor": 60000},
+      {"nombre": "Avenida Luperón (desde Av. Anacaona hasta Av. Enriquillo)", "valor": 30000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "054",
+    "sector": "Mirador Sur",
+    "valor_promedio": 45000,
+    "subsectores": [
+      {"nombre": "Los Maestros", "valor": 30000},
+      {"nombre": "La Loteria", "valor": 30000}
+    ],
+    "limites": {
+      "norte": "Avenida Rómulo Betancourt",
+      "este": "Avenida Nuñez de Cáceres",
+      "sur": "Avenida Anacaona",
+      "oeste": "Avenida Presidente Antonio Guzmán (Privada)"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Núñez de Cáceres (desde Av. Rómulo Betancourt hasta Av. Anacaona)", "valor": 40000},
+      {"nombre": "Avenida Anacaona (desde Av. Nuñez de Cáceres hasta Av. Pte. Antonio Guzmán)", "valor": 60000},
+      {"nombre": "Avenida Presidente Antonio Guzmán (desde Av. Anacaona hasta Av. Rómulo Betancourt)", "valor": 40000},
+      {"nombre": "Avenida Rómulo Betancourt (desde Av. Pte. Antonio Guzmán hasta Av. Nuñez de Cáceres)", "valor": 40000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "055",
+    "sector": "Parque Mirador Sur (Paseo de Los Indios)",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Manresa Altagracia", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida Anacaona",
+      "este": "Calle Pedro A. Bobea",
+      "sur": "Avenida Cayetano Germosen",
+      "oeste": "Avenida Luperón"
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "058",
+    "sector": "Jardines del Sur",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Las Acacias", "valor": null},
+      {"nombre": "Las Auroras", "valor": null},
+      {"nombre": "San José", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida Cayetano Germosén",
+      "este": "Avenida José Núñez de Cáceres",
+      "sur": "Avenida Independencia",
+      "oeste": "Calle Interior A"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Av. Núñez de Cáceres hasta Calle Interior A)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "059",
+    "sector": "Átala",
+    "valor_promedio": 25000,
+    "subsectores": [
+      {"nombre": "Roca Mar", "valor": 25000},
+      {"nombre": "Residencial KG", "valor": 25000},
+      {"nombre": "El Portal", "valor": 25000},
+      {"nombre": "Residencial Venus", "valor": 25000}
+    ],
+    "limites": {
+      "norte": "Avenida Cayetano Germosen",
+      "este": "Avenida República de Ecuador",
+      "sur": "Avenida Independencia",
+      "oeste": "Avenida Núñez de Cáceres"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Av. República de Ecuador hasta Av. Núñez de Cáceres)", "valor": 30000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "060",
+    "sector": "General Antonio Duvergé (Honduras)",
+    "valor_promedio": 20000,
+    "subsectores": [
+      {"nombre": "Maripili", "valor": 20000}
+    ],
+    "limites": {
+      "norte": "Avenida Cayetano Germosén",
+      "este": "Calle Primera",
+      "sur": "Avenida Independencia",
+      "oeste": "Avenida República de Ecuador"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Calle Primera hasta Av. República de Ecuador)", "valor": 30000},
+      {"nombre": "Avenida Italia (desde Avenida Cayetano Germosén hasta Av. Independencia)", "valor": 20000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "061",
+    "sector": "Centro de Los Héroes",
+    "valor_promedio": 25000,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Avenida Abraham Lincoln",
+      "sur": "Avenida George Washington",
+      "oeste": "Avenida Héroes de Luperón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Av. Héroes de Luperón hasta Av. Abraham Lincoln)", "valor": 30000},
+      {"nombre": "Avenida George Washington (desde Av. Abraham Lincoln hasta Av. Héroes de Luperón)", "valor": 30000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "062",
+    "sector": "El Cacique",
+    "valor_promedio": 25000,
+    "subsectores": [
+      {"nombre": "Costa Brava", "valor": 25000},
+      {"nombre": "Antillas Taínas", "valor": 25000},
+      {"nombre": "Brisas del Mar", "valor": 25000},
+      {"nombre": "Vista Mar", "valor": 25000},
+      {"nombre": "Los Arrecifes", "valor": 25000}
+    ],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Avenida Héroes de Luperón",
+      "sur": "Autopista 30 de Mayo",
+      "oeste": "Calle Sánchez"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Calle Sánchez hasta Av. Héroes de Luperón)", "valor": null},
+      {"nombre": "Autopista 30 de Mayo (desde Av. Héroes de Luperón hasta Calle Sánchez)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "063",
+    "sector": "30 de Mayo",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Cervecería", "valor": 15000}
+    ],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Calle Sánchez",
+      "sur": "Autopista 30 de Mayo",
+      "oeste": "Calle San Juan Bautista"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Av. Nuñez de Cáceres hasta Calle Sánchez)", "valor": 30000},
+      {"nombre": "Autopista 30 de Mayo (desde Calle Sánchez hasta Calle. San Juan Bautista)", "valor": 25000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "064",
+    "sector": "Ciudad Ganadera",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Jardines del Caribe", "valor": 20000}
+    ],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Calle San Juan Bautista",
+      "sur": "Autopista 30 de Mayo",
+      "oeste": "Avenida José Núñez de Cáceres"
+    }
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "065",
+    "sector": "Urb. Tropical",
+    "valor_promedio": 20000,
+    "subsectores": [
+      {"nombre": "Dominicanos Ausentes", "valor": 20000}
+    ],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Avenida José Núñez de Cáceres",
+      "sur": "Autopista 30 de Mayo",
+      "oeste": "Calle Primera Urbanización Edda"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Calle Primera (Procasa) hasta Av. Nuñez de Cáceres)", "valor": 30000},
+      {"nombre": "Autopista 30 de Mayo (desde Av. Nuñez de Cáceres hasta Calle Primera Urbanización Edda)", "valor": 25000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "066",
+    "sector": "Miramar",
+    "valor_promedio": 25000,
+    "subsectores": [
+      {"nombre": "Velazcasa", "valor": 20000},
+      {"nombre": "Costa Caribe", "valor": 20000},
+      {"nombre": "Nordesa II y III", "valor": 20000},
+      {"nombre": "Solymar", "valor": 20000},
+      {"nombre": "Mar Azul", "valor": 20000},
+      {"nombre": "Urbanización Independencia", "valor": 20000},
+      {"nombre": "Gildamar", "valor": 20000}
+    ],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Calle Primera Urbanización EDDA",
+      "sur": "Autopista 30 de Mayo",
+      "oeste": "Calle Perimetral Este"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Calle Perimetral Este hasta Calle Primera (Procasa))", "valor": 30000},
+      {"nombre": "Autopista 30 de Mayo (desde Calle Primera (Procasa) hasta Calle Perimetral Este)", "valor": 25000}
+    ]
+  },
+  {
+    "provincia": "Distrito Nacional",
+    "municipio": "Distrito Nacional",
+    "zona": "Urbana",
+    "codigo": "067",
+    "sector": "Honduras del Oeste (INVI)",
+    "valor_promedio": 15000,
+    "subsectores": [
+      {"nombre": "Residencial Mar Caribe", "valor": 15000},
+      {"nombre": "Urbanización AESA", "valor": 15000},
+      {"nombre": "Urbanización Atlántida", "valor": 15000},
+      {"nombre": "16 de Agosto", "valor": 8000},
+      {"nombre": "Los Olmos", "valor": 15000},
+      {"nombre": "Casa de España", "valor": 20000}
+    ],
+    "limites": {
+      "norte": "Avenida Independencia",
+      "este": "Calle Perimetral Este",
+      "sur": "Autopista 30 de Mayo",
+      "oeste": "Avenida Luperón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Independencia (desde Av. Luperón hasta Calle Perimetral Este)", "valor": 20000},
+      {"nombre": "Autopista 30 de Mayo (desde Calle Perimetral Este hasta Av. Luperón)", "valor": 20000}
+    ]
+  }
+]

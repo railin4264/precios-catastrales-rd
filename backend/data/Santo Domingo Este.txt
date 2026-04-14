@@ -1,0 +1,952 @@
+[
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "ENSANCHE OZAMA",
+    "valor_promedio": 15000,
+    "subsectores": [
+      {"nombre": "Bo. Oxígeno", "valor": 500},
+      {"nombre": "Matías Ramón Mella", "valor": 7000},
+      {"nombre": "El Dique", "valor": 500},
+      {"nombre": "Molinuevo", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Calle Odfelismo y Dique seco",
+      "este": "Avenida Sabana Larga",
+      "sur": "Avenida Las Américas",
+      "oeste": "Río Ozama"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Las Américas (desde puente Juan Bosch hasta Avenida Sabana Larga)", "valor": 20000},
+      {"nombre": "Avenida Las Américas (desde Avenida Sabana Larga hasta Avenida San Vicente de Paúl)", "valor": 10000},
+      {"nombre": "Avenida Venezuela (desde Avenida Las Américas hasta Calle Odfelismo)", "valor": 25000},
+      {"nombre": "Avenida Sabana Larga (desde Avenida Las Américas hasta Calle Odfelismo)", "valor": 25000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "ALMA ROSA",
+    "valor_promedio": 20000,
+    "subsectores": [
+      {"nombre": "Alma Rosa I", "valor": 25000},
+      {"nombre": "Alma Rosa II", "valor": 15000},
+      {"nombre": "Jardines de Alma Rosa", "valor": 10000},
+      {"nombre": "Reparto Patria Mella", "valor": 5000},
+      {"nombre": "Reparto Alma Rosa", "valor": 10000},
+      {"nombre": "El Rosal", "valor": 13500}
+    ],
+    "limites": {
+      "norte": "Carretera Mella, Avenida San Vicente de Paul y Carretera de Mendoza",
+      "este": "Calle 23 y Calle Jardines del Este (Antigua Calle 19)",
+      "sur": "Avenida Las Américas",
+      "oeste": "Avenida Sabana Larga"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera Mella (desde Avenida Sabana Larga hasta Avenida San Vicente Paul)", "valor": null},
+      {"nombre": "Avenida San Vicente de Paul (desde Avenida Las Américas hasta Carretera Mella)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "VILLA FARO",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Arpe II", "valor": 10000},
+      {"nombre": "Bo. Anacaona", "valor": 4000},
+      {"nombre": "La Esperanza", "valor": 10000},
+      {"nombre": "Lotería", "valor": 6000},
+      {"nombre": "Res. Nuevo Sol Naciente", "valor": 10000},
+      {"nombre": "Res. Oasis", "valor": 15000},
+      {"nombre": "Res. La Primavera", "valor": 6000},
+      {"nombre": "Res. Tito III", "valor": 15000},
+      {"nombre": "Sávica", "valor": 6500},
+      {"nombre": "Urb. Amanda I", "valor": 6000},
+      {"nombre": "Urb. Amanda II", "valor": 4000},
+      {"nombre": "Urb. Capitolio", "valor": 6000},
+      {"nombre": "Urb. Italia", "valor": 6000},
+      {"nombre": "Urb. Mercedes", "valor": 6000},
+      {"nombre": "Urb. Ralma", "valor": 6000},
+      {"nombre": "Vecinos Unidos", "valor": 10000},
+      {"nombre": "Villa María", "valor": 8000},
+      {"nombre": "Res. Sharae", "valor": 6000},
+      {"nombre": "Ivette", "valor": 10000},
+      {"nombre": "Marlin IV", "valor": 8000},
+      {"nombre": "Res. Altos del Caribe", "valor": 15000}
+    ],
+    "limites": {
+      "norte": "Carretera de Mendoza",
+      "este": "Avenida Charles de Gaulle",
+      "sur": "Autopista de San Isidro",
+      "oeste": "Calle 23 y Calle Jardines del Este (Antigua Calle 19)"
+    },
+    "vias_principales": [
+      {"nombre": "Autopista de San Isidro (desde Calle Jardines del Este hasta Ave. Charles de Gaulle)", "valor": 25000},
+      {"nombre": "Carretera de Mendoza (desde Calle 23 hasta Avenida Charles de Gaulle)", "valor": 12000},
+      {"nombre": "Avenida Charles de Gaulle (desde Autopista de San Isidro hasta Carretera de Mendoza)", "valor": 15000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "MENDOZA",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Res. Carolina", "valor": null},
+      {"nombre": "El Brisal", "valor": null},
+      {"nombre": "Hamarap", "valor": null},
+      {"nombre": "Las Palmas de Alma Rosa", "valor": null},
+      {"nombre": "Mi Hogar", "valor": null},
+      {"nombre": "Urb. El Palmar", "valor": null},
+      {"nombre": "Urb. Mendoza I", "valor": null},
+      {"nombre": "Urb. Mendoza II", "valor": null},
+      {"nombre": "La Herradura", "valor": null},
+      {"nombre": "Residencial del Este", "valor": null}
+    ],
+    "limites": {
+      "norte": "Carretera Mella (Boulevard Pedro Lama)",
+      "este": "Camino de Mandinga",
+      "sur": "Carretera de Mendoza",
+      "oeste": "Avenida San Vicente de Paul"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera de Mendoza (desde Avenida San Vicente de Paul hasta Camino de Mandinga)", "valor": null},
+      {"nombre": "Carretera Mella (Boulevard Pedro Lama) (desde Avenida San Vicente de Paul hasta Camino de Mandinga)", "valor": null},
+      {"nombre": "Avenida San Vicente de Paul (desde Carretera de Mendoza hasta Carretera Mella)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "005",
+    "sector": "LOS TRINITARIOS",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Arpe I", "valor": 8000},
+      {"nombre": "Bo. La Campana", "valor": 4500},
+      {"nombre": "Bello Campo", "valor": 10000},
+      {"nombre": "Cancino I", "valor": 8000},
+      {"nombre": "Cancino II", "valor": 8000},
+      {"nombre": "Urb. Carola", "valor": 10000},
+      {"nombre": "El Alba", "valor": 10000},
+      {"nombre": "Res. Isabel", "valor": 10000},
+      {"nombre": "Urb. Juan Pablo Duarte", "valor": 10000},
+      {"nombre": "Las Estrellas", "valor": 10000},
+      {"nombre": "Mandinga", "valor": 10000},
+      {"nombre": "Mi Sueño I", "valor": 10000},
+      {"nombre": "Mi Sueño II", "valor": 10000},
+      {"nombre": "Narcisa", "valor": 10000},
+      {"nombre": "Res. Mendoza", "valor": 10000},
+      {"nombre": "Res. Oriental", "valor": 10000},
+      {"nombre": "Res. Ines II", "valor": 10000},
+      {"nombre": "Arcofris", "valor": 10000},
+      {"nombre": "Res. Millenium", "valor": 10000},
+      {"nombre": "Herva", "valor": 8000},
+      {"nombre": "Rep. Santa Lucia", "valor": 10000},
+      {"nombre": "Urb. Maria Dolores", "valor": 10000},
+      {"nombre": "Res. Rosario Mises", "valor": 10000},
+      {"nombre": "Res. Wendy", "valor": 10000},
+      {"nombre": "El Almendro", "valor": 10000}
+    ],
+    "limites": {
+      "norte": "Carretera Mella (Boulevard Pedro Lama)",
+      "este": "Avenida Charles de Gaulle",
+      "sur": "Carretera de Mendoza",
+      "oeste": "Camino de Mandinga"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera de Mendoza (desde Camino de Mandinga hasta Avenida Charles de Gaulle)", "valor": 12000},
+      {"nombre": "Carretera Mella (Boulevard Pedro Lama) (desde Camino de Mandinga hasta Avenida Charles de Gaulle)", "valor": 20000},
+      {"nombre": "Av. Charles de Gaulle (desde Carretera Mella hasta Carretera de Mendoza)", "valor": 20000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "006",
+    "sector": "ENS. LAS AMERICAS",
+    "valor_promedio": 4000,
+    "subsectores": [
+      {"nombre": "Res. El Faro", "valor": 4000},
+      {"nombre": "Maquiteria", "valor": 1500},
+      {"nombre": "Parque del Este III", "valor": 7000},
+      {"nombre": "Res. Parque del Este", "valor": 5000},
+      {"nombre": "Villa Olímpica", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida Las Américas",
+      "este": "Autopista Las Américas",
+      "sur": "Avenida Boulevard del Faro",
+      "oeste": "Avenida Faro a Colón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Las Américas (desde Avenida Faro a Colón hasta Avenida San Vicente de Paúl)", "valor": 10000},
+      {"nombre": "Avenida Faro a Colón (desde Avenida Las Américas hasta Avenida Boulevard del Faro)", "valor": 5000},
+      {"nombre": "Avenida 25 de Febrero (desde Avenida Faro a Colón hasta Autopista Las Américas)", "valor": 8000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "007",
+    "sector": "FARO A COLON, EL PARQUE DEL ESTE Y PARQUE NACIONAL LOS TRES OJOS",
+    "valor_promedio": null,
+    "subsectores": [],
+    "limites": {
+      "norte": "Avenida Boulevard del Faro",
+      "este": "Autopista Las Américas y Av. Estados Unidos",
+      "sur": "Av. Estados Unidos",
+      "oeste": "Avenida Mirador del Este"
+    }
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "008",
+    "sector": "VILLA DUARTE",
+    "valor_promedio": 6000,
+    "subsectores": [
+      {"nombre": "Calero", "valor": 6000},
+      {"nombre": "La Francia", "valor": 3000},
+      {"nombre": "Los Molinos", "valor": 10000},
+      {"nombre": "Pueblo Nuevo", "valor": 2000},
+      {"nombre": "Simónico", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Avenida Las Americas",
+      "este": "Avenida Faro a Colon y Avenida Boulevard del Faro",
+      "sur": "Avenida Mirador del Este",
+      "oeste": "Rio Ozama"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Las Américas (desde Río Ozama hasta Avenida Faro a Colon)", "valor": 10000},
+      {"nombre": "Avenida 25 de Febrero (desde Río Ozama hasta Avenida Faro a Colon)", "valor": 8000},
+      {"nombre": "Avenida España (desde Avenida Mirador del Este hasta Avenida Las Américas)", "valor": 10000},
+      {"nombre": "Avenida Faro a Colon (desde Avenida Las Américas hasta Avenida Boulevard del Faro)", "valor": 5000},
+      {"nombre": "Avenida Mirador del Este (desde Avenida España hasta Avenida Boulevard del Faro)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "009",
+    "sector": "MIADOR DEL ESTE (Sans Soucí)",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Academia Naval Marina de Guerra", "valor": null},
+      {"nombre": "San Souci", "valor": null},
+      {"nombre": "Bo. Mirador del Este", "valor": null},
+      {"nombre": "Parque del Este I", "valor": null},
+      {"nombre": "Parque del Este II", "valor": null},
+      {"nombre": "Res. Doña Lucia", "valor": null},
+      {"nombre": "Res. Turístico San Souci", "valor": null},
+      {"nombre": "Bo. La Tablita", "valor": null},
+      {"nombre": "Puerca Brava", "valor": null},
+      {"nombre": "Res. Acuario", "valor": null},
+      {"nombre": "Res. Brisa del Mar", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida Iberoamericana y Avenida Mirador del Este",
+      "este": "Calle Jacinto de los Santos",
+      "sur": "Avenida España",
+      "oeste": "Avenida España y Av. Malecón"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Iberoamericana (desde Calle Jacinto de los Santos hasta Avenida Mirador del Este)", "valor": null},
+      {"nombre": "Avenida España (desde Avenida Mirador del Este hasta Terminal Esso (Norte))", "valor": null},
+      {"nombre": "Avenida España (desde Terminal Esso hasta Calle Jacinto de los Santos)", "valor": 15000},
+      {"nombre": "Calle Jacinto de los Santos (desde Avenida España hasta Calle Jacinto de los Santos)", "valor": 10000},
+      {"nombre": "Avenida 26 de Enero (desde Avenida España hasta Calle Jacinto de los Santos)", "valor": 10000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "010",
+    "sector": "ENSANCHE LA ISABELITA",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Bo. Los Coquitos", "valor": 2500},
+      {"nombre": "Bo. La Isabelita", "valor": 2500},
+      {"nombre": "Los Farallones", "valor": 4000},
+      {"nombre": "Res. Antares", "valor": 10000},
+      {"nombre": "Urb. Margarita", "valor": 7000},
+      {"nombre": "Urb. Margarita II", "valor": 7000},
+      {"nombre": "Res. Los Tres Ojos", "valor": 10000}
+    ],
+    "limites": {
+      "norte": "Avenidas Estados Unidos e Iberoamericana",
+      "este": "Autopista Las Americas",
+      "sur": "Avenida España",
+      "oeste": "Calle Jacinto de los Santos"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida España (Marginal Norte) (desde Calle Jacinto de los Santos hasta Autopista Las Américas)", "valor": 15000},
+      {"nombre": "Autopista Las Américas (desde Avenida Estados Unidos hasta Avenida España)", "valor": null},
+      {"nombre": "Avenida Iberoamericana (desde Avenida Estados Unidos hasta Calle Jacinto de los Santos)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "011",
+    "sector": "LOS TRES OJOS",
+    "valor_promedio": 12000,
+    "subsectores": [
+      {"nombre": "Paraiso Oriental", "valor": 8000},
+      {"nombre": "Valle del Este", "valor": 8000},
+      {"nombre": "Reparto Los 3 Ojos", "valor": 12000},
+      {"nombre": "Res. Juan Carlos I", "valor": 8000},
+      {"nombre": "Res. Los Angeles", "valor": 12000},
+      {"nombre": "Res. Magdele I", "valor": 12000},
+      {"nombre": "Urb. Franconia", "valor": 12000},
+      {"nombre": "Res. Delta Amarilis I", "valor": 12000},
+      {"nombre": "Res. Delta Amarilis II", "valor": 12000}
+    ],
+    "limites": {
+      "norte": "Autopista de San Isidro",
+      "este": "Avenida Charles de Gaulle",
+      "sur": "Autopista Las Américas",
+      "oeste": "Autopista Las Américas"
+    },
+    "vias_principales": [
+      {"nombre": "Autopista Las Américas (desde Autopista de San Isidro hasta Avenida Charles de Gaulle)", "valor": null},
+      {"nombre": "Autopista de San Isidro (desde Autopista Las Américas hasta Avenida Charles de Gaulle)", "valor": 25000},
+      {"nombre": "Avenida Charles de Gaulle (desde Autopista de San Isidro hasta calle 5ta)", "valor": 15000},
+      {"nombre": "Avenida Charles de Gaulle (desde calle 5ta hasta Autopista Las Américas)", "valor": 12000},
+      {"nombre": "Av. Mirador del Este (Av. Ecológica) (desde Autopista de San Isidro hasta Avenida Charles de Gaulle)", "valor": 14500}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "012",
+    "sector": "LOS TRES BRAZOS",
+    "valor_promedio": 4000,
+    "subsectores": [
+      {"nombre": "Bo. Canta la Rana", "valor": 500},
+      {"nombre": "Bo. Los Cantares", "valor": 2000},
+      {"nombre": "Urb. Cerros del Ozama", "valor": 5000},
+      {"nombre": "Génesis", "valor": 5000},
+      {"nombre": "Urb. Jardines del Ozama", "valor": 5000},
+      {"nombre": "Urb. María Trinidad Sánchez", "valor": 5000},
+      {"nombre": "Urb. Mil Flores", "valor": 5000},
+      {"nombre": "Urb. Mirador del Ozama", "valor": 5000},
+      {"nombre": "Urb. Ramón Matías Mella", "valor": 5500},
+      {"nombre": "Rivera del Ozama", "valor": 5000},
+      {"nombre": "Urb. Moisés", "valor": 5000},
+      {"nombre": "Bo. Las Lilas", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Río Ozama",
+      "este": "Río Ozama y Avenida Ozama",
+      "sur": "Avenida Ozama, Avenida San Vicente de Paúl y Río Ozama",
+      "oeste": "Río Ozama"
+    },
+    "vias_principales": [
+      {"nombre": "Prolongación Avenida Venezuela (desde Prolongación Avenida San Vicente de Paul hasta Parada del Teleférico)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "013",
+    "sector": "LOS MINA NORTE",
+    "valor_promedio": 2500,
+    "subsectores": [
+      {"nombre": "Katanga", "valor": 2000},
+      {"nombre": "Las Frutas", "valor": 5000},
+      {"nombre": "Puerto Rico", "valor": 3000},
+      {"nombre": "San Antonio", "valor": 2500},
+      {"nombre": "San Pablo II (Los Cartones)", "valor": 700},
+      {"nombre": "Vietnam", "valor": 1500},
+      {"nombre": "Mirador del Ozama", "valor": 2000},
+      {"nombre": "Francisco Del Rosario Sanchez", "valor": 3000},
+      {"nombre": "Bo. San Antonio", "valor": 2500}
+    ],
+    "limites": {
+      "norte": "Rio Ozama y Arroyo Cachón de la Rubia",
+      "este": "Calles Fray Bartolomé de Las Casas, Camino al Cachón de la Rubia, Calle Respaldo San Vicente de Paul y Calle 4 de agosto",
+      "sur": "Avenida San Vicente de Paul",
+      "oeste": "Avenida Ozama"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida San Vicente de Paul (desde Avenida Ozama hasta Calle 4 de agosto)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "014",
+    "sector": "LOS MINA SUR",
+    "valor_promedio": 5000,
+    "subsectores": [
+      {"nombre": "Bo. Ambar", "valor": 5000},
+      {"nombre": "Bo. Las Enfermeras", "valor": 5000},
+      {"nombre": "Ensanche Felicidad", "valor": 5000},
+      {"nombre": "Invi Nuevo", "valor": 5000},
+      {"nombre": "La Milagrosa", "valor": 5000},
+      {"nombre": "Los Mina Viejo", "valor": 5000},
+      {"nombre": "Pidoca", "valor": 5000},
+      {"nombre": "El Dique", "valor": 5000}
+    ],
+    "limites": {
+      "norte": "Avenida San Vicente de Paul",
+      "este": "Avenida San Vicente de Paul y Carretera Mella",
+      "sur": "Carretera Mella, Calle Odfelismo y Dique seco",
+      "oeste": "Rio Ozama"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera Mella (desde Avenida Sabana Larga hasta Avenida San Vicente de Paul)", "valor": 15000},
+      {"nombre": "Avenida Venezuela (desde Calle Odfelismo hasta Avenida San Vicente de Paul)", "valor": 10000},
+      {"nombre": "Avenida Presidente Rafael Estrella Ureña (desde Calle Francisco Segura Sandoval hasta Avenida San Vicente de Paul)", "valor": 8000},
+      {"nombre": "Avenida Fernández de Navarrete (desde Calle Francisco Segura Sandoval hasta Avenida San Vicente de Paul)", "valor": 8000},
+      {"nombre": "Avenida San Vicente de Paul (desde Carretera Mella hasta calle 4 de agosto)", "valor": 20000},
+      {"nombre": "Avenida San Vicente de Paul (desde Calle 4 de agosto hasta Río Ozama)", "valor": 12000},
+      {"nombre": "Avenida Sabana Larga (desde Calle Francisco Segura Sandoval hasta Carretera Mella)", "valor": 10000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "015",
+    "sector": "CANCINO",
+    "valor_promedio": 12000,
+    "subsectores": [
+      {"nombre": "Altos de Cancino", "valor": 10000},
+      {"nombre": "Cabirma del Este I", "valor": 8000},
+      {"nombre": "Cabirma del Este II", "valor": 8000},
+      {"nombre": "Bo. Cachón de la Rubia", "valor": 4000},
+      {"nombre": "Colinas de Este", "valor": 10000},
+      {"nombre": "Urbanización el Cachón", "valor": 10000},
+      {"nombre": "Lucerna", "valor": 12000},
+      {"nombre": "Res. Prados del Cachón", "valor": 10000},
+      {"nombre": "Res. Amapola", "valor": 10000},
+      {"nombre": "Res. Belinda", "valor": 10000},
+      {"nombre": "Res. Don Oscar", "valor": 10000},
+      {"nombre": "Res. El Bosque", "valor": 8000},
+      {"nombre": "Res. Idalia", "valor": 10000},
+      {"nombre": "Res. Lomisa", "valor": 10000},
+      {"nombre": "Res. Oriente", "valor": 12000},
+      {"nombre": "Res. Tito IV", "valor": 10000},
+      {"nombre": "Res. La Rubia Universo III", "valor": 10000},
+      {"nombre": "Urb. Real Cancino", "valor": 8000},
+      {"nombre": "Vista Hermosa", "valor": 12000}
+    ],
+    "limites": {
+      "norte": "Río Ozama y Avenida Charles de Gaulle",
+      "este": "Avenida Charles de Gaulle y Carretera Mella (Boulevard Pedro Lama)",
+      "sur": "Avenida San Vicente de Paúl y Carretera Mella (Boulevard Pedro Lama)",
+      "oeste": "Calles Fray Bartolomé de Las Casas, Camino al Cachón de la Rubia, Calle Respaldo San Vicente de Paul y Calle 4 de agosto"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera Mella (Boulevard Pedro Lama) (desde Avenida San Vicente de Paul hasta Avenida Charles de Gaulle)", "valor": null},
+      {"nombre": "Avenida Charles de Gaulle (desde Carretera Mella hasta Rio Ozama)", "valor": null},
+      {"nombre": "Avenida San Vicente de Paul (desde Calle 4 de agosto hasta Carretera Mella)", "valor": null},
+      {"nombre": "Calle Central (desde Carretera Mella hasta Calle Horizontal)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "016",
+    "sector": "LA UREÑA",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Bo. De la Policía", "valor": 3000},
+      {"nombre": "Bo. Cancela", "valor": 1500},
+      {"nombre": "Bo. La Ureña", "valor": 1500},
+      {"nombre": "Nuevo Amanecer", "valor": 4000},
+      {"nombre": "Res. Club de Aduanas", "valor": 4000},
+      {"nombre": "Res. Las Américas", "valor": 3500},
+      {"nombre": "Urb. Buenaventura I", "valor": 3500},
+      {"nombre": "Urb. Luz María", "valor": 1000},
+      {"nombre": "Agua Loca", "valor": 3500},
+      {"nombre": "Urb. Paraíso del Mar", "valor": 3500},
+      {"nombre": "Urb. Lucerna del Mar", "valor": 3500},
+      {"nombre": "Urb. Jardines de Isabel", "valor": 4000},
+      {"nombre": "Urb. Prados del Este", "valor": 4000},
+      {"nombre": "Urb. Las Américas II", "valor": 4000},
+      {"nombre": "Res. Vista del Mar", "valor": 2000},
+      {"nombre": "Marbella I", "valor": 3000},
+      {"nombre": "Urb. Portofino", "valor": 3000},
+      {"nombre": "Urb. Riviera del Caribe", "valor": 3000},
+      {"nombre": "Altos del Poli", "valor": 1500},
+      {"nombre": "Brisa de las Américas", "valor": 2000},
+      {"nombre": "Valle de las Américas", "valor": 2500},
+      {"nombre": "Paseo del Jardín Oriental", "valor": 2500},
+      {"nombre": "Res. Brisamar", "valor": 500},
+      {"nombre": "El Paredón", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida Ecológica (en construcción)",
+      "este": "Zona Franca Las Américas",
+      "sur": "Autopista Las Américas",
+      "oeste": "Avenida Hipódromo"
+    },
+    "vias_principales": [
+      {"nombre": "Marginal de Las Américas (desde Avenida Hipódromo hasta Avenida 30 de junio)", "valor": 5000},
+      {"nombre": "Marginal de Las Américas (desde Avenida 30 de junio hasta Zona Franca Las Américas)", "valor": 4000},
+      {"nombre": "Avenida al Avenida Hipódromo (desde Autopista Las Américas hasta Avenida Ecológica)", "valor": 5000},
+      {"nombre": "Autopista Juan Pablo II (Carretera a Samaná) (desde Autopista Las Américas hasta Avenida Ecológica)", "valor": null},
+      {"nombre": "Av. 30 de junio (desde Aut. Las Américas hasta Avenida Ecológica (Ciudad Juan Bosh))", "valor": 6000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "017",
+    "sector": "LOS FRAILES",
+    "valor_promedio": 4000,
+    "subsectores": [
+      {"nombre": "Bo. Francisco del Rosario Sanchez", "valor": 3500},
+      {"nombre": "Bo. Nuevo Corales del Sur", "valor": 2500},
+      {"nombre": "Res. Paseo del Este II", "valor": 12000},
+      {"nombre": "Los Frailes I", "valor": 12000},
+      {"nombre": "Los Frailes II", "valor": 3500},
+      {"nombre": "Los Molinos", "valor": 3500},
+      {"nombre": "Urb. Maria del Mar", "valor": 3500},
+      {"nombre": "Res. Las Americas", "valor": 3500},
+      {"nombre": "Bo. San Bartolo", "valor": 2500},
+      {"nombre": "Tropical del Este", "valor": 10000},
+      {"nombre": "Urb. Argentina", "valor": 4000},
+      {"nombre": "Urb. Arismar", "valor": 8000},
+      {"nombre": "Urb. Marbella II", "valor": 3500},
+      {"nombre": "Urb. Marbella III", "valor": 6000},
+      {"nombre": "Reparto Caribe", "valor": 3500}
+    ],
+    "limites": {
+      "norte": "Calle Las Damas",
+      "este": "Avenida Hipódromo",
+      "sur": "Autopista Las Américas",
+      "oeste": "Avenida Charles de Gaulle"
+    },
+    "vias_principales": [
+      {"nombre": "Autopista Las Américas (desde Avenida Charles de Gaulle hasta Avenida Hipódromo)", "valor": null},
+      {"nombre": "Avenida Charles de Gaulle (desde Autopista Las Américas hasta calle Las Damas)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "018",
+    "sector": "BRISAS DEL ESTE",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Bo. Las Flores", "valor": 2000},
+      {"nombre": "Bo. Brisas del Este", "valor": 3000},
+      {"nombre": "Lotificación del Este", "valor": 3000},
+      {"nombre": "Villa Eloisa", "valor": 5000},
+      {"nombre": "Invi Dorex", "valor": 4000},
+      {"nombre": "Villa Adela", "valor": 3000},
+      {"nombre": "Res. Jardines del V Centenario", "valor": 6000},
+      {"nombre": "Reparto Los 3 Ojos", "valor": 10000}
+    ],
+    "limites": {
+      "norte": "Avenida Ecológica",
+      "este": "Avenida Hipódromo",
+      "sur": "Calle Las Damas",
+      "oeste": "Avenida Charles de Gaulle"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Ecológica (desde Avenida Charles de Gaulle hasta Avenida Hipódromo)", "valor": null},
+      {"nombre": "Avenida Charles de Gaulle (desde Avenida Ecológica hasta Calle 7 (Calle Las Damas))", "valor": null},
+      {"nombre": "Avenida Hípica (desde Avenida Charles de Gaulle hasta Calle 10)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "019",
+    "sector": "JUAN LOPEZ",
+    "valor_promedio": 12000,
+    "subsectores": [
+      {"nombre": "Res. Marpe", "valor": null},
+      {"nombre": "Res. La Moneda", "valor": null},
+      {"nombre": "Res. Mirador del Este", "valor": null},
+      {"nombre": "Res. Paraiso Oriental", "valor": null},
+      {"nombre": "Res. Estrella del este", "valor": null},
+      {"nombre": "Res. Chalom", "valor": null},
+      {"nombre": "Res. Delta Amarilis III", "valor": null},
+      {"nombre": "Urb. Josué", "valor": null},
+      {"nombre": "Urb. Jeanca", "valor": null},
+      {"nombre": "Nuevo Amanecer", "valor": null},
+      {"nombre": "Res. Regina", "valor": null},
+      {"nombre": "Res. Los Triunfadores", "valor": null},
+      {"nombre": "Urb. Fernández II", "valor": null},
+      {"nombre": "Pradera Oriental", "valor": null}
+    ],
+    "limites": {
+      "norte": "Autopista de San Isidro",
+      "este": "Calle las Palmeras Oriental",
+      "sur": "Avenida Ecológica",
+      "oeste": "Avenida Charles de Gaulle"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Charles de Gaulle (desde Avenida Ecológica hasta Autopista de San Isidro)", "valor": 14000},
+      {"nombre": "Avenida Ecológica (desde Avenida Charles de Gaulle hasta las Palmeras Oriental)", "valor": 12000},
+      {"nombre": "Autopista de San Isidro (desde Avenida Charles de Gaulle hasta las Palmeras Oriental)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "020",
+    "sector": "BRISA ORIENTAL",
+    "valor_promedio": 10000,
+    "subsectores": [
+      {"nombre": "Brisa Oriental I", "valor": 10000},
+      {"nombre": "Brisa Oriental II", "valor": 10000},
+      {"nombre": "Brisa Oriental III", "valor": 10000},
+      {"nombre": "Brisa Oriental IV", "valor": 10000},
+      {"nombre": "Brisa Oriental V", "valor": 10000},
+      {"nombre": "Brisa Oriental VI", "valor": 10000},
+      {"nombre": "Brisa Oriental VII", "valor": 10000},
+      {"nombre": "Brisa Oriental VIII", "valor": 10000},
+      {"nombre": "Res. Los Educadores", "valor": 8000},
+      {"nombre": "Urb. Los Maestros", "valor": 8000},
+      {"nombre": "Urb. Praderas del Este", "valor": 6000},
+      {"nombre": "Prado Oriental", "valor": 10000},
+      {"nombre": "Radiante Amanecer", "valor": 8000},
+      {"nombre": "Res. Amalia", "valor": 8000},
+      {"nombre": "Res. Los Reyes", "valor": 5000},
+      {"nombre": "Villas San Isidro", "valor": 5000},
+      {"nombre": "Urb. Profesionales Agropecuarios", "valor": 6000},
+      {"nombre": "Res. Olimpia", "valor": 8000},
+      {"nombre": "Res. Altagracia", "valor": 8000},
+      {"nombre": "Res. Jardines del Este", "valor": 8000},
+      {"nombre": "Res. Arpe IV", "valor": 6000},
+      {"nombre": "Res. Fedomar", "valor": 6000},
+      {"nombre": "Ciudad Kolosal", "valor": 6000},
+      {"nombre": "Res. Las Praderas", "valor": 6000},
+      {"nombre": "Res. Don Paco III", "valor": 6000},
+      {"nombre": "Urb. María Mercedes", "valor": 6000},
+      {"nombre": "Res. Ciudad Azul", "valor": 6000},
+      {"nombre": "Bo. La Grúa", "valor": 500}
+    ],
+    "limites": {
+      "norte": "Carretera de Mendoza, Camino a la Grúa y Avenida Hipódromo (en constr.)",
+      "este": "Avenida Hipódromo y Avenida Hipódromo (en constr.)",
+      "sur": "Avenida Ecológica",
+      "oeste": "Calle las Palmeras Oriental"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Hipódromo (desde Autopista de San Isidro hasta Avenida Ecológica)", "valor": 12000},
+      {"nombre": "Autopista de San Isidro (desde Calle las Palmeras Oriental hasta Avenida Hipódromo)", "valor": 10000},
+      {"nombre": "Avenida Ecológica (desde Calle las Palmeras Oriental hasta Avenida Hipódromo)", "valor": 14000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "021",
+    "sector": "NUEVA JERUSALÉN",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Vista del Sur", "valor": 3000},
+      {"nombre": "Ciudad del este II", "valor": 2600},
+      {"nombre": "La Orquidea", "valor": 2000},
+      {"nombre": "Maranatha", "valor": 2000},
+      {"nombre": "Res. San Isidro Labrador", "valor": 8000}
+    ],
+    "limites": {
+      "norte": "Base Aérea Dominicana y Autopista de San Isidro",
+      "este": "Ciudad Juan Bosh",
+      "sur": "Avenida Ecológica",
+      "oeste": "Avenida Hipódromo"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Hipódromo (desde Avenida Ecológica hasta Autopista de San Isidro)", "valor": null},
+      {"nombre": "Avenida Ecológica (desde Avenida Hipódromo hasta Ciudad Juan Bosh)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "022",
+    "sector": "CIUDAD JUAN BOSH",
+    "valor_promedio": null,
+    "subsectores": [],
+    "limites": {
+      "norte": "Base Aérea Dominicana",
+      "este": "Autopista Juan Pablo II",
+      "sur": "Avenida Ecológica",
+      "oeste": "Nueva Jerusalén"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Ecológica (desde sector Nueva Jerusalén hasta Av. 30 de junio)", "valor": 7500},
+      {"nombre": "Av. 30 de junio (desde Avenida Ecológica hasta Autopista las Américas)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "023",
+    "sector": "SECTOR SIN NOMBRE (página 23, código 023)",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Bo. Brisas de La Charles", "valor": 1500},
+      {"nombre": "Bo. Brisas de Mendoza", "valor": 1500},
+      {"nombre": "Bo. Buenaventura", "valor": 1500},
+      {"nombre": "Bo. Los Coquitos", "valor": 1500},
+      {"nombre": "Res. Monty I", "valor": 7500},
+      {"nombre": "Urb. Reyoli", "valor": 11500},
+      {"nombre": "Res. Ebano", "valor": 13500},
+      {"nombre": "Res. Floravic", "valor": 9000},
+      {"nombre": "Res. Nancy Nadesha", "valor": 9000},
+      {"nombre": "Ensanche Los Tainos", "valor": 4500},
+      {"nombre": "Res. Paseo Oriental", "valor": 6000},
+      {"nombre": "Urb. Fernandez Oriental", "valor": 7000},
+      {"nombre": "Res. Don Paco I", "valor": 9000},
+      {"nombre": "Res. Don Paco II", "valor": 9000}
+    ],
+    "limites": {
+      "norte": "Carretera de Mendoza",
+      "este": "Calle las Palmeras Oriental",
+      "sur": "Autopista de San Isidro",
+      "oeste": "Avenida Charles de Gaulle"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera de Mendoza (desde Avenida Charles de Gaulle hasta Avenida El Progreso (Privada))", "valor": 6000},
+      {"nombre": "Avenida Charles de Gaulle (desde Autopista de San Isidro hasta Carretera de Mendoza)", "valor": 15000},
+      {"nombre": "Autopista de San Isidro (desde Avenida Charles de Gaulle hasta Avenida Privada)", "valor": 12000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "024",
+    "sector": "HAINAMOSA",
+    "valor_promedio": 6000,
+    "subsectores": [
+      {"nombre": "Eugenio Maria De Hostos", "valor": null},
+      {"nombre": "Hainamosa II", "valor": null},
+      {"nombre": "Invi Cea", "valor": null},
+      {"nombre": "Invimosa", "valor": null},
+      {"nombre": "Invi vienda", "valor": null},
+      {"nombre": "Issfapol", "valor": null},
+      {"nombre": "Los Pinos", "valor": null},
+      {"nombre": "Los Trinitarios II", "valor": null},
+      {"nombre": "Nuevo Renacer", "valor": null},
+      {"nombre": "Urb. Charles de Gaulle", "valor": null},
+      {"nombre": "Urb. Los Trabajadores", "valor": null},
+      {"nombre": "Villa Carmen", "valor": null},
+      {"nombre": "Reparto Villa Carmen", "valor": null},
+      {"nombre": "Villa Esperanza", "valor": null},
+      {"nombre": "Invi- Villa Prog. Del Este", "valor": null},
+      {"nombre": "Urb. Brisa Fresca", "valor": null},
+      {"nombre": "ISFFA Hainamosa", "valor": null},
+      {"nombre": "Urb. Los Molinos", "valor": null},
+      {"nombre": "Urb. Ana Teresa Balaguer", "valor": null}
+    ],
+    "limites": {
+      "norte": "Carretera Mella",
+      "este": "Avenida La Pista y Avenida El Progreso (Privada)",
+      "sur": "Carretera de Mendoza",
+      "oeste": "Avenida Charles de Gaulle"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera Mella (desde Avenida Charles de Gaulle hasta entrada del Perla)", "valor": 12000},
+      {"nombre": "Avenida Charles de Gaulle (desde Carretera de Mendoza hasta Carretera Mella)", "valor": null},
+      {"nombre": "Avenida a la Pista (desde Avenida la Pista hasta Carretera Mella)", "valor": null},
+      {"nombre": "Av. Martin Luther King Jr. (desde Avenida la Pista hasta Carretera de Mendoza)", "valor": null},
+      {"nombre": "Carretera de Mendoza (desde Avenida Charles de Gaulle hasta Avenida El Progreso (Privada))", "valor": null},
+      {"nombre": "Av. Prof. Simon Orozco (desde Avenida Charles de Gaulle hasta Calle Ing. Pedro Bonilla)", "valor": null},
+      {"nombre": "Av. Prof. Simon Orozco (desde Calle Ing. Pedro Bonilla hasta Avenida El Progreso (Privada))", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "025",
+    "sector": "EL ALMIRANTE",
+    "valor_promedio": 4000,
+    "subsectores": [
+      {"nombre": "Bo. El Mango", "valor": 4000},
+      {"nombre": "Bo. John F. Kennedy", "valor": 4000},
+      {"nombre": "Bo. La Caña", "valor": 4000},
+      {"nombre": "Bo. Las Enfermeras", "valor": 4000},
+      {"nombre": "Bo. Las Toronjas", "valor": 2000},
+      {"nombre": "Bo. Los Solares", "valor": 3000},
+      {"nombre": "Brisas del Edén", "valor": 3000},
+      {"nombre": "Ciudad del Almirante", "valor": 4000},
+      {"nombre": "La Corporánea", "valor": 3000},
+      {"nombre": "Los Restauradores", "valor": 5000},
+      {"nombre": "Res. Los Corales", "valor": 5000},
+      {"nombre": "Urb. Buenaventura II", "valor": 4000},
+      {"nombre": "Res. Islas Canarias", "valor": 4000},
+      {"nombre": "Villa Esfuerzo", "valor": 5000},
+      {"nombre": "Res. Don Miguel", "valor": 8000},
+      {"nombre": "Res. Pradera del Tamarindo", "valor": 3000}
+    ],
+    "limites": {
+      "norte": "Carretera Mella",
+      "este": "Calle Francisco del Rosario Sanchez y Carretera de Mendoza",
+      "sur": "Carretera de Mendoza",
+      "oeste": "Avenida La Pista y Avenida El Progreso (Privada)"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera de Mendoza (desde Avenida El progreso hasta Las Palmeras Orientales)", "valor": 5000},
+      {"nombre": "Carretera Mella (desde Avenida la Pista hasta Carretera de Mendoza)", "valor": 7500},
+      {"nombre": "Avenida a la Pista (desde Av. Martin Luther King Jr. hasta Carretera Mella)", "valor": 10000},
+      {"nombre": "Av. Martin Luther King Jr. (desde Avenida la Pista hasta Carretera de Mendoza)", "valor": 8000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": "026",
+    "sector": "EL TAMARINDO",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Bo. John F. Kennedy", "valor": 2000},
+      {"nombre": "Bo. Margara", "valor": 1000},
+      {"nombre": "Bo. Perla Antillana", "valor": 1000},
+      {"nombre": "Belleza de los Altos", "valor": 6000},
+      {"nombre": "Canaan", "valor": 2000},
+      {"nombre": "Cancino Adentro", "valor": 2000},
+      {"nombre": "El Tamarindo Adentro", "valor": 1500},
+      {"nombre": "Los Rosales", "valor": 7000},
+      {"nombre": "Urb. Flor del Tamarindo", "valor": 5000},
+      {"nombre": "Urb. Paraiso Oriental", "valor": null},
+      {"nombre": "Villa Liberacion", "valor": null},
+      {"nombre": "Villa Tropicalia", "valor": null},
+      {"nombre": "Res. Dona Lidia", "valor": null},
+      {"nombre": "Res. Don Miguel", "valor": null},
+      {"nombre": "Res. Pradera del Tamarindo", "valor": null},
+      {"nombre": "Urb. El Tamarindo", "valor": null},
+      {"nombre": "Urb. Invi", "valor": null},
+      {"nombre": "Urb. Corambar", "valor": null},
+      {"nombre": "Res. Las Acacias", "valor": null},
+      {"nombre": "Bo. Paraiso", "valor": null},
+      {"nombre": "Bo. Los Solares de Villa Liberacion", "valor": null}
+    ],
+    "limites": {
+      "norte": "Río Ozama",
+      "este": "Distrito municipal San Luis",
+      "sur": "Carretera Mella",
+      "oeste": "Avenida Charles de Gaulle"
+    },
+    "vias_principales": [
+      {"nombre": "Carretera Mella (desde Avenida Charles de Gaulle hasta entrada del Perla)", "valor": null},
+      {"nombre": "Carretera Mella (desde entrada del Perla hasta Distrito municipal San Luis)", "valor": null},
+      {"nombre": "Avenida Charles de Gaulle (desde Carretera Mella hasta Río Ozama)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL DE SAN LUIS - SAN LUIS",
+    "subsectores": [
+      {"nombre": "Agapito Sánchez (Bo. La Gallera)", "valor": null},
+      {"nombre": "Batey La Balsa", "valor": null},
+      {"nombre": "Lotificación Caña Linda", "valor": null},
+      {"nombre": "Proyecto José Francisco Peña Gómez", "valor": null},
+      {"nombre": "Sabaneta", "valor": null},
+      {"nombre": "Bella Vista", "valor": null},
+      {"nombre": "Corto Bolo I", "valor": null},
+      {"nombre": "Corto Bolo II", "valor": null},
+      {"nombre": "Las Flores", "valor": null},
+      {"nombre": "La Esperanza", "valor": null},
+      {"nombre": "La Piragua", "valor": null},
+      {"nombre": "Villas de San Luis", "valor": null},
+      {"nombre": "Los Prados de San Luis", "valor": null},
+      {"nombre": "El Encantador", "valor": null},
+      {"nombre": "Urb. Pradera del Este", "valor": null},
+      {"nombre": "Res. San Luis", "valor": null},
+      {"nombre": "El INVI", "valor": null},
+      {"nombre": "La Colonia de San Luis", "valor": null},
+      {"nombre": "Colina de los Prados", "valor": null}
+    ],
+    "limites": null,
+    "vias_principales": [
+      {"nombre": "Carretera Mella (desde Calle Francisco del Rosario Sánchez hasta Calle primera)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "SAN ISIDRO",
+    "subsectores": [
+      {"nombre": "Urb. Cristo Salvador", "valor": 3000},
+      {"nombre": "Bo. El Bonito", "valor": 2000},
+      {"nombre": "Bo. Los Haitises", "valor": 1000},
+      {"nombre": "Salomé Ureña", "valor": 2000},
+      {"nombre": "Nuevo Paraíso", "valor": 2000},
+      {"nombre": "Villa Felicia", "valor": 2000},
+      {"nombre": "Kilombo", "valor": 1500},
+      {"nombre": "Borojol", "valor": 1500},
+      {"nombre": "Nuevo Renacer", "valor": 1000},
+      {"nombre": "Base Aérea de San Isidro", "valor": null},
+      {"nombre": "Bo. de Oficiales FAD", "valor": null},
+      {"nombre": "Bo. de Alistados FAD", "valor": null}
+    ],
+    "limites": null,
+    "vias_principales": [
+      {"nombre": "Carretera Mella (desde Calle Primera hasta Autopista Juan Pablo II (Carretera a Samaná))", "valor": 7500}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "SAN LUIS (Rural)",
+    "parajes": [
+      {"nombre": "EL MUELLE (POBLADO)", "valor": 300},
+      {"nombre": "EL MUELLE (POBLADO) - Interior", "valor": 50},
+      {"nombre": "PIRAGUA (POBLADO)", "valor": 800},
+      {"nombre": "PIRAGUA (POBLADO) - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Santo Domingo Este",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "EL NARANJO",
+    "parajes": [
+      {"nombre": "BATEY EL NARAJO (POBLADO)", "valor": 600},
+      {"nombre": "BATEY EL NARAJO (POBLADO) - Interior", "valor": 100},
+      {"nombre": "EL PUENTE (POBLADO)", "valor": 500},
+      {"nombre": "EL PUENTE (POBLADO) - Interior", "valor": 100},
+      {"nombre": "EL CABRETO (POBLADO)", "valor": 500},
+      {"nombre": "EL CABRETO (POBLADO) - Interior", "valor": null}
+    ]
+  }
+]

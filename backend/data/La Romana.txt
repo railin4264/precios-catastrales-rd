@@ -1,0 +1,1594 @@
+[
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "CENTRO DE LA CIUDAD",
+    "valor_promedio": 12000,
+    "subsectores": [
+      { "nombre": "Barrio Rio Salado (Por ser parte de los limites fluviales del río Dulce)", "valor": 3500 }
+    ],
+    "limites": {
+      "norte": "Calle Dolores Tejada",
+      "este": "río Dulce (Rio salado)",
+      "sur": "Av. Libertad",
+      "oeste": "Calle Gastón Fernando Deligne"
+    },
+    "vias_principales": [
+      { "nombre": "Av. Santa Rosa (desde Calle Dolores Tejada hasta Av. Libertad)", "valor": 15000 },
+      { "nombre": "Av. Libertad (desde Av. Santa Rosa hasta río Dulce)", "valor": 34000 },
+      { "nombre": "Av. Gregorio Luperón (desde Calle Gastón Fernando Deligne hasta Calle Francisco Richiez)", "valor": 15000 },
+      { "nombre": "Calle Francisco Richiez (desde Calle Tte Amado Guerrero hasta Av. Libertad)", "valor": 15000 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "VILLA PEREYRA",
+    "valor_promedio": 5000,
+    "subsectores": [
+      { "nombre": "Ens. Miramar", "valor": 3000 },
+      { "nombre": "Barrio Santa Fe", "valor": 5000 },
+      { "nombre": "Ens. Chicago", "valor": 5000 },
+      { "nombre": "Villa Nazaret", "valor": 3500 },
+      { "nombre": "Barrio el Hoyo", "valor": 3500 },
+      { "nombre": "Barrio Sávica", "valor": 3500 },
+      { "nombre": "Ensanche La Hoz", "valor": 3500 },
+      { "nombre": "Ensanche La Aviación", "valor": 4000 },
+      { "nombre": "Ensanche Almeyra", "valor": 8000 },
+      { "nombre": "Barrio George", "valor": 7000 }
+    ],
+    "limites": {
+      "norte": "Av. Padre Abreu",
+      "este": "Calle Gaston Fernandez",
+      "sur": "Av. Francisco A. Caamaño Deño (Av. Circunvalación) y Av. Libertad",
+      "oeste": "Los Rieles Y Calle Sagrario Diaz"
+    },
+    "vias_principales": [
+      { "nombre": "Av. Francisco A. Caamaño Deño (Av. Circunvalación) (desde Padre Abreu hasta Calle Manzana 23)", "valor": 12000 },
+      { "nombre": "Av. Padre Abreu (Área Verde) (desde Av. Francisco A. Caamaño Deño hasta Los Rieles)", "valor": null },
+      { "nombre": "Av. Gregorio Luperón (desde Av. Padre Abreu (Av. Circunvalación) hasta Calle Sagrario Díaz)", "valor": 10000 },
+      { "nombre": "Av. Gregorio Luperón (desde Calle Gastón Fernando Deligne hasta Calle Sagrado Diaz)", "valor": 12000 },
+      { "nombre": "Av. Padre Abreu (desde Los Rieles hasta Av. Santa Rosa)", "valor": 18500 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "URBANIZACION QUISQUEYA",
+    "valor_promedio": 7500,
+    "subsectores": [
+      { "nombre": "Los Caciques I y II", "valor": 5000 },
+      { "nombre": "Invi", "valor": 6000 },
+      { "nombre": "Villa España o Villa Rol", "valor": 9000 },
+      { "nombre": "Los Colonos", "valor": 10000 },
+      { "nombre": "Urbanización Quisqueya Nueva", "valor": 7500 },
+      { "nombre": "Urbanización Quisqueya Vieja", "valor": 7000 },
+      { "nombre": "Los Multis", "valor": 6000 },
+      { "nombre": "Barrio Blanco", "valor": 6000 }
+    ],
+    "limites": {},
+    "vias_principales": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "INSTALACIONES DEL CENTRAL ROMANA CORPORATION, LTD",
+    "valor_promedio": 30000,
+    "subsectores": [
+      { "nombre": "Barrio Los Obreros", "valor": 6000 },
+      { "nombre": "Barrio Benjamin", "valor": 8000 }
+    ],
+    "limites": {
+      "norte": "Av. Libertad",
+      "este": "Rio Dulce",
+      "sur": "Mar Caribe",
+      "oeste": "C. Principal De Melissa y C. 3ra Meliza"
+    },
+    "vias_principales": [
+      { "nombre": "Av. Libertad (desde Av. Santa Rosa hasta río Dulce)", "valor": 34000 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "005",
+    "sector": "ROMANA DEL OESTE",
+    "valor_promedio": 9000,
+    "subsectores": [
+      { "nombre": "Residencial Orquídeas del Norte", "valor": 8000 },
+      { "nombre": "Romana Del Oeste", "valor": 9000 },
+      { "nombre": "Residencial Orquídeas II Etapa", "valor": 8000 },
+      { "nombre": "Urb. Don Juan", "valor": 8000 },
+      { "nombre": "Residencial Las Palmas", "valor": 8000 },
+      { "nombre": "Residencial Orquídeas I Etapa", "valor": 8000 },
+      { "nombre": "Residencial Los Lirios", "valor": 8000 },
+      { "nombre": "Residencial La Caya", "valor": 9000 }
+    ],
+    "limites": {
+      "norte": "Carretera Vieja",
+      "este": "Av. Francisco A. Caamaño (Av. Circunvalación)",
+      "sur": "Residencial Costa Mar y Carretera a la Caleta",
+      "oeste": "Municipio de Villa Hermosa"
+    },
+    "vias_principales": [
+      { "nombre": "Av. Francisco A. Caamaño (Av. Circunvalación) (desde Los Rieles hasta Carretera Vieja)", "valor": 11000 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "006",
+    "sector": "VILLA VERDE",
+    "valor_promedio": 8000,
+    "subsectores": [
+      { "nombre": "Villa San Carlos", "valor": 4500 },
+      { "nombre": "Jardines del Norte (Camionero)", "valor": 9000 },
+      { "nombre": "Alto de San Carlos", "valor": 4000 },
+      { "nombre": "Barrio San Carlos", "valor": 4000 },
+      { "nombre": "Barrio George", "valor": 4000 },
+      { "nombre": "Barrio Los Maestros", "valor": 5000 },
+      { "nombre": "Ensanche Almeyra", "valor": 9000 }
+    ],
+    "limites": {
+      "norte": "Autovía del Este",
+      "este": "Carretera a Guaymate (Calle eugenio michell)",
+      "sur": "Av. Padre Abreu",
+      "oeste": "Carretera Vieja la romana-higueral"
+    },
+    "vias_principales": [
+      { "nombre": "Eugenio Michell (desde Av. Padre Abreu hasta Autovía del Este)", "valor": 10000 },
+      { "nombre": "Av. Padre Abreu (desde C/ Francisco A. Caamaño hasta Av. Santa Rosa)", "valor": 18500 },
+      { "nombre": "Av. Francisco A. Caamaño (desde Av. Padre Abreu hasta Carretera Vieja la romana-higueral)", "valor": 11000 },
+      { "nombre": "Av. Autovía del ESTE (desde Carretera Vieja la romana-higueral hasta Calle eugenio michell)", "valor": 2500 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "007",
+    "sector": "URBANIZACIÓN PRECONCA",
+    "valor_promedio": 9000,
+    "subsectores": [
+      { "nombre": "Barrio Katanga", "valor": 3500 },
+      { "nombre": "Altos de Río Dulce", "valor": 13000 },
+      { "nombre": "Altos de Río Dulce (Parte Atrás)", "valor": 7000 },
+      { "nombre": "Urbanización Papagayo", "valor": 11000 },
+      { "nombre": "Urbanización Las Piedras", "valor": 11000 },
+      { "nombre": "Barrio Río Salado (Por ser parte de los limites fluviales del río Dulce)", "valor": 3500 },
+      { "nombre": "Bancola", "valor": 11000 }
+    ],
+    "limites": {
+      "norte": "Camino al Batey Cacata",
+      "este": "río Dulce",
+      "sur": "Calle Dolores Tejada",
+      "oeste": "Av. Santa Rosa y Carretera a Guaymate"
+    },
+    "vias_principales": [
+      { "nombre": "Av. Santa Rosa (desde Av. Padre Abreu hasta Calle Tte Amado Guerrero)", "valor": 15000 },
+      { "nombre": "Carretera a Guaymate (Calle Eugenio Michell) (desde Av. Padre Abreu hasta Autovía del Este)", "valor": 12500 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "008",
+    "sector": "BUENA VISTA",
+    "valor_promedio": 16000,
+    "subsectores": [
+      { "nombre": "Buena Vista Norte", "valor": 16000 },
+      { "nombre": "Buena Vista Sur", "valor": 8000 },
+      { "nombre": "Buena Vista Este", "valor": 8000 }
+    ],
+    "limites": {
+      "norte": "Calle 12",
+      "este": "Los Rieles del Central Romana",
+      "sur": "Mar Caribe",
+      "oeste": "Rio Dulce (Río Salado)"
+    },
+    "vias_principales": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Urbana",
+    "codigo": "009",
+    "sector": "CASA DE CAMPO RESORT & VILLAS",
+    "subsectores": [
+      { "nombre": "Alto de Chavón", "valor": 34000 },
+      { "nombre": "Bahía Chavón", "valor": 34000 },
+      { "nombre": "bahia Minitas", "valor": 64000 },
+      { "nombre": "Barranca", "valor": 34000 },
+      { "nombre": "Barranca Este", "valor": 34000 },
+      { "nombre": "Barranca Oeste", "valor": 34000 },
+      { "nombre": "Barranca Sur", "valor": 34000 },
+      { "nombre": "Cacique", "valor": 64000 },
+      { "nombre": "Cajuiles", "valor": 34000 },
+      { "nombre": "El Ingenio", "valor": 34000 },
+      { "nombre": "Golf Villas I", "valor": 42000 },
+      { "nombre": "Golf Villas II", "valor": 42000 },
+      { "nombre": "Golf Villas III", "valor": 42000 },
+      { "nombre": "Golf Villas IV", "valor": 42000 },
+      { "nombre": "Golf Villas V", "valor": 42000 },
+      { "nombre": "Golf Villas VI", "valor": 42000 },
+      { "nombre": "Golf Villas VII", "valor": 42000 },
+      { "nombre": "Golf Villas VIII", "valor": 42000 },
+      { "nombre": "Jardines Minitas", "valor": 42000 },
+      { "nombre": "Las Cerezas", "valor": 34000 },
+      { "nombre": "Los Almendros", "valor": 42000 },
+      { "nombre": "Los Lagos I", "valor": 42000 },
+      { "nombre": "Los Lagos II", "valor": 42000 },
+      { "nombre": "Los Limones", "valor": 64000 },
+      { "nombre": "Los Mangos", "valor": 42000 },
+      { "nombre": "Los Naranjos", "valor": 42000 },
+      { "nombre": "Las Toronjas", "valor": 34000 },
+      { "nombre": "Los Tamarindos", "valor": 34000 },
+      { "nombre": "Las Piñas", "valor": 42000 },
+      { "nombre": "Punta Águila", "valor": 64000 },
+      { "nombre": "Punta Águila II", "valor": 64000 },
+      { "nombre": "Costa Mar", "valor": 64000 },
+      { "nombre": "Rancho Arriba", "valor": 34000 },
+      { "nombre": "El Molino", "valor": 34000 },
+      { "nombre": "Las Cañas I", "valor": 34000 },
+      { "nombre": "Las Cañas II", "valor": 34000 },
+      { "nombre": "Tennis Villas", "valor": 34000 },
+      { "nombre": "Vivero I", "valor": 34000 },
+      { "nombre": "Vivero II", "valor": 42000 },
+      { "nombre": "Las Terrazas", "valor": 34000 },
+      { "nombre": "Caralva", "valor": 34000 },
+      { "nombre": "Río Arriba", "valor": 34000 },
+      { "nombre": "Vista Mar", "valor": 42000 },
+      { "nombre": "Punta Minita", "valor": 64000 },
+      { "nombre": "El Valle", "valor": 34000 },
+      { "nombre": "Las Palmas", "valor": 34000 },
+      { "nombre": "Altos de Marina", "valor": 64000 },
+      { "nombre": "Boca Chavón", "valor": 64000 },
+      { "nombre": "El Batey", "valor": 34000 },
+      { "nombre": "El Batey II", "valor": 42000 },
+      { "nombre": "Las Lomas", "valor": 34000 },
+      { "nombre": "Vista Chavón", "valor": 42000 },
+      { "nombre": "Villas Colinas", "valor": 34000 },
+      { "nombre": "Río mar", "valor": 34000 },
+      { "nombre": "Las Colinas", "valor": 34000 },
+      { "nombre": "Vista de Altos", "valor": 34000 },
+      { "nombre": "Vista Lagos", "valor": 42000 },
+      { "nombre": "Los Altos", "valor": 34000 },
+      { "nombre": "Los Flamboyanes", "valor": 34000 },
+      { "nombre": "La Marina", "valor": 64000 },
+      { "nombre": "Polo Villas", "valor": 34000 },
+      { "nombre": "La Vereda", "valor": 64000 },
+      { "nombre": "La Catalina", "valor": 34000 },
+      { "nombre": "Caleton", "valor": 64000 }
+    ],
+    "limites": {
+      "norte": "Autopista del Coral",
+      "este": "Río Chavón",
+      "sur": "Mar Caribe",
+      "oeste": "Carretera Romana-Higuey"
+    },
+    "vias_principales": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "ALETÓN",
+    "parajes": [
+      { "nombre": "ALETÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "ALETÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "MIRAPATO",
+    "parajes": [
+      { "nombre": "MIRAPATO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "MIRAPATO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY CORCINA",
+    "parajes": [
+      { "nombre": "BATEY CORCINA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY CORCINA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY SANTONI",
+    "parajes": [
+      { "nombre": "BATEY SANTONI (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY SANTONI - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY SANTONI - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY 205",
+    "parajes": [
+      { "nombre": "BATEY 205 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 205 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY MUCARABÓN",
+    "parajes": [
+      { "nombre": "BATEY MUCARABÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY MUCARABÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "LA CACHAZA (REFUGIO DE VIDA SILVESTR DEL RIO DULCE)",
+    "parajes": [
+      { "nombre": "LA CACHAZA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA CACHAZA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY CACATA",
+    "parajes": [
+      { "nombre": "BATEY CACATA (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY CACATA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY CACATA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY LITHGOW",
+    "parajes": [
+      { "nombre": "BATEY LITHGOW - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY LITHGOW - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY GRAN CALLE",
+    "parajes": [
+      { "nombre": "BATEY GRAN CALLE (AEROP. INTERN. DE LA ROMANA)", "valor": 10000 },
+      { "nombre": "BATEY GRAN CALLE - Con frente a la carretera", "valor": null },
+      { "nombre": "BATEY GRAN CALLE - Interior", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "RANCHO VIEJO",
+    "parajes": [
+      { "nombre": "RANCHO VIEJO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "RANCHO VIEJO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "MARIA BONITA",
+    "parajes": [
+      { "nombre": "MARIA BONITA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "MARIA BONITA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY 203",
+    "parajes": [
+      { "nombre": "BATEY 203 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 203 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATE ESPERANZA",
+    "parajes": [
+      { "nombre": "BATE ESPERANZA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATE ESPERANZA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "LA LUISA",
+    "parajes": [
+      { "nombre": "LA LUISA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA LUISA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "ALTOS DE CHAVÓN",
+    "parajes": [
+      { "nombre": "ALTOS DE CHAVÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "ALTOS DE CHAVÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY ANÓN",
+    "parajes": [
+      { "nombre": "BATEY ANÓN (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY ANÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY ANÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY CULEBRA",
+    "parajes": [
+      { "nombre": "BATEY CULEBRA (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY CULEBRA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY CULEBRA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "BATEY MOSQUITO 204",
+    "parajes": [
+      { "nombre": "BATEY MOSQUITO 204 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY MOSQUITO 204 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "CALETÓN",
+    "parajes": [
+      { "nombre": "CALETÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "CALETÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "LOS CAJUILES",
+    "parajes": [
+      { "nombre": "LOS CAJUILES - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LOS CAJUILES - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "ISLA CATALINA",
+    "parajes": [
+      { "nombre": "ISLA CATALINA", "valor": null }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Romana",
+    "zona": "Rural",
+    "seccion": "ISLA SAONA (PARQUE NACIONAL COTUBANAMA)",
+    "parajes": [
+      { "nombre": "MANO JUAN-ADAMANAY - Con frente a la carretera", "valor": 50 },
+      { "nombre": "MANO JUAN-ADAMANAY - Interior", "valor": 45 },
+      { "nombre": "CATUANO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "CATUANO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "La Caleta (Centro de la Ciudad)",
+    "valor_promedio": 3800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "La Caleta (Parte Atras)",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "Residencial Romana",
+    "valor_promedio": 7800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "Residencial Estrella Marina",
+    "valor_promedio": 10500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "Residencial Costa Mar - (Los Binchos)",
+    "valor_promedio": 7000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "Residencial Vista Catalina",
+    "valor_promedio": 7000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "Reparto Benjamín",
+    "valor_promedio": 5500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "Residencial Melisa",
+    "valor_promedio": 5500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "sector": "Área de Playa",
+    "valor_promedio": 12500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "La Caleta",
+    "zona": "Urbana",
+    "limites": {
+      "norte": "Carretera la caleta",
+      "este": "C. Principal De Melissa y C. 3ra Meliza",
+      "sur": "Mar Caribe",
+      "oeste": "Distrito de Cumayasa"
+    },
+    "vias_principales": [
+      { "nombre": "Carretera a La Caleta (desde la playa hasta la Calle Primera)", "valor": 13000 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Kilómetro 10 de Cumayasa",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Villa Real",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Brisas de Cumayasa",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Riveras de Cumayasa",
+    "valor_promedio": 4000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Victoria",
+    "valor_promedio": 5500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Prados de Cumayasa",
+    "valor_promedio": 5500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Brisas del Mar I",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Brisas del Mar II",
+    "valor_promedio": 2200,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Brisas del Mar III",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Wilamo",
+    "valor_promedio": 3800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Barrio María Trinidad Sánchez",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Jun Pablo Duarte (Km 6)",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Doña Olga I",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Doña Olga II",
+    "valor_promedio": 3800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Residencial Doña Olga III",
+    "valor_promedio": 3800,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Cucama (urbano)",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "sector": "Urb. Don Simón",
+    "valor_promedio": 3500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Urbana",
+    "limites": {
+      "norte": "municipio de guaymate",
+      "este": "villa hermosa y distrito la caleta",
+      "sur": "mar caribe",
+      "oeste": "rio cumayasa"
+    },
+    "vias_principales": [
+      { "nombre": "Autovía de Este (desde Av. Prof. Juan Bosch (circunvacion) hasta río Cumayasa)", "valor": 3000 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "BATEY EL GATO (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "BATEY EL GATO", "valor": 1500 },
+      { "nombre": "BATEY EL GATO - Con frente a la carretera", "valor": 35 },
+      { "nombre": "BATEY EL GATO - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "BATEY LAS TUMBAS",
+    "parajes": [
+      { "nombre": "BATEY LAS TUMBAS - Con frente a la carretera", "valor": 35 },
+      { "nombre": "BATEY LAS TUMBAS - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "EL 14 (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "EL 14 - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL 14 - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "EL PAPAYO",
+    "parajes": [
+      { "nombre": "EL PAPAYO - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL PAPAYO - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "EL 10",
+    "parajes": [
+      { "nombre": "EL 10 - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL 10 - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "LAS UVITAS",
+    "parajes": [
+      { "nombre": "LAS UVITAS - Con frente a la carretera", "valor": 35 },
+      { "nombre": "LAS UVITAS - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "CUCAMA",
+    "parajes": [
+      { "nombre": "CUCAMA - Con frente a la carretera", "valor": 35 },
+      { "nombre": "CUCAMA - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "CAMPO ALEGRE",
+    "parajes": [
+      { "nombre": "CAMPO ALEGRE - Con frente a la carretera", "valor": 35 },
+      { "nombre": "CAMPO ALEGRE - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "EL BATEY (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "EL BATEY - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL BATEY - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "EL GATO",
+    "parajes": [
+      { "nombre": "EL GATO - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL GATO - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "EL PÉÑON",
+    "parajes": [
+      { "nombre": "EL PÉÑON - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL PÉÑON - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "EL MANGUITO (REFUGIO DE VIDA SILVESTR DEL RIO DULCE)",
+    "parajes": [
+      { "nombre": "EL MANGUITO - Con frente a la carretera", "valor": 35 },
+      { "nombre": "EL MANGUITO - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "AMÉRICA",
+    "parajes": [
+      { "nombre": "AMÉRICA - Con frente a la carretera", "valor": 35 },
+      { "nombre": "AMÉRICA - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Cumayasa",
+    "zona": "Rural",
+    "seccion": "ESPINILLA",
+    "parajes": [
+      { "nombre": "ESPINILLA - Con frente a la carretera", "valor": 35 },
+      { "nombre": "ESPINILLA - Interior", "valor": 30 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "Centro del Pueblo",
+    "valor_promedio": 3000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "La Palma",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "Villa Caoba",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "Hoyo de Higüero",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "Los Cocos",
+    "valor_promedio": 1500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "El Tanque",
+    "valor_promedio": 2000,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "Pueblo Nuevo",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Urbana",
+    "sector": "La Construcción",
+    "valor_promedio": 2500,
+    "subsectores": []
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "HIGUERAL",
+    "parajes": [
+      { "nombre": "HIGUERAL", "valor": 2000 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "LA NORIA (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "LA NORIA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA NORIA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "PLACER BONITO (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "PLACER BONITO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "PLACER BONITO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "MATA HOMBRE (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "MATA HOMBRE - Con frente a la carretera", "valor": 50 },
+      { "nombre": "MATA HOMBRE - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "PUNTO FIJO",
+    "parajes": [
+      { "nombre": "PUNTO FIJO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "PUNTO FIJO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY CAMPIÑA (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "BATEY CAMPIÑA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY CAMPIÑA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY REGUELITO",
+    "parajes": [
+      { "nombre": "BATEY REGUELITO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY REGUELITO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY LAS FLORES",
+    "parajes": [
+      { "nombre": "BATEY LAS FLORES - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY LAS FLORES - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 20 (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "BATEY EL 20 (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY EL 20 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 20 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY HIGURAL",
+    "parajes": [
+      { "nombre": "BATEY HIGURAL - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY HIGURAL - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY ALMEYDA (PARQUE NACIONAL RIO CUMAYASA Y CUEVAS DE LAS MARAVILLAS)",
+    "parajes": [
+      { "nombre": "BATEY ALMEYDA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY ALMEYDA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY ESCUADRA",
+    "parajes": [
+      { "nombre": "BATEY ESCUADRA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY ESCUADRA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL QUEMADO",
+    "parajes": [
+      { "nombre": "BATEY EL QUEMADO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL QUEMADO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 5",
+    "parajes": [
+      { "nombre": "BATEY EL 5 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 5 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 40",
+    "parajes": [
+      { "nombre": "BATEY EL 40 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 40 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 4",
+    "parajes": [
+      { "nombre": "BATEY EL 4 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 4 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY 62",
+    "parajes": [
+      { "nombre": "BATEY 62 (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY 62 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 62 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY ESPINILLO",
+    "parajes": [
+      { "nombre": "BATEY ESPINILLO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY ESPINILLO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY CRUCE DE GUERRERO",
+    "parajes": [
+      { "nombre": "BATEY CRUCE DE GUERRERO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY CRUCE DE GUERRERO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY CAIMOÍ",
+    "parajes": [
+      { "nombre": "BATEY CAIMOÍ - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY CAIMOÍ - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY 82",
+    "parajes": [
+      { "nombre": "BATEY 82 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 82 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY PALO BLANCO",
+    "parajes": [
+      { "nombre": "BATEY PALO BLANCO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY PALO BLANCO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 17",
+    "parajes": [
+      { "nombre": "BATEY EL 17 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 17 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY 18",
+    "parajes": [
+      { "nombre": "BATEY 18 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 18 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY 15",
+    "parajes": [
+      { "nombre": "BATEY 15 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 15 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY GUERRERO",
+    "parajes": [
+      { "nombre": "BATEY GUERRERO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY GUERRERO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 22",
+    "parajes": [
+      { "nombre": "BATEY EL 22 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 22 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY PELIGRO",
+    "parajes": [
+      { "nombre": "BATEY PELIGRO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY PELIGRO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 16",
+    "parajes": [
+      { "nombre": "BATEY EL 16 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 16 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY DE CHICHI",
+    "parajes": [
+      { "nombre": "BATEY DE CHICHI - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY DE CHICHI - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "SABANA MIRAPATO",
+    "parajes": [
+      { "nombre": "SABANA MIRAPATO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "SABANA MIRAPATO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "CHAVÓN ABAJO",
+    "parajes": [
+      { "nombre": "CHAVÓN ABAJO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "CHAVÓN ABAJO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BUENOS AIRES",
+    "parajes": [
+      { "nombre": "BUENOS AIRES - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BUENOS AIRES - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY BOBITO",
+    "parajes": [
+      { "nombre": "BATEY BOBITO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY BOBITO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY SAN ISIDRO",
+    "parajes": [
+      { "nombre": "BATEY SAN ISIDRO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY SAN ISIDRO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY LA ALTAGRACIA",
+    "parajes": [
+      { "nombre": "BATEY LA ALTAGRACIA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY LA ALTAGRACIA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY HIGO CLARO",
+    "parajes": [
+      { "nombre": "BATEY HIGO CLARO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY HIGO CLARO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY AMERICA-EL QUEMADO",
+    "parajes": [
+      { "nombre": "BATEY AMERICA-EL QUEMADO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY AMERICA-EL QUEMADO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY LAS PARCELAS",
+    "parajes": [
+      { "nombre": "BATEY LAS PARCELAS - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY LAS PARCELAS - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY LA MILAGROSA",
+    "parajes": [
+      { "nombre": "BATEY LA MILAGROSA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY LA MILAGROSA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "LOS BERROAS",
+    "parajes": [
+      { "nombre": "LOS BERROAS - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LOS BERROAS - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "CHAVÓN ARRIBA",
+    "parajes": [
+      { "nombre": "CHAVÓN ARRIBA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "CHAVÓN ARRIBA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY PULGUERO",
+    "parajes": [
+      { "nombre": "BATEY PULGUERO (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY PULGUERO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY PULGUERO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY NIGUA",
+    "parajes": [
+      { "nombre": "BATEY NIGUA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY NIGUA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY LAS MERCEDES",
+    "parajes": [
+      { "nombre": "BATEY LAS MERCEDES (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY LAS MERCEDES - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY LAS MERCEDES - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY COMO QUIERA",
+    "parajes": [
+      { "nombre": "BATEY COMO QUIERA (POBLADO)", "valor": 500 },
+      { "nombre": "BATEY COMO QUIERA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY COMO QUIERA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY SANTA ROSA",
+    "parajes": [
+      { "nombre": "BATEY SANTA ROSA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY SANTA ROSA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "LA CUCHILLA",
+    "parajes": [
+      { "nombre": "LA CUCHILLA (POBLADO)", "valor": 500 },
+      { "nombre": "LA CUCHILLA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA CUCHILLA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY 80",
+    "parajes": [
+      { "nombre": "BATEY 80 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 80 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY 24",
+    "parajes": [
+      { "nombre": "BATEY 24 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 24 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "LA HABANA",
+    "parajes": [
+      { "nombre": "LA HABANA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA HABANA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY SABANA DE CHAVÓN",
+    "parajes": [
+      { "nombre": "BATEY SABANA DE CHAVÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY SABANA DE CHAVÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY LECHERÍA",
+    "parajes": [
+      { "nombre": "BATEY LECHERÍA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY LECHERÍA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "CERROS DE CHAVÓN",
+    "parajes": [
+      { "nombre": "CERROS DE CHAVÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "CERROS DE CHAVÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY HOYO DE PUERCO",
+    "parajes": [
+      { "nombre": "BATEY HOYO DE PUERCO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY HOYO DE PUERCO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "EL ARCA",
+    "parajes": [
+      { "nombre": "EL ARCA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "EL ARCA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY COLÓN O PELIGRO",
+    "parajes": [
+      { "nombre": "BATEY COLÓN O PELIGRO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY COLÓN O PELIGRO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "ALETÓN",
+    "parajes": [
+      { "nombre": "ALETÓN - Con frente a la carretera", "valor": 50 },
+      { "nombre": "ALETÓN - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY 205",
+    "parajes": [
+      { "nombre": "BATEY 205 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY 205 - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "LA REGOLA",
+    "parajes": [
+      { "nombre": "LA REGOLA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA REGOLA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "LA CULEBRA",
+    "parajes": [
+      { "nombre": "LA CULEBRA - Con frente a la carretera", "valor": 50 },
+      { "nombre": "LA CULEBRA - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY NUEVO",
+    "parajes": [
+      { "nombre": "BATEY NUEVO - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY NUEVO - Interior", "valor": 45 }
+    ]
+  },
+  {
+    "provincia": "La Romana",
+    "municipio": "Guaymate",
+    "zona": "Rural",
+    "seccion": "BATEY EL 81",
+    "parajes": [
+      { "nombre": "BATEY EL 81 - Con frente a la carretera", "valor": 50 },
+      { "nombre": "BATEY EL 81 - Interior", "valor": 45 }
+    ]
+  }
+]

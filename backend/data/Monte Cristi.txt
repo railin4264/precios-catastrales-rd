@@ -1,0 +1,895 @@
+[
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "zona": "Urbana",
+    "codigo": "04-015-001",
+    "sector": "CENTRO DE LA CIUDAD",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Bo. Las Flores", "valor": null},
+      {"nombre": "Mejoramiento Social", "valor": null},
+      {"nombre": "Bo. San Pedro", "valor": null},
+      {"nombre": "Bo. Salomon Jorge", "valor": null}
+    ],
+    "limites": {
+      "norte": "Calle Rodriguez Caamaño",
+      "este": "Calle Benito Monción",
+      "sur": "Calle Presidente Vazquez",
+      "oeste": "Calle Presidente Jimenez"
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "zona": "Urbana",
+    "codigo": "04-015-002",
+    "sector": "FRANCISCO JAVIER",
+    "valor_promedio": 800,
+    "subsectores": [
+      {"nombre": "Bo. San Fernando", "valor": 1600},
+      {"nombre": "Bo. Cristo Rey", "valor": 1000}
+    ],
+    "limites": {
+      "norte": "Calle Jose Reyes / Calle Jose Cabrera",
+      "este": "Calle Hostos",
+      "sur": "Carretera Duarte",
+      "oeste": "Carretera Mella"
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "zona": "Urbana",
+    "codigo": "04-015-003",
+    "sector": "BUENOS AIRES",
+    "valor_promedio": 800,
+    "subsectores": [
+      {"nombre": "Las Colinas", "valor": null},
+      {"nombre": "Bo. Manolo Tavares Justo", "valor": null},
+      {"nombre": "Bo. Los Maestros", "valor": null},
+      {"nombre": "Villa Solano", "valor": null}
+    ],
+    "limites": {
+      "norte": "Politecnico",
+      "este": "Calle En Proyecto",
+      "sur": "Calle Rio Yaque",
+      "oeste": "Calle En Proyecto"
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "zona": "Urbana",
+    "codigo": "04-015-004",
+    "sector": "HONG KONG",
+    "valor_promedio": 1500,
+    "subsectores": [
+      {"nombre": "Playa Juan de Bolaño", "valor": 1500},
+      {"nombre": "Bo. Los Angeles", "valor": 1000},
+      {"nombre": "Bo. Santa Barbara", "valor": 1600},
+      {"nombre": "Bo. Costa Verde", "valor": 700}
+    ],
+    "limites": {
+      "norte": "Calle En Proyecto",
+      "este": "Av. San Fernando",
+      "sur": "Calle Presidente Vazquez",
+      "oeste": "Calle En Proyecto"
+    }
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "zona": "Urbana",
+    "codigo": "04-015-005",
+    "sector": "LA CUEBA",
+    "valor_promedio": 1100,
+    "subsectores": [
+      {"nombre": "Bo. Manuel Tavarez Justo", "valor": 500},
+      {"nombre": "Bo. Bella Vista", "valor": 600},
+      {"nombre": "El Morro", "valor": null},
+      {"nombre": "Playa El Yuti", "valor": 500},
+      {"nombre": "Bo. Albimar", "valor": 400},
+      {"nombre": "Bo. La Aviacion", "valor": 500}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Monte Cristi",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "RINCON",
+    "parajes": [
+      {"nombre": "El Gomez (Poblado)", "valor": 250},
+      {"nombre": "El Gomez - Con frente a la carretera", "valor": 15},
+      {"nombre": "El Gomez - Interior", "valor": 10},
+      {"nombre": "Jaiqui - Con frente a la carretera", "valor": 15},
+      {"nombre": "Jaiqui - Interior", "valor": 10},
+      {"nombre": "El Rincon - Con frente a la carretera", "valor": 25},
+      {"nombre": "El Rincon - Interior", "valor": 15},
+      {"nombre": "Laguna Verde (Poblado)", "valor": 250},
+      {"nombre": "Laguna Verde - Con frente a la carretera", "valor": 15},
+      {"nombre": "Laguna Verde - Interior", "valor": 10},
+      {"nombre": "Batey Bisino - Con frente a la carretera", "valor": 60},
+      {"nombre": "Batey Bisino - Interior", "valor": 40},
+      {"nombre": "Isabel de Torrez - Con frente a la carretera", "valor": 15},
+      {"nombre": "Isabel de Torrez - Interior", "valor": 10},
+      {"nombre": "SECCION LAS AGUAS", "valor": 250},
+      {"nombre": "Las Aguas - Con frente a la carretera", "valor": 50},
+      {"nombre": "Las Aguas - Interior", "valor": 35},
+      {"nombre": "Carnero - Con frente a la carretera", "valor": 50},
+      {"nombre": "Carnero - Interior", "valor": 35},
+      {"nombre": "Higueró - Con frente a la carretera", "valor": 50},
+      {"nombre": "Higueró - Interior", "valor": 35},
+      {"nombre": "Batey Walterio - Parte Norte de la Aut. Duarte (secana)", "valor": null},
+      {"nombre": "Batey Walterio - Con frente a la carretera (Norte)", "valor": 15},
+      {"nombre": "Batey Walterio - Interior (Norte)", "valor": 10},
+      {"nombre": "Batey Walterio - Parte Sur de la Aut. Duarte (reguio)", "valor": null},
+      {"nombre": "Batey Walterio - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "Batey Walterio - Interior (Sur)", "valor": 35},
+      {"nombre": "Batey Maguaca - Con frente a la carretera", "valor": 50},
+      {"nombre": "Batey Maguaca - Interior", "valor": 35},
+      {"nombre": "Batey Isabel - Con frente a la carretera", "valor": 50},
+      {"nombre": "Batey Isabel - Interior", "valor": 35},
+      {"nombre": "La Cruz de Palo Verde - Con frente a la carretera", "valor": 50},
+      {"nombre": "La Cruz de Palo Verde - Interior", "valor": 35},
+      {"nombre": "Batey Madre - Parte Norte de la Aut. Duarte (secana)", "valor": null},
+      {"nombre": "Batey Madre - Con frente a la carretera (Norte)", "valor": 15},
+      {"nombre": "Batey Madre - Interior (Norte)", "valor": 10},
+      {"nombre": "Batey Madre - Parte Sur de la Aut. Duarte (reguio)", "valor": null},
+      {"nombre": "Batey Madre - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "Batey Madre - Interior (Sur)", "valor": 35},
+      {"nombre": "Judea Nueva - Con frente a la carretera", "valor": 15},
+      {"nombre": "Judea Nueva - Interior", "valor": 10},
+      {"nombre": "La Recta de Sanita - Parte Norte de la Aut. Duarte", "valor": null},
+      {"nombre": "La Recta de Sanita - Con frente a la carretera (Norte)", "valor": 15},
+      {"nombre": "La Recta de Sanita - Interior (Norte)", "valor": 10},
+      {"nombre": "La Recta de Sanita - Parte sur de la Aut. Duarte", "valor": null},
+      {"nombre": "La Recta de Sanita - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "La Recta de Sanita - Interior (Sur)", "valor": 35},
+      {"nombre": "Mangruño - Con frente a la carretera", "valor": 50},
+      {"nombre": "Mangruño - Interior", "valor": 35},
+      {"nombre": "LAS PENAS - Parte Norte de la Aut. Duarte", "valor": null},
+      {"nombre": "Las Penas - Con frente a la carretera (Norte)", "valor": 15},
+      {"nombre": "Las Penas - Interior (Norte)", "valor": 30},
+      {"nombre": "Las Penas - Parte sur de la Aut. Duarte", "valor": null},
+      {"nombre": "Las Penas - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "Las Penas - Interior (Sur)", "valor": 35},
+      {"nombre": "Jaramillo - Con frente a la carretera", "valor": 50},
+      {"nombre": "Jaramillo - Interior", "valor": 35},
+      {"nombre": "Batey Juliana - Con frente a la carretera", "valor": 50},
+      {"nombre": "Batey Juliana - Interior", "valor": 35},
+      {"nombre": "Los Conucos - Parte norte de la Aut. Duarte", "valor": null},
+      {"nombre": "Los Conucos - Con frente a la carretera (Norte)", "valor": 15},
+      {"nombre": "Los Conucos - Interior (Norte)", "valor": 10},
+      {"nombre": "Los Conucos - Parte sur de la Aut. Duarte", "valor": null},
+      {"nombre": "Los Conucos - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "Los Conucos - Interior (Sur)", "valor": 35},
+      {"nombre": "SECCION EL DURO - Parte norte de la Aut. Duarte", "valor": null},
+      {"nombre": "El Duro - Con frente a la carretera (Norte)", "valor": 15},
+      {"nombre": "El Duro - Interior (Norte)", "valor": 10},
+      {"nombre": "El Duro - Parte sur de la Aut. Duarte", "valor": null},
+      {"nombre": "El Duro - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "El Duro - Interior (Sur)", "valor": 35},
+      {"nombre": "SECCION BAITOAL", "valor": 250},
+      {"nombre": "Baitoal - Parte norte de la Aut. Duarte", "valor": null},
+      {"nombre": "Baitoal - Con frente a la carretera (Norte)", "valor": 15},
+      {"nombre": "Baitoal - Interior (Norte)", "valor": 10},
+      {"nombre": "Baitoal - Parte sur de la Aut. Duarte", "valor": null},
+      {"nombre": "Baitoal - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "Baitoal - Interior (Sur)", "valor": 35}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Castañuela",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1000,
+    "subsectores": [
+      {"nombre": "Bella Vista", "valor": 400},
+      {"nombre": "El Palmar", "valor": 400},
+      {"nombre": "El Cambron", "valor": 800},
+      {"nombre": "Santa Monica", "valor": 500},
+      {"nombre": "San Martin de Porres", "valor": 600},
+      {"nombre": "Rincon Caliente", "valor": 600},
+      {"nombre": "El Samán", "valor": 600},
+      {"nombre": "Los Cajules", "valor": 400}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Castañuela",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "EL AHOGADO",
+    "valor_promedio": 750,
+    "parajes": [
+      {"nombre": "El Ahogado - Con frente a la carretera", "valor": 160},
+      {"nombre": "El Ahogado - Interior", "valor": 140}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Castañuela",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "FINCA MAULE",
+    "parajes": [
+      {"nombre": "Finca Maule - Con frente a la carretera", "valor": 20},
+      {"nombre": "Finca Maule - Interior", "valor": 15},
+      {"nombre": "Los Chichiguaos - Con frente a la carretera", "valor": 20},
+      {"nombre": "Los Chichiguaos - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Castañuela",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOMA DE CASTAÑUELA",
+    "parajes": [
+      {"nombre": "Loma de Castañuela - Con frente a la carretera", "valor": 700},
+      {"nombre": "Loma de Castañuela - Interior", "valor": 500},
+      {"nombre": "Jobo Corcovado - Con frente a la carretera", "valor": 25},
+      {"nombre": "Jobo Corcovado - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Castañuela",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "CASTAÑUELA (LOZANO)",
+    "parajes": [
+      {"nombre": "Castañuela (Lozano) - Con frente a la carretera", "valor": 60},
+      {"nombre": "Castañuela (Lozano) - Interior", "valor": 50},
+      {"nombre": "La Capitalina", "valor": 800},
+      {"nombre": "La Capitalina - Con frente a la carretera", "valor": 70},
+      {"nombre": "La Capitalina - Interior", "valor": 60},
+      {"nombre": "Lozano", "valor": 500},
+      {"nombre": "Lozano - Con frente a la carretera", "valor": 40},
+      {"nombre": "Lozano - Interior", "valor": 30},
+      {"nombre": "Punta de Garza - Con frente a la carretera", "valor": 35},
+      {"nombre": "Punta de Garza - Interior", "valor": 30}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Palo Verde",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL DE PALO VERDE",
+    "subsectores": [
+      {"nombre": "Centro de la Ciudad", "valor": 700},
+      {"nombre": "Los Barrancones", "valor": 400},
+      {"nombre": "La Reforma", "valor": 400},
+      {"nombre": "Los Solares", "valor": 700}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Palo Verde",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "BARRERO",
+    "parajes": [
+      {"nombre": "SECCION EL VIGIADOR (EL 17)", "valor": 400},
+      {"nombre": "El Vigiador - Con frente a la carretera", "valor": 50},
+      {"nombre": "El Vigiador - Interior", "valor": 35},
+      {"nombre": "Molino Sucio - Con frente a la carretera", "valor": 50},
+      {"nombre": "Molino Sucio - Interior", "valor": 35},
+      {"nombre": "SECCION MAGDALENA", "valor": 350},
+      {"nombre": "Magdalena - Con frente a la carretera", "valor": 50},
+      {"nombre": "Magdalena - Con playa", "valor": 35},
+      {"nombre": "El Yaguarizo (Batey de Haitianos) - Con frente a la carretera", "valor": 30},
+      {"nombre": "El Yaguarizo - Con Interior", "valor": 25},
+      {"nombre": "Los Cajulies", "valor": 800},
+      {"nombre": "Los Cajulies - Con frente a la carretera", "valor": 50},
+      {"nombre": "Los Cajulies - Con Interior", "valor": 35},
+      {"nombre": "SECCION HATO VIEJO - Con frente a la carretera", "valor": 70},
+      {"nombre": "Hato Viejo - Con Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Guayubín",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1200,
+    "subsectores": [
+      {"nombre": "Sal si Puedes", "valor": 500},
+      {"nombre": "Manzana de Oro", "valor": 700},
+      {"nombre": "Canela", "valor": 500},
+      {"nombre": "Gazcue", "valor": 500},
+      {"nombre": "Santa Teresita", "valor": 900},
+      {"nombre": "Monte Carmelo", "valor": 500},
+      {"nombre": "Veneciá", "valor": 700},
+      {"nombre": "Bo. Nuevo", "valor": 600}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Guayubín",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "JUAN GOMEZ",
+    "valor_promedio": 500,
+    "parajes": [
+      {"nombre": "Juan Gomez - Con frente a la carretera", "valor": 80},
+      {"nombre": "Juan Gomez - Interior", "valor": 60},
+      {"nombre": "La Salada - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Salada - Interior", "valor": 40},
+      {"nombre": "Sabana - Con frente a la carretera", "valor": 40},
+      {"nombre": "Sabana - Interior", "valor": 25},
+      {"nombre": "Villa Sinda", "valor": 1250},
+      {"nombre": "Villa Sinda - Parte norte a la Aut. Duarte", "valor": null},
+      {"nombre": "Villa Sinda - Con frente a la carretera (Norte)", "valor": 70},
+      {"nombre": "Villa Sinda - Interior (Norte)", "valor": 50},
+      {"nombre": "Villa Sinda - Parte sur a la Aut. Duarte", "valor": null},
+      {"nombre": "Villa Sinda - Con frente a la carretera (Sur)", "valor": 25},
+      {"nombre": "Villa Sinda - Interior (Sur)", "valor": 15},
+      {"nombre": "El Campamento (Zona Minera) - Con frente a la carretera", "valor": 25},
+      {"nombre": "El Campamento - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Guayubín",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "MARTIN GARCIA",
+    "valor_promedio": 500,
+    "parajes": [
+      {"nombre": "Martin Garcia - Con frente a la carretera", "valor": 50},
+      {"nombre": "Martin Garcia - Interior", "valor": 40},
+      {"nombre": "La Gata - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Gata - Interior", "valor": 40},
+      {"nombre": "Monte abajo - Con frente a la carretera", "valor": 60},
+      {"nombre": "Monte abajo - Interior", "valor": 40},
+      {"nombre": "El Guanito - Con frente a la carretera", "valor": 35},
+      {"nombre": "El Guanito - Interior", "valor": 25},
+      {"nombre": "Los Guacamayos - Con frente a la carretera", "valor": 35},
+      {"nombre": "Los Guacamayos - Interior", "valor": 25},
+      {"nombre": "La Vuelta - Con frente a la carretera", "valor": 35},
+      {"nombre": "La Vuelta - Interior", "valor": 25},
+      {"nombre": "Machete - Con frente a la carretera", "valor": 35},
+      {"nombre": "Machete - Interior", "valor": 25},
+      {"nombre": "Cabeza de Toro - Con frente a la carretera", "valor": 35},
+      {"nombre": "Cabeza de Toro - Interior", "valor": 25},
+      {"nombre": "Vaca Vieja - Con frente a la carretera", "valor": 35},
+      {"nombre": "Vaca Vieja - Interior", "valor": 25},
+      {"nombre": "Guayubincito - Con frente a la carretera", "valor": 35},
+      {"nombre": "Guayubincito - Interior", "valor": 25},
+      {"nombre": "El Charcon - Con frente a la carretera", "valor": 35},
+      {"nombre": "El Charcon - Interior", "valor": 25},
+      {"nombre": "El mangal - Con frente a la carretera", "valor": 35},
+      {"nombre": "El mangal - Interior", "valor": 25},
+      {"nombre": "Cayucal Abajo - Con frente a la carretera", "valor": 35},
+      {"nombre": "Cayucal Abajo - Interior", "valor": 25},
+      {"nombre": "Cayucal - Con frente a la carretera", "valor": 60},
+      {"nombre": "Cayucal - Interior", "valor": 40},
+      {"nombre": "La Antona - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Antona - Interior", "valor": 40},
+      {"nombre": "El Pocito - Con frente a la carretera", "valor": 900},
+      {"nombre": "El Pocito - Interior", "valor": 500},
+      {"nombre": "Villa Nueva - Con frente a la carretera", "valor": 60},
+      {"nombre": "Villa Nueva - Interior", "valor": 40},
+      {"nombre": "Bohio Viejo - Con frente a la carretera", "valor": 60},
+      {"nombre": "Bohio Viejo - Interior", "valor": 40}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Guayubín",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "SABANA CRUZ",
+    "parajes": [
+      {"nombre": "Sabana Cruz - Con frente a la carretera", "valor": 50},
+      {"nombre": "Sabana Cruz - Interior", "valor": 40},
+      {"nombre": "Puerto Rico - Con frente a la carretera", "valor": 50},
+      {"nombre": "Puerto Rico - Interior", "valor": 40},
+      {"nombre": "El Cayal - Con frente a la carretera", "valor": 50},
+      {"nombre": "El Cayal - Interior", "valor": 40}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Elisa",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL VILLA ELISA",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 1000},
+      {"nombre": "Mama Tingo", "valor": 800},
+      {"nombre": "El Martillo", "valor": 700},
+      {"nombre": "La Yaguita", "valor": 500},
+      {"nombre": "El Cerro", "valor": 500},
+      {"nombre": "Bo. Calle El Verano", "valor": 500}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Elisa",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "BOCA DE YUMA",
+    "parajes": [
+      {"nombre": "SECCION EL COPEY", "valor": 550},
+      {"nombre": "El Copey - Con frente a la carretera", "valor": 20},
+      {"nombre": "El Copey - Interior", "valor": 15},
+      {"nombre": "El Guayo - Con frente a la carretera", "valor": 20},
+      {"nombre": "El Guayo - Interior", "valor": 15},
+      {"nombre": "Los Limones - Con frente a la carretera", "valor": 20},
+      {"nombre": "Los Limones - Interior", "valor": 15},
+      {"nombre": "SECCION LA GUAJACA - Con frente a la carretera", "valor": 65},
+      {"nombre": "La Guajaca - Interior", "valor": 50},
+      {"nombre": "La Breña - Con frente a la carretera", "valor": 65},
+      {"nombre": "La Breña - Interior", "valor": 50},
+      {"nombre": "Sabana Bonita - Con frente a la carretera", "valor": 65},
+      {"nombre": "Sabana Bonita - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Elisa",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "HATO DEL MEDIO ARRIBA",
+    "parajes": [
+      {"nombre": "Hato del Medio Arriba - Con frente a la carretera", "valor": 15},
+      {"nombre": "Hato del Medio Arriba - Interior", "valor": 10},
+      {"nombre": "Hato del Medio Adentro - Con frente a la carretera", "valor": 15},
+      {"nombre": "Hato del Medio Adentro - Interior", "valor": 10},
+      {"nombre": "Hato del Medio Abajo - Con frente a la carretera", "valor": 15},
+      {"nombre": "Hato del Medio Abajo - Interior", "valor": 10},
+      {"nombre": "Villa Lobos Afuera - Con frente a la carretera", "valor": 15},
+      {"nombre": "Villa Lobos Afuera - Interior", "valor": 10},
+      {"nombre": "Villa Lobos Adentro - Con frente a la carretera", "valor": 15},
+      {"nombre": "Villa Lobos Adentro - Interior", "valor": 10},
+      {"nombre": "Rodeo - Con frente a la carretera", "valor": 15},
+      {"nombre": "Rodeo - Interior", "valor": 10},
+      {"nombre": "Barranca Blanca - Con frente a la carretera", "valor": 15},
+      {"nombre": "Barranca Blanca - Interior", "valor": 10}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Elisa",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "EL PAPAYO",
+    "parajes": [
+      {"nombre": "El Papayo - Con frente a la carretera", "valor": 20},
+      {"nombre": "El Papayo - Interior", "valor": 15},
+      {"nombre": "Aguas de las Palmas - Con frente a la carretera", "valor": 20},
+      {"nombre": "Aguas de las Palmas - Interior", "valor": 15},
+      {"nombre": "Cuesta Corvada - Con frente a la carretera", "valor": 20},
+      {"nombre": "Cuesta Corvada - Interior", "valor": 15},
+      {"nombre": "Estero Balsa - Con frente a la carretera", "valor": 15},
+      {"nombre": "Estero Balsa - Interior", "valor": 15},
+      {"nombre": "Puerto Juanita - Con frente a la carretera", "valor": 20},
+      {"nombre": "Puerto Juanita - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Hatillo Palma",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL HATILLO PALMA",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 1000},
+      {"nombre": "Los Capellan", "valor": 500},
+      {"nombre": "El Cayito", "valor": 500},
+      {"nombre": "Las Flores", "valor": 500},
+      {"nombre": "Bo. Lindo", "valor": 300},
+      {"nombre": "Bo. La Carreterita", "valor": 600}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Hatillo Palma",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "HATILLO PALMA",
+    "parajes": [
+      {"nombre": "Hatillo Palma - Con frente a la carretera", "valor": 60},
+      {"nombre": "Hatillo Palma - Interior", "valor": 40},
+      {"nombre": "Arroyo Seco - Con frente a la carretera", "valor": 60},
+      {"nombre": "Arroyo Seco - Interior", "valor": 40},
+      {"nombre": "Hatillo Palma Adentro - Con frente a la carretera", "valor": 60},
+      {"nombre": "Hatillo Palma Adentro - Interior", "valor": 40}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Hatillo Palma",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA DIVISORIA",
+    "parajes": [
+      {"nombre": "La Divisoria - Con frente a la carretera", "valor": 65},
+      {"nombre": "La Divisoria - Interior", "valor": 50},
+      {"nombre": "Los Gorilas - Con frente a la carretera", "valor": 65},
+      {"nombre": "Los Gorilas - Interior", "valor": 50},
+      {"nombre": "Cruce de Lora - Con frente a la carretera", "valor": 65},
+      {"nombre": "Cruce de Lora - Interior", "valor": 50},
+      {"nombre": "El Cayito - Con frente a la carretera", "valor": 65},
+      {"nombre": "El Cayito - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Hatillo Palma",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS DERRAMADEROS",
+    "parajes": [
+      {"nombre": "Los Derramaderos - Con frente a la carretera", "valor": 20},
+      {"nombre": "Los Derramaderos - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Hatillo Palma",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "SOLIMAN",
+    "parajes": [
+      {"nombre": "Soliman - Con frente a la carretera", "valor": 20},
+      {"nombre": "Soliman - Interior", "valor": 15},
+      {"nombre": "Los Palmaritos - Con frente a la carretera", "valor": 20},
+      {"nombre": "Los Palmaritos - Interior", "valor": 15},
+      {"nombre": "Arroyo Caña - Con frente a la carretera", "valor": 20},
+      {"nombre": "Arroyo Caña - Interior", "valor": 15},
+      {"nombre": "Loma de Soliman - Con frente a la carretera", "valor": 20},
+      {"nombre": "Loma de Soliman - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Hatillo Palma",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "AGUA DE LUIS",
+    "parajes": [
+      {"nombre": "Agua de Luis - Con frente a la carretera", "valor": 20},
+      {"nombre": "Agua de Luis - Interior", "valor": 15},
+      {"nombre": "Zepiten - Con frente a la carretera", "valor": 20},
+      {"nombre": "Zepiten - Interior", "valor": 15},
+      {"nombre": "Cerro Anton - Con frente a la carretera", "valor": 20},
+      {"nombre": "Cerro Anton - Interior", "valor": 15},
+      {"nombre": "Loma De Paloma - Con frente a la carretera", "valor": 20},
+      {"nombre": "Loma De Paloma - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Hatillo Palma",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "DOÑA ANTONIA",
+    "parajes": [
+      {"nombre": "Doña Antonia - Con frente a la carretera", "valor": 65},
+      {"nombre": "Doña Antonia - Interior", "valor": 50},
+      {"nombre": "Sabana del Rancho - Con frente a la carretera", "valor": 65},
+      {"nombre": "Sabana del Rancho - Interior", "valor": 50},
+      {"nombre": "La Bananera - Con frente a la carretera", "valor": 65},
+      {"nombre": "La Bananera - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Cana Chapetón",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL CANA CHAPETON",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 1000},
+      {"nombre": "Bo. Cana Arriba", "valor": 500},
+      {"nombre": "Bo. Las Mercedes", "valor": 500},
+      {"nombre": "Bo. Vanesa", "valor": 400},
+      {"nombre": "Bo. Cana Al Medio", "valor": 300},
+      {"nombre": "Bo. Cana Abajo (Antiguo San Pedro)", "valor": 600}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Cana Chapetón",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "CANA CHAPETON",
+    "parajes": [
+      {"nombre": "Cana Arriba", "valor": 750},
+      {"nombre": "Cana Arriba - Con frente a la carretera", "valor": 50},
+      {"nombre": "Cana Arriba - Interior", "valor": 35},
+      {"nombre": "Las Mercedes - Con frente a la carretera", "valor": 50},
+      {"nombre": "Las Mercedes - Interior", "valor": 35},
+      {"nombre": "Bo. Vanessa - Con frente a la carretera", "valor": 50},
+      {"nombre": "Bo. Vanessa - Interior", "valor": 35},
+      {"nombre": "Cana Al Medio - Con frente a la carretera", "valor": 50},
+      {"nombre": "Cana Al Medio - Interior", "valor": 35},
+      {"nombre": "Las Flores - Con frente a la carretera", "valor": 50},
+      {"nombre": "Las Flores - Interior", "valor": 35},
+      {"nombre": "Cana Abajo - Con frente a la carretera", "valor": 50},
+      {"nombre": "Cana Abajo - Interior", "valor": 35},
+      {"nombre": "Vanessa - Con frente a la carretera", "valor": 50},
+      {"nombre": "Vanessa - Interior", "valor": 35},
+      {"nombre": "Sabanetica - Con frente a la carretera", "valor": 50},
+      {"nombre": "Sabanetica - Interior", "valor": 35},
+      {"nombre": "Buenos Aires - Con frente a la carretera", "valor": 50},
+      {"nombre": "Buenos Aires - Interior", "valor": 35},
+      {"nombre": "Paso Real - Con frente a la carretera", "valor": 50},
+      {"nombre": "Paso Real - Interior", "valor": 35}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Cana Chapetón",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "CERRO GORDO",
+    "parajes": [
+      {"nombre": "Cerro Gordo - Con frente a la carretera", "valor": 50},
+      {"nombre": "Cerro Gordo - Interior", "valor": 35},
+      {"nombre": "Cerro Gordo Abajo - Con frente a la carretera", "valor": 50},
+      {"nombre": "Cerro Gordo Abajo - Interior", "valor": 35},
+      {"nombre": "La Peña - Con frente a la carretera", "valor": 50},
+      {"nombre": "La Peña - Interior", "valor": 35},
+      {"nombre": "Cerro Gordo Arriba - Con frente a la carretera", "valor": 50},
+      {"nombre": "Cerro Gordo Arriba - Interior", "valor": 35},
+      {"nombre": "La Reforma - Con frente a la carretera", "valor": 50},
+      {"nombre": "La Reforma - Interior", "valor": 35},
+      {"nombre": "Rio Viejo - Con frente a la carretera", "valor": 50},
+      {"nombre": "Rio Viejo - Interior", "valor": 35},
+      {"nombre": "La Yaguita - Con frente a la carretera", "valor": 50},
+      {"nombre": "La Yaguita - Interior", "valor": 35},
+      {"nombre": "Laguna Colorada - Con frente a la carretera", "valor": 50},
+      {"nombre": "Laguna Colorada - Interior", "valor": 35},
+      {"nombre": "Peña de Ranchaderos - Con frente a la carretera", "valor": 50},
+      {"nombre": "Peña de Ranchaderos - Interior", "valor": 35},
+      {"nombre": "Ranchaderos - Con frente a la carretera", "valor": 50},
+      {"nombre": "Ranchaderos - Interior", "valor": 35},
+      {"nombre": "Fundo Viejo - Con frente a la carretera", "valor": 50},
+      {"nombre": "Fundo Viejo - Interior", "valor": 35},
+      {"nombre": "El Hospital - Con frente a la carretera", "valor": 50},
+      {"nombre": "El Hospital - Interior", "valor": 35},
+      {"nombre": "Sabana de Yajarima - Con frente a la carretera", "valor": 50},
+      {"nombre": "Sabana de Yajarima - Interior", "valor": 35}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Cana Chapetón",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "PILOTO",
+    "parajes": [
+      {"nombre": "Piloto - Con frente a la carretera", "valor": 50},
+      {"nombre": "Piloto - Interior", "valor": 35},
+      {"nombre": "Sabana Larga - Con frente a la carretera", "valor": 50},
+      {"nombre": "Sabana Larga - Interior", "valor": 35},
+      {"nombre": "Los Cercadillos - Con frente a la carretera", "valor": 50},
+      {"nombre": "Los Cercadillos - Interior", "valor": 35}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Cana Chapetón",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA CAIDA",
+    "parajes": [
+      {"nombre": "La Caida - Con frente a la carretera", "valor": 50},
+      {"nombre": "La Caida - Interior", "valor": 35},
+      {"nombre": "Bo. Nuevo - Con frente a la carretera", "valor": 50},
+      {"nombre": "Bo. Nuevo - Interior", "valor": 35},
+      {"nombre": "Gurabo Adentro - Con frente a la carretera", "valor": 50},
+      {"nombre": "Gurabo Adentro - Interior", "valor": 35}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1300,
+    "subsectores": [
+      {"nombre": "El Llano", "valor": 1000},
+      {"nombre": "Pedro Tomas", "valor": 1300},
+      {"nombre": "El Cayuco", "valor": 900},
+      {"nombre": "Buen Pastor", "valor": 700},
+      {"nombre": "El Bolsillo", "valor": 700},
+      {"nombre": "La Mina", "valor": 600},
+      {"nombre": "Vivienda", "valor": 1000},
+      {"nombre": "El Campamento", "valor": 800},
+      {"nombre": "Santa Lucia", "valor": 800},
+      {"nombre": "Las Flores", "valor": 700},
+      {"nombre": "La Cana", "valor": 600},
+      {"nombre": "Bo. Lindo", "valor": 600},
+      {"nombre": "El Cacique", "valor": 600},
+      {"nombre": "Manga Mocha", "valor": 800},
+      {"nombre": "Los Reyes", "valor": 600}
+    ],
+    "vias_principales": [
+      {"nombre": "Av. Libertad desde la C/ Patria Garcia hasta la C/ Beler", "valor": 3500},
+      {"nombre": "C/ Benito Moncion desde la Av. Libertad hasta la Calle Bernardo Rodriguez", "valor": 2500}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS AMACEYES",
+    "parajes": [
+      {"nombre": "Los Amaceyes - Con frente a la carretera", "valor": 40},
+      {"nombre": "Los Amaceyes - Interior", "valor": 25}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA HORCA",
+    "parajes": [
+      {"nombre": "La Horca - Con frente a la carretera", "valor": 25},
+      {"nombre": "La Horca - Interior", "valor": 15},
+      {"nombre": "La Mayita - Con frente a la carretera", "valor": 25},
+      {"nombre": "La Mayita - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "SANTA CRUZ",
+    "parajes": [
+      {"nombre": "Santa Cruz - Con frente a la carretera", "valor": 60},
+      {"nombre": "Santa Cruz - Interior", "valor": 40},
+      {"nombre": "Pueblo Nuevo - Con frente a la carretera", "valor": 60},
+      {"nombre": "Pueblo Nuevo - Interior", "valor": 40}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "BOTONCILLO",
+    "parajes": [
+      {"nombre": "Botoncillo", "valor": 500},
+      {"nombre": "Botoncillo - Con frente a la carretera", "valor": 60},
+      {"nombre": "Botoncillo - Interior", "valor": 45},
+      {"nombre": "La Trinchera - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Trinchera - Interior", "valor": 45},
+      {"nombre": "La Baitoa", "valor": 400},
+      {"nombre": "La Baitoa - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Baitoa - Interior", "valor": 45},
+      {"nombre": "Los Uveros - Con frente a la carretera", "valor": 60},
+      {"nombre": "Los Uveros - Interior", "valor": 45},
+      {"nombre": "Los Algodones - Con frente a la carretera", "valor": null},
+      {"nombre": "Los Algodones - Interior", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS CONUCOS",
+    "parajes": [
+      {"nombre": "Los Conucos - Con frente a la carretera", "valor": 30},
+      {"nombre": "Los Conucos - Interior", "valor": 20},
+      {"nombre": "Buen Hombre", "valor": 900},
+      {"nombre": "Buen Hombre - Con frente a la carretera", "valor": 25},
+      {"nombre": "Buen Hombre - Interior", "valor": 15},
+      {"nombre": "Playa", "valor": 1800},
+      {"nombre": "Las Cañas de los Uveros - Con frente a la carretera", "valor": 30},
+      {"nombre": "Las Cañas de los Uveros - Interior", "valor": 20},
+      {"nombre": "La Briguida - Con frente a la carretera", "valor": 50},
+      {"nombre": "La Briguida - Interior", "valor": 35}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Villa Vásquez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "VILLA GARCIA",
+    "parajes": [
+      {"nombre": "Villa Garcia - Con frente a la carretera", "valor": 60},
+      {"nombre": "Villa Garcia - Interior", "valor": 40},
+      {"nombre": "Loma Atravesada - Con frente a la carretera", "valor": 60},
+      {"nombre": "Loma Atravesada - Interior", "valor": 40},
+      {"nombre": "La Finca - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Finca - Interior", "valor": 40},
+      {"nombre": "El Manantial - Con frente a la carretera", "valor": 60},
+      {"nombre": "El Manantial - Interior", "valor": 40},
+      {"nombre": "Las Aguitas - Con frente a la carretera", "valor": 60},
+      {"nombre": "Las Aguitas - Interior", "valor": 40},
+      {"nombre": "El Charcaso - Con frente a la carretera", "valor": 60},
+      {"nombre": "El Charcaso - Interior", "valor": 40}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Pepillo Salcedo",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "CENTRO DEL PUEBLO",
+    "valor_promedio": 1000,
+    "subsectores": [
+      {"nombre": "Pueblo Nuevo", "valor": 500},
+      {"nombre": "Los Japoneses", "valor": 500},
+      {"nombre": "Las Casitas", "valor": 1125},
+      {"nombre": "Los Barrancones", "valor": 525},
+      {"nombre": "Villa Ray", "valor": 650},
+      {"nombre": "Villa Banack", "valor": 800},
+      {"nombre": "El Cerro", "valor": 800},
+      {"nombre": "Alto de la Paloma o Manhattan", "valor": 500},
+      {"nombre": "Bo. Nie", "valor": 500},
+      {"nombre": "Bo. Villa Hermosa", "valor": 800}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Pepillo Salcedo",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "CARBONERA",
+    "parajes": [
+      {"nombre": "Guanito - Con frente a la carretera", "valor": 20},
+      {"nombre": "Guanito - Interior", "valor": 15},
+      {"nombre": "La Fuente de Guajabo - Con frente a la carretera", "valor": 20},
+      {"nombre": "La Fuente de Guajabo - Interior", "valor": 15},
+      {"nombre": "SECCION COPEY (POBLADO)", "valor": 400},
+      {"nombre": "Copey - Parte Sur a la Aut. Duarte", "valor": null},
+      {"nombre": "Copey - Con frente a la carretera (Sur)", "valor": 50},
+      {"nombre": "Copey - Interior (Sur)", "valor": 35},
+      {"nombre": "Copey - Parte norte a la Aut. Duarte", "valor": null},
+      {"nombre": "Copey - Con frente a la carretera (Norte)", "valor": 20},
+      {"nombre": "Copey - Interior (Norte)", "valor": 15},
+      {"nombre": "Laguna Saladillo (Reserva Cientifica) - Con frente a la carretera", "valor": null},
+      {"nombre": "Laguna Saladillo - Interior", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Santa María",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL SANTA MARIA",
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 500}
+    ]
+  },
+  {
+    "provincia": "Monte Cristi",
+    "municipio": "Santa María",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "SANTA MARIA",
+    "parajes": [
+      {"nombre": "Sanita - Con frente a la carretera", "valor": 60},
+      {"nombre": "Sanita - Interior", "valor": 45},
+      {"nombre": "Gonzuela - Con frente a la carretera", "valor": 60},
+      {"nombre": "Gonzuela - Interior", "valor": 45},
+      {"nombre": "Clavellina - Con frente a la carretera", "valor": 60},
+      {"nombre": "Clavellina - Interior", "valor": 45},
+      {"nombre": "Cornero - Con frente a la carretera", "valor": 60},
+      {"nombre": "Cornero - Interior", "valor": 45},
+      {"nombre": "La Pinta - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Pinta - Interior", "valor": 45},
+      {"nombre": "La Recta de Sanita - Con frente a la carretera", "valor": 60},
+      {"nombre": "La Recta de Sanita - Interior", "valor": 45}
+    ]
+  }
+]

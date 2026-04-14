@@ -1,0 +1,104 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  FREE
+  PRO
+  ADMIN
+}
+
+enum Plan {
+  FREE
+  BASIC
+  PROFESSIONAL
+  ENTERPRISE
+}
+
+model User {
+  id               String         @id @default(uuid())
+  email            String         @unique
+  password         String
+  role             Role           @default(FREE)
+  plan             Plan           @default(FREE)
+  stripeCustomerId String?
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+  apiKeys          ApiKey[]
+  usageLogs        UsageLog[]
+  reports          Report[]
+}
+
+model ApiKey {
+  id        String   @id @default(uuid())
+  key       String   @unique // Hashed key
+  name      String
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  createdAt DateTime @default(now())
+}
+
+model Zone {
+  id              String   @id @default(uuid())
+  provincia       String
+  municipio       String
+  zona            String   // Urbana or Rural
+  codigo          String?
+  sector          String?
+  valorPromedio   Float?
+  subsectores     Json?    // Array of { nombre, valor }
+  limites         Json?    // { norte, este, sur, oeste }
+  viasPrincipales Json?    // Array of { nombre, valor }
+  seccion         String?
+  parajes         Json?    // Array of { nombre, valor }
+  lat                Float?   // Geocoded latitude
+  lng                Float?   // Geocoded longitude
+  geocoded           Boolean  @default(false)
+  geocodingPrecision String?  // exact, approximate, manual
+  createdAt          DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@index([provincia])
+  @@index([municipio])
+  @@index([sector])
+  @@index([geocoded])
+}
+
+model UsageLog {
+  id        String   @id @default(uuid())
+  userId    String?
+  user      User?    @relation(fields: [userId], references: [id])
+  endpoint  String
+  method    String
+  status    Int
+  timestamp DateTime @default(now())
+}
+
+model Report {
+  id        String   @id @default(uuid())
+  userId    String
+  user      User     @relation(fields: [userId], references: [id])
+  zoneId    String
+  data      Json     // Snapshot of data used for report
+  pdfUrl    String?
+  createdAt DateTime @default(now())
+}
+model ImpactFactor {
+  id          String   @id @default(uuid())
+  name        String
+  type        String   // MALL, ROAD, HOSPITAL, etc.
+  description String?
+  latitude    Float?
+  longitude   Float?
+  radiusKm    Float    @default(1.0)
+  impactScore Float    @default(1.0) // multiplier for prediction
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([type])
+}

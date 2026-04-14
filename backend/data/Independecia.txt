@@ -1,0 +1,780 @@
+[
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "JIMANI Centro del pueblo",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Barrio la Cincuenta", "valor": 2300},
+      {"nombre": "Barrio El Cerro", "valor": 2000},
+      {"nombre": "Barrio La Cuarenta (DESABITADA POR EL RIO)", "valor": 1000}
+    ],
+    "vias_principales": [
+      {"nombre": "Avenida 19 de Marzo (Desde C/ Núñez de Cáceres hasta C/ Gaspar Polanco)", "valor": 4500},
+      {"nombre": "Avenida 27 de Febrero (Desde Av. 19 de Marzo hasta Arzobispo Portes)", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "JIMANI VIEJO",
+    "valor_promedio": 1300,
+    "subsectores": [
+      {"nombre": "Villa Armonía", "valor": 1500},
+      {"nombre": "Invi", "valor": 1300},
+      {"nombre": "Barrio San José", "valor": 1800},
+      {"nombre": "Bo. José Francisco Peña Gómez", "valor": 1300},
+      {"nombre": "Bo. El Brisal", "valor": 1300},
+      {"nombre": "Bo. Los Quemado", "valor": 1300}
+    ],
+    "vias_principales": [
+      {"nombre": "Avenida 19 de Marzo", "valor": 2500}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "LA Q",
+    "valor_promedio": 2500,
+    "subsectores": [
+      {"nombre": "Barrio Militar", "valor": 1300},
+      {"nombre": "Barrio Villa Solidaridad", "valor": 1000}
+    ],
+    "vias_principales": [
+      {"nombre": "Avenida 19 de Marzo", "valor": 4500}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "ARROYO BLANCO",
+    "parajes": [
+      {"nombre": "ARROYO BLANCO (Parte del Parque Nacional Lago Enriquillo)", "valor": null},
+      {"nombre": "ARROYO BLANCO (Parte del Parque Nacional Lago Enriquillo) - Con frente a la carretera Zona llana", "valor": 30},
+      {"nombre": "ARROYO BLANCO (Parte del Parque Nacional Lago Enriquillo) - Interior", "valor": 10},
+      {"nombre": "MAL PASO (Parte de Monumento Natural Los Cacheos)", "valor": null},
+      {"nombre": "MAL PASO (Parte de Monumento Natural Los Cacheos) - Con frente a la Avenida 19 de marzo", "valor": 1100},
+      {"nombre": "MAL PASO (Parte de Monumento Natural Los Cacheos) - Interior", "valor": 10},
+      {"nombre": "MAL PASO (Parte de Monumento Natural Los Cacheos) - ZONA LLANA", "valor": 35},
+      {"nombre": "MAL PASO ZONA ADUANA", "valor": 3000},
+      {"nombre": "LAS PEÑAS (Parte del parque nacional Lago Enriquillo)", "valor": null},
+      {"nombre": "LAS PEÑAS (Parte del parque nacional Lago Enriquillo) - Con frente a la carretera", "valor": 10},
+      {"nombre": "LAS PEÑAS (Parte del parque nacional Lago Enriquillo) - Interior", "valor": 5},
+      {"nombre": "JIMANI VIEJO (Parte de Monumento Natural Los Cacheos)", "valor": null},
+      {"nombre": "JIMANI VIEJO (Parte de Monumento Natural Los Cacheos) - Con frente a la carretera", "valor": 10},
+      {"nombre": "JIMANI VIEJO (Parte de Monumento Natural Los Cacheos) - Interior", "valor": 5}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL EL LIMON",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Las Cuarenta Casas", "valor": 750},
+      {"nombre": "El Abanico", "valor": 750},
+      {"nombre": "Las 23 Casas", "valor": 1000},
+      {"nombre": "Las Piedras", "valor": 750},
+      {"nombre": "La Cien", "valor": 1000},
+      {"nombre": "Palmarito", "valor": 750},
+      {"nombre": "La Bomba", "valor": 1000},
+      {"nombre": "El Play", "valor": 1000},
+      {"nombre": "Villa Progreso I", "valor": 1000},
+      {"nombre": "Barrio Militar", "valor": 1000}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "MORTERO (Distrito El Limon)",
+    "parajes": [
+      {"nombre": "LA PLAYA", "valor": null},
+      {"nombre": "LA PLAYA - Con frente a la carretera", "valor": 30},
+      {"nombre": "LA PLAYA - Interior", "valor": 20},
+      {"nombre": "EL PALMAR (Reserva Biológica Loma Charco Azul) Parte", "valor": null},
+      {"nombre": "EL PALMAR (Reserva Biológica Loma Charco Azul) Parte - Con frente a la carretera", "valor": 30},
+      {"nombre": "EL PALMAR (Reserva Biológica Loma Charco Azul) Parte - Interior", "valor": 20},
+      {"nombre": "CASIMIRO (Reserva Biológica Loma Charco Azul)", "valor": null},
+      {"nombre": "CASIMIRO (Reserva Biológica Loma Charco Azul) - Con frente a la carretera", "valor": 16},
+      {"nombre": "CASIMIRO (Reserva Biológica Loma Charco Azul) - Interior", "valor": 10},
+      {"nombre": "MONTE DE LOS NEGROS (Reserva Biológica Loma Charco Azul)", "valor": null},
+      {"nombre": "MONTE DE LOS NEGROS (Reserva Biológica Loma Charco Azul) - Con frente a la carretera", "valor": 16},
+      {"nombre": "MONTE DE LOS NEGROS (Reserva Biológica Loma Charco Azul) - Interior", "valor": 10},
+      {"nombre": "LAS LAJITAS", "valor": null},
+      {"nombre": "LAS LAJITAS - Con frente a la carretera", "valor": 16},
+      {"nombre": "LAS LAJITAS - Interior", "valor": 10},
+      {"nombre": "EL OTRO LADO", "valor": null},
+      {"nombre": "EL OTRO LADO - Con frente a la carretera", "valor": 16},
+      {"nombre": "EL OTRO LADO - Interior", "valor": 8},
+      {"nombre": "LA PERONILA", "valor": null},
+      {"nombre": "LA PERONILA - Con frente a la carretera", "valor": 16},
+      {"nombre": "LA PERONILA - Interior", "valor": 10},
+      {"nombre": "LA GUACIMA", "valor": null},
+      {"nombre": "LA GUACIMA - Con frente a la carretera", "valor": 16},
+      {"nombre": "LA GUACIMA - Interior", "valor": 10},
+      {"nombre": "LOS LIMONES", "valor": null},
+      {"nombre": "LOS LIMONES - Con frente a la carretera", "valor": 16},
+      {"nombre": "LOS LIMONES - Interior", "valor": 10}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA FLORIDA (Distrito El Limon)",
+    "parajes": [
+      {"nombre": "LOS PINOS", "valor": null},
+      {"nombre": "LOS PINOS - Con frente a la carretera", "valor": 16},
+      {"nombre": "LOS PINOS - Interior", "valor": 8},
+      {"nombre": "CRUCE DEL LIMON", "valor": null},
+      {"nombre": "CRUCE DEL LIMON - Con frente a la carretera", "valor": 16},
+      {"nombre": "CRUCE DEL LIMON - Interior", "valor": 10},
+      {"nombre": "VUELTA GRANDE (Reserva Biológica Loma Charco Azul)", "valor": null},
+      {"nombre": "VUELTA GRANDE (Reserva Biológica Loma Charco Azul) - Con frente a la carretera", "valor": 16},
+      {"nombre": "VUELTA GRANDE (Reserva Biológica Loma Charco Azul) - Interior", "valor": 10},
+      {"nombre": "LA FLORIDA", "valor": null},
+      {"nombre": "LA FLORIDA - Con frente a la carretera", "valor": 16},
+      {"nombre": "LA FLORIDA - Interior", "valor": 10},
+      {"nombre": "CANECO (Reserva Biológica Loma Charco Azul)", "valor": null},
+      {"nombre": "CANECO (Reserva Biológica Loma Charco Azul) - Con frente a la carretera", "valor": 16},
+      {"nombre": "CANECO (Reserva Biológica Loma Charco Azul) - Interior", "valor": 10}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL BOCA DE CACHON",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Nuevo Boca de Cachón", "valor": 1000}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Jimani",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "TIERRA NUEVA (Distrito Boca de Cachon)",
+    "parajes": [
+      {"nombre": "TIERRA NUEVA (POBLADO)", "valor": null},
+      {"nombre": "TIERRA NUEVA (POBLADO) - Con frente a la carretera", "valor": 30},
+      {"nombre": "TIERRA NUEVA (POBLADO) - Interior", "valor": 20},
+      {"nombre": "LAS LAJAS (POBLADO)", "valor": null},
+      {"nombre": "LAS LAJAS (POBLADO) - Con frente a la carretera", "valor": 30},
+      {"nombre": "LAS LAJAS (POBLADO) - Interior", "valor": 20},
+      {"nombre": "TIERRA VIRGEN (Monumento Nacional La Caoba)", "valor": null},
+      {"nombre": "TIERRA VIRGEN (Monumento Nacional La Caoba) - Con frente a la carretera", "valor": 30},
+      {"nombre": "TIERRA VIRGEN (Monumento Nacional La Caoba) - Interior", "valor": 20},
+      {"nombre": "PEDRO CUEVAS (Monumento Nacional La Caoba)", "valor": null},
+      {"nombre": "PEDRO CUEVAS (Monumento Nacional La Caoba) - Con frente a la carretera", "valor": 30},
+      {"nombre": "PEDRO CUEVAS (Monumento Nacional La Caoba) - Interior", "valor": 20},
+      {"nombre": "MARTIN BRUNITO (POBLADO) Nuevo Boca de Cachón", "valor": null},
+      {"nombre": "MARTIN BRUNITO (POBLADO) Nuevo Boca de Cachón - Con frente a la carretera", "valor": 30},
+      {"nombre": "MARTIN BRUNITO (POBLADO) Nuevo Boca de Cachón - Interior", "valor": 20},
+      {"nombre": "JOSE JOAQUIN PUELLO (Monumento Nacional La Caoba)", "valor": null},
+      {"nombre": "JOSE JOAQUIN PUELLO (Monumento Nacional La Caoba) - Con frente a la carretera", "valor": 30},
+      {"nombre": "JOSE JOAQUIN PUELLO (Monumento Nacional La Caoba) - Interior", "valor": 20}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Duverge",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "MERCEDES",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Barrio Los Carrizos", "valor": 1500}
+    ],
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (Desde calle Nuestra Sra. Del Carmen hasta calle Arzobispo Meriño)", "valor": 6000}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Duverge",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "SAN ISIDRO",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Barrio Don Pancho", "valor": 1000},
+      {"nombre": "Barrio Guayabalito", "valor": 1000}
+    ],
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (Desde calle Nuestra Sra. Del Carmen hasta el Polideportivo)", "valor": 6000}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Duverge",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "PLACER BONITO (CENTRO DEL PUEBLO)",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Barrio Buenos Aires", "valor": 2000},
+      {"nombre": "Barrio Villa Martí", "valor": 2000},
+      {"nombre": "Don Papo", "valor": 1000},
+      {"nombre": "Bo. La Tina", "valor": 900},
+      {"nombre": "Bo. Mello Meje", "valor": 1000},
+      {"nombre": "Bo. Militar", "valor": 1500},
+      {"nombre": "Urb. Serraff", "valor": 1500},
+      {"nombre": "Brisa del Río", "valor": 1500},
+      {"nombre": "Brisa del Palmar", "valor": 2000}
+    ],
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (Desde calle Nuestra Sra. Del Carmen hasta Hotel el Palmar)", "valor": 6000}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Duverge",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "CAMBOYA",
+    "valor_promedio": 1500,
+    "subsectores": [
+      {"nombre": "Barrio Los Guineos", "valor": 1000}
+    ],
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (Desde calle Nuestra Sra. Del Carmen hasta C/ Arzobispo Meriño (mercado))", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Duverge",
+    "zona": "Urbana",
+    "codigo": "005",
+    "sector": "SAN JOSE",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Barrio Nuevo Amanecer", "valor": 2500},
+      {"nombre": "Barrio San José II", "valor": 1800},
+      {"nombre": "Barrio El Tanque", "valor": 1000}
+    ],
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (Desde Río Las Damas hasta Estación de Combustible Eco)", "valor": 3000}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Duverge",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "PUERTO ESCONDIDO",
+    "parajes": [
+      {"nombre": "PUERTO ESCONDIDO (POBLADO) Reserva Biológica Loma Charco Azul", "valor": 750},
+      {"nombre": "PUERTO ESCONDIDO (POBLADO) Reserva Biológica Loma Charco Azul - PARTE LLANA", "valor": 35},
+      {"nombre": "PUERTO ESCONDIDO (POBLADO) Reserva Biológica Loma Charco Azul - INTERIOR ZONA DE LOMA", "valor": 10},
+      {"nombre": "ESCONDIDO (POBLADO) Parque Nacional Sierra de Bahoruco", "valor": 750},
+      {"nombre": "ESCONDIDO (POBLADO) Parque Nacional Sierra de Bahoruco - PARTE LLANA", "valor": 35},
+      {"nombre": "ESCONDIDO (POBLADO) Parque Nacional Sierra de Bahoruco - INTERIOR ZONA DE LOMA", "valor": 10},
+      {"nombre": "ALTAMISAR (POBLADO) Parque Nacional Sierra de Bahoruco", "valor": null},
+      {"nombre": "ALTAMISAR (POBLADO) Parque Nacional Sierra de Bahoruco - Con frente a la carretera", "valor": 35},
+      {"nombre": "ALTAMISAR (POBLADO) Parque Nacional Sierra de Bahoruco - Interior", "valor": 10},
+      {"nombre": "PALO DE LECHE (POBLADO) Parque Nacional Sierra de Bahoruco", "valor": null},
+      {"nombre": "PALO DE LECHE (POBLADO) Parque Nacional Sierra de Bahoruco - Con frente a la carretera", "valor": 10},
+      {"nombre": "PALO DE LECHE (POBLADO) Parque Nacional Sierra de Bahoruco - Interior", "valor": 5},
+      {"nombre": "EL AGUACATE Parque Nacional Sierra de Bahoruco", "valor": null},
+      {"nombre": "EL AGUACATE Parque Nacional Sierra de Bahoruco - Con frente a la carretera", "valor": 10},
+      {"nombre": "EL AGUACATE Parque Nacional Sierra de Bahoruco - Interior", "valor": 5}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Duverge",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL VENGAN A VER",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 1000},
+      {"nombre": "Brisas del Lago", "valor": 800},
+      {"nombre": "Los Yesos", "valor": 1000},
+      {"nombre": "Las Piedras", "valor": 750},
+      {"nombre": "Duarte Arriba", "valor": 750},
+      {"nombre": "Duarte Atras", "valor": 750},
+      {"nombre": "El Barrio", "valor": 800},
+      {"nombre": "Villa Progreso I y II", "valor": 800}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "La Descubierta",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "LA DESCUBIERTA",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 2500},
+      {"nombre": "El Palmito", "valor": 1400},
+      {"nombre": "El Ganadero", "valor": 900},
+      {"nombre": "Bo. Nuevo", "valor": 1100},
+      {"nombre": "María Auxiliadora o la Meseta", "valor": 1100},
+      {"nombre": "Rincón Callado", "valor": 1500},
+      {"nombre": "Los Limoncitos", "valor": 1500}
+    ],
+    "vias_principales": [
+      {"nombre": "Avenida Joaquín Aybar", "valor": 3000}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "La Descubierta",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LAS BAITOAS",
+    "parajes": [
+      {"nombre": "LAS BAITOAS Reserva Biológica Loma Charco Azul Y Lago Enriquillo", "valor": null},
+      {"nombre": "LAS BAITOAS Reserva Biológica Loma Charco Azul Y Lago Enriquillo - Con frente a la carretera", "valor": 30},
+      {"nombre": "LAS BAITOAS Reserva Biológica Loma Charco Azul Y Lago Enriquillo - Interior", "valor": 15},
+      {"nombre": "SAN JOSE (POBLADO) Reserva Biológica Loma Charco Azul Y Lago", "valor": null},
+      {"nombre": "SAN JOSE (POBLADO) Reserva Biológica Loma Charco Azul Y Lago - Con frente a la carretera", "valor": 30},
+      {"nombre": "SAN JOSE (POBLADO) Reserva Biológica Loma Charco Azul Y Lago - Interior", "valor": 15},
+      {"nombre": "VUELTA GRANDE Reserva Biológica Loma Charco Azul", "valor": null},
+      {"nombre": "VUELTA GRANDE Reserva Biológica Loma Charco Azul - Con frente a la carretera", "valor": 30},
+      {"nombre": "VUELTA GRANDE Reserva Biológica Loma Charco Azul - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "La Descubierta",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "ANGEL FELIX",
+    "parajes": [
+      {"nombre": "ANGEL FELIX (POBLADO)", "valor": 50},
+      {"nombre": "ANGEL FELIX (POBLADO) - Con frente a la carretera", "valor": 15},
+      {"nombre": "ANGEL FELIX (POBLADO) - Interior", "valor": 10},
+      {"nombre": "SABANA REAL (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "SABANA REAL (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "SABANA REAL (Parque Nacional Sierra de Neyba) - Interior", "valor": 10},
+      {"nombre": "BONETE (Parque nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "BONETE (Parque nacional Sierra de Neyba) - Con frente a la carretera", "valor": 10},
+      {"nombre": "BONETE (Parque nacional Sierra de Neyba) - Interior", "valor": 5}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "La Descubierta",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS PINOS",
+    "parajes": [
+      {"nombre": "LOS PINOS", "valor": null},
+      {"nombre": "LOS PINOS - Con frente a la carretera", "valor": 10},
+      {"nombre": "LOS PINOS - Interior", "valor": 5},
+      {"nombre": "CHARCO LARGO", "valor": null},
+      {"nombre": "CHARCO LARGO - Con frente a la carretera", "valor": 20},
+      {"nombre": "CHARCO LARGO - Interior", "valor": 10},
+      {"nombre": "PALO ALTO", "valor": null},
+      {"nombre": "PALO ALTO - Con frente a la carretera", "valor": 10},
+      {"nombre": "PALO ALTO - Interior", "valor": 5},
+      {"nombre": "GRANADA", "valor": null},
+      {"nombre": "GRANADA - Con frente a la carretera", "valor": 10},
+      {"nombre": "GRANADA - Interior", "valor": 5},
+      {"nombre": "EL BEJUCO (POBLADO)", "valor": null},
+      {"nombre": "EL BEJUCO (POBLADO) - Con frente a la carretera", "valor": 10},
+      {"nombre": "EL BEJUCO (POBLADO) - Interior", "valor": 5},
+      {"nombre": "LA CAÑAITA (POBLADO)", "valor": null},
+      {"nombre": "LA CAÑAITA (POBLADO) - Con frente a la carretera", "valor": 10},
+      {"nombre": "LA CAÑAITA (POBLADO) - Interior", "valor": 5},
+      {"nombre": "LOS PINO DEL EDEN (POBLADO)", "valor": 750},
+      {"nombre": "LOS PINO DEL EDEN (POBLADO) - Con frente a la carretera", "valor": 20},
+      {"nombre": "LOS PINO DEL EDEN (POBLADO) - Interior", "valor": 10},
+      {"nombre": "GUASOSA", "valor": null},
+      {"nombre": "GUASOSA - Con frente a la carretera", "valor": 20},
+      {"nombre": "GUASOSA - Interior", "valor": 10},
+      {"nombre": "ARROYO", "valor": null},
+      {"nombre": "ARROYO - Con frente a la carretera", "valor": 10},
+      {"nombre": "ARROYO - Interior", "valor": 5},
+      {"nombre": "LA PLENA", "valor": null},
+      {"nombre": "LA PLENA - Con frente a la carretera", "valor": 10},
+      {"nombre": "LA PLENA - Interior", "valor": 5},
+      {"nombre": "EL CAO", "valor": null},
+      {"nombre": "EL CAO - Con frente a la carretera", "valor": 10},
+      {"nombre": "EL CAO - Interior", "valor": 5},
+      {"nombre": "ACITRON", "valor": null},
+      {"nombre": "ACITRON - Con frente a la carretera", "valor": 10},
+      {"nombre": "ACITRON - Interior", "valor": 5},
+      {"nombre": "EL CANTON", "valor": null},
+      {"nombre": "EL CANTON - Con frente a la carretera Zona llana a orilla del lago", "valor": 30},
+      {"nombre": "EL CANTON - Interior", "valor": 5},
+      {"nombre": "CRUCE DE GRANADA", "valor": null},
+      {"nombre": "CRUCE DE GRANADA - Con frente a la carretera", "valor": 10},
+      {"nombre": "CRUCE DE GRANADA - Interior", "valor": 5},
+      {"nombre": "EL NARANJO", "valor": null},
+      {"nombre": "EL NARANJO - Con frente a la carretera", "valor": 10},
+      {"nombre": "EL NARANJO - Interior", "valor": 5},
+      {"nombre": "LOS BORBOLLONES", "valor": null},
+      {"nombre": "LOS BORBOLLONES - Con frente a la carretera", "valor": 35},
+      {"nombre": "LOS BORBOLLONES - Interior", "valor": 10},
+      {"nombre": "CERROS LOS TRATES", "valor": null},
+      {"nombre": "CERROS LOS TRATES - Con frente a la carretera", "valor": 10},
+      {"nombre": "CERROS LOS TRATES - Interior", "valor": 5}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "La Descubierta",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "BARTOLOME",
+    "parajes": [
+      {"nombre": "BARTOLOME (POBLADO) Parte del Lago Enriquillo", "valor": 600},
+      {"nombre": "BARTOLOME (POBLADO) Parte del Lago Enriquillo - Con frente a la carretera", "valor": 50},
+      {"nombre": "BARTOLOME (POBLADO) Parte del Lago Enriquillo - Interior", "valor": 15},
+      {"nombre": "LOS GEÑOS Parte del Lago Enriquillo", "valor": null},
+      {"nombre": "LOS GEÑOS Parte del Lago Enriquillo - Con frente a la carretera", "valor": 400},
+      {"nombre": "LOS GEÑOS Parte del Lago Enriquillo - Interior", "valor": 15},
+      {"nombre": "EL HIGUERO Parte del Lago Enriquillo", "valor": null},
+      {"nombre": "EL HIGUERO Parte del Lago Enriquillo - Con frente a la carretera", "valor": 400},
+      {"nombre": "EL HIGUERO Parte del Lago Enriquillo - Interior", "valor": 15}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Postrer Rio",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "POSTRER RIO",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 2000},
+      {"nombre": "El Otro lado del río", "valor": 1000},
+      {"nombre": "Caimoni", "valor": 750},
+      {"nombre": "Mogote o El Cerro", "valor": 750},
+      {"nombre": "Tierra Prieta", "valor": 750},
+      {"nombre": "Barrio Nuevo", "valor": 750},
+      {"nombre": "Bo. Buenos Aires", "valor": 750},
+      {"nombre": "Conuquito", "valor": 750},
+      {"nombre": "Villa Progreso", "valor": 750}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Postrer Rio",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS BOLOS",
+    "parajes": [
+      {"nombre": "LOS BOLOS (POBLADO)", "valor": 300},
+      {"nombre": "LOS BOLOS (POBLADO) - Con frente a la carretera", "valor": 30},
+      {"nombre": "LOS BOLOS (POBLADO) - Interior", "valor": 15},
+      {"nombre": "LA GUAMITA (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LA GUAMITA (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 30},
+      {"nombre": "LA GUAMITA (Parque Nacional Sierra de Neyba) - Interior", "valor": 15},
+      {"nombre": "LA PEÑA (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LA PEÑA (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 10},
+      {"nombre": "LA PEÑA (Parque Nacional Sierra de Neyba) - Interior", "valor": 8},
+      {"nombre": "LOS RANCHITOS (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LOS RANCHITOS (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "LOS RANCHITOS (Parque Nacional Sierra de Neyba) - Interior", "valor": 10},
+      {"nombre": "LA FILIPINA (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LA FILIPINA (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 10},
+      {"nombre": "LA FILIPINA (Parque Nacional Sierra de Neyba) - Interior", "valor": 5},
+      {"nombre": "LOS ALMENDROS (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LOS ALMENDROS (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "LOS ALMENDROS (Parque Nacional Sierra de Neyba) - Interior", "valor": 10},
+      {"nombre": "LA FINCA (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LA FINCA (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 10},
+      {"nombre": "LA FINCA (Parque Nacional Sierra de Neyba) - Interior", "valor": 5},
+      {"nombre": "LA CAÑA", "valor": null},
+      {"nombre": "LA CAÑA - Con frente a la carretera", "valor": 10},
+      {"nombre": "LA CAÑA - Interior", "valor": 5},
+      {"nombre": "LAS CHICHARRAS", "valor": null},
+      {"nombre": "LAS CHICHARRAS - Con frente a la carretera", "valor": 10},
+      {"nombre": "LAS CHICHARRAS - Interior", "valor": 5},
+      {"nombre": "LAS AUYAMAS", "valor": null},
+      {"nombre": "LAS AUYAMAS - Con frente a la carretera", "valor": 10},
+      {"nombre": "LAS AUYAMAS - Interior", "valor": 5},
+      {"nombre": "RIO ABAJO (POBLADO)", "valor": null},
+      {"nombre": "RIO ABAJO (POBLADO) - Con frente a la carretera", "valor": 10},
+      {"nombre": "RIO ABAJO (POBLADO) - Interior", "valor": 5},
+      {"nombre": "EL OTRO LADO (POBLADO)", "valor": null},
+      {"nombre": "EL OTRO LADO (POBLADO) - Con frente a la carretera", "valor": 10},
+      {"nombre": "EL OTRO LADO (POBLADO) - Interior", "valor": 5},
+      {"nombre": "LOS LIMONES (POBLADO)", "valor": null},
+      {"nombre": "LOS LIMONES (POBLADO) - Con frente a la carretera", "valor": 10},
+      {"nombre": "LOS LIMONES (POBLADO) - Interior", "valor": 5},
+      {"nombre": "EL CERRO (POBLADO)", "valor": null},
+      {"nombre": "EL CERRO (POBLADO) - Con frente a la carretera", "valor": 10},
+      {"nombre": "EL CERRO (POBLADO) - Interior", "valor": 5}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Postrer Rio",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL GUAYABAL",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Pueblo", "valor": 1000},
+      {"nombre": "Guayacanes", "valor": 750},
+      {"nombre": "Las Torres", "valor": 750},
+      {"nombre": "Los Pasos", "valor": 750},
+      {"nombre": "Las Javillas", "valor": 750}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Postrer Rio",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "CABEZA DE RIO (Distrito Guayabal)",
+    "parajes": [
+      {"nombre": "CABEZA DE RIO", "valor": null},
+      {"nombre": "CABEZA DE RIO - Con frente a la carretera", "valor": 15},
+      {"nombre": "CABEZA DE RIO - Interior", "valor": 10},
+      {"nombre": "BAYONA", "valor": null},
+      {"nombre": "BAYONA - Con frente a la carretera", "valor": 15},
+      {"nombre": "BAYONA - Interior", "valor": 10},
+      {"nombre": "LOS CONUQUITOS", "valor": null},
+      {"nombre": "LOS CONUQUITOS - Con frente a la carretera", "valor": 15},
+      {"nombre": "LOS CONUQUITOS - Interior", "valor": 10},
+      {"nombre": "LAS TELAS", "valor": null},
+      {"nombre": "LAS TELAS - Con frente a la carretera", "valor": 15},
+      {"nombre": "LAS TELAS - Interior", "valor": 10}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Postrer Rio",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "EL MANIEL (Distrito Guayabal)",
+    "parajes": [
+      {"nombre": "EL MANIEL", "valor": null},
+      {"nombre": "EL MANIEL - Con frente a la carretera", "valor": 15},
+      {"nombre": "EL MANIEL - Interior", "valor": 10},
+      {"nombre": "PASO DE LOS NOVILLOS", "valor": null},
+      {"nombre": "PASO DE LOS NOVILLOS - Con frente a la carretera", "valor": 15},
+      {"nombre": "PASO DE LOS NOVILLOS - Interior", "valor": 10},
+      {"nombre": "BARRERAS (Parque Nacional Sierra de Neyba", "valor": null},
+      {"nombre": "BARRERAS (Parque Nacional Sierra de Neyba - Con frente a la carretera", "valor": 15},
+      {"nombre": "BARRERAS (Parque Nacional Sierra de Neyba - Interior", "valor": 10},
+      {"nombre": "LOS PINALITOS", "valor": null},
+      {"nombre": "LOS PINALITOS - Con frente a la carretera", "valor": 15},
+      {"nombre": "LOS PINALITOS - Interior", "valor": 10},
+      {"nombre": "GAJO DEL RANCHO (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "GAJO DEL RANCHO (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "GAJO DEL RANCHO (Parque Nacional Sierra de Neyba) - Interior", "valor": 10},
+      {"nombre": "LA GUAMITA (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LA GUAMITA (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "LA GUAMITA (Parque Nacional Sierra de Neyba) - Interior", "valor": 10},
+      {"nombre": "LAS LECHUZAS O LOS MORALES (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "LAS LECHUZAS O LOS MORALES (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "LAS LECHUZAS O LOS MORALES (Parque Nacional Sierra de Neyba) - Interior", "valor": 10},
+      {"nombre": "AGUITA PRIETA (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "AGUITA PRIETA (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "AGUITA PRIETA (Parque Nacional Sierra de Neyba) - Interior", "valor": 10},
+      {"nombre": "TASAJERA DEL CHIVO (Parque Nacional Sierra de Neyba)", "valor": null},
+      {"nombre": "TASAJERA DEL CHIVO (Parque Nacional Sierra de Neyba) - Con frente a la carretera", "valor": 15},
+      {"nombre": "TASAJERA DEL CHIVO (Parque Nacional Sierra de Neyba) - Interior", "valor": 10}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Postrer Rio",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "RAIZ PICADA (Distrito Guayabal)",
+    "parajes": [
+      {"nombre": "RAIZ PICADA", "valor": null},
+      {"nombre": "RAIZ PICADA - Con frente a la carretera", "valor": 15},
+      {"nombre": "RAIZ PICADA - Interior", "valor": 10},
+      {"nombre": "LOS CARRAOS", "valor": null},
+      {"nombre": "LOS CARRAOS - Con frente a la carretera", "valor": 10},
+      {"nombre": "LOS CARRAOS - Interior", "valor": 5},
+      {"nombre": "GREGORIO", "valor": null},
+      {"nombre": "GREGORIO - Con frente a la carretera", "valor": 10},
+      {"nombre": "GREGORIO - Interior", "valor": 5}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Postrer Rio",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "GUAYABAL (Distrito Guayabal)",
+    "parajes": [
+      {"nombre": "GUAYABAL", "valor": null},
+      {"nombre": "GUAYABAL - Con frente a la carretera", "valor": 35},
+      {"nombre": "GUAYABAL - Interior", "valor": 20},
+      {"nombre": "PIE CADENCIA", "valor": null},
+      {"nombre": "PIE CADENCIA - Con frente a la carretera", "valor": 10},
+      {"nombre": "PIE CADENCIA - Interior", "valor": 5}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Cristobal",
+    "zona": "Urbana",
+    "codigo": "005",
+    "sector": "CRISTOBAL",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Centro del Pueblo", "valor": 1500},
+      {"nombre": "Viejo", "valor": 1100},
+      {"nombre": "El Cedro", "valor": 800},
+      {"nombre": "Los Parceleros o Nuevo", "valor": 1100},
+      {"nombre": "Villa Progreso I", "valor": 800}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Cristobal",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL BATEY 8",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Batey 8", "valor": 600},
+      {"nombre": "El Plan", "valor": 500},
+      {"nombre": "Visión Mundial", "valor": 500},
+      {"nombre": "Villa Progreso I", "valor": 500}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Cristobal",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "BATEY 7 (Distrito Batey 8)",
+    "parajes": [
+      {"nombre": "BATEY 7 (POBLADO)", "valor": 400},
+      {"nombre": "BATEY 7 (POBLADO) - Con frente a la carretera", "valor": 45},
+      {"nombre": "BATEY 7 (POBLADO) - Interior", "valor": null},
+      {"nombre": "BATEICITO", "valor": null},
+      {"nombre": "BATEICITO - Con frente a la carretera", "valor": 45},
+      {"nombre": "BATEICITO - Interior", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Cristobal",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "BATEY 9 (Distrito Batey 8)",
+    "parajes": [
+      {"nombre": "BATEY 9 (POBLADO)", "valor": 500},
+      {"nombre": "BATEY 9 (POBLADO) - Con frente a la carretera", "valor": 45},
+      {"nombre": "BATEY 9 (POBLADO) - Interior", "valor": null},
+      {"nombre": "BATEY 10", "valor": null},
+      {"nombre": "BATEY 10 - Con frente a la carretera", "valor": 45},
+      {"nombre": "BATEY 10 - Interior", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Mella",
+    "zona": "Urbana",
+    "codigo": "006",
+    "sector": "MELLA",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Pueblo Nuevo (Las Flores Centro del Pueblo)", "valor": 2000},
+      {"nombre": "Sector Nuevo", "valor": 2000},
+      {"nombre": "Los Multis (Villa progreso)", "valor": 2000},
+      {"nombre": "Q de Arriba (Placer Bonito)", "valor": 1000},
+      {"nombre": "Q de Abajo", "valor": 1000},
+      {"nombre": "El Barrio", "valor": 700},
+      {"nombre": "Los Pasos", "valor": 700}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Mella",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "ANGOSTURA",
+    "parajes": [
+      {"nombre": "ANGOSTURA (Parque Nacional Sierra de Bahoruco y La Gran Sabana)", "valor": 750},
+      {"nombre": "ANGOSTURA (Parque Nacional Sierra de Bahoruco y La Gran Sabana) - Con frente a la carretera", "valor": 30},
+      {"nombre": "ANGOSTURA (Parque Nacional Sierra de Bahoruco y La Gran Sabana) - Interior", "valor": 20},
+      {"nombre": "BERBESI (Parque Nacional Sierra de Bahoruco y La Gran Sabana)", "valor": null},
+      {"nombre": "BERBESI (Parque Nacional Sierra de Bahoruco y La Gran Sabana) - Con frente a la carretera", "valor": 30},
+      {"nombre": "BERBESI (Parque Nacional Sierra de Bahoruco y La Gran Sabana) - Interior", "valor": 20},
+      {"nombre": "CHARABISCAL (Parque Nacional Sierra de Bahoruco)", "valor": null},
+      {"nombre": "CHARABISCAL (Parque Nacional Sierra de Bahoruco) - Con frente a la carretera", "valor": 15},
+      {"nombre": "CHARABISCAL (Parque Nacional Sierra de Bahoruco) - Interior", "valor": 10},
+      {"nombre": "PROYECTO AGRARIO A-C 151 (Parque Nacional Sierra de Bahoruco)", "valor": null},
+      {"nombre": "PROYECTO AGRARIO A-C 151 (Parque Nacional Sierra de Bahoruco) - Con frente a la carretera", "valor": 50},
+      {"nombre": "PROYECTO AGRARIO A-C 151 (Parque Nacional Sierra de Bahoruco) - Interior", "valor": 20},
+      {"nombre": "CHARCO LARGO (Parque Nacional Sierra de Bahoruco)", "valor": null},
+      {"nombre": "CHARCO LARGO (Parque Nacional Sierra de Bahoruco) - Con frente a la carretera", "valor": 15},
+      {"nombre": "CHARCO LARGO (Parque Nacional Sierra de Bahoruco) - Interior", "valor": 10},
+      {"nombre": "CACHON (Parque Nacional Sierra de Bahoruco)", "valor": null},
+      {"nombre": "CACHON (Parque Nacional Sierra de Bahoruco) - Con frente a la carretera", "valor": 15},
+      {"nombre": "CACHON (Parque Nacional Sierra de Bahoruco) - Interior", "valor": 10},
+      {"nombre": "LOS PASOS DE MELLA (Parque Nacional Sabana Grande)", "valor": null},
+      {"nombre": "LOS PASOS DE MELLA (Parque Nacional Sabana Grande) - Con frente a la carretera", "valor": 15},
+      {"nombre": "LOS PASOS DE MELLA (Parque Nacional Sabana Grande) - Interior", "valor": 10},
+      {"nombre": "EL FLACO (Parque Nacional Sierra de Bahoruco)", "valor": null},
+      {"nombre": "EL FLACO (Parque Nacional Sierra de Bahoruco) - Con frente a la carretera", "valor": 15},
+      {"nombre": "EL FLACO (Parque Nacional Sierra de Bahoruco) - Interior", "valor": 10},
+      {"nombre": "MONTE PALMA (Parque Nacional Sierra de Bahoruco)", "valor": null},
+      {"nombre": "MONTE PALMA (Parque Nacional Sierra de Bahoruco) - Con frente a la carretera", "valor": 15},
+      {"nombre": "MONTE PALMA (Parque Nacional Sierra de Bahoruco) - Interior", "valor": 10}
+    ]
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Mella",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL LA COLONIA",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Colonia Mixta", "valor": 1300},
+      {"nombre": "Japón", "valor": 1000}
+    ],
+    "vias_principales": []
+  },
+  {
+    "provincia": "Independencia",
+    "municipio": "Mella",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "COLONIA JAPON (Distrito La Colonia)",
+    "parajes": [
+      {"nombre": "COLONIA JAPON", "valor": null},
+      {"nombre": "COLONIA JAPON - Con frente a la carretera", "valor": 20},
+      {"nombre": "COLONIA JAPON - Interior", "valor": 15},
+      {"nombre": "EL JAPON (Parque Nacional La Gran Sabana y Lago Enriquillo)", "valor": null},
+      {"nombre": "EL JAPON (Parque Nacional La Gran Sabana y Lago Enriquillo) - Con frente a la carretera", "valor": 20},
+      {"nombre": "EL JAPON (Parque Nacional La Gran Sabana y Lago Enriquillo) - Interior", "valor": 15},
+      {"nombre": "PALMAR DULCE (Parte del Lago Enriquillo)", "valor": null},
+      {"nombre": "PALMAR DULCE (Parte del Lago Enriquillo) - Con frente a la carretera", "valor": 20},
+      {"nombre": "PALMAR DULCE (Parte del Lago Enriquillo) - Interior", "valor": 15},
+      {"nombre": "EL ABANICO (Parque Nacional Sierra de Bahoruco y La Gran Sabana)", "valor": null},
+      {"nombre": "EL ABANICO (Parque Nacional Sierra de Bahoruco y La Gran Sabana) - Con frente a la carretera", "valor": 20},
+      {"nombre": "EL ABANICO (Parque Nacional Sierra de Bahoruco y La Gran Sabana) - Interior", "valor": 15}
+    ]
+  }
+]

@@ -1,0 +1,335 @@
+[
+  {
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "zona": "Urbana",
+    "codigo": "001",
+    "sector": "CENTRO CIUDAD",
+    "valor_promedio": 4500,
+    "subsectores": [],
+    "limites": {
+      "norte": "Calle Rosendo Pérez",
+      "este": "Calle Santo Domingo",
+      "sur": "Avenida Libertad, Avenida 27 de Febrero",
+      "oeste": "Calle Mella"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Libertad (desde avenida Duarte hasta calle Santo Domingo)", "valor": 5000},
+      {"nombre": "Calle Santo Domingo (desde avenida Libertad hasta calle Rosendo Pérez)", "valor": 5000},
+      {"nombre": "Avenida Duarte (desde avenida Libertad hasta calle Rosendo Pérez)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "zona": "Urbana",
+    "codigo": "002",
+    "sector": "MIRAMAR",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Bo. Inés", "valor": null},
+      {"nombre": "Villa del Mar (Playa)", "valor": null},
+      {"nombre": "Villa del Mar (Barrio)", "valor": null},
+      {"nombre": "Los Guayacanes (Playa)", "valor": null},
+      {"nombre": "Los Guayacanes (Barrio)", "valor": null},
+      {"nombre": "Juan López", "valor": null},
+      {"nombre": "Militar (Barrio)", "valor": null},
+      {"nombre": "Militar (Playa)", "valor": null},
+      {"nombre": "Villa Progreso (Los Mosquitos)", "valor": null},
+      {"nombre": "Nicolás Feliz (Playa)", "valor": null},
+      {"nombre": "Nicolás Feliz (Parte Sur)", "valor": null}
+    ],
+    "limites": {
+      "norte": "Avenida Libertad, avenida 27 de Febrero",
+      "este": "Cesfront",
+      "sur": "Mar Caribe",
+      "oeste": "Río Pedernales"
+    },
+    "vias_principales": [
+      {"nombre": "Av. 27 de Febrero (desde avenida Duarte hasta Dirección de Aduana)", "valor": 5000},
+      {"nombre": "Av. Libertad (desde avenida Duarte hasta Cesfront)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "zona": "Urbana",
+    "codigo": "003",
+    "sector": "LOS CAYUCOS",
+    "valor_promedio": 1300,
+    "subsectores": [
+      {"nombre": "Bo. Alcoa", "valor": 3000},
+      {"nombre": "Bo. Domingo Ortiz (Minguito Ortiz)", "valor": 3000},
+      {"nombre": "Bo. Las Flores", "valor": 2300},
+      {"nombre": "Savica", "valor": 3000},
+      {"nombre": "Bo. Verde", "valor": 2200},
+      {"nombre": "Campo de Aviación Viejo", "valor": 1900},
+      {"nombre": "Campo de Aviación Nuevo", "valor": 1900},
+      {"nombre": "Nicolás Feliz (Barrio)", "valor": 2200}
+    ],
+    "limites": {
+      "norte": "Avenida Duarte",
+      "este": "Frente Cesfront",
+      "sur": "Avenida Libertad",
+      "oeste": "Calle Santo Domingo"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida Libertad (desde calle Santo Domingo hasta CESFRONT)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "zona": "Urbana",
+    "codigo": "004",
+    "sector": "LOS COQUITOS",
+    "valor_promedio": 1300,
+    "subsectores": [
+      {"nombre": "José Francisco Peña Gómez", "valor": 1500},
+      {"nombre": "La Cuarenta", "valor": 1300},
+      {"nombre": "Cabo Muelle", "valor": 1300},
+      {"nombre": "Víctor Cheche", "valor": 1300},
+      {"nombre": "Bo. Nuevo Amanecer", "valor": 1300},
+      {"nombre": "La Mina", "valor": 750},
+      {"nombre": "Los Robles", "valor": 1500}
+    ],
+    "limites": {
+      "norte": "Avenida Duarte hasta Rio Pedernales",
+      "este": "Avenida Duarte",
+      "sur": "Calle 27 de Febrero",
+      "oeste": "Calle Santo Domingo"
+    },
+    "vias_principales": [
+      {"nombre": "Avenida 27 de Febrero (desde avenida Duarte hasta Chequeo Fronterizo)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "CABO ROJO",
+    "parajes": [
+      {"nombre": "CABO ROJO PARTE (PLAYA)", "valor": 3400},
+      {"nombre": "CABO ROJO", "valor": 1000},
+      {"nombre": "LA CUEVA PARTE (PARQUE JARAGUA)", "valor": null},
+      {"nombre": "ISLA BEATA (PARQUE JARAGUA)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Pedernales",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LAS MERCEDES (MINAS)",
+    "parajes": [
+      {"nombre": "LAS MERCEDES (MINAS) PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 40},
+      {"nombre": "LAS MERCEDES (MINAS) PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 25},
+      {"nombre": "EL YAGAL (CAMPO AMOR) - Con frente a la carretera", "valor": 40},
+      {"nombre": "EL YAGAL (CAMPO AMOR) - Interior", "valor": 25},
+      {"nombre": "SUMBU - Con frente a la carretera", "valor": 40},
+      {"nombre": "SUMBU - Interior", "valor": 25},
+      {"nombre": "TORO ARRIBA (SITIO QUEMAO) - Con frente a la carretera", "valor": 40},
+      {"nombre": "TORO ARRIBA (SITIO QUEMAO) - Interior", "valor": 25},
+      {"nombre": "SITIO NUEVO - Con frente a la carretera", "valor": 40},
+      {"nombre": "SITIO NUEVO - Interior", "valor": 25},
+      {"nombre": "EL MOGOTE PARQUE NACIONAL SIERRA DE BAORUCO - Con frente a la carretera", "valor": 40},
+      {"nombre": "EL MOGOTE PARQUE NACIONAL SIERRA DE BAORUCO - Interior", "valor": 25},
+      {"nombre": "OLIVAR PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 40},
+      {"nombre": "OLIVAR PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 25},
+      {"nombre": "JURUNGO PARQUE NACIONAL SIERRA DE BAORUCO - Con frente a la carretera", "valor": 40},
+      {"nombre": "JURUNGO PARQUE NACIONAL SIERRA DE BAORUCO - Interior", "valor": 25},
+      {"nombre": "PASUCENA (PASO DE SENA) - Con frente a la carretera", "valor": 40},
+      {"nombre": "PASUCENA (PASO DE SENA) - Interior", "valor": 25}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "José Francisco Peña Gómez",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL JOSE FRANCISCO PEÑA GOMEZ (PARQUE NACIONAL)",
+    "subsectores": [
+      {"nombre": "CENTRO DEL PUEBLO O LA ALTAGRACIA", "valor": 300},
+      {"nombre": "JARRO SUCIO", "valor": 200},
+      {"nombre": "CANTA LA RANA", "valor": 200},
+      {"nombre": "BELLA VISTA PARTE PERTENECE AL PARQUE NACIONAL", "valor": 200},
+      {"nombre": "LA CANOA PARTE PERTENECE AL PARQUE NACIONAL", "valor": 200},
+      {"nombre": "SAN ISIDRO PARTE PERTENECE AL PARQUE NACIONAL", "valor": 200}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "José Francisco Peña Gómez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "AGUAS NEGRAS",
+    "parajes": [
+      {"nombre": "AGUAS NEGRAS PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 60},
+      {"nombre": "AGUAS NEGRAS PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 50},
+      {"nombre": "MANACLE - Con frente a la carretera", "valor": 60},
+      {"nombre": "MANACLE - Interior", "valor": 50},
+      {"nombre": "ABILA - Con frente a la carretera", "valor": 60},
+      {"nombre": "ABILA - Interior", "valor": 50},
+      {"nombre": "EL MANGUITO - Con frente a la carretera", "valor": 60},
+      {"nombre": "EL MANGUITO - Interior", "valor": 50},
+      {"nombre": "LOS ACORALES - Con frente a la carretera", "valor": 60},
+      {"nombre": "LOS ACORALES - Interior", "valor": 50},
+      {"nombre": "HIGO GRANDE - Con frente a la carretera", "valor": 60},
+      {"nombre": "HIGO GRANDE - Interior", "valor": 50},
+      {"nombre": "DERUMBAO - Con frente a carretera", "valor": 60},
+      {"nombre": "DERUMBAO - Interior", "valor": 50},
+      {"nombre": "LA ROSA (PARTE) - Con frente a carretera", "valor": 60},
+      {"nombre": "LA ROSA (PARTE) - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "José Francisco Peña Gómez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "MENCIA (LA COLONIA)",
+    "parajes": [
+      {"nombre": "MENCIA, LA COLONIA (POBLADO)", "valor": 150},
+      {"nombre": "BANANO DOMINICANO - Con frente a la carretera", "valor": 60},
+      {"nombre": "BANANO DOMINICANO - Interior", "valor": 50},
+      {"nombre": "CABEZA DE AGUA - Con frente a la carretera", "valor": 60},
+      {"nombre": "CABEZA DE AGUA - Interior", "valor": 50},
+      {"nombre": "DON JUAN - Con frente a la carretera", "valor": 60},
+      {"nombre": "DON JUAN - Interior", "valor": 50},
+      {"nombre": "CABO DUARTE - Con frente a la carretera", "valor": 60},
+      {"nombre": "CABO DUARTE - Interior", "valor": 50},
+      {"nombre": "LA MANIGUA (AGRICOLA) - Con frente a la carretera", "valor": 60},
+      {"nombre": "LA MANIGUA (AGRICOLA) - Interior", "valor": 50},
+      {"nombre": "EL BAMBU (AGRICOLA) - Con frente a la carretera", "valor": 60},
+      {"nombre": "EL BAMBU (AGRICOLA) - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "José Francisco Peña Gómez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS ARROYOS",
+    "parajes": [
+      {"nombre": "LOS ARROYOS (AGRICOLA) - Con frente a la carretera", "valor": 60},
+      {"nombre": "LOS ARROYOS (AGRICOLA) - Interior", "valor": 50},
+      {"nombre": "BOCA DE TANJON - Con frente a la carretera", "valor": 40},
+      {"nombre": "BOCA DE TANJON - Interior", "valor": 25},
+      {"nombre": "LA JOYA - Con frente a la carretera", "valor": 40},
+      {"nombre": "LA JOYA - Interior", "valor": 25},
+      {"nombre": "EL BAMBU - Con frente a la carretera", "valor": 40},
+      {"nombre": "EL BAMBU - Interior", "valor": 25},
+      {"nombre": "COLONIA LOS ARROYOS - Con frente a la carretera", "valor": 40},
+      {"nombre": "COLONIA LOS ARROYOS - Interior", "valor": 25}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "José Francisco Peña Gómez",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "AVILA",
+    "parajes": [
+      {"nombre": "LOS CORRALES - Con frente a la carretera", "valor": 40},
+      {"nombre": "LOS CORRALES - Interior", "valor": 25},
+      {"nombre": "EL MANGUITO - Con frente a carretera", "valor": 40},
+      {"nombre": "EL MANGUITO - Interior", "valor": 25},
+      {"nombre": "EL BAMBU - Con frente a carretera", "valor": 40},
+      {"nombre": "EL BAMBU - Interior", "valor": 25}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Oviedo",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "MUNICIPIO DE OVIEDO",
+    "subsectores": [
+      {"nombre": "CENTRO DEL PUEBLO", "valor": 1900},
+      {"nombre": "BO. NUEVO", "valor": 1500},
+      {"nombre": "LA POLICIA", "valor": 1500},
+      {"nombre": "PANGOLA", "valor": 1500},
+      {"nombre": "MACANUTILLO", "valor": 1500},
+      {"nombre": "POLVORIN O LAS FLORES", "valor": 1500},
+      {"nombre": "LAS PALMAS", "valor": 1500},
+      {"nombre": "VILLA PROGRESO", "valor": 1500},
+      {"nombre": "BO. LAS FLORES", "valor": 1500},
+      {"nombre": "BO. LA JUNTA", "valor": 1500}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Oviedo",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS TRES CHARCOS",
+    "parajes": [
+      {"nombre": "LOS TRES CHARCOS PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 60},
+      {"nombre": "LOS TRES CHARCOS PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 45},
+      {"nombre": "MANUEL GOYA PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 60},
+      {"nombre": "MANUEL GOYA PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 45},
+      {"nombre": "NUEVA ROSA - Con frente a la carretera", "valor": 60},
+      {"nombre": "NUEVA ROSA - Interior", "valor": 45},
+      {"nombre": "EL TOCON O FOGON DE PERROS - Con frente a la carretera", "valor": 60},
+      {"nombre": "EL TOCON O FOGON DE PERROS - Interior", "valor": 45},
+      {"nombre": "PALO EL NUMERO - Con frente a la carretera", "valor": 60},
+      {"nombre": "PALO EL NUMERO - Interior", "valor": 45},
+      {"nombre": "PORVENIR PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 60},
+      {"nombre": "PORVENIR PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 45},
+      {"nombre": "TIERRA COLORADA - Con frente a la carretera", "valor": 60},
+      {"nombre": "TIERRA COLORADA - Interior", "valor": 45},
+      {"nombre": "VILLA PROGRESO - Con frente a la carretera", "valor": 60},
+      {"nombre": "VILLA PROGRESO - Interior", "valor": 45}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Juancho",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "DISTRITO MUNICIPAL JUANCHO",
+    "subsectores": [
+      {"nombre": "CENTRO DEL POBLADO", "valor": 1500},
+      {"nombre": "LAS PALMAS", "valor": 1500},
+      {"nombre": "BO. LINDO", "valor": 1500},
+      {"nombre": "BO. NUEVO", "valor": 1500},
+      {"nombre": "LAS MALVINAS", "valor": 1500},
+      {"nombre": "BO. BELEN", "valor": 1000},
+      {"nombre": "VILLA PROGRESO (LOS MULTIS)", "valor": 1000},
+      {"nombre": "COLOMBIA", "valor": 1000}
+    ]
+  },
+  {
+    "provincia": "Pedernales",
+    "municipio": "Juancho",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA COLONIA VILLA ESPERANZA",
+    "parajes": [
+      {"nombre": "CENTRO DEL POBLADO", "valor": 1500},
+      {"nombre": "CENTRO DEL POBLADO - Con frente a la carretera", "valor": 20},
+      {"nombre": "CENTRO DEL POBLADO - Interior", "valor": 15},
+      {"nombre": "EL BUCARAL - Con frente a la carretera", "valor": 20},
+      {"nombre": "EL BUCARAL - Interior", "valor": 15},
+      {"nombre": "MACANDELA - Con frente a la carretera", "valor": 20},
+      {"nombre": "MACANDELA - Interior", "valor": 15},
+      {"nombre": "MAMBI - Con frente a la carretera", "valor": 20},
+      {"nombre": "MAMBI - Interior", "valor": 15},
+      {"nombre": "GROMA - Con frente a la carretera", "valor": 20},
+      {"nombre": "GROMA - Interior", "valor": 15},
+      {"nombre": "CHARCO BLANCO - Con frente a la carretera", "valor": 20},
+      {"nombre": "CHARCO BLANCO - Interior", "valor": 15},
+      {"nombre": "MAPIORO - Con frente a la carretera", "valor": 20},
+      {"nombre": "MAPIORO - Interior", "valor": 15},
+      {"nombre": "EL CAJUIL PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 20},
+      {"nombre": "EL CAJUIL PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 15},
+      {"nombre": "PAYANO PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 20},
+      {"nombre": "PAYANO PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 15},
+      {"nombre": "ARROYO SALADO PARTE PERTENECE AL PARQUE NACIONAL - Con frente a la carretera", "valor": 20},
+      {"nombre": "ARROYO SALADO PARTE PERTENECE AL PARQUE NACIONAL - Interior", "valor": 15},
+      {"nombre": "PEDRO MOTA - Con frente a la carretera", "valor": 20},
+      {"nombre": "PEDRO MOTA - Interior", "valor": 15}
+    ]
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "PEDRO BRAND (URBANO)",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Bo. AZUL", "valor": 1500},
+      {"nombre": "Bo. MEJORAMIENTO SOCIAL", "valor": 1125},
+      {"nombre": "RES. MAREIN", "valor": 1875},
+      {"nombre": "PARQUE INDUSTRIAL INCA", "valor": 1875},
+      {"nombre": "RES. PARQUE DEL SOL", "valor": 1500},
+      {"nombre": "Bo. EDUARDO BRITO I", "valor": 1125},
+      {"nombre": "Bo. EDUARDO BRITO II", "valor": 900},
+      {"nombre": "RES. FLOR DE LIZ I, II", "valor": 1125},
+      {"nombre": "RES. FLOR DE LOTO", "valor": 1500},
+      {"nombre": "Bo. BELLA VISTA", "valor": 1125},
+      {"nombre": "Bo. PARAISO", "valor": 900},
+      {"nombre": "BO. LA ESPERANZA KM. 25", "valor": 1125},
+      {"nombre": "Bo. LAS MERCEDES I KM. 25", "valor": 1125},
+      {"nombre": "BO. BRISA DE PEDRO BRAND", "valor": 1500},
+      {"nombre": "Bo. SALOME UREÑA", "valor": 1275},
+      {"nombre": "Bo. LA UNION I, II", "valor": 1350},
+      {"nombre": "KILOMETRO 28", "valor": 1125},
+      {"nombre": "LA AVENA", "valor": 1125},
+      {"nombre": "Bo. LOS COCOS KM.28", "valor": 1125},
+      {"nombre": "Bo. EL TANQUE", "valor": 900},
+      {"nombre": "OXIGENO DOMINICANO", "valor": 750},
+      {"nombre": "Bo. LA LOMITA KM. 28", "valor": 600},
+      {"nombre": "Bo. NUEVO DE LO CHINO", "valor": 675},
+      {"nombre": "Bo. LOS PABELLONES", "valor": 525},
+      {"nombre": "Bo. LOS CARTONES KM 29", "valor": 675},
+      {"nombre": "Bo. NUEVO", "valor": 1500},
+      {"nombre": "RES. PRADERA DE PEDRO BRAND", "valor": 1650},
+      {"nombre": "RES. SAN MIGUEL KM.27", "valor": 1500},
+      {"nombre": "RES. DON MANOLO", "valor": 1275},
+      {"nombre": "Bo. LAS ALCACIAS", "valor": 975},
+      {"nombre": "Bo. SEGNIR", "valor": 750},
+      {"nombre": "Bo. EL KILOMBRO", "valor": 600},
+      {"nombre": "Bo. LA NUEVA ESPERANZA KM.28", "valor": 600},
+      {"nombre": "Bo. PARAISITO", "valor": 900},
+      {"nombre": "Bo. ALTO DEL MADRIGAL", "valor": 1125}
+    ],
+    "vias_principales": [
+      {"nombre": "AUTOPISTA DUARTE - Desde el cruce Km.23 hasta la entrada del Vacacional Isabela", "valor": 3750},
+      {"nombre": "AUTOPISTA DUARTE - Desde la entrada Vacacional Isabela hasta Km. 40", "valor": 2250}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "COROZOS",
+    "parajes": [
+      {"nombre": "COROZOS - Con frente a la carretera", "valor": 80},
+      {"nombre": "COROZOS - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "EL CATALAN",
+    "parajes": [
+      {"nombre": "EL CATALAN - Con frente a la carretera", "valor": 80},
+      {"nombre": "EL CATALAN - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA MINA",
+    "parajes": [
+      {"nombre": "LA MINA - Con frente a la carretera", "valor": 80},
+      {"nombre": "LA MINA - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA NIE",
+    "parajes": [
+      {"nombre": "LA NIE - Con frente a la carretera", "valor": 80},
+      {"nombre": "LA NIE - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "SAN MIGUEL",
+    "parajes": [
+      {"nombre": "SAN MIGUEL - Con frente a la carretera", "valor": 80},
+      {"nombre": "SAN MIGUEL - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "MATA IGLESIA",
+    "parajes": [
+      {"nombre": "MATA IGLESIA - Con frente a la carretera", "valor": 80},
+      {"nombre": "MATA IGLESIA - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "PIEDRA GORDA",
+    "parajes": [
+      {"nombre": "PIEDRA GORDA - Con frente a la carretera", "valor": 80},
+      {"nombre": "PIEDRA GORDA - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA MONTOSA",
+    "parajes": [
+      {"nombre": "LA MONTOSA - Con frente a la carretera", "valor": 50},
+      {"nombre": "LA MONTOSA - Interior", "valor": 40}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "VACACIONAL ISABELA",
+    "parajes": [
+      {"nombre": "VACACIONAL ISABELA", "valor": 1500}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "VACACIONAL LOMA LINDA",
+    "parajes": [
+      {"nombre": "VACACIONAL LOMA LINDA", "valor": 1500}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LA POLONIA KM.32",
+    "parajes": [
+      {"nombre": "LA POLONIA KM.32 - Con frente a la carretera", "valor": 80},
+      {"nombre": "LA POLONIA KM.32 - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "EL PLATON",
+    "parajes": [
+      {"nombre": "EL PLATON - Con frente a la carretera", "valor": 80},
+      {"nombre": "EL PLATON - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "FRASQUITO GOMEZ",
+    "parajes": [
+      {"nombre": "FRASQUITO GOMEZ - Con frente a la carretera", "valor": 70},
+      {"nombre": "FRASQUITO GOMEZ - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "BATICANO",
+    "parajes": [
+      {"nombre": "BATICANO - Con frente a la carretera", "valor": 70},
+      {"nombre": "BATICANO - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "HATO VIEJO KM.32",
+    "parajes": [
+      {"nombre": "HATO VIEJO KM.32 - Con frente a la carretera", "valor": 70},
+      {"nombre": "HATO VIEJO KM.32 - Interior", "valor": 50}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "LA GUAYIGA (URBANO)",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "LA GUAYIGA CENTRO", "valor": 1500},
+      {"nombre": "Bo. LA PENCA KM. 20", "valor": 1275},
+      {"nombre": "RES. EL BRISAL I", "valor": 1125},
+      {"nombre": "Bo. LOS COQUITOS", "valor": 600},
+      {"nombre": "Bo. LA FLORES", "valor": 450},
+      {"nombre": "Bo. EL PROGRESO", "valor": 750},
+      {"nombre": "Bo. PARAISO", "valor": 1125},
+      {"nombre": "KM. 22", "valor": 1500},
+      {"nombre": "RES. CIUDAD SATELITE", "valor": 1875},
+      {"nombre": "Bo. PUERTO RICO", "valor": 450},
+      {"nombre": "Bo. SAN JOSE", "valor": 450},
+      {"nombre": "RES. LOS PALMARES I", "valor": 1125},
+      {"nombre": "RES. LOS PALMARES II, III", "valor": 975},
+      {"nombre": "RES. LOS MURA", "valor": 975},
+      {"nombre": "Bo. LA SABANA", "valor": 750},
+      {"nombre": "RES. BRISAL II, III", "valor": 750},
+      {"nombre": "Bo. CAYENA", "valor": 750},
+      {"nombre": "RES. PABLO MELLA MORALES", "valor": 2250}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "LOS GARCIAS (LA GUAYIGA RURAL)",
+    "parajes": [
+      {"nombre": "Carretera La Cuaba (Bomba Nativa hasta Merca Santo Domingo)", "valor": 3000},
+      {"nombre": "Carretera del Merca (Bomba Nativa hasta Merca Santo Domingo)", "valor": 3500},
+      {"nombre": "LOS GARCIAS - Con frente a la carretera", "valor": 80},
+      {"nombre": "LOS GARCIAS - Interior", "valor": 70},
+      {"nombre": "BATEY PALAMARA", "valor": 375},
+      {"nombre": "BATEY PALAMARA - Con frente a la carretera", "valor": 80},
+      {"nombre": "BATEY PALAMARA - Interior", "valor": 70},
+      {"nombre": "PARAISO - Con frente a la carretera", "valor": 80},
+      {"nombre": "PARAISO - Interior", "valor": 70},
+      {"nombre": "SECCION PEDREGAL - Con frente a la carretera", "valor": 80},
+      {"nombre": "PEDREGAL - Interior", "valor": 70},
+      {"nombre": "SECCION YACO - Con frente a la carretera", "valor": 80},
+      {"nombre": "YACO - Interior", "valor": 70},
+      {"nombre": "PROYECTO LOS GUARDIA - Con frente a la carretera", "valor": 80},
+      {"nombre": "PROYECTO LOS GUARDIA - Interior", "valor": 70}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "LA CUABA (URBANO)",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "LA CUABA CENTRO", "valor": 675},
+      {"nombre": "Bo. PICA PICA", "valor": 375},
+      {"nombre": "Bo. LAS HORMIGUITA", "valor": 375},
+      {"nombre": "Bo. SIN JABON", "valor": 375},
+      {"nombre": "Bo. LA VENEZUELA", "valor": 375},
+      {"nombre": "Bo. LA MALENA", "valor": 375},
+      {"nombre": "Bo. EL PLAY", "valor": 375},
+      {"nombre": "Bo. LA PIÑA", "valor": 375},
+      {"nombre": "Bo. SALAMANCA", "valor": 375},
+      {"nombre": "Bo. LOS PATA ROJAS", "valor": 375},
+      {"nombre": "VACACIONAL MATUA", "valor": 1200}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "AGUACATE (LA CUABA RURAL)",
+    "parajes": [
+      {"nombre": "AGUACATE - Con frente a la carretera", "valor": 30},
+      {"nombre": "AGUACATE - Interior", "valor": 30},
+      {"nombre": "SALAMANCA - Con frente a la carretera", "valor": 30},
+      {"nombre": "SALAMANCA - Interior", "valor": 30},
+      {"nombre": "ARROYO INDIO - Con frente a la carretera", "valor": 30},
+      {"nombre": "ARROYO INDIO - Interior", "valor": 30},
+      {"nombre": "LA PIÑA - Con frente a la carretera", "valor": 30},
+      {"nombre": "LA PIÑA - Interior", "valor": 30},
+      {"nombre": "ESPERANZA - Con frente a la carretera", "valor": 30},
+      {"nombre": "ESPERANZA - Interior", "valor": 30},
+      {"nombre": "PILONES - Con frente a la carretera", "valor": 30},
+      {"nombre": "PILONES - Interior", "valor": 30},
+      {"nombre": "SECCION LA ESTANCIAS - Con frente a la carretera", "valor": 30},
+      {"nombre": "LA ESTANCIAS - Interior", "valor": 30},
+      {"nombre": "EL CONVENTO - Con frente a la carretera", "valor": 30},
+      {"nombre": "EL CONVENTO - Interior", "valor": 30},
+      {"nombre": "LA MALENA - Con frente a la carretera", "valor": 30},
+      {"nombre": "LA MALENA - Interior", "valor": 30},
+      {"nombre": "LA ESTANCIA - Con frente a la carretera", "valor": 30},
+      {"nombre": "LA ESTANCIA - Interior", "valor": 30},
+      {"nombre": "SABANA AL MEDIO - Con frente a la carretera", "valor": 30},
+      {"nombre": "SABANA AL MEDIO - Interior", "valor": 30},
+      {"nombre": "LOS JOBOS DE MATUAS - Con frente a la carretera", "valor": 30},
+      {"nombre": "LOS JOBOS DE MATUAS - Interior", "valor": 30}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Pedro Brand",
+    "zona": "Rural",
+    "codigo": null,
+    "seccion": "HIGUAMO (continuación zona rural)",
+    "parajes": [
+      {"nombre": "HIGUAMO - Con frente a la carretera", "valor": 40},
+      {"nombre": "HIGUAMO - Interior", "valor": 30},
+      {"nombre": "SUARDI - Con frente a la carretera", "valor": 40},
+      {"nombre": "SUARDI - Interior", "valor": 30},
+      {"nombre": "HOJAS ANCHA - Con frente a la carretera", "valor": 40},
+      {"nombre": "HOJAS ANCHA - Interior", "valor": 30},
+      {"nombre": "BELICO - Con frente a la carretera", "valor": 40},
+      {"nombre": "BELICO - Interior", "valor": 30},
+      {"nombre": "SECCION EL LIMON - Con frente a la carretera", "valor": 40},
+      {"nombre": "EL LIMON - Interior", "valor": 30},
+      {"nombre": "LA ISABELA ARRIBA - Con frente a la carretera", "valor": 40},
+      {"nombre": "LA ISABELA ARRIBA - Interior", "valor": 30},
+      {"nombre": "BANADERO - Con frente a la carretera", "valor": 40},
+      {"nombre": "BANADERO - Interior", "valor": 30},
+      {"nombre": "EL CACHON - Con frente a la carretera", "valor": 40},
+      {"nombre": "EL CACHON - Interior", "valor": 30},
+      {"nombre": "LOS GENAROS - Con frente a la carretera", "valor": 40},
+      {"nombre": "LOS GENAROS - Interior", "valor": 30},
+      {"nombre": "SABANA MINA - Con frente a la carretera", "valor": 40},
+      {"nombre": "SABANA MINA - Interior", "valor": 30},
+      {"nombre": "EL CACHIMBO - Con frente a la carretera", "valor": 40},
+      {"nombre": "EL CACHIMBO - Interior", "valor": 30},
+      {"nombre": "MALA VUELTA - Con frente a la carretera", "valor": 40},
+      {"nombre": "MALA VUELTA - Interior", "valor": 30},
+      {"nombre": "VICTORIANO - Con frente a la carretera", "valor": 40},
+      {"nombre": "VICTORIANO - Interior", "valor": 30},
+      {"nombre": "ARROYO MINA - Con frente a la carretera", "valor": 40},
+      {"nombre": "ARROYO MINA - Interior", "valor": 30},
+      {"nombre": "LOMA DE GALAN - Con frente a la carretera", "valor": 40},
+      {"nombre": "LOMA DE GALAN - Interior", "valor": 30},
+      {"nombre": "LA MALENITA - Con frente a la carretera", "valor": 40},
+      {"nombre": "LA MALENITA - Interior", "valor": 30},
+      {"nombre": "LA MALENA - Con frente a la carretera", "valor": 40},
+      {"nombre": "LA MALENA - Interior", "valor": 30}
+    ]
+  }
+]

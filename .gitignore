@@ -1,0 +1,41 @@
+# Secrets — NUNCA subir al repo
+.env
+.env.local
+.env.production
+.env.*.local
+
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Build outputs
+dist/
+.next/
+out/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Root clutter
+/*.txt
+
+# Docker volumes
+postgres_data/
+
+# IDE
+.vscode/
+.idea/
+
+# Compressed data
+*.rar
+*.zip
+JSON.rar
+
+# Ensure master geocoded data is included
+!backend/data/master-seed-geocoded.json

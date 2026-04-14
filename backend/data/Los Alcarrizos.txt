@@ -1,0 +1,237 @@
+[
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": "32-05-001",
+    "sector": "SAVICA",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Urb. Las Mercedes", "valor": 2000},
+      {"nombre": "Bo. Las Mercedes 2da", "valor": 2000},
+      {"nombre": "Bo. Valle Encantado", "valor": 1500},
+      {"nombre": "Bo. Canaán", "valor": 1200},
+      {"nombre": "Bo. 24 de Abril", "valor": 2000},
+      {"nombre": "Bo. El Paraíso", "valor": 2000},
+      {"nombre": "Residencial Prado Hermoso", "valor": 1500},
+      {"nombre": "Bo. La Yuca", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Calle Duarte",
+      "este": "Autopista Duarte",
+      "sur": "Calle Primera",
+      "oeste": "Calle 22 (Puente Blanco)"
+    },
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (desde la Entrada hasta la Calle 22 (El Puente Blanco))", "valor": 4000},
+      {"nombre": "AUTOPISTA DUARTE (desde Calle 1ra hasta la Entrada de Los Alcarrizos)", "valor": null},
+      {"nombre": "AUTOPISTA DUARTE (desde Kilómetro 14 al Kilómetro 16)", "valor": null}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": "32-05-002",
+    "sector": "LOS AMERICANOS",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Bo. Gran Poder de Dios", "valor": 1000},
+      {"nombre": "Bo. Villa San Felipe", "valor": 1500},
+      {"nombre": "Bo. La Piña", "valor": 600},
+      {"nombre": "Bo. Los Americanos", "valor": 2000},
+      {"nombre": "Bo. Los Americanos (Ángeles)", "valor": 2000},
+      {"nombre": "Bo. Canta La Rana (Bo. Landia)", "valor": 2000},
+      {"nombre": "Bo. Los Patos", "valor": 1500},
+      {"nombre": "Bo. Villa Colina", "valor": 1500},
+      {"nombre": "Bo. Los Libertadores", "valor": 2000},
+      {"nombre": "Bo. Juana Saltitopa Los Productores", "valor": null}
+    ],
+    "limites": {
+      "norte": "Calle Duarte",
+      "este": "Calle 22 (Puente Blanco)",
+      "sur": "Carretera de Hato Nuevo",
+      "oeste": "Carretera Hato Nuevo"
+    },
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (desde la Calle 22 (Puente Blanco) hasta Carretera de Hato Nuevo)", "valor": 3700}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": "32-05-003",
+    "sector": "PUEBLO NUEVO",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Las Malvinas", "valor": null},
+      {"nombre": "Bo. Nuevo Horizonte", "valor": null},
+      {"nombre": "Bo. Nazareno", "valor": null},
+      {"nombre": "Res. Los Cerros", "valor": null},
+      {"nombre": "Bo. Puerto Rico", "valor": null},
+      {"nombre": "Bo. La Gloria", "valor": null},
+      {"nombre": "Bo. Arenoso", "valor": null},
+      {"nombre": "Bo. San Rafael", "valor": null},
+      {"nombre": "Bo. Alcarrizos Viejo", "valor": null},
+      {"nombre": "Bo. Guachupita", "valor": null},
+      {"nombre": "Bo. Nuevo Amanecer", "valor": null},
+      {"nombre": "Bo. El 18", "valor": null}
+    ],
+    "limites": {
+      "norte": "Autopista Duarte y Arroyo Lebrón",
+      "este": "Autopista Duarte",
+      "sur": "Calle Duarte",
+      "oeste": "Calle Puente Blanco"
+    },
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (desde la Entrada hasta la Calle Puente Blanco)", "valor": 4000},
+      {"nombre": "AUTOPISTA DUARTE (desde Calle 1ra hasta la Entrada de Los Alcarrizos)", "valor": 4000},
+      {"nombre": "CALLE SAN ANTONIO", "valor": 4000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": "32-05-004",
+    "sector": "INVI",
+    "valor_promedio": 2000,
+    "subsectores": [
+      {"nombre": "Bo. La Fe", "valor": 1500},
+      {"nombre": "Bo. Chavón", "valor": 1500},
+      {"nombre": "Bo. Los Barrancones", "valor": 1500},
+      {"nombre": "Bo. Lebrón", "valor": 1000},
+      {"nombre": "Bo. Lebroncito", "valor": 700},
+      {"nombre": "Bo. La Torre", "valor": 1500},
+      {"nombre": "Bo. La Compuerta", "valor": 2000},
+      {"nombre": "Bo. Los Coquitos", "valor": 1000},
+      {"nombre": "Bo. Los Cocos", "valor": 700},
+      {"nombre": "Bo. Kilómetro 18", "valor": 1500},
+      {"nombre": "Bo. Santa Rosa", "valor": 2000},
+      {"nombre": "Bo. San Miguel", "valor": 1500},
+      {"nombre": "Obras Publicas", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Arroyo Lebrón",
+      "este": "Calle Puente Blanco",
+      "sur": "Calle Duarte",
+      "oeste": "Carretera Hato Nuevo"
+    },
+    "vias_principales": [
+      {"nombre": "CALLE DUARTE (desde Calle Puente Blanco hasta Carretera de Hato Nuevo)", "valor": 3500}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": "32-05-005",
+    "sector": "HATO NUEVO",
+    "valor_promedio": null,
+    "subsectores": [
+      {"nombre": "Bo. Villa Linda", "valor": 2000},
+      {"nombre": "Zona Franca de Los Alcarrizos", "valor": 1500},
+      {"nombre": "Zona Franca de Hato Nuevo", "valor": 2500},
+      {"nombre": "Bo. Tamarindo", "valor": 2500},
+      {"nombre": "Bo. La Unión", "valor": 1500},
+      {"nombre": "Bo. Esperanza", "valor": 1500},
+      {"nombre": "Bo. Villa Progreso", "valor": 1000},
+      {"nombre": "Bo. Nuevo Amanecer", "valor": 1500}
+    ],
+    "limites": {
+      "norte": "Arroyo Lebrón",
+      "este": "Carretera Hato Nuevo",
+      "sur": "Carretera de Hato Nuevo",
+      "oeste": "Arroyo Lebrón"
+    }
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": "32-05-006",
+    "sector": "LOS HIDALGOS",
+    "valor_promedio": 3000,
+    "subsectores": [
+      {"nombre": "Residencial Alta Vista", "valor": 2500},
+      {"nombre": "Barrio El Chucho", "valor": 2000},
+      {"nombre": "Urbanización Madrigal", "valor": 2000}
+    ],
+    "limites": {
+      "norte": "Av. Nuevo Camino",
+      "este": "Autopista Duarte",
+      "sur": "Calle Primera",
+      "oeste": "Cañada Canaán"
+    }
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "JUNTA MUNICIPAL PALMAREJO-VILLA LINDA",
+    "subsectores": [
+      {"nombre": "Villa Linda I. II. III", "valor": 2500},
+      {"nombre": "Los Cocos", "valor": 1500},
+      {"nombre": "Villa Hermosa", "valor": 800},
+      {"nombre": "Urb. Cerimar", "valor": 2000},
+      {"nombre": "Bo. Palmarejito", "valor": 1500},
+      {"nombre": "Bo. La Esperanza", "valor": 1000},
+      {"nombre": "Bo. Cerinca", "valor": 2500},
+      {"nombre": "Bo. Alondra", "valor": 500},
+      {"nombre": "Res. Monserrat", "valor": 2000},
+      {"nombre": "Res. Santa Rosa I. Ii", "valor": 1500},
+      {"nombre": "Bo. Las Manos de Dios", "valor": 1000},
+      {"nombre": "Bo. Alondra Abajo", "valor": 500},
+      {"nombre": "Res. Santa Bárbara I", "valor": 1000},
+      {"nombre": "Res. Santa Bárbara II", "valor": 500},
+      {"nombre": "Batey Palmarejo I", "valor": 500},
+      {"nombre": "Villa Paraíso (Los Solares)", "valor": 500}
+    ],
+    "vias_principales": [
+      {"nombre": "AUTOPISTA DUARTE (del Km 16 hasta la Entrada de Mercasid)", "valor": 5000}
+    ]
+  },
+  {
+    "provincia": "Santo Domingo",
+    "municipio": "Los Alcarrizos",
+    "zona": "Urbana",
+    "codigo": null,
+    "sector": "JUNTA MUNICIPAL DE PANTOJA",
+    "subsectores": [
+      {"nombre": "Pantoja", "valor": 3000},
+      {"nombre": "Los Humildes", "valor": 700},
+      {"nombre": "Res. Prado De Pantoja", "valor": 3000},
+      {"nombre": "Res. Los Jardines De Pantoja", "valor": 3000},
+      {"nombre": "Don Gregorio I II III", "valor": 4000},
+      {"nombre": "Carmen Reneta I", "valor": 3500},
+      {"nombre": "Carmen Renata IY III", "valor": 3000},
+      {"nombre": "Res. Rosa América", "valor": 2500},
+      {"nombre": "Res. Brisas Del Norte", "valor": 2500},
+      {"nombre": "Res. Punta Arena", "valor": 3500},
+      {"nombre": "Bo. Villa El Palmar", "valor": 1500},
+      {"nombre": "Urb. Proyecto Invi-Cea", "valor": 2000},
+      {"nombre": "Bo. Villa Morada", "valor": 2000},
+      {"nombre": "Urb. Villa Pantoja", "valor": 2500},
+      {"nombre": "Bo. La Redención", "valor": 1500},
+      {"nombre": "Bo. LA 800", "valor": 800},
+      {"nombre": "Bo. Villa Duarte", "valor": 800},
+      {"nombre": "Bo. Platanito", "valor": 800},
+      {"nombre": "Bo. La Palmera", "valor": 1000},
+      {"nombre": "Bo. 23", "valor": 1000},
+      {"nombre": "Bo. Las Flores", "valor": 1000},
+      {"nombre": "Bo. Manantial de Lao", "valor": 1000},
+      {"nombre": "Res. Alan VI", "valor": 2500},
+      {"nombre": "Res. Villa Mariel", "valor": 2500},
+      {"nombre": "Bo. Paraíso", "valor": 1500},
+      {"nombre": "Res. Cerros Del Oeste", "valor": 2500},
+      {"nombre": "Bo. José Contreras", "valor": 2000},
+      {"nombre": "Reparto Samaría", "valor": 1500},
+      {"nombre": "Res. Don Miguel", "valor": 3000},
+      {"nombre": "Res. Colina Del Norte", "valor": 2500},
+      {"nombre": "Bo. El Fiuri", "valor": 800},
+      {"nombre": "Ba. Villa María", "valor": 800}
+    ]
+  }
+]
