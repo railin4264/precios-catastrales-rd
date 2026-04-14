@@ -273,12 +273,6 @@ export default function ResultCard({ item, idx }: { item: any; idx: number }) {
               <div className="flex items-baseline gap-2 mb-2">
                 <span className="text-xl font-black text-blue-400">RD$</span>
                 <motion.span 
-                  key={m2}
-                  initial={{ scale: 1.1, color: '#60a5fa' }}
-                  animate={{ scale: 1, color: '#ffffff' }}
-                  className="text-5xl md:text-6xl font-black tracking-tighter"
-                >
-                <motion.span 
                   key={`${m2}-${calcOverride?.price}`}
                   initial={{ scale: 1.1, color: '#60a5fa' }}
                   animate={{ scale: 1, color: '#ffffff' }}
