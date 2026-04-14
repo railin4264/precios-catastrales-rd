@@ -76,6 +76,7 @@ export default function ResultCard({ item, idx }: { item: any; idx: number }) {
   const [valuation, setValuation] = useState<any>(null);
   const [valLoading, setValLoading] = useState(false);
   const [coords, setCoords] = useState(() => getInitialCoords(item));
+  const [m2, setM2] = useState<number>(0);
 
   // Handle location update from map
   const handleLocationChange = (lat: number, lng: number) => {
@@ -214,6 +215,78 @@ export default function ResultCard({ item, idx }: { item: any; idx: number }) {
           >
             <Download size={18} /> Descargar Reporte PDF
           </button>
+        </div>
+
+        {/* CALCULATOR SECTION */}
+        <div className="mb-8 p-8 bg-slate-900 rounded-[2.5rem] text-white relative overflow-hidden shadow-2xl shadow-blue-900/20">
+          <div className="absolute top-0 right-0 w-64 h-64 bg-blue-500/10 rounded-full blur-3xl -mr-32 -mt-32"></div>
+          <div className="relative z-10 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
+            <div>
+              <div className="flex items-center gap-2 mb-4">
+                <div className="w-8 h-8 bg-blue-500 rounded-xl flex items-center justify-center">
+                   <HomeIcon size={16} className="text-white" />
+                </div>
+                <h4 className="text-sm font-black uppercase tracking-widest text-blue-400">Calculadora de Valor</h4>
+              </div>
+              <p className="text-slate-400 text-xs font-medium mb-6 leading-relaxed">
+                Introduce el área de tu propiedad para calcular una estimación de mercado basada en los valores de la zona.
+              </p>
+              
+              <div className="space-y-6">
+                <div>
+                  <div className="flex justify-between items-center mb-2">
+                    <label className="text-[10px] font-black uppercase tracking-widest text-slate-500">Superficie (m²)</label>
+                    <span className="text-xl font-black text-white">{m2.toLocaleString()} <span className="text-xs text-slate-500">m²</span></span>
+                  </div>
+                  <input 
+                    type="range" 
+                    min="0" 
+                    max="5000" 
+                    step="10"
+                    value={m2}
+                    onChange={(e) => setM2(Number(e.target.value))}
+                    className="w-full h-2 bg-slate-800 rounded-lg appearance-none cursor-pointer accent-blue-500"
+                  />
+                  <div className="flex justify-between mt-2 text-[9px] font-black text-slate-600 uppercase tracking-tighter">
+                    <span>0 m²</span>
+                    <span>2,500 m²</span>
+                    <span>5,000+ m²</span>
+                  </div>
+                </div>
+
+                <div className="relative group">
+                  <input 
+                    type="number" 
+                    placeholder="Cantidad exacta..."
+                    value={m2 || ''}
+                    onChange={(e) => setM2(Number(e.target.value))}
+                    className="w-full bg-slate-800/50 border border-slate-700/50 p-4 rounded-2xl outline-none focus:border-blue-500/50 transition font-bold text-white placeholder:text-slate-600 no-spinners"
+                  />
+                  <div className="absolute right-4 top-1/2 -translate-y-1/2 text-[10px] font-black text-slate-500 uppercase">Input Manual</div>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-white/5 border border-white/10 p-8 rounded-[2rem] backdrop-blur-sm flex flex-col items-center justify-center text-center">
+              <p className="text-[10px] font-black uppercase tracking-widest text-slate-400 mb-2">Valor Estimado Total</p>
+              <div className="flex items-baseline gap-2 mb-2">
+                <span className="text-xl font-black text-blue-400">RD$</span>
+                <motion.span 
+                  key={m2}
+                  initial={{ scale: 1.1, color: '#60a5fa' }}
+                  animate={{ scale: 1, color: '#ffffff' }}
+                  className="text-5xl md:text-6xl font-black tracking-tighter"
+                >
+                  {((valuation?.projectedValue || item.valorPromedio || 0) * m2).toLocaleString(undefined, { maximumFractionDigits: 0 })}
+                </motion.span>
+              </div>
+              <div className="px-4 py-1.5 bg-blue-500/10 border border-blue-500/20 rounded-full">
+                <p className="text-[10px] font-bold text-blue-300">
+                  Basado en: {valuation ? 'Valor Proyectado IA' : 'Valor Oficial'} (RD$ {(valuation?.projectedValue || item.valorPromedio || 0).toLocaleString()} / m²)
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
 
         <AnimatePresence>
